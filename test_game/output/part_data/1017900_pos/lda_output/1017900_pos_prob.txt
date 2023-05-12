@@ -1,0 +1,132 @@
+Probability of Topic 1 appearing in document 0 is 0.1118163730951881
+Probability of Topic 2 appearing in document 0 is 0.0857959083261212
+Probability of Topic 3 appearing in document 0 is 0.07752229312258312
+Probability of Topic 4 appearing in document 0 is 0.08063114703441619
+Probability of Topic 5 appearing in document 0 is 0.11110668613751319
+Probability of Topic 6 appearing in document 0 is 0.07482908307838483
+Probability of Topic 7 appearing in document 0 is 0.10717171258414078
+Probability of Topic 8 appearing in document 0 is 0.1110467507672952
+Probability of Topic 9 appearing in document 0 is 0.09871684129964385
+Probability of Topic 10 appearing in document 0 is 0.14136320455471377
+
+
+Probability of Topic 1 appearing in document 1 is 0.09457602993817041
+Probability of Topic 2 appearing in document 1 is 0.10686078934134577
+Probability of Topic 3 appearing in document 1 is 0.06598294923997637
+Probability of Topic 4 appearing in document 1 is 0.09332530297990967
+Probability of Topic 5 appearing in document 1 is 0.11106384652464188
+Probability of Topic 6 appearing in document 1 is 0.07348903921222176
+Probability of Topic 7 appearing in document 1 is 0.14638074085660935
+Probability of Topic 8 appearing in document 1 is 0.12697426412772286
+Probability of Topic 9 appearing in document 1 is 0.07010515276857489
+Probability of Topic 10 appearing in document 1 is 0.11124188501082731
+
+
+Probability of Topic 1 appearing in document 2 is 0.9797743994494925
+Probability of Topic 2 appearing in document 2 is 3.701803992610847E-5
+Probability of Topic 3 appearing in document 2 is 1.7650345462769233E-5
+Probability of Topic 4 appearing in document 2 is 9.079434308892176E-5
+Probability of Topic 5 appearing in document 2 is 6.497887155722115E-6
+Probability of Topic 6 appearing in document 2 is 0.005149981000388844
+Probability of Topic 7 appearing in document 2 is 3.2124762312174657E-4
+Probability of Topic 8 appearing in document 2 is 0.0034395968061245123
+Probability of Topic 9 appearing in document 2 is 0.0017565077863960729
+Probability of Topic 10 appearing in document 2 is 0.009406306718843066
+
+
+Probability of Topic 1 appearing in document 3 is 0.10964374148305221
+Probability of Topic 2 appearing in document 3 is 0.13414481633336553
+Probability of Topic 3 appearing in document 3 is 0.08445787738319016
+Probability of Topic 4 appearing in document 3 is 0.08982195963488541
+Probability of Topic 5 appearing in document 3 is 0.11912744514701978
+Probability of Topic 6 appearing in document 3 is 0.10147685658351038
+Probability of Topic 7 appearing in document 3 is 0.08984377906745247
+Probability of Topic 8 appearing in document 3 is 0.07405954451739523
+Probability of Topic 9 appearing in document 3 is 0.07356240253008926
+Probability of Topic 10 appearing in document 3 is 0.12386157732003962
+
+
+Probability of Topic 1 appearing in document 4 is 0.10725727331712492
+Probability of Topic 2 appearing in document 4 is 0.08372404428523135
+Probability of Topic 3 appearing in document 4 is 0.09134522602333145
+Probability of Topic 4 appearing in document 4 is 0.1036663433819769
+Probability of Topic 5 appearing in document 4 is 0.13226011315819122
+Probability of Topic 6 appearing in document 4 is 0.11389357825078963
+Probability of Topic 7 appearing in document 4 is 0.08966843316578824
+Probability of Topic 8 appearing in document 4 is 0.09779130953856954
+Probability of Topic 9 appearing in document 4 is 0.07730815568562423
+Probability of Topic 10 appearing in document 4 is 0.10308552319337265
+
+
+Probability of Topic 1 appearing in document 5 is 0.08951503311384133
+Probability of Topic 2 appearing in document 5 is 0.08395609532622715
+Probability of Topic 3 appearing in document 5 is 0.06810594531769644
+Probability of Topic 4 appearing in document 5 is 0.08877361114911567
+Probability of Topic 5 appearing in document 5 is 0.13665857058415098
+Probability of Topic 6 appearing in document 5 is 0.1292891854008785
+Probability of Topic 7 appearing in document 5 is 0.13482567170750812
+Probability of Topic 8 appearing in document 5 is 0.07660921587951526
+Probability of Topic 9 appearing in document 5 is 0.10500533084012692
+Probability of Topic 10 appearing in document 5 is 0.08726134068093964
+
+
+Probability of Topic 1 appearing in document 6 is 0.13958677922811524
+Probability of Topic 2 appearing in document 6 is 0.0899147372036547
+Probability of Topic 3 appearing in document 6 is 0.09472635160459765
+Probability of Topic 4 appearing in document 6 is 0.08722307904639122
+Probability of Topic 5 appearing in document 6 is 0.08848001054954689
+Probability of Topic 6 appearing in document 6 is 0.09223541828559413
+Probability of Topic 7 appearing in document 6 is 0.11693204150711194
+Probability of Topic 8 appearing in document 6 is 0.09602892265269708
+Probability of Topic 9 appearing in document 6 is 0.11152858017605748
+Probability of Topic 10 appearing in document 6 is 0.0833440797462336
+
+
+Probability of Topic 1 appearing in document 7 is 0.13075605386903277
+Probability of Topic 2 appearing in document 7 is 0.09048900311303201
+Probability of Topic 3 appearing in document 7 is 0.08816824284446811
+Probability of Topic 4 appearing in document 7 is 0.10429506686839839
+Probability of Topic 5 appearing in document 7 is 0.11042601604042292
+Probability of Topic 6 appearing in document 7 is 0.08600161842542656
+Probability of Topic 7 appearing in document 7 is 0.07302403937517436
+Probability of Topic 8 appearing in document 7 is 0.12324147436456902
+Probability of Topic 9 appearing in document 7 is 0.10293080518892653
+Probability of Topic 10 appearing in document 7 is 0.09066767991054918
+
+
+Probability of Topic 1 appearing in document 8 is 0.1220867374355524
+Probability of Topic 2 appearing in document 8 is 0.08423693741020521
+Probability of Topic 3 appearing in document 8 is 0.09075075915866987
+Probability of Topic 4 appearing in document 8 is 0.14073980179956122
+Probability of Topic 5 appearing in document 8 is 0.09476735278294926
+Probability of Topic 6 appearing in document 8 is 0.10434933612815016
+Probability of Topic 7 appearing in document 8 is 0.07636453261135709
+Probability of Topic 8 appearing in document 8 is 0.0917468584599639
+Probability of Topic 9 appearing in document 8 is 0.1168802771865724
+Probability of Topic 10 appearing in document 8 is 0.0780774070270185
+
+
+Probability of Topic 1 appearing in document 9 is 0.08924954657510513
+Probability of Topic 2 appearing in document 9 is 0.08960438895816615
+Probability of Topic 3 appearing in document 9 is 0.08621724681867303
+Probability of Topic 4 appearing in document 9 is 0.11182520653872334
+Probability of Topic 5 appearing in document 9 is 0.12661911373404772
+Probability of Topic 6 appearing in document 9 is 0.11738360204370497
+Probability of Topic 7 appearing in document 9 is 0.10223080940828808
+Probability of Topic 8 appearing in document 9 is 0.09761586806310814
+Probability of Topic 9 appearing in document 9 is 0.0656118740851583
+Probability of Topic 10 appearing in document 9 is 0.113642343775025
+
+
+Probability of Topic 1 appearing in document 10 is 0.14324343261323152
+Probability of Topic 2 appearing in document 10 is 0.12179316727795718
+Probability of Topic 3 appearing in document 10 is 0.08804200645276426
+Probability of Topic 4 appearing in document 10 is 0.08858367930812733
+Probability of Topic 5 appearing in document 10 is 0.11856987555354793
+Probability of Topic 6 appearing in document 10 is 0.08161073718985205
+Probability of Topic 7 appearing in document 10 is 0.07229831371664248
+Probability of Topic 8 appearing in document 10 is 0.07557324909789198
+Probability of Topic 9 appearing in document 10 is 0.11344508552091848
+Probability of Topic 10 appearing in document 10 is 0.09684045326906676
+
+

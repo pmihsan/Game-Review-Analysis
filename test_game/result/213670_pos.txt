@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.06045881317570966
+For topic 1 word park occurred at probability of 0.045745019716505485
+For topic 1 word like occurred at probability of 0.035185486291201135
+For topic 1 word fun occurred at probability of 0.018711341603440273
+For topic 1 word really occurred at probability of 0.01460710921436636
+For topic 1 word south occurred at probability of 0.014297773321837407
+For topic 1 word show occurred at probability of 0.012888629186500964
+For topic 1 word fan occurred at probability of 0.010996022672350132
+For topic 1 word love occurred at probability of 0.009365095630234728
+For topic 1 word much occurred at probability of 0.008719905752816634
+ 
+ 
+For topic 2 word game occurred at probability of 0.04869711308745738
+For topic 2 word south occurred at probability of 0.046912869668872155
+For topic 2 word like occurred at probability of 0.028857082331321806
+For topic 2 word park occurred at probability of 0.02725654918697229
+For topic 2 word love occurred at probability of 0.012144660235330453
+For topic 2 word fan occurred at probability of 0.011487417552049246
+For topic 2 word rpg occurred at probability of 0.011065280702881309
+For topic 2 word play occurred at probability of 0.011026447061686187
+For topic 2 word really occurred at probability of 0.0106771353852822
+For topic 2 word much occurred at probability of 0.009854493736370108
+ 
+ 
+For topic 3 word game occurred at probability of 0.08152321202293411
+For topic 3 word park occurred at probability of 0.02950934125228689
+For topic 3 word great occurred at probability of 0.02083172105274722
+For topic 3 word fan occurred at probability of 0.012183522524527533
+For topic 3 word playing occurred at probability of 0.010792611964661237
+For topic 3 word one occurred at probability of 0.010457838022458768
+For topic 3 word would occurred at probability of 0.009354032632145043
+For topic 3 word play occurred at probability of 0.008977116341806824
+For topic 3 word even occurred at probability of 0.008628854428649912
+For topic 3 word much occurred at probability of 0.00799717214318205
+ 
+ 
+For topic 4 word game occurred at probability of 0.08003343216591927
+For topic 4 word south occurred at probability of 0.04107599900530295
+For topic 4 word park occurred at probability of 0.03945180031066284
+For topic 4 word episode occurred at probability of 0.012282568590025945
+For topic 4 word play occurred at probability of 0.011324334672483075
+For topic 4 word get occurred at probability of 0.010108073454049044
+For topic 4 word one occurred at probability of 0.0097710901696406
+For topic 4 word like occurred at probability of 0.009210699362136842
+For topic 4 word fan occurred at probability of 0.009088054587050212
+For topic 4 word show occurred at probability of 0.00855898894485559
+ 
+ 
+For topic 5 word game occurred at probability of 0.06231465574951456
+For topic 5 word like occurred at probability of 0.023307671186054174
+For topic 5 word south occurred at probability of 0.019623012635811107
+For topic 5 word great occurred at probability of 0.019524349499569143
+For topic 5 word park occurred at probability of 0.018682407558547547
+For topic 5 word show occurred at probability of 0.017570397659672728
+For topic 5 word good occurred at probability of 0.013710250007523848
+For topic 5 word fun occurred at probability of 0.01256176631326882
+For topic 5 word play occurred at probability of 0.009324408084524359
+For topic 5 word funny occurred at probability of 0.009029798540684548
+ 
+ 
+For topic 6 word south occurred at probability of 0.052784338864362755
+For topic 6 word like occurred at probability of 0.02769856834235014
+For topic 6 word love occurred at probability of 0.015339736492945413
+For topic 6 word park occurred at probability of 0.014030083813007917
+For topic 6 word fun occurred at probability of 0.011107691790140624
+For topic 6 word rpg occurred at probability of 0.010760506036208399
+For topic 6 word episode occurred at probability of 0.010133108707456975
+For topic 6 word dont occurred at probability of 0.010013277854439001
+For topic 6 word playing occurred at probability of 0.009061154236189457
+For topic 6 word story occurred at probability of 0.009058027344876287
+ 
+ 
+For topic 7 word park occurred at probability of 0.04235651579911543
+For topic 7 word game occurred at probability of 0.03503267486472614
+For topic 7 word like occurred at probability of 0.03306282354327403
+For topic 7 word south occurred at probability of 0.01679913957479685
+For topic 7 word rpg occurred at probability of 0.013316287095774659
+For topic 7 word show occurred at probability of 0.013058824100255838
+For topic 7 word great occurred at probability of 0.011452480107651462
+For topic 7 word fan occurred at probability of 0.01004849613628458
+For topic 7 word play occurred at probability of 0.009729389667038698
+For topic 7 word games occurred at probability of 0.008891203404009704
+ 
+ 
+For topic 8 word game occurred at probability of 0.07676996610807561
+For topic 8 word south occurred at probability of 0.03773335098166672
+For topic 8 word fun occurred at probability of 0.016892037535260713
+For topic 8 word funny occurred at probability of 0.01170541965717667
+For topic 8 word play occurred at probability of 0.011571020635422456
+For topic 8 word park occurred at probability of 0.010502240196762509
+For topic 8 word really occurred at probability of 0.009906657153369351
+For topic 8 word story occurred at probability of 0.009770299642041536
+For topic 8 word games occurred at probability of 0.008073155723361754
+For topic 8 word youre occurred at probability of 0.007753956655703249
+ 
+ 
+For topic 9 word south occurred at probability of 0.05960431440401058
+For topic 9 word game occurred at probability of 0.041997961538796987
+For topic 9 word show occurred at probability of 0.016558769651281748
+For topic 9 word love occurred at probability of 0.012853396036885577
+For topic 9 word good occurred at probability of 0.011713323319310224
+For topic 9 word rpg occurred at probability of 0.010932628506608736
+For topic 9 word one occurred at probability of 0.010833178726179359
+For topic 9 word episode occurred at probability of 0.010550474810092796
+For topic 9 word fan occurred at probability of 0.010171956054485762
+For topic 9 word great occurred at probability of 0.010130713259496577
+ 
+ 
+For topic 10 word game occurred at probability of 0.07223033607418451
+For topic 10 word park occurred at probability of 0.040064293363627025
+For topic 10 word like occurred at probability of 0.022447662734256118
+For topic 10 word fun occurred at probability of 0.020203376076944918
+For topic 10 word south occurred at probability of 0.016017517143874137
+For topic 10 word really occurred at probability of 0.012653644415627054
+For topic 10 word show occurred at probability of 0.01215476955040621
+For topic 10 word rpg occurred at probability of 0.011610634029530593
+For topic 10 word good occurred at probability of 0.010655624812804786
+For topic 10 word playing occurred at probability of 0.010314537118040276
+ 
+ 

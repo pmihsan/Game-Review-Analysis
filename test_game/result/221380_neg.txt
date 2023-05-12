@@ -1,0 +1,120 @@
+For topic 1 word ass occurred at probability of 0.007134119383155985
+For topic 1 word turn occurred at probability of 0.0048989446720895695
+For topic 1 word error occurred at probability of 0.003825389736638047
+For topic 1 word troops occurred at probability of 0.003488224072096326
+For topic 1 word fine occurred at probability of 0.003386020266049679
+For topic 1 word cheat occurred at probability of 0.0033017895961652555
+For topic 1 word runs occurred at probability of 0.003266420591713114
+For topic 1 word forgotten occurred at probability of 0.003211408714190078
+For topic 1 word dlcs occurred at probability of 0.0031878736530412434
+For topic 1 word spent occurred at probability of 0.003040086456590739
+ 
+ 
+For topic 2 word error occurred at probability of 0.004795735336575662
+For topic 2 word going occurred at probability of 0.0040829826175724565
+For topic 2 word u occurred at probability of 0.004069033090568365
+For topic 2 word actually occurred at probability of 0.003995101685449633
+For topic 2 word unless occurred at probability of 0.0037618157738211256
+For topic 2 word forgotten occurred at probability of 0.0034899674485315496
+For topic 2 word stone occurred at probability of 0.0031818415551599097
+For topic 2 word worse occurred at probability of 0.003122387310315164
+For topic 2 word modern occurred at probability of 0.0031057653479488316
+For topic 2 word youll occurred at probability of 0.002884474885412796
+ 
+ 
+For topic 3 word error occurred at probability of 0.01369997529716503
+For topic 3 word pretty occurred at probability of 0.006671158180076196
+For topic 3 word worse occurred at probability of 0.004479931312961487
+For topic 3 word de occurred at probability of 0.004216423234103963
+For topic 3 word wrong occurred at probability of 0.0037658338821593444
+For topic 3 word probably occurred at probability of 0.0037341650880794064
+For topic 3 word youll occurred at probability of 0.0034482827360894403
+For topic 3 word us occurred at probability of 0.0031647589668798745
+For topic 3 word nice occurred at probability of 0.003086264980385853
+For topic 3 word unless occurred at probability of 0.0029791223069049085
+ 
+ 
+For topic 4 word error occurred at probability of 0.009632300120341547
+For topic 4 word stop occurred at probability of 0.004942713255528851
+For topic 4 word feel occurred at probability of 0.004031273659216372
+For topic 4 word sucks occurred at probability of 0.0037275178797308286
+For topic 4 word anyone occurred at probability of 0.0034830182757553236
+For topic 4 word armies occurred at probability of 0.0033524815698105248
+For topic 4 word modern occurred at probability of 0.0032820654188649226
+For topic 4 word spent occurred at probability of 0.003252022569239983
+For topic 4 word cheats occurred at probability of 0.003196248677331577
+For topic 4 word actually occurred at probability of 0.0031881480924875285
+ 
+ 
+For topic 5 word us occurred at probability of 0.004952293304129384
+For topic 5 word wrong occurred at probability of 0.004798113098270921
+For topic 5 word going occurred at probability of 0.004682698180904067
+For topic 5 word awesome occurred at probability of 0.0040298444087897125
+For topic 5 word worse occurred at probability of 0.004016311268060724
+For topic 5 word youll occurred at probability of 0.0038981610143072835
+For topic 5 word runs occurred at probability of 0.0037268898930248365
+For topic 5 word error occurred at probability of 0.0035147410301438445
+For topic 5 word u occurred at probability of 0.0034779871364105453
+For topic 5 word cheats occurred at probability of 0.0032626354646640553
+ 
+ 
+For topic 6 word error occurred at probability of 0.004883451884240519
+For topic 6 word pretty occurred at probability of 0.004348703879580878
+For topic 6 word stop occurred at probability of 0.00419573573448067
+For topic 6 word going occurred at probability of 0.003990559224533584
+For topic 6 word anyone occurred at probability of 0.003330970372929422
+For topic 6 word youll occurred at probability of 0.0032515642648508684
+For topic 6 word actually occurred at probability of 0.003179127037517927
+For topic 6 word sick occurred at probability of 0.0030940035251780127
+For topic 6 word feel occurred at probability of 0.002905877830200652
+For topic 6 word troops occurred at probability of 0.002856396231572082
+ 
+ 
+For topic 7 word ass occurred at probability of 0.0069943978207884765
+For topic 7 word turn occurred at probability of 0.004993469147465121
+For topic 7 word stop occurred at probability of 0.004796567180204755
+For topic 7 word pretty occurred at probability of 0.004547171523771753
+For topic 7 word sucks occurred at probability of 0.0043138355206668675
+For topic 7 word probably occurred at probability of 0.004295421645128794
+For topic 7 word awesome occurred at probability of 0.004119792313085561
+For topic 7 word wrong occurred at probability of 0.004056330831080316
+For topic 7 word due occurred at probability of 0.003782967454931223
+For topic 7 word actually occurred at probability of 0.0036143895842073856
+ 
+ 
+For topic 8 word error occurred at probability of 0.01611000542573844
+For topic 8 word awesome occurred at probability of 0.005305967681116454
+For topic 8 word wrong occurred at probability of 0.0038713758108694283
+For topic 8 word sucks occurred at probability of 0.0037365937284292283
+For topic 8 word lo occurred at probability of 0.0035764589637154337
+For topic 8 word de occurred at probability of 0.003483212905076672
+For topic 8 word maybe occurred at probability of 0.003336951111375536
+For topic 8 word possible occurred at probability of 0.0032472597559235323
+For topic 8 word win occurred at probability of 0.003065633149941499
+For topic 8 word pretty occurred at probability of 0.003059695563064417
+ 
+ 
+For topic 9 word stop occurred at probability of 0.0061843831310814
+For topic 9 word wrong occurred at probability of 0.005352388871601821
+For topic 9 word us occurred at probability of 0.004930347011233264
+For topic 9 word definitive occurred at probability of 0.0040536948508250546
+For topic 9 word spent occurred at probability of 0.003834550295816107
+For topic 9 word sucks occurred at probability of 0.00352158562516856
+For topic 9 word feel occurred at probability of 0.003503129566333838
+For topic 9 word actually occurred at probability of 0.003269668059083564
+For topic 9 word villager occurred at probability of 0.002975715435386241
+For topic 9 word connection occurred at probability of 0.0028467566669982836
+ 
+ 
+For topic 10 word error occurred at probability of 0.008039294817921008
+For topic 10 word brings occurred at probability of 0.004604861560836415
+For topic 10 word learn occurred at probability of 0.00415171875509073
+For topic 10 word going occurred at probability of 0.0040807330063414304
+For topic 10 word actually occurred at probability of 0.003910675391614478
+For topic 10 word started occurred at probability of 0.0038894036089556668
+For topic 10 word wrong occurred at probability of 0.003730038156032222
+For topic 10 word definitive occurred at probability of 0.0037231527247744392
+For topic 10 word stop occurred at probability of 0.0035494727843778714
+For topic 10 word troops occurred at probability of 0.0034847152776976676
+ 
+ 

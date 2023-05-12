@@ -1,0 +1,120 @@
+For topic 1 word previous occurred at probability of 0.006997199123305144
+For topic 1 word coop occurred at probability of 0.006146131086729652
+For topic 1 word great occurred at probability of 0.005443293916396048
+For topic 1 word real occurred at probability of 0.00423292443268857
+For topic 1 word die occurred at probability of 0.004150375183067066
+For topic 1 word soldiers occurred at probability of 0.004120149531305984
+For topic 1 word since occurred at probability of 0.0040547887628925375
+For topic 1 word fire occurred at probability of 0.004043716863675079
+For topic 1 word shit occurred at probability of 0.003846336293998435
+For topic 1 word behind occurred at probability of 0.0037846859334700845
+ 
+ 
+For topic 2 word great occurred at probability of 0.006410803743540871
+For topic 2 word easy occurred at probability of 0.006255295291230542
+For topic 2 word mode occurred at probability of 0.006076699088076517
+For topic 2 word sometimes occurred at probability of 0.006054260276648967
+For topic 2 word overall occurred at probability of 0.0050562936020799865
+For topic 2 word real occurred at probability of 0.004899239402421046
+For topic 2 word players occurred at probability of 0.004606578261030434
+For topic 2 word stupid occurred at probability of 0.00422241572171312
+For topic 2 word point occurred at probability of 0.004210082580783599
+For topic 2 word nice occurred at probability of 0.004095182399553926
+ 
+ 
+For topic 3 word great occurred at probability of 0.010888791369084029
+For topic 3 word easy occurred at probability of 0.004990175378812105
+For topic 3 word coop occurred at probability of 0.004851881032180179
+For topic 3 word shit occurred at probability of 0.004829500807396103
+For topic 3 word point occurred at probability of 0.004394469938889987
+For topic 3 word sometimes occurred at probability of 0.004392780319008424
+For topic 3 word found occurred at probability of 0.004347906086310244
+For topic 3 word less occurred at probability of 0.00427219939744296
+For topic 3 word stupid occurred at probability of 0.0041076256024177565
+For topic 3 word players occurred at probability of 0.004010856718284641
+ 
+ 
+For topic 4 word soldiers occurred at probability of 0.005875883638762805
+For topic 4 word ok occurred at probability of 0.004974715616653132
+For topic 4 word coop occurred at probability of 0.004553796789436691
+For topic 4 word overall occurred at probability of 0.003727994546710108
+For topic 4 word entire occurred at probability of 0.003659530665365115
+For topic 4 word work occurred at probability of 0.003408151727319675
+For topic 4 word behind occurred at probability of 0.00337371447399989
+For topic 4 word old occurred at probability of 0.003315897826421818
+For topic 4 word rifles occurred at probability of 0.003218581116052434
+For topic 4 word fire occurred at probability of 0.003199669547370019
+ 
+ 
+For topic 5 word great occurred at probability of 0.005896225489197363
+For topic 5 word overall occurred at probability of 0.005641173639398615
+For topic 5 word sometimes occurred at probability of 0.005021156764134283
+For topic 5 word coop occurred at probability of 0.004730255430798743
+For topic 5 word nuts occurred at probability of 0.0038939917879500597
+For topic 5 word point occurred at probability of 0.0038276902660121397
+For topic 5 word old occurred at probability of 0.003568348101790657
+For topic 5 word authentic occurred at probability of 0.0031490903199698386
+For topic 5 word war occurred at probability of 0.0031081260257923653
+For topic 5 word wont occurred at probability of 0.0029748985163496676
+ 
+ 
+For topic 6 word great occurred at probability of 0.009264082138142117
+For topic 6 word soldiers occurred at probability of 0.007262185852465233
+For topic 6 word coop occurred at probability of 0.006830336600318586
+For topic 6 word players occurred at probability of 0.006378143388156872
+For topic 6 word sometimes occurred at probability of 0.0058167113162517926
+For topic 6 word amazing occurred at probability of 0.003636519200926308
+For topic 6 word last occurred at probability of 0.003528022374284148
+For topic 6 word previous occurred at probability of 0.0034902346963581457
+For topic 6 word easy occurred at probability of 0.00348880422503959
+For topic 6 word content occurred at probability of 0.003483977006406295
+ 
+ 
+For topic 7 word previous occurred at probability of 0.00661039236804997
+For topic 7 word shit occurred at probability of 0.005562576186312992
+For topic 7 word sometimes occurred at probability of 0.0039977939890113905
+For topic 7 word great occurred at probability of 0.003884010394012033
+For topic 7 word damage occurred at probability of 0.0038598423833306537
+For topic 7 word stupid occurred at probability of 0.003798134699910613
+For topic 7 word plenty occurred at probability of 0.0037764379541735944
+For topic 7 word challenge occurred at probability of 0.0036963960075819522
+For topic 7 word someone occurred at probability of 0.003495844149323207
+For topic 7 word weapon occurred at probability of 0.003337084315301058
+ 
+ 
+For topic 8 word shit occurred at probability of 0.006493728177799953
+For topic 8 word mode occurred at probability of 0.00635834019207525
+For topic 8 word easy occurred at probability of 0.005903863823461079
+For topic 8 word overall occurred at probability of 0.005146137315946596
+For topic 8 word previous occurred at probability of 0.004867360382824261
+For topic 8 word stupid occurred at probability of 0.004847231372105264
+For topic 8 word theres occurred at probability of 0.004077868072484089
+For topic 8 word authentic occurred at probability of 0.0038209528607964297
+For topic 8 word found occurred at probability of 0.003635191352273192
+For topic 8 word nice occurred at probability of 0.00351891791581234
+ 
+ 
+For topic 9 word shit occurred at probability of 0.006862301696574493
+For topic 9 word ok occurred at probability of 0.005812605295009087
+For topic 9 word best occurred at probability of 0.005274893337746742
+For topic 9 word nuts occurred at probability of 0.00447581098612316
+For topic 9 word sometimes occurred at probability of 0.004441598862096794
+For topic 9 word theres occurred at probability of 0.004029526083431057
+For topic 9 word easy occurred at probability of 0.0038462785321881168
+For topic 9 word stupid occurred at probability of 0.0037095970845086963
+For topic 9 word fire occurred at probability of 0.0035068724838433715
+For topic 9 word point occurred at probability of 0.003409885160130073
+ 
+ 
+For topic 10 word great occurred at probability of 0.010795766499314362
+For topic 10 word coop occurred at probability of 0.006967555613587673
+For topic 10 word best occurred at probability of 0.00461201916505711
+For topic 10 word players occurred at probability of 0.0044412697697379525
+For topic 10 word theres occurred at probability of 0.003928189645009086
+For topic 10 word since occurred at probability of 0.003879307358430978
+For topic 10 word making occurred at probability of 0.0037790985827269442
+For topic 10 word less occurred at probability of 0.0036979885837208986
+For topic 10 word either occurred at probability of 0.003574786149924655
+For topic 10 word realistic occurred at probability of 0.003500920588891395
+ 
+ 

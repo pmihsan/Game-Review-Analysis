@@ -1,0 +1,120 @@
+For topic 1 word ex occurred at probability of 0.0366460926963177
+For topic 1 word deus occurred at probability of 0.01740004888215527
+For topic 1 word revolution occurred at probability of 0.014422048885949276
+For topic 1 word one occurred at probability of 0.012339556524505036
+For topic 1 word story occurred at probability of 0.01116831874502585
+For topic 1 word like occurred at probability of 0.010284413788893278
+For topic 1 word human occurred at probability of 0.009953614815317072
+For topic 1 word games occurred at probability of 0.009816104363662582
+For topic 1 word mobile occurred at probability of 0.009095123984272464
+For topic 1 word pc occurred at probability of 0.00852256447267603
+ 
+ 
+For topic 2 word deus occurred at probability of 0.021992391496639757
+For topic 2 word ex occurred at probability of 0.017674599307861066
+For topic 2 word human occurred at probability of 0.017241350957242694
+For topic 2 word mobile occurred at probability of 0.010562898351035651
+For topic 2 word fall occurred at probability of 0.010294302268621344
+For topic 2 word games occurred at probability of 0.009686216431657058
+For topic 2 word get occurred at probability of 0.0090153244827662
+For topic 2 word would occurred at probability of 0.008829266410688028
+For topic 2 word worth occurred at probability of 0.008289078110637838
+For topic 2 word pc occurred at probability of 0.007944451204166897
+ 
+ 
+For topic 3 word ex occurred at probability of 0.021354249529133958
+For topic 3 word good occurred at probability of 0.01680505503174251
+For topic 3 word deus occurred at probability of 0.013961654035200574
+For topic 3 word story occurred at probability of 0.012410885686298659
+For topic 3 word like occurred at probability of 0.0109577133679433
+For topic 3 word revolution occurred at probability of 0.010044110017348569
+For topic 3 word fall occurred at probability of 0.009725890855967437
+For topic 3 word mobile occurred at probability of 0.00956858083090612
+For topic 3 word really occurred at probability of 0.009428680924873225
+For topic 3 word much occurred at probability of 0.00857032626720467
+ 
+ 
+For topic 4 word deus occurred at probability of 0.020343985822085707
+For topic 4 word story occurred at probability of 0.016292554776206856
+For topic 4 word human occurred at probability of 0.013948607646715763
+For topic 4 word good occurred at probability of 0.013738871664448855
+For topic 4 word like occurred at probability of 0.012692554275595097
+For topic 4 word port occurred at probability of 0.01194462112349119
+For topic 4 word mobile occurred at probability of 0.011315339667788707
+For topic 4 word even occurred at probability of 0.010203913692578566
+For topic 4 word worth occurred at probability of 0.009086170474384656
+For topic 4 word play occurred at probability of 0.00903570968398061
+ 
+ 
+For topic 5 word ex occurred at probability of 0.03092375114133242
+For topic 5 word like occurred at probability of 0.020423338952558358
+For topic 5 word story occurred at probability of 0.018244252539879425
+For topic 5 word deus occurred at probability of 0.018102203991495473
+For topic 5 word good occurred at probability of 0.013503136060018997
+For topic 5 word dont occurred at probability of 0.010817633815716403
+For topic 5 word play occurred at probability of 0.010711479542483209
+For topic 5 word pc occurred at probability of 0.01024446776172224
+For topic 5 word mobile occurred at probability of 0.010124714073270653
+For topic 5 word really occurred at probability of 0.008060332123002265
+ 
+ 
+For topic 6 word even occurred at probability of 0.021151659010131506
+For topic 6 word like occurred at probability of 0.01767449793726556
+For topic 6 word human occurred at probability of 0.011922978414480687
+For topic 6 word deus occurred at probability of 0.010845064976444212
+For topic 6 word story occurred at probability of 0.01036417959749634
+For topic 6 word would occurred at probability of 0.010341413309992902
+For topic 6 word revolution occurred at probability of 0.00967700235357381
+For topic 6 word get occurred at probability of 0.009064933452649037
+For topic 6 word pc occurred at probability of 0.008777500356609479
+For topic 6 word fall occurred at probability of 0.00856591684149748
+ 
+ 
+For topic 7 word deus occurred at probability of 0.022303159033132253
+For topic 7 word like occurred at probability of 0.013129658247024136
+For topic 7 word mobile occurred at probability of 0.011264505914875022
+For topic 7 word revolution occurred at probability of 0.011111636355330913
+For topic 7 word ex occurred at probability of 0.010122930815343536
+For topic 7 word would occurred at probability of 0.009243854491359298
+For topic 7 word games occurred at probability of 0.009100032059355756
+For topic 7 word get occurred at probability of 0.009042497636470567
+For topic 7 word really occurred at probability of 0.008876565831503551
+For topic 7 word fall occurred at probability of 0.007397800570541148
+ 
+ 
+For topic 8 word deus occurred at probability of 0.029678276219647765
+For topic 8 word ex occurred at probability of 0.028640180804367334
+For topic 8 word revolution occurred at probability of 0.017155566054950555
+For topic 8 word like occurred at probability of 0.01699369219803798
+For topic 8 word good occurred at probability of 0.013074838763445383
+For topic 8 word human occurred at probability of 0.012738704686788227
+For topic 8 word mobile occurred at probability of 0.011345781511858326
+For topic 8 word really occurred at probability of 0.010199816285348643
+For topic 8 word even occurred at probability of 0.008528301994498031
+For topic 8 word pc occurred at probability of 0.008160773804046877
+ 
+ 
+For topic 9 word ex occurred at probability of 0.037529049462545594
+For topic 9 word deus occurred at probability of 0.0346884500459542
+For topic 9 word human occurred at probability of 0.017077293895647848
+For topic 9 word revolution occurred at probability of 0.01371905158143561
+For topic 9 word one occurred at probability of 0.009247593918948593
+For topic 9 word story occurred at probability of 0.00907728908670541
+For topic 9 word dont occurred at probability of 0.008996357310769275
+For topic 9 word bad occurred at probability of 0.008597581348296173
+For topic 9 word really occurred at probability of 0.007580491492454347
+For topic 9 word get occurred at probability of 0.007177907686847233
+ 
+ 
+For topic 10 word ex occurred at probability of 0.020131521226480924
+For topic 10 word like occurred at probability of 0.01588058985714197
+For topic 10 word human occurred at probability of 0.01556511935684462
+For topic 10 word one occurred at probability of 0.013726445045922735
+For topic 10 word port occurred at probability of 0.013588261350336495
+For topic 10 word story occurred at probability of 0.012642226180492025
+For topic 10 word good occurred at probability of 0.011486737830119647
+For topic 10 word fall occurred at probability of 0.01056090310959338
+For topic 10 word play occurred at probability of 0.009114780981676916
+For topic 10 word get occurred at probability of 0.008388782793290046
+ 
+ 

@@ -1,0 +1,120 @@
+For topic 1 word pogchamp occurred at probability of 0.006060059865691585
+For topic 1 word noice occurred at probability of 0.003553841780940214
+For topic 1 word releasing occurred at probability of 0.0022731189734940395
+For topic 1 word gamegood occurred at probability of 0.0019110805212047084
+For topic 1 word significant occurred at probability of 0.0016802261426106834
+For topic 1 word soulsgrind occurred at probability of 0.0016650374690482307
+For topic 1 word bu occurred at probability of 0.0016576437064490803
+For topic 1 word rham occurred at probability of 0.0016091992281264565
+For topic 1 word computerdifficulity occurred at probability of 0.0015613798150371726
+For topic 1 word ig occurred at probability of 0.0015184984990744528
+ 
+ 
+For topic 2 word pogchamp occurred at probability of 0.004728614491737193
+For topic 2 word bu occurred at probability of 0.0035505128266112053
+For topic 2 word rham occurred at probability of 0.002686280780257352
+For topic 2 word ha occurred at probability of 0.0025438339140613484
+For topic 2 word bro occurred at probability of 0.0017686102687160439
+For topic 2 word da occurred at probability of 0.0016479364805148762
+For topic 2 word releasing occurred at probability of 0.001449563646227066
+For topic 2 word sieges occurred at probability of 0.001427833620972793
+For topic 2 word ig occurred at probability of 0.0013579025984887202
+For topic 2 word infinity occurred at probability of 0.001238194293164294
+ 
+ 
+For topic 3 word bu occurred at probability of 0.005124673098136886
+For topic 3 word gaem occurred at probability of 0.0037337204309381288
+For topic 3 word significant occurred at probability of 0.0035704726195811298
+For topic 3 word ha occurred at probability of 0.0025597088033436385
+For topic 3 word noice occurred at probability of 0.002055399458106794
+For topic 3 word pm occurred at probability of 0.0020467620496437255
+For topic 3 word da occurred at probability of 0.0020300661571127487
+For topic 3 word terrarium occurred at probability of 0.0019557251086632322
+For topic 3 word rham occurred at probability of 0.0018456965209658791
+For topic 3 word veri occurred at probability of 0.001794177318604619
+ 
+ 
+For topic 4 word noice occurred at probability of 0.003608856161689089
+For topic 4 word dontaudio occurred at probability of 0.0031984996769754254
+For topic 4 word terrarium occurred at probability of 0.0026044168564598492
+For topic 4 word earrapeaudience occurred at probability of 0.002497100526358655
+For topic 4 word infinity occurred at probability of 0.0022723457276868186
+For topic 4 word pm occurred at probability of 0.0021335722781642853
+For topic 4 word computerdifficulity occurred at probability of 0.002110522351715368
+For topic 4 word starring occurred at probability of 0.0020484360714899956
+For topic 4 word leaderboardsranks occurred at probability of 0.0018454002773949673
+For topic 4 word significant occurred at probability of 0.0016717993559272348
+ 
+ 
+For topic 5 word bu occurred at probability of 0.004813779969443817
+For topic 5 word noice occurred at probability of 0.00326675777689846
+For topic 5 word significant occurred at probability of 0.002876133820268991
+For topic 5 word gamegood occurred at probability of 0.0026946844823534017
+For topic 5 word rham occurred at probability of 0.0023270084133025625
+For topic 5 word floating occurred at probability of 0.002075266971723535
+For topic 5 word bro occurred at probability of 0.001924832265463564
+For topic 5 word ig occurred at probability of 0.0016792529438813917
+For topic 5 word pogchamp occurred at probability of 0.0015974843221250596
+For topic 5 word ha occurred at probability of 0.001542182441273952
+ 
+ 
+For topic 6 word noice occurred at probability of 0.004793240548874902
+For topic 6 word bu occurred at probability of 0.0027040600817015916
+For topic 6 word dontaudio occurred at probability of 0.0017543551780719298
+For topic 6 word moneybugs occurred at probability of 0.0016604751108733435
+For topic 6 word soulsgrind occurred at probability of 0.0016229882636719485
+For topic 6 word eargasm occurred at probability of 0.0016141245829663885
+For topic 6 word pogchamp occurred at probability of 0.0014879610202025943
+For topic 6 word infinity occurred at probability of 0.0014771918833740025
+For topic 6 word ha occurred at probability of 0.0013683171062665652
+For topic 6 word dedication occurred at probability of 0.0012880182523342127
+ 
+ 
+For topic 7 word pogchamp occurred at probability of 0.004135780260327586
+For topic 7 word bu occurred at probability of 0.003907615573895055
+For topic 7 word gaem occurred at probability of 0.002716090573399267
+For topic 7 word beyondprice occurred at probability of 0.001862759393120836
+For topic 7 word noice occurred at probability of 0.001737486940742157
+For topic 7 word leaderboardsranks occurred at probability of 0.0016224571324862348
+For topic 7 word ashes occurred at probability of 0.0014338630611308396
+For topic 7 word rham occurred at probability of 0.0014326401610546926
+For topic 7 word mehh occurred at probability of 0.0014196776757490934
+For topic 7 word pool occurred at probability of 0.0013716015604145408
+ 
+ 
+For topic 8 word pogchamp occurred at probability of 0.005047037835981081
+For topic 8 word noice occurred at probability of 0.005004031998748671
+For topic 8 word bu occurred at probability of 0.003107384658283475
+For topic 8 word rham occurred at probability of 0.0018136173961064545
+For topic 8 word eargasm occurred at probability of 0.0017445782413469094
+For topic 8 word veri occurred at probability of 0.0016335290183799786
+For topic 8 word mehh occurred at probability of 0.0015995507948127017
+For topic 8 word da occurred at probability of 0.0015390089070095182
+For topic 8 word bob occurred at probability of 0.0014612127980978189
+For topic 8 word dontaudio occurred at probability of 0.0013957288652321604
+ 
+ 
+For topic 9 word noice occurred at probability of 0.004952050249393892
+For topic 9 word pogchamp occurred at probability of 0.004663131624844244
+For topic 9 word bu occurred at probability of 0.004036816505236522
+For topic 9 word leaderboardsranks occurred at probability of 0.0019388598964908915
+For topic 9 word beyondprice occurred at probability of 0.0018738830725310448
+For topic 9 word gamegood occurred at probability of 0.001749818078272772
+For topic 9 word significant occurred at probability of 0.001676635251279121
+For topic 9 word earrapeaudience occurred at probability of 0.0016318635600608906
+For topic 9 word soulsgrind occurred at probability of 0.0016276036658124003
+For topic 9 word pm occurred at probability of 0.001527699153019924
+ 
+ 
+For topic 10 word gaem occurred at probability of 0.0028719557751834598
+For topic 10 word noice occurred at probability of 0.00219789210389402
+For topic 10 word releasing occurred at probability of 0.0020587938583265628
+For topic 10 word bu occurred at probability of 0.002038678302943325
+For topic 10 word pm occurred at probability of 0.001739753691387514
+For topic 10 word da occurred at probability of 0.0016711155940363881
+For topic 10 word beyondprice occurred at probability of 0.0016224227983072652
+For topic 10 word eargasm occurred at probability of 0.0016188821593123748
+For topic 10 word veri occurred at probability of 0.0016086884666427221
+For topic 10 word significant occurred at probability of 0.0015940541915331777
+ 
+ 

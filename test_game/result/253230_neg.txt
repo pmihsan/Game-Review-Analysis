@@ -1,0 +1,120 @@
+For topic 1 word time occurred at probability of 0.021838897696107158
+For topic 1 word game occurred at probability of 0.01663626217905574
+For topic 1 word bad occurred at probability of 0.014948967672124025
+For topic 1 word fun occurred at probability of 0.012585404870389272
+For topic 1 word mario occurred at probability of 0.01018559964944988
+For topic 1 word even occurred at probability of 0.009367394010360559
+For topic 1 word games occurred at probability of 0.009195210777547022
+For topic 1 word get occurred at probability of 0.009016738478304993
+For topic 1 word hat occurred at probability of 0.0089615438691479
+For topic 1 word platformer occurred at probability of 0.008042660647593486
+ 
+ 
+For topic 2 word game occurred at probability of 0.09503936260732347
+For topic 2 word hat occurred at probability of 0.014335252015663923
+For topic 2 word really occurred at probability of 0.010577049056921915
+For topic 2 word get occurred at probability of 0.01029080399566558
+For topic 2 word would occurred at probability of 0.008487564306416453
+For topic 2 word games occurred at probability of 0.007794685226112069
+For topic 2 word also occurred at probability of 0.007062192702086763
+For topic 2 word camera occurred at probability of 0.006723004015797349
+For topic 2 word good occurred at probability of 0.006703276630797467
+For topic 2 word play occurred at probability of 0.006120530454541434
+ 
+ 
+For topic 3 word game occurred at probability of 0.0814336575023725
+For topic 3 word one occurred at probability of 0.012803511074474501
+For topic 3 word good occurred at probability of 0.012194407163837838
+For topic 3 word hat occurred at probability of 0.011959668036925861
+For topic 3 word really occurred at probability of 0.010201430814959625
+For topic 3 word even occurred at probability of 0.008593958334751258
+For topic 3 word like occurred at probability of 0.007710326292901868
+For topic 3 word camera occurred at probability of 0.007510345667208672
+For topic 3 word first occurred at probability of 0.007499336888325053
+For topic 3 word lot occurred at probability of 0.007154059319997464
+ 
+ 
+For topic 4 word game occurred at probability of 0.03251382135998854
+For topic 4 word time occurred at probability of 0.014682690596407894
+For topic 4 word play occurred at probability of 0.010905248066920782
+For topic 4 word fun occurred at probability of 0.010727667885284644
+For topic 4 word platformer occurred at probability of 0.010567806830583408
+For topic 4 word get occurred at probability of 0.010442485074431653
+For topic 4 word like occurred at probability of 0.010369158139067197
+For topic 4 word really occurred at probability of 0.008882696433774854
+For topic 4 word mario occurred at probability of 0.008671770143849518
+For topic 4 word fucking occurred at probability of 0.008365046957988544
+ 
+ 
+For topic 5 word game occurred at probability of 0.02458725889914796
+For topic 5 word get occurred at probability of 0.015789664941930934
+For topic 5 word play occurred at probability of 0.01506779249697011
+For topic 5 word bad occurred at probability of 0.013344930849052198
+For topic 5 word would occurred at probability of 0.009607330504120635
+For topic 5 word fucking occurred at probability of 0.008492800729058236
+For topic 5 word even occurred at probability of 0.008259059822441538
+For topic 5 word first occurred at probability of 0.00809890970730891
+For topic 5 word camera occurred at probability of 0.007493305011075266
+For topic 5 word fun occurred at probability of 0.006933257514658785
+ 
+ 
+For topic 6 word game occurred at probability of 0.06832496005532675
+For topic 6 word time occurred at probability of 0.016527303580014314
+For topic 6 word hat occurred at probability of 0.013628704703422615
+For topic 6 word get occurred at probability of 0.01354304784427275
+For topic 6 word like occurred at probability of 0.010233295328417841
+For topic 6 word im occurred at probability of 0.009679654236594412
+For topic 6 word fucking occurred at probability of 0.00855534901902645
+For topic 6 word platformer occurred at probability of 0.007945217902930669
+For topic 6 word fun occurred at probability of 0.007881123178759145
+For topic 6 word fuck occurred at probability of 0.007078433640730314
+ 
+ 
+For topic 7 word game occurred at probability of 0.09680700605707812
+For topic 7 word time occurred at probability of 0.01627304118363515
+For topic 7 word bad occurred at probability of 0.012390389478664618
+For topic 7 word one occurred at probability of 0.009378318803508957
+For topic 7 word much occurred at probability of 0.009218260090059853
+For topic 7 word cute occurred at probability of 0.008155475601228502
+For topic 7 word would occurred at probability of 0.007398252002269666
+For topic 7 word even occurred at probability of 0.006487071268927397
+For topic 7 word first occurred at probability of 0.006214036715934068
+For topic 7 word play occurred at probability of 0.006197523468949684
+ 
+ 
+For topic 8 word game occurred at probability of 0.05631221863741202
+For topic 8 word time occurred at probability of 0.01949607775158546
+For topic 8 word one occurred at probability of 0.013783086765196665
+For topic 8 word mario occurred at probability of 0.010155992058394046
+For topic 8 word even occurred at probability of 0.009665969592545365
+For topic 8 word camera occurred at probability of 0.00916238773495803
+For topic 8 word really occurred at probability of 0.009022368472958432
+For topic 8 word im occurred at probability of 0.008935227652186264
+For topic 8 word platformer occurred at probability of 0.008748499775335322
+For topic 8 word much occurred at probability of 0.008077992080643859
+ 
+ 
+For topic 9 word get occurred at probability of 0.017647590252931788
+For topic 9 word good occurred at probability of 0.01436285391873035
+For topic 9 word game occurred at probability of 0.01430965273278487
+For topic 9 word like occurred at probability of 0.013816452710283216
+For topic 9 word time occurred at probability of 0.011799822630533
+For topic 9 word play occurred at probability of 0.011698644922032684
+For topic 9 word games occurred at probability of 0.01114988430336314
+For topic 9 word really occurred at probability of 0.010836772246464572
+For topic 9 word cute occurred at probability of 0.009806264938696246
+For topic 9 word camera occurred at probability of 0.008423421883100935
+ 
+ 
+For topic 10 word game occurred at probability of 0.034145689797201666
+For topic 10 word good occurred at probability of 0.01947376054260537
+For topic 10 word get occurred at probability of 0.01606635175431504
+For topic 10 word bad occurred at probability of 0.012527029084956197
+For topic 10 word play occurred at probability of 0.011876867667753596
+For topic 10 word mario occurred at probability of 0.01145518747909302
+For topic 10 word one occurred at probability of 0.011331706034651473
+For topic 10 word time occurred at probability of 0.009333891981703854
+For topic 10 word im occurred at probability of 0.0076692682132704785
+For topic 10 word way occurred at probability of 0.006033910365018596
+ 
+ 

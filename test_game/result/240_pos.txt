@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.08479381903579637
+For topic 1 word good occurred at probability of 0.0416436644954915
+For topic 1 word fun occurred at probability of 0.03727320787374476
+For topic 1 word still occurred at probability of 0.01569478296982496
+For topic 1 word great occurred at probability of 0.015567657917054016
+For topic 1 word source occurred at probability of 0.0144411197076568
+For topic 1 word like occurred at probability of 0.012669785061523579
+For topic 1 word best occurred at probability of 0.012456309576335154
+For topic 1 word nice occurred at probability of 0.011001215765984873
+For topic 1 word ever occurred at probability of 0.0107124143953744
+ 
+ 
+For topic 2 word game occurred at probability of 0.11867824570735439
+For topic 2 word good occurred at probability of 0.02466049773997789
+For topic 2 word fun occurred at probability of 0.019495340484293373
+For topic 2 word better occurred at probability of 0.01797534232924861
+For topic 2 word still occurred at probability of 0.01572091773497643
+For topic 2 word great occurred at probability of 0.015074539601346998
+For topic 2 word get occurred at probability of 0.014628426331994494
+For topic 2 word playing occurred at probability of 0.011273530974383968
+For topic 2 word much occurred at probability of 0.011193983282268774
+For topic 2 word like occurred at probability of 0.009628520655595326
+ 
+ 
+For topic 3 word game occurred at probability of 0.035474603657138726
+For topic 3 word like occurred at probability of 0.02491754704022987
+For topic 3 word fun occurred at probability of 0.023968761119537198
+For topic 3 word better occurred at probability of 0.016464998840567253
+For topic 3 word good occurred at probability of 0.015069677565436269
+For topic 3 word one occurred at probability of 0.015042637437449833
+For topic 3 word source occurred at probability of 0.014458391114663044
+For topic 3 word ever occurred at probability of 0.012527099586441454
+For topic 3 word love occurred at probability of 0.011696744737402518
+For topic 3 word old occurred at probability of 0.011660996075753528
+ 
+ 
+For topic 4 word like occurred at probability of 0.021502263344498753
+For topic 4 word still occurred at probability of 0.020573539983188154
+For topic 4 word fun occurred at probability of 0.02043794602397761
+For topic 4 word one occurred at probability of 0.020425742738831774
+For topic 4 word great occurred at probability of 0.017256437898669662
+For topic 4 word best occurred at probability of 0.016704091804663316
+For topic 4 word really occurred at probability of 0.015085015830600413
+For topic 4 word better occurred at probability of 0.01343716063447978
+For topic 4 word source occurred at probability of 0.013307992940311004
+For topic 4 word strike occurred at probability of 0.01322315042073687
+ 
+ 
+For topic 5 word fun occurred at probability of 0.04082310618247121
+For topic 5 word play occurred at probability of 0.03748256940517328
+For topic 5 word good occurred at probability of 0.025115957121373482
+For topic 5 word game occurred at probability of 0.016772188633938208
+For topic 5 word csgo occurred at probability of 0.01562978645323162
+For topic 5 word cs occurred at probability of 0.014374054707877079
+For topic 5 word time occurred at probability of 0.012956980311770377
+For topic 5 word great occurred at probability of 0.011719577027628932
+For topic 5 word playing occurred at probability of 0.011329221720679397
+For topic 5 word get occurred at probability of 0.011255171633612518
+ 
+ 
+For topic 6 word play occurred at probability of 0.04514073470288363
+For topic 6 word good occurred at probability of 0.03937021360074424
+For topic 6 word best occurred at probability of 0.031623224953969
+For topic 6 word game occurred at probability of 0.03066636861283798
+For topic 6 word csgo occurred at probability of 0.02514358989936615
+For topic 6 word fun occurred at probability of 0.02383387983641441
+For topic 6 word still occurred at probability of 0.01691734487246707
+For topic 6 word cs occurred at probability of 0.01272915628463961
+For topic 6 word games occurred at probability of 0.011408720361913264
+For topic 6 word playing occurred at probability of 0.011276243033271342
+ 
+ 
+For topic 7 word game occurred at probability of 0.07761486752414887
+For topic 7 word best occurred at probability of 0.03920353459333691
+For topic 7 word better occurred at probability of 0.02273248448694041
+For topic 7 word like occurred at probability of 0.02110206944708245
+For topic 7 word fun occurred at probability of 0.019872632133784623
+For topic 7 word good occurred at probability of 0.019822138228539527
+For topic 7 word still occurred at probability of 0.01553783988427774
+For topic 7 word one occurred at probability of 0.01436149928023945
+For topic 7 word great occurred at probability of 0.012628447187239945
+For topic 7 word fps occurred at probability of 0.011987048752487146
+ 
+ 
+For topic 8 word game occurred at probability of 0.1215174473176661
+For topic 8 word good occurred at probability of 0.04214155165590615
+For topic 8 word csgo occurred at probability of 0.02751831229755821
+For topic 8 word play occurred at probability of 0.018094615244581957
+For topic 8 word still occurred at probability of 0.015753538260654596
+For topic 8 word like occurred at probability of 0.01087184543571293
+For topic 8 word great occurred at probability of 0.010793046326966418
+For topic 8 word games occurred at probability of 0.009806697028317754
+For topic 8 word really occurred at probability of 0.009451368838442862
+For topic 8 word best occurred at probability of 0.00873122320040354
+ 
+ 
+For topic 9 word game occurred at probability of 0.06267614992332354
+For topic 9 word play occurred at probability of 0.03437512717231027
+For topic 9 word better occurred at probability of 0.021524561855774862
+For topic 9 word like occurred at probability of 0.01592175107545436
+For topic 9 word community occurred at probability of 0.014049996647316909
+For topic 9 word source occurred at probability of 0.01314669580755994
+For topic 9 word get occurred at probability of 0.01205341057760868
+For topic 9 word time occurred at probability of 0.011638913244593253
+For topic 9 word one occurred at probability of 0.011000921092873485
+For topic 9 word playing occurred at probability of 0.010569119258679895
+ 
+ 
+For topic 10 word game occurred at probability of 0.08442551118804563
+For topic 10 word good occurred at probability of 0.029887274793860552
+For topic 10 word fun occurred at probability of 0.024508909246373743
+For topic 10 word play occurred at probability of 0.0197556299150634
+For topic 10 word one occurred at probability of 0.014877599595993742
+For topic 10 word cs occurred at probability of 0.014837558429892123
+For topic 10 word csgo occurred at probability of 0.012066268822434004
+For topic 10 word played occurred at probability of 0.011649036862702754
+For topic 10 word counterstrike occurred at probability of 0.010056910855672596
+For topic 10 word like occurred at probability of 0.009846949836287918
+ 
+ 

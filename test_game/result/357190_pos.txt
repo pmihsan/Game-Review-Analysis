@@ -1,0 +1,120 @@
+For topic 1 word marvel occurred at probability of 0.021900522442956694
+For topic 1 word fun occurred at probability of 0.02053980402163048
+For topic 1 word fighting occurred at probability of 0.020051124194819758
+For topic 1 word games occurred at probability of 0.0194452786864434
+For topic 1 word like occurred at probability of 0.016368478161362925
+For topic 1 word still occurred at probability of 0.014203530854994394
+For topic 1 word good occurred at probability of 0.01386216838789163
+For topic 1 word love occurred at probability of 0.012652541670860613
+For topic 1 word best occurred at probability of 0.01222127017283201
+For topic 1 word time occurred at probability of 0.011529496107577156
+ 
+ 
+For topic 2 word marvel occurred at probability of 0.022131470766481018
+For topic 2 word fighting occurred at probability of 0.018238544832291793
+For topic 2 word one occurred at probability of 0.017767505001293295
+For topic 2 word capcom occurred at probability of 0.015374417157964216
+For topic 2 word like occurred at probability of 0.01311865636482692
+For topic 2 word motivatedim occurred at probability of 0.012746342924814594
+For topic 2 word vs occurred at probability of 0.012280998377054781
+For topic 2 word pc occurred at probability of 0.010238515038141893
+For topic 2 word time occurred at probability of 0.00995669049375816
+For topic 2 word would occurred at probability of 0.009892265903613456
+ 
+ 
+For topic 3 word capcom occurred at probability of 0.02636132540052829
+For topic 3 word vs occurred at probability of 0.016801245516967635
+For topic 3 word fighting occurred at probability of 0.014028858758946198
+For topic 3 word still occurred at probability of 0.012670729849275187
+For topic 3 word characters occurred at probability of 0.011707320205667136
+For topic 3 word marvel occurred at probability of 0.010253610892032451
+For topic 3 word would occurred at probability of 0.009746882087509779
+For topic 3 word playing occurred at probability of 0.009551070729051415
+For topic 3 word really occurred at probability of 0.00880046455536013
+For topic 3 word new occurred at probability of 0.008242257744439981
+ 
+ 
+For topic 4 word good occurred at probability of 0.030081467850138027
+For topic 4 word fun occurred at probability of 0.021217805902933935
+For topic 4 word characters occurred at probability of 0.01825537732505186
+For topic 4 word capcom occurred at probability of 0.016605539554930986
+For topic 4 word vs occurred at probability of 0.014825441215900174
+For topic 4 word pc occurred at probability of 0.0127767546313522
+For topic 4 word best occurred at probability of 0.012533771325664892
+For topic 4 word fighting occurred at probability of 0.011238472524678689
+For topic 4 word games occurred at probability of 0.011141023750789014
+For topic 4 word even occurred at probability of 0.00871319388611213
+ 
+ 
+For topic 5 word good occurred at probability of 0.02508421197866515
+For topic 5 word games occurred at probability of 0.023726578545877418
+For topic 5 word like occurred at probability of 0.020974959806729462
+For topic 5 word fighting occurred at probability of 0.02039699819229229
+For topic 5 word vs occurred at probability of 0.015162347109389263
+For topic 5 word marvel occurred at probability of 0.012709345297672672
+For topic 5 word played occurred at probability of 0.010561547076470154
+For topic 5 word capcom occurred at probability of 0.00923906419908845
+For topic 5 word really occurred at probability of 0.009099529897399995
+For topic 5 word characters occurred at probability of 0.009035149977885888
+ 
+ 
+For topic 6 word good occurred at probability of 0.024755379824396698
+For topic 6 word fighting occurred at probability of 0.021689440051003258
+For topic 6 word characters occurred at probability of 0.01657671041493561
+For topic 6 word get occurred at probability of 0.016096545302851525
+For topic 6 word motivatedim occurred at probability of 0.014993921288142987
+For topic 6 word one occurred at probability of 0.01135330716389529
+For topic 6 word vs occurred at probability of 0.0109984277797552
+For topic 6 word like occurred at probability of 0.01089581140387859
+For topic 6 word love occurred at probability of 0.00980773479171994
+For topic 6 word still occurred at probability of 0.009349255909698276
+ 
+ 
+For topic 7 word fighting occurred at probability of 0.027645908129193895
+For topic 7 word capcom occurred at probability of 0.017125841087402373
+For topic 7 word like occurred at probability of 0.011449329175481632
+For topic 7 word characters occurred at probability of 0.011434711921594993
+For topic 7 word one occurred at probability of 0.010812031769073544
+For topic 7 word marvel occurred at probability of 0.010126912975465842
+For topic 7 word fun occurred at probability of 0.00980916634183518
+For topic 7 word even occurred at probability of 0.009493892624705095
+For topic 7 word really occurred at probability of 0.008829131995756622
+For topic 7 word time occurred at probability of 0.008249970011388079
+ 
+ 
+For topic 8 word games occurred at probability of 0.02266098990817382
+For topic 8 word marvel occurred at probability of 0.021175534496033745
+For topic 8 word get occurred at probability of 0.01716818364636752
+For topic 8 word fighting occurred at probability of 0.016220133728521463
+For topic 8 word one occurred at probability of 0.01445070679412192
+For topic 8 word vs occurred at probability of 0.01326894555910526
+For topic 8 word motivatedim occurred at probability of 0.01164515682918608
+For topic 8 word characters occurred at probability of 0.008918782049626739
+For topic 8 word much occurred at probability of 0.008464467964091555
+For topic 8 word dont occurred at probability of 0.008389738717067335
+ 
+ 
+For topic 9 word like occurred at probability of 0.030431064927170706
+For topic 9 word fun occurred at probability of 0.023819169726328315
+For topic 9 word fighting occurred at probability of 0.021154362416791212
+For topic 9 word good occurred at probability of 0.019650403935452816
+For topic 9 word one occurred at probability of 0.01738779338470636
+For topic 9 word get occurred at probability of 0.014924099294311906
+For topic 9 word capcom occurred at probability of 0.012746015794567061
+For topic 9 word better occurred at probability of 0.012685409241477614
+For topic 9 word games occurred at probability of 0.011920706347856766
+For topic 9 word best occurred at probability of 0.01107845553639369
+ 
+ 
+For topic 10 word capcom occurred at probability of 0.024370626897856865
+For topic 10 word characters occurred at probability of 0.01659405586164349
+For topic 10 word marvel occurred at probability of 0.0158146666352152
+For topic 10 word like occurred at probability of 0.01472266997947883
+For topic 10 word time occurred at probability of 0.014421610248125282
+For topic 10 word one occurred at probability of 0.014379043874847893
+For topic 10 word really occurred at probability of 0.012976296282092804
+For topic 10 word games occurred at probability of 0.01292927756239881
+For topic 10 word still occurred at probability of 0.010209154388162934
+For topic 10 word good occurred at probability of 0.008641089495883224
+ 
+ 

@@ -1,0 +1,120 @@
+For topic 1 word time occurred at probability of 0.015205064115437148
+For topic 1 word dont occurred at probability of 0.014801606623003023
+For topic 1 word stardew occurred at probability of 0.012147296287119878
+For topic 1 word buy occurred at probability of 0.010536038043708706
+For topic 1 word really occurred at probability of 0.010480092883645063
+For topic 1 word farming occurred at probability of 0.010132767354849938
+For topic 1 word boring occurred at probability of 0.009878581208281658
+For topic 1 word cant occurred at probability of 0.009747950301318921
+For topic 1 word make occurred at probability of 0.009231754362344436
+For topic 1 word items occurred at probability of 0.00843173427886786
+ 
+ 
+For topic 2 word like occurred at probability of 0.019656600478593706
+For topic 2 word minecraft occurred at probability of 0.011602570615873295
+For topic 2 word also occurred at probability of 0.01145527731176172
+For topic 2 word stardew occurred at probability of 0.011448522439428248
+For topic 2 word boring occurred at probability of 0.01141363069432253
+For topic 2 word even occurred at probability of 0.010204750330921566
+For topic 2 word one occurred at probability of 0.009242247194003276
+For topic 2 word need occurred at probability of 0.009175397720852458
+For topic 2 word item occurred at probability of 0.00907822187436377
+For topic 2 word day occurred at probability of 0.008081924545184992
+ 
+ 
+For topic 3 word like occurred at probability of 0.014672482240826961
+For topic 3 word stardew occurred at probability of 0.01461161327826856
+For topic 3 word dont occurred at probability of 0.011606614269610072
+For topic 3 word time occurred at probability of 0.011162816897767347
+For topic 3 word need occurred at probability of 0.01078750900302354
+For topic 3 word crafting occurred at probability of 0.010373096795844089
+For topic 3 word bad occurred at probability of 0.009994752357652039
+For topic 3 word make occurred at probability of 0.009256902297979895
+For topic 3 word even occurred at probability of 0.0082583507125886
+For topic 3 word give occurred at probability of 0.008082332278395964
+ 
+ 
+For topic 4 word time occurred at probability of 0.01881713210987038
+For topic 4 word like occurred at probability of 0.017314706126570992
+For topic 4 word buy occurred at probability of 0.013852630855728862
+For topic 4 word minecraft occurred at probability of 0.013216679096509525
+For topic 4 word get occurred at probability of 0.011761566645833714
+For topic 4 word bad occurred at probability of 0.01152931407228477
+For topic 4 word really occurred at probability of 0.010405077782402183
+For topic 4 word farming occurred at probability of 0.00882463194338857
+For topic 4 word dont occurred at probability of 0.00796550496829718
+For topic 4 word world occurred at probability of 0.007641272603359494
+ 
+ 
+For topic 5 word get occurred at probability of 0.017932399218085624
+For topic 5 word time occurred at probability of 0.013497947267895374
+For topic 5 word stardew occurred at probability of 0.012495574845392368
+For topic 5 word also occurred at probability of 0.012107373713501806
+For topic 5 word really occurred at probability of 0.01072158276707523
+For topic 5 word dont occurred at probability of 0.010649406838773457
+For topic 5 word like occurred at probability of 0.00935144376750656
+For topic 5 word need occurred at probability of 0.009289787517836334
+For topic 5 word money occurred at probability of 0.008477563420388023
+For topic 5 word item occurred at probability of 0.008065810757901566
+ 
+ 
+For topic 6 word get occurred at probability of 0.017466707239446728
+For topic 6 word buy occurred at probability of 0.0127010870489003
+For topic 6 word bad occurred at probability of 0.011498075016656499
+For topic 6 word valley occurred at probability of 0.010759985977324868
+For topic 6 word minecraft occurred at probability of 0.009349121875695912
+For topic 6 word even occurred at probability of 0.009149487594872888
+For topic 6 word really occurred at probability of 0.008947877798070476
+For topic 6 word one occurred at probability of 0.00884445191699795
+For topic 6 word like occurred at probability of 0.008603514373884557
+For topic 6 word make occurred at probability of 0.008525256352205883
+ 
+ 
+For topic 7 word crafting occurred at probability of 0.014096456428064428
+For topic 7 word boring occurred at probability of 0.01094692804601051
+For topic 7 word time occurred at probability of 0.009888564052268407
+For topic 7 word cant occurred at probability of 0.009519940285164627
+For topic 7 word also occurred at probability of 0.008685039913279565
+For topic 7 word im occurred at probability of 0.008581508212447771
+For topic 7 word even occurred at probability of 0.008300934031928529
+For topic 7 word like occurred at probability of 0.008275541590812277
+For topic 7 word valley occurred at probability of 0.008164108761433326
+For topic 7 word dont occurred at probability of 0.008083445212619306
+ 
+ 
+For topic 8 word get occurred at probability of 0.018491088583726483
+For topic 8 word buy occurred at probability of 0.01582018027786177
+For topic 8 word crafting occurred at probability of 0.011677974537948346
+For topic 8 word valley occurred at probability of 0.011258959991151826
+For topic 8 word one occurred at probability of 0.011049667174409375
+For topic 8 word time occurred at probability of 0.010469035824538135
+For topic 8 word boring occurred at probability of 0.008711413041382352
+For topic 8 word bad occurred at probability of 0.008330252977569093
+For topic 8 word really occurred at probability of 0.008167731860362985
+For topic 8 word building occurred at probability of 0.007547130776722771
+ 
+ 
+For topic 9 word time occurred at probability of 0.015673565682936985
+For topic 9 word get occurred at probability of 0.015543819060211708
+For topic 9 word stardew occurred at probability of 0.014920380318470991
+For topic 9 word valley occurred at probability of 0.011501376906026768
+For topic 9 word really occurred at probability of 0.011033070168420011
+For topic 9 word minecraft occurred at probability of 0.010144114750085012
+For topic 9 word even occurred at probability of 0.010062152783619004
+For topic 9 word need occurred at probability of 0.009608485786724935
+For topic 9 word like occurred at probability of 0.008909959820382783
+For topic 9 word would occurred at probability of 0.008828866773435029
+ 
+ 
+For topic 10 word get occurred at probability of 0.017108605903433032
+For topic 10 word cant occurred at probability of 0.010782631167282437
+For topic 10 word minecraft occurred at probability of 0.009753658351780596
+For topic 10 word need occurred at probability of 0.009710240484469041
+For topic 10 word items occurred at probability of 0.009489379085832908
+For topic 10 word world occurred at probability of 0.009444313391769123
+For topic 10 word want occurred at probability of 0.008677658564653613
+For topic 10 word like occurred at probability of 0.008419144330359092
+For topic 10 word money occurred at probability of 0.007752183438560881
+For topic 10 word building occurred at probability of 0.007744434263845081
+ 
+ 

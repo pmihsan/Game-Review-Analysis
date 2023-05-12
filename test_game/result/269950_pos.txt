@@ -1,0 +1,120 @@
+For topic 1 word runway occurred at probability of 0.003848408303358404
+For topic 1 word card occurred at probability of 0.003715477716409622
+For topic 1 word check occurred at probability of 0.003413878605336543
+For topic 1 word stunning occurred at probability of 0.0033634444130108583
+For topic 1 word aerofly occurred at probability of 0.0031090634517845733
+For topic 1 word found occurred at probability of 0.003108262309713894
+For topic 1 word seen occurred at probability of 0.0028588899656459767
+For topic 1 word virtual occurred at probability of 0.0028234168522551107
+For topic 1 word refund occurred at probability of 0.002698012199680243
+For topic 1 word spent occurred at probability of 0.0026400208367014654
+ 
+ 
+For topic 2 word product occurred at probability of 0.004321437923498345
+For topic 2 word spent occurred at probability of 0.004012108727397669
+For topic 2 word extra occurred at probability of 0.0039982702722775165
+For topic 2 word aircrafts occurred at probability of 0.003973458743466849
+For topic 2 word commercial occurred at probability of 0.003537463628699612
+For topic 2 word extremely occurred at probability of 0.003006363620190981
+For topic 2 word seen occurred at probability of 0.002955096176558439
+For topic 2 word major occurred at probability of 0.0026754893255802052
+For topic 2 word didnt occurred at probability of 0.002637231523024168
+For topic 2 word lighting occurred at probability of 0.002632819181283841
+ 
+ 
+For topic 3 word improved occurred at probability of 0.003690404002709839
+For topic 3 word ground occurred at probability of 0.0033132679932649125
+For topic 3 word stunning occurred at probability of 0.0031049917815356176
+For topic 3 word easily occurred at probability of 0.002913080047338165
+For topic 3 word didnt occurred at probability of 0.002792836742809018
+For topic 3 word screen occurred at probability of 0.002745053026858145
+For topic 3 word completely occurred at probability of 0.0025520373229283144
+For topic 3 word please occurred at probability of 0.0024929195565442804
+For topic 3 word aircrafts occurred at probability of 0.0024766985347533196
+For topic 3 word lacking occurred at probability of 0.0024536912108248246
+ 
+ 
+For topic 4 word aircrafts occurred at probability of 0.004106445776660501
+For topic 4 word ms occurred at probability of 0.0038871099749399843
+For topic 4 word improved occurred at probability of 0.0035719466825136817
+For topic 4 word product occurred at probability of 0.0032633530934578466
+For topic 4 word seen occurred at probability of 0.0030472558779166816
+For topic 4 word dlcs occurred at probability of 0.002857284808394211
+For topic 4 word vatsim occurred at probability of 0.0028452393011950423
+For topic 4 word ground occurred at probability of 0.0028195001295606282
+For topic 4 word keyboard occurred at probability of 0.0028030945202211915
+For topic 4 word dcs occurred at probability of 0.0027458902271491952
+ 
+ 
+For topic 5 word ground occurred at probability of 0.004231493163960628
+For topic 5 word found occurred at probability of 0.003913723494190622
+For topic 5 word havent occurred at probability of 0.003767297756896281
+For topic 5 word product occurred at probability of 0.0034605936327580743
+For topic 5 word improved occurred at probability of 0.003438612724118682
+For topic 5 word extremely occurred at probability of 0.0030948555247054172
+For topic 5 word place occurred at probability of 0.0029760161990759104
+For topic 5 word card occurred at probability of 0.0029648939551696766
+For topic 5 word part occurred at probability of 0.0028430660166277487
+For topic 5 word vatsim occurred at probability of 0.0027869259243003424
+ 
+ 
+For topic 6 word ground occurred at probability of 0.005230182927644489
+For topic 6 word extra occurred at probability of 0.0035544269979634465
+For topic 6 word dcs occurred at probability of 0.0035214822904708373
+For topic 6 word found occurred at probability of 0.0033281507532816157
+For topic 6 word spent occurred at probability of 0.0032979305624387797
+For topic 6 word product occurred at probability of 0.0027035839897820014
+For topic 6 word rate occurred at probability of 0.002691516527336461
+For topic 6 word major occurred at probability of 0.002553590811456576
+For topic 6 word requires occurred at probability of 0.0024966733279539743
+For topic 6 word two occurred at probability of 0.0024537121685714617
+ 
+ 
+For topic 7 word ms occurred at probability of 0.004472601469032371
+For topic 7 word aircrafts occurred at probability of 0.004296976087535644
+For topic 7 word vatsim occurred at probability of 0.0038415642416013795
+For topic 7 word found occurred at probability of 0.003740880991725561
+For topic 7 word extra occurred at probability of 0.0037360748760953432
+For topic 7 word card occurred at probability of 0.003732680454949506
+For topic 7 word extremely occurred at probability of 0.003211211720574765
+For topic 7 word otherwise occurred at probability of 0.003149103646464174
+For topic 7 word aerofly occurred at probability of 0.0030617061744303026
+For topic 7 word gb occurred at probability of 0.0027870656554498433
+ 
+ 
+For topic 8 word ground occurred at probability of 0.004640929564927498
+For topic 8 word store occurred at probability of 0.0034910521919790036
+For topic 8 word spent occurred at probability of 0.0033873739611042586
+For topic 8 word havent occurred at probability of 0.0031940616354930625
+For topic 8 word screen occurred at probability of 0.002932579674406723
+For topic 8 word improved occurred at probability of 0.002873190013668936
+For topic 8 word optimized occurred at probability of 0.0028253302836370054
+For topic 8 word dlcs occurred at probability of 0.0028250746361663183
+For topic 8 word job occurred at probability of 0.00281324064224106
+For topic 8 word lighting occurred at probability of 0.0027706739759568617
+ 
+ 
+For topic 9 word improved occurred at probability of 0.004129536826229836
+For topic 9 word ground occurred at probability of 0.004046606418344258
+For topic 9 word dlcs occurred at probability of 0.0035451899116880365
+For topic 9 word dcs occurred at probability of 0.003498917169120183
+For topic 9 word vatsim occurred at probability of 0.0032356458562022013
+For topic 9 word aerofly occurred at probability of 0.002929564306217812
+For topic 9 word perfect occurred at probability of 0.002885909490660607
+For topic 9 word airbus occurred at probability of 0.00276684739015832
+For topic 9 word refund occurred at probability of 0.002645346761853695
+For topic 9 word minimum occurred at probability of 0.0025697251835050594
+ 
+ 
+For topic 10 word commercial occurred at probability of 0.0041461938073080445
+For topic 10 word aerofly occurred at probability of 0.003610667915592416
+For topic 10 word cities occurred at probability of 0.0035966388076470687
+For topic 10 word perfect occurred at probability of 0.0035647735879268793
+For topic 10 word runway occurred at probability of 0.003294222730421267
+For topic 10 word rudder occurred at probability of 0.0030183584163832773
+For topic 10 word hundreds occurred at probability of 0.0029118676432177706
+For topic 10 word havent occurred at probability of 0.0028586332572993656
+For topic 10 word ground occurred at probability of 0.0028229742491933806
+For topic 10 word vatsim occurred at probability of 0.002706863147421937
+ 
+ 

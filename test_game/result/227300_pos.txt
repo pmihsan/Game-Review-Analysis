@@ -1,0 +1,120 @@
+For topic 1 word truck occurred at probability of 0.020087699286992923
+For topic 1 word play occurred at probability of 0.01792868195354446
+For topic 1 word good occurred at probability of 0.017463930984482744
+For topic 1 word best occurred at probability of 0.013142206604082888
+For topic 1 word one occurred at probability of 0.012699616453530063
+For topic 1 word trucks occurred at probability of 0.012541834039324892
+For topic 1 word recommend occurred at probability of 0.011809641354716552
+For topic 1 word like occurred at probability of 0.011454117941881923
+For topic 1 word hours occurred at probability of 0.010702528977809595
+For topic 1 word great occurred at probability of 0.010072213281759628
+ 
+ 
+For topic 2 word truck occurred at probability of 0.03187773453468349
+For topic 2 word fun occurred at probability of 0.02766482224218074
+For topic 2 word simulator occurred at probability of 0.01952459101434872
+For topic 2 word driving occurred at probability of 0.016549141280389874
+For topic 2 word like occurred at probability of 0.013929495742604544
+For topic 2 word drive occurred at probability of 0.011728756630099877
+For topic 2 word also occurred at probability of 0.010842690081708798
+For topic 2 word trucks occurred at probability of 0.010140189110997198
+For topic 2 word good occurred at probability of 0.009445080701968596
+For topic 2 word even occurred at probability of 0.0085306655988428
+ 
+ 
+For topic 3 word like occurred at probability of 0.021030735870259543
+For topic 3 word fun occurred at probability of 0.01987911514752759
+For topic 3 word good occurred at probability of 0.019818505769935067
+For topic 3 word play occurred at probability of 0.019734876651346298
+For topic 3 word drive occurred at probability of 0.012752697921957178
+For topic 3 word driving occurred at probability of 0.0105108180774214
+For topic 3 word time occurred at probability of 0.009681982109342395
+For topic 3 word even occurred at probability of 0.009091512429614717
+For topic 3 word simulator occurred at probability of 0.008115780974773622
+For topic 3 word relaxing occurred at probability of 0.008087939077051893
+ 
+ 
+For topic 4 word truck occurred at probability of 0.03442150019480211
+For topic 4 word like occurred at probability of 0.023703911577878118
+For topic 4 word best occurred at probability of 0.0148111981733984
+For topic 4 word simulator occurred at probability of 0.013314284217599772
+For topic 4 word great occurred at probability of 0.012939101141751357
+For topic 4 word one occurred at probability of 0.01209115911387804
+For topic 4 word good occurred at probability of 0.011917199806734169
+For topic 4 word drive occurred at probability of 0.010670165361891498
+For topic 4 word play occurred at probability of 0.010297811357426316
+For topic 4 word time occurred at probability of 0.010269877324147796
+ 
+ 
+For topic 5 word fun occurred at probability of 0.030159747847663763
+For topic 5 word best occurred at probability of 0.018560075102184607
+For topic 5 word great occurred at probability of 0.017821084597291738
+For topic 5 word driving occurred at probability of 0.01664511575565097
+For topic 5 word really occurred at probability of 0.016443208603247605
+For topic 5 word like occurred at probability of 0.015382215475563586
+For topic 5 word play occurred at probability of 0.013067088665931939
+For topic 5 word get occurred at probability of 0.012404174485621996
+For topic 5 word good occurred at probability of 0.010693735506277741
+For topic 5 word would occurred at probability of 0.009255522025695377
+ 
+ 
+For topic 6 word driving occurred at probability of 0.022877563769437177
+For topic 6 word simulator occurred at probability of 0.018183048087312973
+For topic 6 word truck occurred at probability of 0.017246808455033538
+For topic 6 word great occurred at probability of 0.01218363698175391
+For topic 6 word really occurred at probability of 0.011378752339955058
+For topic 6 word love occurred at probability of 0.011124774295558961
+For topic 6 word would occurred at probability of 0.010999684520941666
+For topic 6 word like occurred at probability of 0.010950786220440031
+For topic 6 word relaxing occurred at probability of 0.009775330949443937
+For topic 6 word hours occurred at probability of 0.009069995631263948
+ 
+ 
+For topic 7 word good occurred at probability of 0.03856793303282152
+For topic 7 word really occurred at probability of 0.015705180110644836
+For topic 7 word simulator occurred at probability of 0.014599153891772014
+For topic 7 word would occurred at probability of 0.01274933533643647
+For topic 7 word trucks occurred at probability of 0.011346753375083445
+For topic 7 word drive occurred at probability of 0.01098700365967649
+For topic 7 word play occurred at probability of 0.010771206936986893
+For topic 7 word best occurred at probability of 0.01052722679287782
+For topic 7 word games occurred at probability of 0.009396740662294498
+For topic 7 word like occurred at probability of 0.008169253842832
+ 
+ 
+For topic 8 word like occurred at probability of 0.018787691761969195
+For topic 8 word good occurred at probability of 0.01821664992531129
+For topic 8 word driving occurred at probability of 0.017754963187244545
+For topic 8 word great occurred at probability of 0.016789423775184362
+For topic 8 word love occurred at probability of 0.01660795579245225
+For topic 8 word recommend occurred at probability of 0.009631038685540322
+For topic 8 word time occurred at probability of 0.009416993443525106
+For topic 8 word simulator occurred at probability of 0.009161892806415757
+For topic 8 word games occurred at probability of 0.0089362993521749
+For topic 8 word one occurred at probability of 0.00887459764724001
+ 
+ 
+For topic 9 word good occurred at probability of 0.033568897794481266
+For topic 9 word truck occurred at probability of 0.02365394750432416
+For topic 9 word like occurred at probability of 0.01975169447305492
+For topic 9 word best occurred at probability of 0.017723242542065476
+For topic 9 word great occurred at probability of 0.015201558474043878
+For topic 9 word one occurred at probability of 0.01343355206426089
+For topic 9 word get occurred at probability of 0.011677993834275691
+For topic 9 word would occurred at probability of 0.01132655228894558
+For topic 9 word drive occurred at probability of 0.010595054535184202
+For topic 9 word driving occurred at probability of 0.009806861254926318
+ 
+ 
+For topic 10 word good occurred at probability of 0.04624690647498282
+For topic 10 word great occurred at probability of 0.016563971665916628
+For topic 10 word trucks occurred at probability of 0.013363902733886653
+For topic 10 word get occurred at probability of 0.012188048660300703
+For topic 10 word truck occurred at probability of 0.011696865088318832
+For topic 10 word many occurred at probability of 0.008246113863477868
+For topic 10 word love occurred at probability of 0.008074671647888351
+For topic 10 word fun occurred at probability of 0.007957348521726361
+For topic 10 word really occurred at probability of 0.007836090394337846
+For topic 10 word like occurred at probability of 0.00707209938071179
+ 
+ 

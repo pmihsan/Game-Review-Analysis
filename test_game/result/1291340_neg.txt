@@ -1,0 +1,120 @@
+For topic 1 word relaxing occurred at probability of 0.02660255224532473
+For topic 1 word get occurred at probability of 0.022244582946023727
+For topic 1 word building occurred at probability of 0.020877679467417008
+For topic 1 word little occurred at probability of 0.01935731145436197
+For topic 1 word town occurred at probability of 0.017235410639453642
+For topic 1 word pretty occurred at probability of 0.012376657072817779
+For topic 1 word fun occurred at probability of 0.012091188655685018
+For topic 1 word play occurred at probability of 0.011693875174583425
+For topic 1 word buildings occurred at probability of 0.01159005453987956
+For topic 1 word one occurred at probability of 0.011239427571689758
+ 
+ 
+For topic 2 word time occurred at probability of 0.03121783552697365
+For topic 2 word click occurred at probability of 0.028502730193948504
+For topic 2 word building occurred at probability of 0.0240056361034739
+For topic 2 word little occurred at probability of 0.022715126763361508
+For topic 2 word town occurred at probability of 0.018119249921067653
+For topic 2 word one occurred at probability of 0.013826813414179734
+For topic 2 word place occurred at probability of 0.012470202025603179
+For topic 2 word chill occurred at probability of 0.011740180315195213
+For topic 2 word get occurred at probability of 0.011238375900978563
+For topic 2 word block occurred at probability of 0.010830177606812916
+ 
+ 
+For topic 3 word build occurred at probability of 0.02837203956298876
+For topic 3 word place occurred at probability of 0.026602182379842163
+For topic 3 word get occurred at probability of 0.026422189934469528
+For topic 3 word little occurred at probability of 0.023851120325037552
+For topic 3 word click occurred at probability of 0.021410829854570372
+For topic 3 word city occurred at probability of 0.020119839347006268
+For topic 3 word block occurred at probability of 0.015604543411387088
+For topic 3 word would occurred at probability of 0.013916245818441081
+For topic 3 word like occurred at probability of 0.012005640940816634
+For topic 3 word play occurred at probability of 0.011917424668439225
+ 
+ 
+For topic 4 word build occurred at probability of 0.017037071011470114
+For topic 4 word fun occurred at probability of 0.016578797877486947
+For topic 4 word would occurred at probability of 0.016519572505825156
+For topic 4 word building occurred at probability of 0.01639162004393622
+For topic 4 word place occurred at probability of 0.015695399989963388
+For topic 4 word relaxing occurred at probability of 0.01436296999693396
+For topic 4 word little occurred at probability of 0.013401083396185186
+For topic 4 word block occurred at probability of 0.012487158973638607
+For topic 4 word buildings occurred at probability of 0.012175528212118248
+For topic 4 word hours occurred at probability of 0.010562626602341264
+ 
+ 
+For topic 5 word time occurred at probability of 0.030965553704615515
+For topic 5 word building occurred at probability of 0.0273560531243026
+For topic 5 word click occurred at probability of 0.02456373083447752
+For topic 5 word make occurred at probability of 0.019022471585035554
+For topic 5 word build occurred at probability of 0.011447058727838983
+For topic 5 word block occurred at probability of 0.010875575477121906
+For topic 5 word really occurred at probability of 0.01022903283229845
+For topic 5 word looking occurred at probability of 0.009554439251710909
+For topic 5 word sandbox occurred at probability of 0.009512898178935848
+For topic 5 word simple occurred at probability of 0.00927864852359261
+ 
+ 
+For topic 6 word place occurred at probability of 0.017548683116056774
+For topic 6 word play occurred at probability of 0.01614279139409881
+For topic 6 word click occurred at probability of 0.015230583837687037
+For topic 6 word city occurred at probability of 0.014990233904400676
+For topic 6 word town occurred at probability of 0.013190779401127884
+For topic 6 word get occurred at probability of 0.012623968083971414
+For topic 6 word buildings occurred at probability of 0.011644399214313426
+For topic 6 word youre occurred at probability of 0.011424743293945747
+For topic 6 word building occurred at probability of 0.011131235516672324
+For topic 6 word really occurred at probability of 0.010271606845020693
+ 
+ 
+For topic 7 word click occurred at probability of 0.02028808633073486
+For topic 7 word block occurred at probability of 0.016529921408938913
+For topic 7 word make occurred at probability of 0.016291194490613996
+For topic 7 word relaxing occurred at probability of 0.016188349515885617
+For topic 7 word would occurred at probability of 0.01590758933326976
+For topic 7 word build occurred at probability of 0.014854694856036752
+For topic 7 word city occurred at probability of 0.014498647098234816
+For topic 7 word place occurred at probability of 0.012455390495908861
+For topic 7 word youre occurred at probability of 0.011638253423887397
+For topic 7 word plop occurred at probability of 0.011227311781142349
+ 
+ 
+For topic 8 word build occurred at probability of 0.023502162422344847
+For topic 8 word block occurred at probability of 0.019839478463229504
+For topic 8 word buildings occurred at probability of 0.015651965235393427
+For topic 8 word make occurred at probability of 0.014250100987109628
+For topic 8 word like occurred at probability of 0.013091684928497011
+For topic 8 word click occurred at probability of 0.012748893424832425
+For topic 8 word toy occurred at probability of 0.01194492144277293
+For topic 8 word blocks occurred at probability of 0.011109855171801245
+For topic 8 word relaxing occurred at probability of 0.010454994497609166
+For topic 8 word grid occurred at probability of 0.009943163527350802
+ 
+ 
+For topic 9 word city occurred at probability of 0.020729842165576932
+For topic 9 word relaxing occurred at probability of 0.020183249903926236
+For topic 9 word build occurred at probability of 0.018343219168332002
+For topic 9 word click occurred at probability of 0.01713779440041572
+For topic 9 word building occurred at probability of 0.015856056048796183
+For topic 9 word play occurred at probability of 0.014116784127964917
+For topic 9 word pretty occurred at probability of 0.012916149296878435
+For topic 9 word around occurred at probability of 0.011223984759512416
+For topic 9 word way occurred at probability of 0.010959362628956089
+For topic 9 word place occurred at probability of 0.010650802289344492
+ 
+ 
+For topic 10 word relaxing occurred at probability of 0.02661606130044393
+For topic 10 word building occurred at probability of 0.02235343204334312
+For topic 10 word little occurred at probability of 0.018256515569505957
+For topic 10 word time occurred at probability of 0.016494101325065007
+For topic 10 word block occurred at probability of 0.01320133537477716
+For topic 10 word fun occurred at probability of 0.01202158211560485
+For topic 10 word would occurred at probability of 0.011340676046893901
+For topic 10 word great occurred at probability of 0.011093572216599679
+For topic 10 word toy occurred at probability of 0.011051336658568183
+For topic 10 word something occurred at probability of 0.010718271605111435
+ 
+ 

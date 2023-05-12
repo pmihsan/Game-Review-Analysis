@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.08909919211561866
+For topic 1 word coaster occurred at probability of 0.023437512178163138
+For topic 1 word even occurred at probability of 0.018461105270272966
+For topic 1 word dont occurred at probability of 0.01283636179272021
+For topic 1 word would occurred at probability of 0.011842872783488879
+For topic 1 word crash occurred at probability of 0.01092475218138962
+For topic 1 word play occurred at probability of 0.01026315195505449
+For topic 1 word still occurred at probability of 0.010199932982277773
+For topic 1 word access occurred at probability of 0.0084188394876664
+For topic 1 word games occurred at probability of 0.007896243402486446
+ 
+ 
+For topic 2 word coaster occurred at probability of 0.029549173402056945
+For topic 2 word game occurred at probability of 0.024277810107611795
+For topic 2 word planet occurred at probability of 0.015562637343325653
+For topic 2 word crash occurred at probability of 0.01471155281524726
+For topic 2 word time occurred at probability of 0.012539075204015376
+For topic 2 word bad occurred at probability of 0.010984836940332554
+For topic 2 word people occurred at probability of 0.007863097379089029
+For topic 2 word still occurred at probability of 0.007741748479068819
+For topic 2 word really occurred at probability of 0.007387543179155697
+For topic 2 word rollercoaster occurred at probability of 0.0073342544238689565
+ 
+ 
+For topic 3 word game occurred at probability of 0.06060454705619385
+For topic 3 word coaster occurred at probability of 0.016988889320628545
+For topic 3 word money occurred at probability of 0.014842399235279384
+For topic 3 word buy occurred at probability of 0.012753129504889153
+For topic 3 word like occurred at probability of 0.01137479033560887
+For topic 3 word one occurred at probability of 0.010139017104166606
+For topic 3 word still occurred at probability of 0.008616507070083152
+For topic 3 word get occurred at probability of 0.007948347858317776
+For topic 3 word terrible occurred at probability of 0.007506285643727464
+For topic 3 word look occurred at probability of 0.006977407410972406
+ 
+ 
+For topic 4 word game occurred at probability of 0.030650615776128275
+For topic 4 word coaster occurred at probability of 0.021459497930761857
+For topic 4 word planet occurred at probability of 0.015326954184535242
+For topic 4 word dont occurred at probability of 0.014309849055372576
+For topic 4 word time occurred at probability of 0.011612962414149596
+For topic 4 word early occurred at probability of 0.011196736408469198
+For topic 4 word play occurred at probability of 0.01085213424978458
+For topic 4 word bad occurred at probability of 0.01003258583039704
+For topic 4 word see occurred at probability of 0.009520276867687003
+For topic 4 word cant occurred at probability of 0.008917195195086427
+ 
+ 
+For topic 5 word game occurred at probability of 0.07168476126004432
+For topic 5 word crash occurred at probability of 0.015603298172514268
+For topic 5 word bad occurred at probability of 0.012706746819879619
+For topic 5 word cant occurred at probability of 0.010070864261356989
+For topic 5 word planet occurred at probability of 0.009918130745674002
+For topic 5 word even occurred at probability of 0.00954193322521177
+For topic 5 word people occurred at probability of 0.009233050290187278
+For topic 5 word access occurred at probability of 0.009184879142086886
+For topic 5 word still occurred at probability of 0.008885595444057712
+For topic 5 word money occurred at probability of 0.00870895378883391
+ 
+ 
+For topic 6 word game occurred at probability of 0.09234760141755882
+For topic 6 word coaster occurred at probability of 0.01943134595400726
+For topic 6 word even occurred at probability of 0.014879837344303969
+For topic 6 word like occurred at probability of 0.013675896447157146
+For topic 6 word really occurred at probability of 0.009999453739510847
+For topic 6 word one occurred at probability of 0.009230683849698565
+For topic 6 word access occurred at probability of 0.009046402325562253
+For topic 6 word planet occurred at probability of 0.008847914429144269
+For topic 6 word time occurred at probability of 0.007483251806439982
+For topic 6 word cant occurred at probability of 0.007181241155413313
+ 
+ 
+For topic 7 word game occurred at probability of 0.07690912379282877
+For topic 7 word even occurred at probability of 0.017348240757246707
+For topic 7 word planet occurred at probability of 0.014886678876601715
+For topic 7 word crash occurred at probability of 0.014831786604716587
+For topic 7 word get occurred at probability of 0.01267252258639868
+For topic 7 word early occurred at probability of 0.012207367668997516
+For topic 7 word money occurred at probability of 0.009475770468087985
+For topic 7 word would occurred at probability of 0.009143827506515873
+For topic 7 word bad occurred at probability of 0.008769594346335728
+For topic 7 word im occurred at probability of 0.008152189633225912
+ 
+ 
+For topic 8 word coaster occurred at probability of 0.02160397928495275
+For topic 8 word buy occurred at probability of 0.019048864507723532
+For topic 8 word money occurred at probability of 0.0118341029846825
+For topic 8 word bad occurred at probability of 0.011139574094890721
+For topic 8 word still occurred at probability of 0.010708455567009898
+For topic 8 word like occurred at probability of 0.01033498416677635
+For topic 8 word would occurred at probability of 0.009732677686565277
+For topic 8 word game occurred at probability of 0.009696232877409658
+For topic 8 word crash occurred at probability of 0.00966643132988649
+For topic 8 word rct occurred at probability of 0.00914258049089947
+ 
+ 
+For topic 9 word game occurred at probability of 0.042352492749019324
+For topic 9 word coaster occurred at probability of 0.02530213520104161
+For topic 9 word bad occurred at probability of 0.014230278738372983
+For topic 9 word like occurred at probability of 0.01269599570715867
+For topic 9 word early occurred at probability of 0.012236110433674887
+For topic 9 word get occurred at probability of 0.010132387085986348
+For topic 9 word buy occurred at probability of 0.009458245285764772
+For topic 9 word park occurred at probability of 0.00907101435235331
+For topic 9 word still occurred at probability of 0.008832717298382788
+For topic 9 word much occurred at probability of 0.008641109073216087
+ 
+ 
+For topic 10 word buy occurred at probability of 0.013979129181847854
+For topic 10 word planet occurred at probability of 0.013910266958543638
+For topic 10 word time occurred at probability of 0.013139927174302962
+For topic 10 word get occurred at probability of 0.012643163418548084
+For topic 10 word play occurred at probability of 0.010290174728423113
+For topic 10 word money occurred at probability of 0.010041638943936297
+For topic 10 word tycoon occurred at probability of 0.00929887060659436
+For topic 10 word early occurred at probability of 0.008795853814295174
+For topic 10 word dont occurred at probability of 0.008470513494642291
+For topic 10 word really occurred at probability of 0.008169143416430076
+ 
+ 

@@ -1,0 +1,120 @@
+For topic 1 word get occurred at probability of 0.015560924382070771
+For topic 1 word enemies occurred at probability of 0.01481794223418406
+For topic 1 word doom occurred at probability of 0.012665772474181327
+For topic 1 word death occurred at probability of 0.012208532522467869
+For topic 1 word blood occurred at probability of 0.011631129105575025
+For topic 1 word hard occurred at probability of 0.010090654187201046
+For topic 1 word shoot occurred at probability of 0.009842755394656373
+For topic 1 word fuck occurred at probability of 0.009593753625195262
+For topic 1 word cant occurred at probability of 0.008258087813213903
+For topic 1 word fps occurred at probability of 0.008126208666042871
+ 
+ 
+For topic 2 word death occurred at probability of 0.015649726956640606
+For topic 2 word doom occurred at probability of 0.013547772098003332
+For topic 2 word time occurred at probability of 0.013150064688143753
+For topic 2 word enemies occurred at probability of 0.012592714677027468
+For topic 2 word shoot occurred at probability of 0.011894083729758188
+For topic 2 word like occurred at probability of 0.010793616939909502
+For topic 2 word ultrakill occurred at probability of 0.010473479663981093
+For topic 2 word fucking occurred at probability of 0.009807288566004298
+For topic 2 word one occurred at probability of 0.00892409379051814
+For topic 2 word fuck occurred at probability of 0.008539339133297432
+ 
+ 
+For topic 3 word blood occurred at probability of 0.014575100422230997
+For topic 3 word like occurred at probability of 0.014495237655184224
+For topic 3 word get occurred at probability of 0.014262444629853502
+For topic 3 word doom occurred at probability of 0.010068307146305223
+For topic 3 word ultrakill occurred at probability of 0.009849542698482055
+For topic 3 word shotgun occurred at probability of 0.009791234702364121
+For topic 3 word fucking occurred at probability of 0.009638303440886982
+For topic 3 word fps occurred at probability of 0.00871370058509459
+For topic 3 word good occurred at probability of 0.00857278565056624
+For topic 3 word one occurred at probability of 0.00843720386144404
+ 
+ 
+For topic 4 word enemies occurred at probability of 0.016278042735294745
+For topic 4 word hell occurred at probability of 0.015568396851847065
+For topic 4 word death occurred at probability of 0.012809677870228464
+For topic 4 word play occurred at probability of 0.011472202647168339
+For topic 4 word doom occurred at probability of 0.01056630413903151
+For topic 4 word games occurred at probability of 0.010077683182910708
+For topic 4 word get occurred at probability of 0.009887465611654947
+For topic 4 word gun occurred at probability of 0.009343318760199627
+For topic 4 word hard occurred at probability of 0.009187056604447078
+For topic 4 word blood occurred at probability of 0.008510351321454371
+ 
+ 
+For topic 5 word get occurred at probability of 0.014856158565248759
+For topic 5 word death occurred at probability of 0.014345900831527569
+For topic 5 word fucking occurred at probability of 0.013495458223347797
+For topic 5 word doom occurred at probability of 0.012263023331569142
+For topic 5 word hell occurred at probability of 0.012137973048027816
+For topic 5 word blood occurred at probability of 0.01039689882972093
+For topic 5 word ultrakill occurred at probability of 0.010132596800292245
+For topic 5 word shotgun occurred at probability of 0.009874125561678278
+For topic 5 word one occurred at probability of 0.009037314208918188
+For topic 5 word shit occurred at probability of 0.008224905560927871
+ 
+ 
+For topic 6 word fucking occurred at probability of 0.01902339592694276
+For topic 6 word hell occurred at probability of 0.012212974806258057
+For topic 6 word buy occurred at probability of 0.011073713619898357
+For topic 6 word blood occurred at probability of 0.010231026296448969
+For topic 6 word games occurred at probability of 0.009743218178368054
+For topic 6 word make occurred at probability of 0.009631914097607015
+For topic 6 word doom occurred at probability of 0.009544805112277484
+For topic 6 word one occurred at probability of 0.009467748210628004
+For topic 6 word time occurred at probability of 0.008078534666275769
+For topic 6 word fast occurred at probability of 0.007886514439580982
+ 
+ 
+For topic 7 word play occurred at probability of 0.015883762246529303
+For topic 7 word like occurred at probability of 0.012374125474876449
+For topic 7 word hell occurred at probability of 0.011352937825122273
+For topic 7 word hard occurred at probability of 0.01018281207166813
+For topic 7 word im occurred at probability of 0.009994005159389351
+For topic 7 word go occurred at probability of 0.00980257628714972
+For topic 7 word really occurred at probability of 0.008966944105751553
+For topic 7 word kill occurred at probability of 0.008311243985723377
+For topic 7 word make occurred at probability of 0.00822977990797741
+For topic 7 word enemy occurred at probability of 0.007765672911051954
+ 
+ 
+For topic 8 word make occurred at probability of 0.016336258701166038
+For topic 8 word hell occurred at probability of 0.015134770763165856
+For topic 8 word like occurred at probability of 0.014745238814145481
+For topic 8 word play occurred at probability of 0.014121781414165795
+For topic 8 word death occurred at probability of 0.013825314355003705
+For topic 8 word shoot occurred at probability of 0.01213660688404797
+For topic 8 word fucking occurred at probability of 0.011307919686557368
+For topic 8 word enemies occurred at probability of 0.01089327021080949
+For topic 8 word go occurred at probability of 0.009861507254847086
+For topic 8 word shotgun occurred at probability of 0.009545094034508478
+ 
+ 
+For topic 9 word blood occurred at probability of 0.014315709890966965
+For topic 9 word like occurred at probability of 0.013563938435914132
+For topic 9 word fucking occurred at probability of 0.010485446768483536
+For topic 9 word enemies occurred at probability of 0.010136519798451003
+For topic 9 word ultrakill occurred at probability of 0.010112662830935837
+For topic 9 word doom occurred at probability of 0.009750002581838753
+For topic 9 word buy occurred at probability of 0.008692415266092955
+For topic 9 word play occurred at probability of 0.008380734225736776
+For topic 9 word go occurred at probability of 0.0081761850520449
+For topic 9 word fast occurred at probability of 0.00798360052972627
+ 
+ 
+For topic 10 word enemies occurred at probability of 0.01658144963596977
+For topic 10 word blood occurred at probability of 0.016263623644709502
+For topic 10 word fuck occurred at probability of 0.012514949102516505
+For topic 10 word hard occurred at probability of 0.010466530016459105
+For topic 10 word good occurred at probability of 0.008041795853328603
+For topic 10 word shoot occurred at probability of 0.007991649342564395
+For topic 10 word doom occurred at probability of 0.007890555588443832
+For topic 10 word fucking occurred at probability of 0.007636204646251995
+For topic 10 word dont occurred at probability of 0.007633440467818123
+For topic 10 word im occurred at probability of 0.0073721606118629665
+ 
+ 

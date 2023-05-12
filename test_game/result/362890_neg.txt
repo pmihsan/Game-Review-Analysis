@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.03515816455864356
+For topic 1 word original occurred at probability of 0.013883486247886817
+For topic 1 word half occurred at probability of 0.013309361704168113
+For topic 1 word life occurred at probability of 0.012853548593435729
+For topic 1 word mesa occurred at probability of 0.012459800502614114
+For topic 1 word play occurred at probability of 0.009066480261840676
+For topic 1 word even occurred at probability of 0.008440307138830537
+For topic 1 word halflife occurred at probability of 0.008291156810665182
+For topic 1 word remake occurred at probability of 0.007700222381553459
+For topic 1 word first occurred at probability of 0.007376455702346492
+ 
+ 
+For topic 2 word game occurred at probability of 0.04179671470160747
+For topic 2 word original occurred at probability of 0.012267524516899145
+For topic 2 word time occurred at probability of 0.011832814620983706
+For topic 2 word halflife occurred at probability of 0.010780276833914991
+For topic 2 word half occurred at probability of 0.010652954200969933
+For topic 2 word mesa occurred at probability of 0.009865603665384162
+For topic 2 word xen occurred at probability of 0.008508649820594431
+For topic 2 word really occurred at probability of 0.008453604543986897
+For topic 2 word still occurred at probability of 0.0077520125244971635
+For topic 2 word good occurred at probability of 0.007180561199128373
+ 
+ 
+For topic 3 word xen occurred at probability of 0.016562168381169123
+For topic 3 word life occurred at probability of 0.012837867215425434
+For topic 3 word much occurred at probability of 0.011208469023822443
+For topic 3 word get occurred at probability of 0.010729838956390979
+For topic 3 word way occurred at probability of 0.009740931644411309
+For topic 3 word original occurred at probability of 0.00925502085295381
+For topic 3 word good occurred at probability of 0.008956589570420571
+For topic 3 word still occurred at probability of 0.00885559544162215
+For topic 3 word bad occurred at probability of 0.007951774581282026
+For topic 3 word black occurred at probability of 0.007241196792010228
+ 
+ 
+For topic 4 word game occurred at probability of 0.04228772448851417
+For topic 4 word xen occurred at probability of 0.015198587545347735
+For topic 4 word half occurred at probability of 0.010988784710114122
+For topic 4 word original occurred at probability of 0.010740796422589136
+For topic 4 word time occurred at probability of 0.010325537643897412
+For topic 4 word life occurred at probability of 0.01019635856046227
+For topic 4 word like occurred at probability of 0.00913192961887956
+For topic 4 word play occurred at probability of 0.008677439234009082
+For topic 4 word get occurred at probability of 0.008665563852551735
+For topic 4 word one occurred at probability of 0.008377899400533675
+ 
+ 
+For topic 5 word game occurred at probability of 0.03806506511609056
+For topic 5 word xen occurred at probability of 0.02614062853143275
+For topic 5 word remake occurred at probability of 0.011661809418895242
+For topic 5 word life occurred at probability of 0.010856368373543982
+For topic 5 word time occurred at probability of 0.010523722079073124
+For topic 5 word half occurred at probability of 0.007619850283069713
+For topic 5 word times occurred at probability of 0.006975331737160781
+For topic 5 word good occurred at probability of 0.0066389058243977875
+For topic 5 word like occurred at probability of 0.006270937118035867
+For topic 5 word well occurred at probability of 0.006240409527778363
+ 
+ 
+For topic 6 word game occurred at probability of 0.03273786768485123
+For topic 6 word original occurred at probability of 0.014883795135897946
+For topic 6 word half occurred at probability of 0.012505869480898983
+For topic 6 word even occurred at probability of 0.00959507477509275
+For topic 6 word get occurred at probability of 0.009487968489541103
+For topic 6 word times occurred at probability of 0.009090825097500829
+For topic 6 word play occurred at probability of 0.008503372560036545
+For topic 6 word life occurred at probability of 0.008328503746430389
+For topic 6 word first occurred at probability of 0.008060116063589431
+For topic 6 word good occurred at probability of 0.008042415924540011
+ 
+ 
+For topic 7 word game occurred at probability of 0.027645752839650442
+For topic 7 word xen occurred at probability of 0.0198002332241609
+For topic 7 word halflife occurred at probability of 0.013147867850246556
+For topic 7 word mesa occurred at probability of 0.012350254918450538
+For topic 7 word like occurred at probability of 0.01125091215751062
+For topic 7 word original occurred at probability of 0.008923364352875239
+For topic 7 word still occurred at probability of 0.00853799500192658
+For topic 7 word black occurred at probability of 0.008400715721636984
+For topic 7 word half occurred at probability of 0.008320936003544437
+For topic 7 word way occurred at probability of 0.008114764023506417
+ 
+ 
+For topic 8 word game occurred at probability of 0.042679993507640554
+For topic 8 word life occurred at probability of 0.011944166765322358
+For topic 8 word like occurred at probability of 0.011486256047935295
+For topic 8 word original occurred at probability of 0.01019161349424125
+For topic 8 word xen occurred at probability of 0.00922206484403626
+For topic 8 word halflife occurred at probability of 0.00840411509976532
+For topic 8 word play occurred at probability of 0.006724356988107317
+For topic 8 word get occurred at probability of 0.006385683411559065
+For topic 8 word playing occurred at probability of 0.006083976437021364
+For topic 8 word remake occurred at probability of 0.005767871038173418
+ 
+ 
+For topic 9 word game occurred at probability of 0.05358842754471457
+For topic 9 word life occurred at probability of 0.012157842360722764
+For topic 9 word half occurred at probability of 0.010377847088163705
+For topic 9 word much occurred at probability of 0.010294150515314411
+For topic 9 word like occurred at probability of 0.009523047713364865
+For topic 9 word would occurred at probability of 0.008919679488621345
+For topic 9 word xen occurred at probability of 0.008903204748621675
+For topic 9 word black occurred at probability of 0.008798032731411219
+For topic 9 word really occurred at probability of 0.008180499492776099
+For topic 9 word mesa occurred at probability of 0.007679643303634487
+ 
+ 
+For topic 10 word xen occurred at probability of 0.015328662476516085
+For topic 10 word halflife occurred at probability of 0.013799710452318821
+For topic 10 word original occurred at probability of 0.010766172411354413
+For topic 10 word get occurred at probability of 0.009568617761792278
+For topic 10 word game occurred at probability of 0.009458123180337667
+For topic 10 word one occurred at probability of 0.009170284455872748
+For topic 10 word black occurred at probability of 0.009077618738771305
+For topic 10 word play occurred at probability of 0.008870606762591363
+For topic 10 word half occurred at probability of 0.008729392808380983
+For topic 10 word really occurred at probability of 0.007843513925044433
+ 
+ 

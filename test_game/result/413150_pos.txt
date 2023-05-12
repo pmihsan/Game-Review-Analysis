@@ -1,0 +1,120 @@
+For topic 1 word like occurred at probability of 0.020469446182770353
+For topic 1 word fun occurred at probability of 0.01954280126084355
+For topic 1 word great occurred at probability of 0.018104462633267124
+For topic 1 word harvest occurred at probability of 0.012669077191499421
+For topic 1 word time occurred at probability of 0.01264958650207047
+For topic 1 word farming occurred at probability of 0.012347055286459945
+For topic 1 word get occurred at probability of 0.01171693010573418
+For topic 1 word games occurred at probability of 0.011305647064336878
+For topic 1 word played occurred at probability of 0.009259833464880242
+For topic 1 word recommend occurred at probability of 0.009219823706983559
+ 
+ 
+For topic 2 word love occurred at probability of 0.019549117524430424
+For topic 2 word like occurred at probability of 0.018210908268346662
+For topic 2 word play occurred at probability of 0.01782258291943938
+For topic 2 word good occurred at probability of 0.016915663128846
+For topic 2 word one occurred at probability of 0.014705132830648776
+For topic 2 word moon occurred at probability of 0.013435186806086869
+For topic 2 word get occurred at probability of 0.011496419708589528
+For topic 2 word amazing occurred at probability of 0.010825356442365295
+For topic 2 word ive occurred at probability of 0.009988014839508579
+For topic 2 word stardew occurred at probability of 0.009523101238781365
+ 
+ 
+For topic 3 word like occurred at probability of 0.02043328062490798
+For topic 3 word fun occurred at probability of 0.01742090917567319
+For topic 3 word one occurred at probability of 0.015670132174406545
+For topic 3 word moon occurred at probability of 0.013810733674684623
+For topic 3 word harvest occurred at probability of 0.01321685117566628
+For topic 3 word stardew occurred at probability of 0.012952821185438758
+For topic 3 word recommend occurred at probability of 0.012233609110172641
+For topic 3 word farming occurred at probability of 0.012221753886449338
+For topic 3 word really occurred at probability of 0.011561717812888814
+For topic 3 word valley occurred at probability of 0.00877191665352885
+ 
+ 
+For topic 4 word play occurred at probability of 0.021277347861061745
+For topic 4 word hours occurred at probability of 0.016101356186558863
+For topic 4 word games occurred at probability of 0.013724412335524794
+For topic 4 word harvest occurred at probability of 0.012876696450868915
+For topic 4 word really occurred at probability of 0.012705382030786375
+For topic 4 word time occurred at probability of 0.012421543108256565
+For topic 4 word moon occurred at probability of 0.01196046970558856
+For topic 4 word playing occurred at probability of 0.0115629039573667
+For topic 4 word farming occurred at probability of 0.01032609089534014
+For topic 4 word would occurred at probability of 0.009778100770865487
+ 
+ 
+For topic 5 word good occurred at probability of 0.019887042611462492
+For topic 5 word harvest occurred at probability of 0.019116944550516927
+For topic 5 word love occurred at probability of 0.01762419331842723
+For topic 5 word games occurred at probability of 0.01567242174805331
+For topic 5 word played occurred at probability of 0.012983086167333093
+For topic 5 word relaxing occurred at probability of 0.012422883380919231
+For topic 5 word moon occurred at probability of 0.012383270617973032
+For topic 5 word great occurred at probability of 0.012306672190580075
+For topic 5 word much occurred at probability of 0.011931347665148844
+For topic 5 word stardew occurred at probability of 0.010516496737676134
+ 
+ 
+For topic 6 word good occurred at probability of 0.03154622981129274
+For topic 6 word fun occurred at probability of 0.02309064971784346
+For topic 6 word great occurred at probability of 0.019377478426343284
+For topic 6 word harvest occurred at probability of 0.019134205039910576
+For topic 6 word play occurred at probability of 0.014014113934876152
+For topic 6 word like occurred at probability of 0.01373616207864248
+For topic 6 word get occurred at probability of 0.010818781304050628
+For topic 6 word best occurred at probability of 0.009703568776220405
+For topic 6 word love occurred at probability of 0.007920078532255839
+For topic 6 word friends occurred at probability of 0.007621262045547422
+ 
+ 
+For topic 7 word time occurred at probability of 0.01619240520604155
+For topic 7 word one occurred at probability of 0.014680925951989722
+For topic 7 word moon occurred at probability of 0.014251304318543342
+For topic 7 word like occurred at probability of 0.013736089537183326
+For topic 7 word good occurred at probability of 0.013601315556249024
+For topic 7 word playing occurred at probability of 0.013412290139039976
+For topic 7 word really occurred at probability of 0.012796555058571262
+For topic 7 word games occurred at probability of 0.012754155124510301
+For topic 7 word ive occurred at probability of 0.01083519643789546
+For topic 7 word valley occurred at probability of 0.007957040082441953
+ 
+ 
+For topic 8 word fun occurred at probability of 0.02516084485222789
+For topic 8 word hours occurred at probability of 0.018959952935437195
+For topic 8 word great occurred at probability of 0.017146172496470238
+For topic 8 word time occurred at probability of 0.017034993235714613
+For topic 8 word one occurred at probability of 0.013616761588892958
+For topic 8 word good occurred at probability of 0.013103980971623694
+For topic 8 word really occurred at probability of 0.012089814841814314
+For topic 8 word valley occurred at probability of 0.011700731410768342
+For topic 8 word stardew occurred at probability of 0.010285622836133889
+For topic 8 word much occurred at probability of 0.009819275163570519
+ 
+ 
+For topic 9 word fun occurred at probability of 0.02715637139519446
+For topic 9 word play occurred at probability of 0.023416548352383954
+For topic 9 word love occurred at probability of 0.018836451780066495
+For topic 9 word like occurred at probability of 0.0150291325820472
+For topic 9 word one occurred at probability of 0.014696749143781445
+For topic 9 word much occurred at probability of 0.012969053668234405
+For topic 9 word good occurred at probability of 0.012440924177732833
+For topic 9 word moon occurred at probability of 0.011821195849055294
+For topic 9 word great occurred at probability of 0.011309827786571285
+For topic 9 word relaxing occurred at probability of 0.011042483622721692
+ 
+ 
+For topic 10 word love occurred at probability of 0.02818221019914378
+For topic 10 word fun occurred at probability of 0.01855622277037169
+For topic 10 word play occurred at probability of 0.018034743562667124
+For topic 10 word games occurred at probability of 0.017069082629718225
+For topic 10 word time occurred at probability of 0.016981902702904846
+For topic 10 word like occurred at probability of 0.016910133319602432
+For topic 10 word harvest occurred at probability of 0.012771790487037235
+For topic 10 word much occurred at probability of 0.012695373670740931
+For topic 10 word moon occurred at probability of 0.011991008668712739
+For topic 10 word really occurred at probability of 0.010595332629550225
+ 
+ 

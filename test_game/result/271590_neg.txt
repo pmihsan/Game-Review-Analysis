@@ -1,0 +1,120 @@
+For topic 1 word online occurred at probability of 0.014108916135755144
+For topic 1 word money occurred at probability of 0.012654276451789263
+For topic 1 word single occurred at probability of 0.009405978103841094
+For topic 1 word playing occurred at probability of 0.008696738134495592
+For topic 1 word banned occurred at probability of 0.008538646853757343
+For topic 1 word even occurred at probability of 0.00791664642849141
+For topic 1 word one occurred at probability of 0.007816226162666539
+For topic 1 word got occurred at probability of 0.0073906394880528135
+For topic 1 word player occurred at probability of 0.007245822107080057
+For topic 1 word mode occurred at probability of 0.007089165544318454
+ 
+ 
+For topic 2 word gta occurred at probability of 0.014688460753367506
+For topic 2 word take occurred at probability of 0.012059983843341488
+For topic 2 word online occurred at probability of 0.011552617808027403
+For topic 2 word buy occurred at probability of 0.011192676450129986
+For topic 2 word play occurred at probability of 0.01034278654888296
+For topic 2 word banned occurred at probability of 0.009342396113083351
+For topic 2 word dont occurred at probability of 0.008979134152961867
+For topic 2 word time occurred at probability of 0.008204294576076828
+For topic 2 word money occurred at probability of 0.00726731482842855
+For topic 2 word cant occurred at probability of 0.007251865670732358
+ 
+ 
+For topic 3 word online occurred at probability of 0.03520627201688016
+For topic 3 word money occurred at probability of 0.013932399072483797
+For topic 3 word play occurred at probability of 0.010102660235074093
+For topic 3 word people occurred at probability of 0.008708276215761984
+For topic 3 word one occurred at probability of 0.008108608931782264
+For topic 3 word fun occurred at probability of 0.008066863142002036
+For topic 3 word dont occurred at probability of 0.007550671988371006
+For topic 3 word fucking occurred at probability of 0.007519408843824862
+For topic 3 word take occurred at probability of 0.007132516880509024
+For topic 3 word single occurred at probability of 0.006771303046217584
+ 
+ 
+For topic 4 word rockstar occurred at probability of 0.012382305376825933
+For topic 4 word mods occurred at probability of 0.012200695002717128
+For topic 4 word even occurred at probability of 0.01145510263677615
+For topic 4 word play occurred at probability of 0.010810331883524349
+For topic 4 word banned occurred at probability of 0.010069392949243035
+For topic 4 word online occurred at probability of 0.008748533544811407
+For topic 4 word buy occurred at probability of 0.008453873615420538
+For topic 4 word shit occurred at probability of 0.008077798412515498
+For topic 4 word like occurred at probability of 0.0076922739291965464
+For topic 4 word fuck occurred at probability of 0.0076390558385675475
+ 
+ 
+For topic 5 word online occurred at probability of 0.01961041843246151
+For topic 5 word money occurred at probability of 0.016258393030040914
+For topic 5 word play occurred at probability of 0.015521152293327324
+For topic 5 word rockstar occurred at probability of 0.009486895184874191
+For topic 5 word single occurred at probability of 0.00914063896333577
+For topic 5 word buy occurred at probability of 0.007322188519676758
+For topic 5 word fun occurred at probability of 0.007300580873129666
+For topic 5 word even occurred at probability of 0.007169157305482443
+For topic 5 word fucking occurred at probability of 0.007133860931498003
+For topic 5 word also occurred at probability of 0.006573790960373315
+ 
+ 
+For topic 6 word gta occurred at probability of 0.017822058271526383
+For topic 6 word money occurred at probability of 0.01670009676397346
+For topic 6 word rockstar occurred at probability of 0.016166763354881167
+For topic 6 word online occurred at probability of 0.015851613507040386
+For topic 6 word dont occurred at probability of 0.013023423973168018
+For topic 6 word mods occurred at probability of 0.010186072151838848
+For topic 6 word people occurred at probability of 0.009012448819991014
+For topic 6 word banned occurred at probability of 0.008600349526195816
+For topic 6 word player occurred at probability of 0.00853457196111798
+For topic 6 word take occurred at probability of 0.007474280520938615
+ 
+ 
+For topic 7 word online occurred at probability of 0.027616709511266685
+For topic 7 word money occurred at probability of 0.015381010646460243
+For topic 7 word rockstar occurred at probability of 0.013347145278842731
+For topic 7 word gta occurred at probability of 0.012491471088626629
+For topic 7 word time occurred at probability of 0.011602926219955461
+For topic 7 word take occurred at probability of 0.010863742649322126
+For topic 7 word dont occurred at probability of 0.01069736811518897
+For topic 7 word play occurred at probability of 0.00939257503567863
+For topic 7 word fuck occurred at probability of 0.009011815147951898
+For topic 7 word modding occurred at probability of 0.00778530668570028
+ 
+ 
+For topic 8 word gta occurred at probability of 0.017758715392517523
+For topic 8 word rockstar occurred at probability of 0.014083696285365176
+For topic 8 word online occurred at probability of 0.013799855051919184
+For topic 8 word play occurred at probability of 0.012008109045054357
+For topic 8 word money occurred at probability of 0.011436125500165293
+For topic 8 word dont occurred at probability of 0.009497986016260108
+For topic 8 word player occurred at probability of 0.008814420709292737
+For topic 8 word hours occurred at probability of 0.008576996023790522
+For topic 8 word mode occurred at probability of 0.008489860322449354
+For topic 8 word time occurred at probability of 0.008031742402369603
+ 
+ 
+For topic 9 word rockstar occurred at probability of 0.015217150715093199
+For topic 9 word gta occurred at probability of 0.014030444419386747
+For topic 9 word online occurred at probability of 0.010266649401645952
+For topic 9 word time occurred at probability of 0.009425718602978878
+For topic 9 word buy occurred at probability of 0.008578170335117668
+For topic 9 word play occurred at probability of 0.008408274237074664
+For topic 9 word hackers occurred at probability of 0.008317888804072648
+For topic 9 word fun occurred at probability of 0.008214411229923353
+For topic 9 word modding occurred at probability of 0.007989537562521878
+For topic 9 word fucking occurred at probability of 0.007931549378859325
+ 
+ 
+For topic 10 word mods occurred at probability of 0.010770097044825271
+For topic 10 word rockstar occurred at probability of 0.010696765172536508
+For topic 10 word money occurred at probability of 0.009460285653205716
+For topic 10 word fuck occurred at probability of 0.00855977885956018
+For topic 10 word banned occurred at probability of 0.008371526178221579
+For topic 10 word dont occurred at probability of 0.008224994115013923
+For topic 10 word gta occurred at probability of 0.007835925169828633
+For topic 10 word buy occurred at probability of 0.007830856818540751
+For topic 10 word hackers occurred at probability of 0.007700360563317007
+For topic 10 word modding occurred at probability of 0.007683909476384023
+ 
+ 

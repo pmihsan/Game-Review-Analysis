@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.01458570878011185
+For topic 1 word get occurred at probability of 0.012703099132781306
+For topic 1 word time occurred at probability of 0.011507376690726231
+For topic 1 word play occurred at probability of 0.010327482479944817
+For topic 1 word one occurred at probability of 0.008980710573775107
+For topic 1 word dinos occurred at probability of 0.00823894602447222
+For topic 1 word cant occurred at probability of 0.007947784664723246
+For topic 1 word base occurred at probability of 0.006856988662084705
+For topic 1 word servers occurred at probability of 0.006704776550995467
+For topic 1 word bad occurred at probability of 0.006529614881035206
+ 
+ 
+For topic 2 word game occurred at probability of 0.03449139088107811
+For topic 2 word server occurred at probability of 0.010973508673058725
+For topic 2 word even occurred at probability of 0.010656587555353198
+For topic 2 word would occurred at probability of 0.008941718361022276
+For topic 2 word one occurred at probability of 0.008913945768347264
+For topic 2 word hours occurred at probability of 0.008572698652024027
+For topic 2 word people occurred at probability of 0.008245136575861987
+For topic 2 word dinos occurred at probability of 0.0077490637062976745
+For topic 2 word cant occurred at probability of 0.007125121581799125
+For topic 2 word still occurred at probability of 0.006344335509567689
+ 
+ 
+For topic 3 word game occurred at probability of 0.0595704163174165
+For topic 3 word server occurred at probability of 0.011090085277625538
+For topic 3 word time occurred at probability of 0.010921145453243892
+For topic 3 word fun occurred at probability of 0.007999614968716484
+For topic 3 word even occurred at probability of 0.007723677718363582
+For topic 3 word ark occurred at probability of 0.0060431609554655276
+For topic 3 word playing occurred at probability of 0.005484401310727546
+For topic 3 word really occurred at probability of 0.005413450889917171
+For topic 3 word bad occurred at probability of 0.0054071727585046
+For topic 3 word like occurred at probability of 0.005359719795919921
+ 
+ 
+For topic 4 word game occurred at probability of 0.046537676584306915
+For topic 4 word get occurred at probability of 0.016639277344440987
+For topic 4 word play occurred at probability of 0.014027522463328494
+For topic 4 word dont occurred at probability of 0.01079244536540559
+For topic 4 word server occurred at probability of 0.010480007976393682
+For topic 4 word shit occurred at probability of 0.008713978176239404
+For topic 4 word like occurred at probability of 0.008466763997616443
+For topic 4 word new occurred at probability of 0.007277369597402919
+For topic 4 word dinos occurred at probability of 0.006727005018728343
+For topic 4 word good occurred at probability of 0.006244937604551007
+ 
+ 
+For topic 5 word game occurred at probability of 0.0641001097446463
+For topic 5 word play occurred at probability of 0.012924442585347591
+For topic 5 word like occurred at probability of 0.009594054184894408
+For topic 5 word time occurred at probability of 0.009002302876906544
+For topic 5 word cant occurred at probability of 0.007983263826506841
+For topic 5 word servers occurred at probability of 0.007203910744018296
+For topic 5 word even occurred at probability of 0.007149354154244761
+For topic 5 word dont occurred at probability of 0.006529208149828769
+For topic 5 word would occurred at probability of 0.006305654492302708
+For topic 5 word fun occurred at probability of 0.006236930653130712
+ 
+ 
+For topic 6 word game occurred at probability of 0.05615210562639602
+For topic 6 word dont occurred at probability of 0.016926058609918495
+For topic 6 word play occurred at probability of 0.012504215362756213
+For topic 6 word time occurred at probability of 0.011616542679604842
+For topic 6 word get occurred at probability of 0.010880558018241004
+For topic 6 word even occurred at probability of 0.010808110970932224
+For topic 6 word devs occurred at probability of 0.007964569058474617
+For topic 6 word got occurred at probability of 0.005999967817749629
+For topic 6 word ark occurred at probability of 0.0057760028116941
+For topic 6 word bad occurred at probability of 0.0056936070865038916
+ 
+ 
+For topic 7 word game occurred at probability of 0.04528188857906072
+For topic 7 word get occurred at probability of 0.01640895591638603
+For topic 7 word hours occurred at probability of 0.010353186074359713
+For topic 7 word dont occurred at probability of 0.010089877331237174
+For topic 7 word people occurred at probability of 0.008920420866955285
+For topic 7 word early occurred at probability of 0.007755503269327021
+For topic 7 word fun occurred at probability of 0.007689008886313674
+For topic 7 word one occurred at probability of 0.006567330926646479
+For topic 7 word like occurred at probability of 0.006172536023232763
+For topic 7 word still occurred at probability of 0.006046767351522252
+ 
+ 
+For topic 8 word game occurred at probability of 0.06341927141760993
+For topic 8 word time occurred at probability of 0.013635824130575389
+For topic 8 word get occurred at probability of 0.013345627602910838
+For topic 8 word hours occurred at probability of 0.008870959710557952
+For topic 8 word one occurred at probability of 0.008853571637498281
+For topic 8 word still occurred at probability of 0.008744096328089807
+For topic 8 word play occurred at probability of 0.00860491387226488
+For topic 8 word would occurred at probability of 0.007157085842732363
+For topic 8 word like occurred at probability of 0.007071740631535813
+For topic 8 word good occurred at probability of 0.006932719818391031
+ 
+ 
+For topic 9 word game occurred at probability of 0.04438743337325604
+For topic 9 word even occurred at probability of 0.011935064319123823
+For topic 9 word dont occurred at probability of 0.009381886049658526
+For topic 9 word cant occurred at probability of 0.009268927855314026
+For topic 9 word server occurred at probability of 0.007060986077614466
+For topic 9 word devs occurred at probability of 0.006537632371066265
+For topic 9 word make occurred at probability of 0.006186363563008453
+For topic 9 word play occurred at probability of 0.006057752453789566
+For topic 9 word run occurred at probability of 0.005502101030765656
+For topic 9 word servers occurred at probability of 0.005179163081352847
+ 
+ 
+For topic 10 word game occurred at probability of 0.031033418557795067
+For topic 10 word get occurred at probability of 0.014610417307300585
+For topic 10 word people occurred at probability of 0.009630915575680788
+For topic 10 word like occurred at probability of 0.008159481136941345
+For topic 10 word hours occurred at probability of 0.007811711389325266
+For topic 10 word play occurred at probability of 0.007309322745276771
+For topic 10 word even occurred at probability of 0.007037608002385877
+For topic 10 word time occurred at probability of 0.006676640220541389
+For topic 10 word would occurred at probability of 0.0065230266851517595
+For topic 10 word still occurred at probability of 0.006027342553380418
+ 
+ 

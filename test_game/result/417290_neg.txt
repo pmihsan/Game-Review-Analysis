@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.06731346711015425
+For topic 1 word dont occurred at probability of 0.013701204187691093
+For topic 1 word get occurred at probability of 0.012338715932773131
+For topic 1 word bugs occurred at probability of 0.012238027404383331
+For topic 1 word story occurred at probability of 0.011321166082103793
+For topic 1 word like occurred at probability of 0.011302563771216788
+For topic 1 word around occurred at probability of 0.009356603490271315
+For topic 1 word stealth occurred at probability of 0.008766376733026335
+For topic 1 word really occurred at probability of 0.007817434929597928
+For topic 1 word hours occurred at probability of 0.007550110815026134
+ 
+ 
+For topic 2 word game occurred at probability of 0.04142544052161182
+For topic 2 word get occurred at probability of 0.02456054313777049
+For topic 2 word play occurred at probability of 0.01781644067785895
+For topic 2 word quests occurred at probability of 0.014215496447427643
+For topic 2 word much occurred at probability of 0.01067304581265018
+For topic 2 word really occurred at probability of 0.010512400883365138
+For topic 2 word youre occurred at probability of 0.009348559801105378
+For topic 2 word quest occurred at probability of 0.008372080985348276
+For topic 2 word world occurred at probability of 0.008153315019767116
+For topic 2 word find occurred at probability of 0.007654621919320357
+ 
+ 
+For topic 3 word game occurred at probability of 0.07028704549238304
+For topic 3 word story occurred at probability of 0.01956084819129919
+For topic 3 word like occurred at probability of 0.012636776426478414
+For topic 3 word really occurred at probability of 0.011794619519487242
+For topic 3 word characters occurred at probability of 0.011484437619740408
+For topic 3 word dont occurred at probability of 0.0104670256270204
+For topic 3 word ending occurred at probability of 0.010239300286092634
+For topic 3 word would occurred at probability of 0.008691306115962692
+For topic 3 word theres occurred at probability of 0.008680551606179488
+For topic 3 word find occurred at probability of 0.008396214748177247
+ 
+ 
+For topic 4 word game occurred at probability of 0.07530261594625222
+For topic 4 word dont occurred at probability of 0.01231094145446578
+For topic 4 word world occurred at probability of 0.010794260306694928
+For topic 4 word story occurred at probability of 0.010709058366492509
+For topic 4 word stealth occurred at probability of 0.009493264736581955
+For topic 4 word time occurred at probability of 0.009341549361558895
+For topic 4 word quest occurred at probability of 0.009036856999345243
+For topic 4 word still occurred at probability of 0.00857599445834858
+For topic 4 word theres occurred at probability of 0.007836837523301367
+For topic 4 word guards occurred at probability of 0.0074060824538883145
+ 
+ 
+For topic 5 word game occurred at probability of 0.06313960838946728
+For topic 5 word get occurred at probability of 0.021240793053922215
+For topic 5 word story occurred at probability of 0.015346433750579714
+For topic 5 word world occurred at probability of 0.011580531788394893
+For topic 5 word like occurred at probability of 0.011036873049521374
+For topic 5 word stealth occurred at probability of 0.010276762648293285
+For topic 5 word sneak occurred at probability of 0.008633056633866204
+For topic 5 word see occurred at probability of 0.008560936793875496
+For topic 5 word still occurred at probability of 0.008436158496536466
+For topic 5 word little occurred at probability of 0.007518185173554559
+ 
+ 
+For topic 6 word game occurred at probability of 0.050125104056510376
+For topic 6 word get occurred at probability of 0.020710778324278326
+For topic 6 word quest occurred at probability of 0.013058339118600939
+For topic 6 word bugs occurred at probability of 0.012700480504791743
+For topic 6 word like occurred at probability of 0.012619279108887731
+For topic 6 word play occurred at probability of 0.010266909888718229
+For topic 6 word dont occurred at probability of 0.010076080025884601
+For topic 6 word little occurred at probability of 0.00943291573045105
+For topic 6 word still occurred at probability of 0.009178276379368954
+For topic 6 word rat occurred at probability of 0.008998307171320398
+ 
+ 
+For topic 7 word quests occurred at probability of 0.01827629038513522
+For topic 7 word game occurred at probability of 0.016018031478049727
+For topic 7 word world occurred at probability of 0.014531282163490646
+For topic 7 word bugs occurred at probability of 0.01426400785704741
+For topic 7 word first occurred at probability of 0.01389611065009526
+For topic 7 word get occurred at probability of 0.013069566503682031
+For topic 7 word dont occurred at probability of 0.011848256264911398
+For topic 7 word like occurred at probability of 0.011180005469586097
+For topic 7 word still occurred at probability of 0.010547845812278564
+For topic 7 word play occurred at probability of 0.009667008582184652
+ 
+ 
+For topic 8 word game occurred at probability of 0.06576001535896353
+For topic 8 word get occurred at probability of 0.015598355044760454
+For topic 8 word world occurred at probability of 0.011317564755172224
+For topic 8 word really occurred at probability of 0.011124412569837946
+For topic 8 word much occurred at probability of 0.009636857189099735
+For topic 8 word story occurred at probability of 0.00932248653285398
+For topic 8 word dont occurred at probability of 0.009279224474738217
+For topic 8 word would occurred at probability of 0.008756142089172183
+For topic 8 word things occurred at probability of 0.008387623716307581
+For topic 8 word one occurred at probability of 0.008333114018866477
+ 
+ 
+For topic 9 word game occurred at probability of 0.05901601902796847
+For topic 9 word quests occurred at probability of 0.01693341803318483
+For topic 9 word story occurred at probability of 0.013958557703613168
+For topic 9 word quest occurred at probability of 0.012100825117617986
+For topic 9 word much occurred at probability of 0.010706277858884606
+For topic 9 word youre occurred at probability of 0.009827719835212956
+For topic 9 word great occurred at probability of 0.00887332875281721
+For topic 9 word things occurred at probability of 0.008716268235833416
+For topic 9 word first occurred at probability of 0.008315328777044172
+For topic 9 word around occurred at probability of 0.007819289718815193
+ 
+ 
+For topic 10 word game occurred at probability of 0.03460243413147825
+For topic 10 word bugs occurred at probability of 0.013264038713496662
+For topic 10 word play occurred at probability of 0.013081560783070193
+For topic 10 word really occurred at probability of 0.011517287805271536
+For topic 10 word find occurred at probability of 0.011323291942005856
+For topic 10 word things occurred at probability of 0.009864726761623465
+For topic 10 word youre occurred at probability of 0.00892248106838897
+For topic 10 word first occurred at probability of 0.008757492315193823
+For topic 10 word dont occurred at probability of 0.00865771643442026
+For topic 10 word quests occurred at probability of 0.008316680988619525
+ 
+ 

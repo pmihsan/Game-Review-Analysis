@@ -1,0 +1,120 @@
+For topic 1 word pickin occurred at probability of 0.003351416882932274
+For topic 1 word pew occurred at probability of 0.0033482947604060874
+For topic 1 word hehe occurred at probability of 0.0029597077389157036
+For topic 1 word de occurred at probability of 0.002838114803688358
+For topic 1 word pickle occurred at probability of 0.0022133554135251353
+For topic 1 word wave occurred at probability of 0.0020059371583526367
+For topic 1 word que occurred at probability of 0.0019565911263347896
+For topic 1 word un occurred at probability of 0.0016120047646296708
+For topic 1 word el occurred at probability of 0.0015544695359831693
+For topic 1 word en occurred at probability of 0.0014043270992081787
+ 
+ 
+For topic 2 word pew occurred at probability of 0.004337507505356585
+For topic 2 word que occurred at probability of 0.003827327494466101
+For topic 2 word heal occurred at probability of 0.0026765848025288243
+For topic 2 word meal occurred at probability of 0.0025329703008718936
+For topic 2 word reel occurred at probability of 0.0023235248428162217
+For topic 2 word pickin occurred at probability of 0.001945561040846796
+For topic 2 word peel occurred at probability of 0.0018647161585499841
+For topic 2 word de occurred at probability of 0.001761480644912575
+For topic 2 word hiest occurred at probability of 0.0016301317756505077
+For topic 2 word compared occurred at probability of 0.0016023585159252308
+ 
+ 
+For topic 3 word heal occurred at probability of 0.003835198210390242
+For topic 3 word peel occurred at probability of 0.003309049674596925
+For topic 3 word de occurred at probability of 0.0025711566402260937
+For topic 3 word reel occurred at probability of 0.0025604577364001873
+For topic 3 word que occurred at probability of 0.0015841323324028251
+For topic 3 word threw occurred at probability of 0.0013898209847905334
+For topic 3 word ugly occurred at probability of 0.0013755865313054125
+For topic 3 word forward occurred at probability of 0.0013583553353211661
+For topic 3 word manager occurred at probability of 0.0013151120779969262
+For topic 3 word burger occurred at probability of 0.0012704949490694815
+ 
+ 
+For topic 4 word pickle occurred at probability of 0.004133541583193944
+For topic 4 word que occurred at probability of 0.003414348829246796
+For topic 4 word la occurred at probability of 0.003211565311599455
+For topic 4 word peel occurred at probability of 0.0027932753733085547
+For topic 4 word meal occurred at probability of 0.002051205129270147
+For topic 4 word juego occurred at probability of 0.002023140005857703
+For topic 4 word reel occurred at probability of 0.0020099950433450932
+For topic 4 word heal occurred at probability of 0.0019042993327873597
+For topic 4 word en occurred at probability of 0.0018662594691853634
+For topic 4 word con occurred at probability of 0.0017937684873387527
+ 
+ 
+For topic 5 word que occurred at probability of 0.004776400089969711
+For topic 5 word hehe occurred at probability of 0.0033304492860326456
+For topic 5 word meal occurred at probability of 0.0030686954728151084
+For topic 5 word heal occurred at probability of 0.002732214013843532
+For topic 5 word peel occurred at probability of 0.0026427499245782753
+For topic 5 word pickle occurred at probability of 0.0026254131539135287
+For topic 5 word pickin occurred at probability of 0.002424608597966269
+For topic 5 word pew occurred at probability of 0.002356453407137742
+For topic 5 word wave occurred at probability of 0.001752645207254502
+For topic 5 word de occurred at probability of 0.001701121639200048
+ 
+ 
+For topic 6 word pickle occurred at probability of 0.005872010057306896
+For topic 6 word de occurred at probability of 0.005765590306652036
+For topic 6 word hehe occurred at probability of 0.0026384637256251786
+For topic 6 word heal occurred at probability of 0.002216066465441906
+For topic 6 word la occurred at probability of 0.0020993095168374007
+For topic 6 word christmas occurred at probability of 0.001889656947818108
+For topic 6 word meal occurred at probability of 0.001825102514292835
+For topic 6 word empty occurred at probability of 0.0018023271209901208
+For topic 6 word juego occurred at probability of 0.0017432853756606747
+For topic 6 word pickin occurred at probability of 0.0016706195977542187
+ 
+ 
+For topic 7 word pickle occurred at probability of 0.006028883279219947
+For topic 7 word la occurred at probability of 0.0036801255448065933
+For topic 7 word heal occurred at probability of 0.002774456778481022
+For topic 7 word reel occurred at probability of 0.002107012564694198
+For topic 7 word con occurred at probability of 0.0019533150442832183
+For topic 7 word und occurred at probability of 0.0019169121036476055
+For topic 7 word meal occurred at probability of 0.0018447816239774277
+For topic 7 word crates occurred at probability of 0.0017100202755150832
+For topic 7 word hehe occurred at probability of 0.0015821968397204495
+For topic 7 word un occurred at probability of 0.0015805836686506483
+ 
+ 
+For topic 8 word que occurred at probability of 0.0035865006632248043
+For topic 8 word pickin occurred at probability of 0.0033075655682963186
+For topic 8 word peel occurred at probability of 0.002281317824310692
+For topic 8 word reel occurred at probability of 0.002188082208679721
+For topic 8 word properly occurred at probability of 0.0017808967130801755
+For topic 8 word heal occurred at probability of 0.0016158181017773268
+For topic 8 word sold occurred at probability of 0.0015865167714474754
+For topic 8 word lvl occurred at probability of 0.001528608461511957
+For topic 8 word downed occurred at probability of 0.0014606792236716705
+For topic 8 word el occurred at probability of 0.0014476088992921487
+ 
+ 
+For topic 9 word de occurred at probability of 0.004632542248192985
+For topic 9 word pickin occurred at probability of 0.003648511351798711
+For topic 9 word pickle occurred at probability of 0.003502713699277683
+For topic 9 word crates occurred at probability of 0.00195447979847485
+For topic 9 word wolf occurred at probability of 0.0019217019396219283
+For topic 9 word reel occurred at probability of 0.0019070869339632786
+For topic 9 word pew occurred at probability of 0.0017688152992434865
+For topic 9 word compared occurred at probability of 0.0017554985024492177
+For topic 9 word la occurred at probability of 0.001703345171469379
+For topic 9 word con occurred at probability of 0.0015892223603568914
+ 
+ 
+For topic 10 word de occurred at probability of 0.0031471880047988813
+For topic 10 word pickin occurred at probability of 0.0027722086366704216
+For topic 10 word meal occurred at probability of 0.002555988744741246
+For topic 10 word hehe occurred at probability of 0.0022797023276129196
+For topic 10 word reel occurred at probability of 0.0018415396587543676
+For topic 10 word el occurred at probability of 0.0018067379532152093
+For topic 10 word juego occurred at probability of 0.0017303379692803838
+For topic 10 word compared occurred at probability of 0.0016823088776189363
+For topic 10 word christmas occurred at probability of 0.0016616938396568587
+For topic 10 word un occurred at probability of 0.0015248118837225355
+ 
+ 

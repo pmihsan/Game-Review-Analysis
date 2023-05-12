@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.029289491670616292
+For topic 1 word pad occurred at probability of 0.017342255393878313
+For topic 1 word one occurred at probability of 0.012905868560960118
+For topic 1 word play occurred at probability of 0.01200727815421676
+For topic 1 word wars occurred at probability of 0.01149881043548971
+For topic 1 word really occurred at probability of 0.010466687063730927
+For topic 1 word lost occurred at probability of 0.010418990115194262
+For topic 1 word gonna occurred at probability of 0.010031806491789854
+For topic 1 word weve occurred at probability of 0.009777876889574292
+For topic 1 word battles occurred at probability of 0.008920097521913752
+ 
+ 
+For topic 2 word wars occurred at probability of 0.020374289099355267
+For topic 2 word get occurred at probability of 0.018830209463033133
+For topic 2 word battles occurred at probability of 0.016077452946155917
+For topic 2 word pad occurred at probability of 0.01307411156050576
+For topic 2 word game occurred at probability of 0.012873030002139999
+For topic 2 word lost occurred at probability of 0.01277823446775894
+For topic 2 word strategy occurred at probability of 0.011782929921835184
+For topic 2 word build occurred at probability of 0.01109047940475232
+For topic 2 word would occurred at probability of 0.01092947352092233
+For topic 2 word secured occurred at probability of 0.008973192312607766
+ 
+ 
+For topic 3 word game occurred at probability of 0.06385511385211759
+For topic 3 word empire occurred at probability of 0.019700138800025312
+For topic 3 word build occurred at probability of 0.01233823495171461
+For topic 3 word wars occurred at probability of 0.01006829807707129
+For topic 3 word battles occurred at probability of 0.009939328461983912
+For topic 3 word good occurred at probability of 0.009436113161514648
+For topic 3 word hours occurred at probability of 0.008890564883053268
+For topic 3 word great occurred at probability of 0.008038088110076292
+For topic 3 word war occurred at probability of 0.007927640661306646
+For topic 3 word play occurred at probability of 0.00791788427774641
+ 
+ 
+For topic 4 word game occurred at probability of 0.07331839535084726
+For topic 4 word space occurred at probability of 0.026819857094297163
+For topic 4 word empire occurred at probability of 0.012992614097082559
+For topic 4 word wars occurred at probability of 0.01246179136340037
+For topic 4 word play occurred at probability of 0.011727805353985824
+For topic 4 word would occurred at probability of 0.01059603643536075
+For topic 4 word like occurred at probability of 0.009451904397751508
+For topic 4 word rts occurred at probability of 0.009078832849221287
+For topic 4 word war occurred at probability of 0.008206242286670563
+For topic 4 word games occurred at probability of 0.007957012879836864
+ 
+ 
+For topic 5 word game occurred at probability of 0.05072317249032865
+For topic 5 word space occurred at probability of 0.02754176396794377
+For topic 5 word wars occurred at probability of 0.019175808103237806
+For topic 5 word battles occurred at probability of 0.013457857787905305
+For topic 5 word combat occurred at probability of 0.01122508823586271
+For topic 5 word build occurred at probability of 0.01057464695128779
+For topic 5 word play occurred at probability of 0.010442615449276382
+For topic 5 word one occurred at probability of 0.009918451632472946
+For topic 5 word even occurred at probability of 0.008385221636004756
+For topic 5 word get occurred at probability of 0.008275502003019073
+ 
+ 
+For topic 6 word game occurred at probability of 0.06636784564654066
+For topic 6 word really occurred at probability of 0.013082068725892619
+For topic 6 word play occurred at probability of 0.012654378207125054
+For topic 6 word wars occurred at probability of 0.012294303062090796
+For topic 6 word like occurred at probability of 0.01170754057396631
+For topic 6 word battles occurred at probability of 0.011585381752474451
+For topic 6 word war occurred at probability of 0.011153143571645565
+For topic 6 word hours occurred at probability of 0.01003121487705325
+For topic 6 word combat occurred at probability of 0.009570427102638628
+For topic 6 word still occurred at probability of 0.008471416791093823
+ 
+ 
+For topic 7 word game occurred at probability of 0.07049733974932736
+For topic 7 word get occurred at probability of 0.01977765075628419
+For topic 7 word empire occurred at probability of 0.017265796196712414
+For topic 7 word battles occurred at probability of 0.016300729433259987
+For topic 7 word war occurred at probability of 0.013998809115112596
+For topic 7 word wars occurred at probability of 0.010380179669749738
+For topic 7 word like occurred at probability of 0.010058195085388038
+For topic 7 word mod occurred at probability of 0.010036953287792055
+For topic 7 word rts occurred at probability of 0.009264030575263352
+For topic 7 word play occurred at probability of 0.008480824698254258
+ 
+ 
+For topic 8 word game occurred at probability of 0.06682755918616132
+For topic 8 word war occurred at probability of 0.013847357085358966
+For topic 8 word really occurred at probability of 0.012725274047833602
+For topic 8 word build occurred at probability of 0.012095872652556279
+For topic 8 word death occurred at probability of 0.011870927074233564
+For topic 8 word great occurred at probability of 0.011503350557454283
+For topic 8 word space occurred at probability of 0.010544383241131544
+For topic 8 word battles occurred at probability of 0.009890685618329165
+For topic 8 word one occurred at probability of 0.00806756657274624
+For topic 8 word dont occurred at probability of 0.007836770110282996
+ 
+ 
+For topic 9 word wars occurred at probability of 0.019013280890875603
+For topic 9 word get occurred at probability of 0.016632380886988846
+For topic 9 word death occurred at probability of 0.012065246898130946
+For topic 9 word play occurred at probability of 0.011927371246159208
+For topic 9 word would occurred at probability of 0.011098432204368474
+For topic 9 word battles occurred at probability of 0.01055995724897422
+For topic 9 word empire occurred at probability of 0.010038715671277277
+For topic 9 word combat occurred at probability of 0.010033352347071655
+For topic 9 word new occurred at probability of 0.009829295777711224
+For topic 9 word hours occurred at probability of 0.009323996311611635
+ 
+ 
+For topic 10 word build occurred at probability of 0.024455481453450438
+For topic 10 word space occurred at probability of 0.01911964120366662
+For topic 10 word get occurred at probability of 0.016959815135048285
+For topic 10 word game occurred at probability of 0.014452810457100809
+For topic 10 word battles occurred at probability of 0.012990723756462017
+For topic 10 word would occurred at probability of 0.012271109203789682
+For topic 10 word wars occurred at probability of 0.01205822696635004
+For topic 10 word pad occurred at probability of 0.00952467773825879
+For topic 10 word death occurred at probability of 0.009120358798862225
+For topic 10 word units occurred at probability of 0.008402931287755053
+ 
+ 

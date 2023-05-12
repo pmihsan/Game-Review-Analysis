@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.015585722130303244
+For topic 1 word would occurred at probability of 0.011232709665394077
+For topic 1 word get occurred at probability of 0.010149869103244448
+For topic 1 word one occurred at probability of 0.008631914942110352
+For topic 1 word bandits occurred at probability of 0.006999234679812664
+For topic 1 word play occurred at probability of 0.005967709911696443
+For topic 1 word every occurred at probability of 0.005882368144400147
+For topic 1 word im occurred at probability of 0.005824977100179856
+For topic 1 word hours occurred at probability of 0.005728820695962245
+For topic 1 word people occurred at probability of 0.005653459763245487
+ 
+ 
+For topic 2 word game occurred at probability of 0.035155770365478914
+For topic 2 word time occurred at probability of 0.0132624885867762
+For topic 2 word make occurred at probability of 0.008225504536573296
+For topic 2 word would occurred at probability of 0.0076413562073119334
+For topic 2 word like occurred at probability of 0.00689637419319241
+For topic 2 word even occurred at probability of 0.006224652666077902
+For topic 2 word really occurred at probability of 0.005561807286357922
+For topic 2 word die occurred at probability of 0.005397509630529895
+For topic 2 word start occurred at probability of 0.0053874494422855865
+For topic 2 word food occurred at probability of 0.005366924492911906
+ 
+ 
+For topic 3 word game occurred at probability of 0.04257927016361481
+For topic 3 word get occurred at probability of 0.013602879005954674
+For topic 3 word world occurred at probability of 0.010085100236409784
+For topic 3 word one occurred at probability of 0.0072127940588990365
+For topic 3 word still occurred at probability of 0.006723029271627305
+For topic 3 word would occurred at probability of 0.0065738321888062865
+For topic 3 word even occurred at probability of 0.0062564704837355855
+For topic 3 word play occurred at probability of 0.006091588521401152
+For topic 3 word much occurred at probability of 0.005937599739975353
+For topic 3 word way occurred at probability of 0.00548437220247609
+ 
+ 
+For topic 4 word game occurred at probability of 0.047502808882027445
+For topic 4 word like occurred at probability of 0.012798365120931812
+For topic 4 word get occurred at probability of 0.012204930698263606
+For topic 4 word hours occurred at probability of 0.010903063350899854
+For topic 4 word world occurred at probability of 0.006952985900596211
+For topic 4 word one occurred at probability of 0.006931636235185701
+For topic 4 word would occurred at probability of 0.006682831813033702
+For topic 4 word first occurred at probability of 0.006503406575456824
+For topic 4 word bandits occurred at probability of 0.0052183777357522445
+For topic 4 word even occurred at probability of 0.005010047863199536
+ 
+ 
+For topic 5 word game occurred at probability of 0.037347323273017506
+For topic 5 word get occurred at probability of 0.015913041837342035
+For topic 5 word kenshi occurred at probability of 0.015462556581324945
+For topic 5 word like occurred at probability of 0.010804412836148428
+For topic 5 word time occurred at probability of 0.007860719138631978
+For topic 5 word got occurred at probability of 0.00738782635107483
+For topic 5 word one occurred at probability of 0.006763682999998064
+For topic 5 word world occurred at probability of 0.005855414348468045
+For topic 5 word play occurred at probability of 0.005587288008706059
+For topic 5 word way occurred at probability of 0.005438131509603237
+ 
+ 
+For topic 6 word game occurred at probability of 0.023236620728708527
+For topic 6 word one occurred at probability of 0.00671274821992708
+For topic 6 word really occurred at probability of 0.005830297819055318
+For topic 6 word got occurred at probability of 0.005788362876454575
+For topic 6 word even occurred at probability of 0.0056279705126047385
+For topic 6 word start occurred at probability of 0.0056107494492960265
+For topic 6 word back occurred at probability of 0.005272476169416405
+For topic 6 word getting occurred at probability of 0.005180683882390968
+For topic 6 word games occurred at probability of 0.005057933506702215
+For topic 6 word way occurred at probability of 0.004900702484904047
+ 
+ 
+For topic 7 word game occurred at probability of 0.026452598426964576
+For topic 7 word get occurred at probability of 0.01656923917228138
+For topic 7 word one occurred at probability of 0.01180387578134592
+For topic 7 word would occurred at probability of 0.007063018615260669
+For topic 7 word kenshi occurred at probability of 0.006461348393992471
+For topic 7 word still occurred at probability of 0.006119864431118529
+For topic 7 word bandits occurred at probability of 0.005812663821075802
+For topic 7 word really occurred at probability of 0.005805462626959995
+For topic 7 word world occurred at probability of 0.0055708796662752875
+For topic 7 word want occurred at probability of 0.005489134581718756
+ 
+ 
+For topic 8 word game occurred at probability of 0.05590329290141716
+For topic 8 word time occurred at probability of 0.012991053452494235
+For topic 8 word kenshi occurred at probability of 0.008518498080092063
+For topic 8 word get occurred at probability of 0.0068423100243465715
+For topic 8 word one occurred at probability of 0.006166915012627941
+For topic 8 word make occurred at probability of 0.006112387986607797
+For topic 8 word play occurred at probability of 0.005504795073453749
+For topic 8 word fun occurred at probability of 0.005373385781167527
+For topic 8 word world occurred at probability of 0.00505095337120902
+For topic 8 word characters occurred at probability of 0.005035269826537786
+ 
+ 
+For topic 9 word game occurred at probability of 0.019132830862298573
+For topic 9 word kenshi occurred at probability of 0.017155811335776854
+For topic 9 word get occurred at probability of 0.014372229724328636
+For topic 9 word world occurred at probability of 0.01092835581137681
+For topic 9 word like occurred at probability of 0.009896772183110511
+For topic 9 word play occurred at probability of 0.007518614950400171
+For topic 9 word town occurred at probability of 0.007370060658628375
+For topic 9 word got occurred at probability of 0.006843574641310493
+For topic 9 word make occurred at probability of 0.0064518639937250315
+For topic 9 word bandits occurred at probability of 0.006438396344940388
+ 
+ 
+For topic 10 word game occurred at probability of 0.02062607021177779
+For topic 10 word get occurred at probability of 0.012242583531824074
+For topic 10 word one occurred at probability of 0.012208616449005569
+For topic 10 word would occurred at probability of 0.0075084477436483795
+For topic 10 word bandits occurred at probability of 0.007347850298594537
+For topic 10 word make occurred at probability of 0.0071299195919310165
+For topic 10 word time occurred at probability of 0.006992338048551795
+For topic 10 word first occurred at probability of 0.006681016421243231
+For topic 10 word hours occurred at probability of 0.006669927781982354
+For topic 10 word want occurred at probability of 0.00521245024532946
+ 
+ 

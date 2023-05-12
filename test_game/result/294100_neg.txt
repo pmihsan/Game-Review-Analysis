@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.041440647152196156
+For topic 1 word one occurred at probability of 0.018754212327006036
+For topic 1 word colony occurred at probability of 0.011237718373421366
+For topic 1 word get occurred at probability of 0.010500695753289362
+For topic 1 word colonists occurred at probability of 0.009593070880850698
+For topic 1 word make occurred at probability of 0.007949445922819414
+For topic 1 word play occurred at probability of 0.0077141901418073654
+For topic 1 word started occurred at probability of 0.005902904135998085
+For topic 1 word died occurred at probability of 0.004937661341702076
+For topic 1 word new occurred at probability of 0.004907212045834311
+ 
+ 
+For topic 2 word one occurred at probability of 0.014348988059674422
+For topic 2 word would occurred at probability of 0.013815570410865601
+For topic 2 word colony occurred at probability of 0.01325265930189035
+For topic 2 word got occurred at probability of 0.009107324653879619
+For topic 2 word colonists occurred at probability of 0.00808726769126929
+For topic 2 word people occurred at probability of 0.007174611183390125
+For topic 2 word colonist occurred at probability of 0.00678271392584163
+For topic 2 word hours occurred at probability of 0.006165592765361153
+For topic 2 word well occurred at probability of 0.006110971750991499
+For topic 2 word first occurred at probability of 0.005857219527052492
+ 
+ 
+For topic 3 word game occurred at probability of 0.054728726591146644
+For topic 3 word colony occurred at probability of 0.009876565694206108
+For topic 3 word one occurred at probability of 0.007643885827865194
+For topic 3 word like occurred at probability of 0.007617117593942453
+For topic 3 word get occurred at probability of 0.007474064298315496
+For topic 3 word time occurred at probability of 0.00610224190296086
+For topic 3 word base occurred at probability of 0.005478610679185271
+For topic 3 word colonists occurred at probability of 0.005129358776045583
+For topic 3 word food occurred at probability of 0.0050293803233827
+For topic 3 word make occurred at probability of 0.004357439657642729
+ 
+ 
+For topic 4 word game occurred at probability of 0.02266508094054597
+For topic 4 word one occurred at probability of 0.017812304804219525
+For topic 4 word time occurred at probability of 0.012087514074211627
+For topic 4 word get occurred at probability of 0.011687918402156407
+For topic 4 word hours occurred at probability of 0.007391293887863019
+For topic 4 word first occurred at probability of 0.007016291947385271
+For topic 4 word even occurred at probability of 0.0062992921459111605
+For topic 4 word fire occurred at probability of 0.006282771775917212
+For topic 4 word colonists occurred at probability of 0.006204790842616672
+For topic 4 word like occurred at probability of 0.006169810992305341
+ 
+ 
+For topic 5 word game occurred at probability of 0.05295610063534333
+For topic 5 word colonists occurred at probability of 0.010633296304833437
+For topic 5 word colony occurred at probability of 0.006990554847403165
+For topic 5 word got occurred at probability of 0.006953140325595178
+For topic 5 word new occurred at probability of 0.006916887347605642
+For topic 5 word people occurred at probability of 0.006545023046249092
+For topic 5 word hours occurred at probability of 0.0052366133904756355
+For topic 5 word rimworld occurred at probability of 0.004979059538118028
+For topic 5 word every occurred at probability of 0.0049772082887763755
+For topic 5 word mods occurred at probability of 0.004926189636018168
+ 
+ 
+For topic 6 word game occurred at probability of 0.029081962120764974
+For topic 6 word one occurred at probability of 0.015225232467731232
+For topic 6 word make occurred at probability of 0.00813893772993249
+For topic 6 word colony occurred at probability of 0.007493115382522578
+For topic 6 word would occurred at probability of 0.007161892865943967
+For topic 6 word hours occurred at probability of 0.006443934129648778
+For topic 6 word people occurred at probability of 0.005725946155305636
+For topic 6 word mods occurred at probability of 0.005457229867936942
+For topic 6 word never occurred at probability of 0.005191149412761829
+For topic 6 word died occurred at probability of 0.00494178248187141
+ 
+ 
+For topic 7 word game occurred at probability of 0.04006643209837326
+For topic 7 word get occurred at probability of 0.012442423201682025
+For topic 7 word colony occurred at probability of 0.012214944074312414
+For topic 7 word colonists occurred at probability of 0.009082964339917893
+For topic 7 word play occurred at probability of 0.007601483087243379
+For topic 7 word colonist occurred at probability of 0.007153829425460845
+For topic 7 word rimworld occurred at probability of 0.0061665785814468965
+For topic 7 word also occurred at probability of 0.005807240776979603
+For topic 7 word many occurred at probability of 0.005799596581964322
+For topic 7 word fun occurred at probability of 0.005453664724388599
+ 
+ 
+For topic 8 word game occurred at probability of 0.022175357990199505
+For topic 8 word colony occurred at probability of 0.015191774115480835
+For topic 8 word time occurred at probability of 0.010037671414985388
+For topic 8 word get occurred at probability of 0.008192494112545258
+For topic 8 word play occurred at probability of 0.007935277642164115
+For topic 8 word like occurred at probability of 0.0062205335837018745
+For topic 8 word great occurred at probability of 0.005632647526309001
+For topic 8 word killed occurred at probability of 0.005345115671723431
+For topic 8 word never occurred at probability of 0.005269813173049521
+For topic 8 word kill occurred at probability of 0.00510806525305492
+ 
+ 
+For topic 9 word time occurred at probability of 0.015472470669122402
+For topic 9 word would occurred at probability of 0.014371915562691701
+For topic 9 word get occurred at probability of 0.013175658927737584
+For topic 9 word got occurred at probability of 0.010499322300389056
+For topic 9 word first occurred at probability of 0.008014820911451092
+For topic 9 word hours occurred at probability of 0.007534962755828527
+For topic 9 word back occurred at probability of 0.00731257682003181
+For topic 9 word make occurred at probability of 0.0061908669226669755
+For topic 9 word even occurred at probability of 0.00606023074599436
+For topic 9 word die occurred at probability of 0.005760035908286706
+ 
+ 
+For topic 10 word colony occurred at probability of 0.015570946975622824
+For topic 10 word would occurred at probability of 0.010760538039364255
+For topic 10 word one occurred at probability of 0.010056907497521618
+For topic 10 word colonists occurred at probability of 0.007142276995407788
+For topic 10 word new occurred at probability of 0.006096550839734229
+For topic 10 word people occurred at probability of 0.00563938303683884
+For topic 10 word mods occurred at probability of 0.005051543413419046
+For topic 10 word die occurred at probability of 0.0049212629215620645
+For topic 10 word food occurred at probability of 0.004819396912440026
+For topic 10 word back occurred at probability of 0.004776587553607059
+ 
+ 

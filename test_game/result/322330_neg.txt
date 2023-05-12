@@ -1,0 +1,120 @@
+For topic 1 word starve occurred at probability of 0.02836278978991466
+For topic 1 word dont occurred at probability of 0.027712669099664123
+For topic 1 word die occurred at probability of 0.019766340808416633
+For topic 1 word get occurred at probability of 0.01676438502459432
+For topic 1 word together occurred at probability of 0.013800104916573332
+For topic 1 word game occurred at probability of 0.013722592774413964
+For topic 1 word play occurred at probability of 0.011861338119068462
+For topic 1 word friend occurred at probability of 0.009247377464853676
+For topic 1 word even occurred at probability of 0.007812254813222712
+For topic 1 word playing occurred at probability of 0.007519944133340442
+ 
+ 
+For topic 2 word dont occurred at probability of 0.03104325566711419
+For topic 2 word friends occurred at probability of 0.024200177182353448
+For topic 2 word starve occurred at probability of 0.0181367478363493
+For topic 2 word get occurred at probability of 0.017463433693039987
+For topic 2 word play occurred at probability of 0.015136750764296127
+For topic 2 word together occurred at probability of 0.011152777963247587
+For topic 2 word even occurred at probability of 0.00904253037267212
+For topic 2 word die occurred at probability of 0.008454126212662269
+For topic 2 word food occurred at probability of 0.008259376755832722
+For topic 2 word kill occurred at probability of 0.008138044282962532
+ 
+ 
+For topic 3 word die occurred at probability of 0.025835896968590278
+For topic 3 word play occurred at probability of 0.023823711939887245
+For topic 3 word game occurred at probability of 0.01724508757308802
+For topic 3 word one occurred at probability of 0.013214722502586675
+For topic 3 word friends occurred at probability of 0.012285491174082976
+For topic 3 word hard occurred at probability of 0.01097557213278986
+For topic 3 word time occurred at probability of 0.01051952167550069
+For topic 3 word food occurred at probability of 0.010376709649918013
+For topic 3 word great occurred at probability of 0.009889577786646198
+For topic 3 word get occurred at probability of 0.009670112026939053
+ 
+ 
+For topic 4 word game occurred at probability of 0.06729609124643404
+For topic 4 word starve occurred at probability of 0.028474539377055227
+For topic 4 word play occurred at probability of 0.015013572663011945
+For topic 4 word would occurred at probability of 0.014962992983992928
+For topic 4 word fun occurred at probability of 0.01409948373092372
+For topic 4 word dont occurred at probability of 0.012829265540397459
+For topic 4 word friends occurred at probability of 0.011621438458777729
+For topic 4 word time occurred at probability of 0.009665293776687504
+For topic 4 word survival occurred at probability of 0.009130957309480337
+For topic 4 word great occurred at probability of 0.008052631801895811
+ 
+ 
+For topic 5 word dont occurred at probability of 0.04313646344506233
+For topic 5 word game occurred at probability of 0.03490317052664806
+For topic 5 word starve occurred at probability of 0.02066047878112207
+For topic 5 word friends occurred at probability of 0.013195617329318992
+For topic 5 word hard occurred at probability of 0.012475458007049826
+For topic 5 word time occurred at probability of 0.012026299376589217
+For topic 5 word friend occurred at probability of 0.009198130891595288
+For topic 5 word one occurred at probability of 0.008391659566385268
+For topic 5 word like occurred at probability of 0.008136241344984581
+For topic 5 word playing occurred at probability of 0.006573607966820113
+ 
+ 
+For topic 6 word starve occurred at probability of 0.024422721817929812
+For topic 6 word get occurred at probability of 0.020782332761595527
+For topic 6 word would occurred at probability of 0.018322493754225892
+For topic 6 word play occurred at probability of 0.014550316559526601
+For topic 6 word game occurred at probability of 0.01297114673083053
+For topic 6 word dont occurred at probability of 0.012100688290872146
+For topic 6 word together occurred at probability of 0.01094389091225147
+For topic 6 word friends occurred at probability of 0.010648556485596719
+For topic 6 word die occurred at probability of 0.009323282866757262
+For topic 6 word fire occurred at probability of 0.008733617553350491
+ 
+ 
+For topic 7 word play occurred at probability of 0.027426962143359424
+For topic 7 word dont occurred at probability of 0.022211386890734285
+For topic 7 word die occurred at probability of 0.019390157339061742
+For topic 7 word game occurred at probability of 0.018037083744899745
+For topic 7 word fun occurred at probability of 0.013756815807957169
+For topic 7 word one occurred at probability of 0.013188867410642102
+For topic 7 word friends occurred at probability of 0.01225926650528258
+For topic 7 word time occurred at probability of 0.012178744842940995
+For topic 7 word friend occurred at probability of 0.010781822116994804
+For topic 7 word together occurred at probability of 0.009157636038666874
+ 
+ 
+For topic 8 word game occurred at probability of 0.0624651414952686
+For topic 8 word die occurred at probability of 0.018273655230896184
+For topic 8 word play occurred at probability of 0.01803541273122994
+For topic 8 word would occurred at probability of 0.015631083697004954
+For topic 8 word dont occurred at probability of 0.012803831444570908
+For topic 8 word fun occurred at probability of 0.0103239351025468
+For topic 8 word get occurred at probability of 0.010157454138168464
+For topic 8 word friends occurred at probability of 0.009088471124852426
+For topic 8 word death occurred at probability of 0.007376698485822775
+For topic 8 word got occurred at probability of 0.0071720881924832785
+ 
+ 
+For topic 9 word game occurred at probability of 0.06503110631791194
+For topic 9 word friends occurred at probability of 0.02274646608903118
+For topic 9 word one occurred at probability of 0.013166076433461004
+For topic 9 word die occurred at probability of 0.011831763721330383
+For topic 9 word starve occurred at probability of 0.009823231596774229
+For topic 9 word food occurred at probability of 0.009206013389070015
+For topic 9 word really occurred at probability of 0.008288260568028368
+For topic 9 word like occurred at probability of 0.007720430662568966
+For topic 9 word survive occurred at probability of 0.007147612814038184
+For topic 9 word together occurred at probability of 0.006993391185448065
+ 
+ 
+For topic 10 word game occurred at probability of 0.0874074979227624
+For topic 10 word friends occurred at probability of 0.026602277215354155
+For topic 10 word starve occurred at probability of 0.02415101002272925
+For topic 10 word would occurred at probability of 0.016237077421612765
+For topic 10 word fun occurred at probability of 0.014857991850447656
+For topic 10 word get occurred at probability of 0.011876543360341496
+For topic 10 word dont occurred at probability of 0.011082888397312852
+For topic 10 word hard occurred at probability of 0.009356183897671297
+For topic 10 word playing occurred at probability of 0.007396411863867822
+For topic 10 word friend occurred at probability of 0.007319488250653124
+ 
+ 

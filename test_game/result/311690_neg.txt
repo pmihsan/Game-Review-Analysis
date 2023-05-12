@@ -1,0 +1,120 @@
+For topic 1 word gun occurred at probability of 0.05227066600114032
+For topic 1 word game occurred at probability of 0.03689050205110958
+For topic 1 word bullet occurred at probability of 0.024923901605057273
+For topic 1 word bullets occurred at probability of 0.016846069018642894
+For topic 1 word play occurred at probability of 0.01568987214423893
+For topic 1 word hard occurred at probability of 0.014248553242624298
+For topic 1 word get occurred at probability of 0.010947569474904943
+For topic 1 word guns occurred at probability of 0.009353418794308533
+For topic 1 word shoot occurred at probability of 0.009212504675473498
+For topic 1 word really occurred at probability of 0.008840731745132469
+ 
+ 
+For topic 2 word game occurred at probability of 0.09200358041139985
+For topic 2 word gun occurred at probability of 0.024214531837208682
+For topic 2 word hell occurred at probability of 0.01642002747760629
+For topic 2 word guns occurred at probability of 0.012822845470570698
+For topic 2 word would occurred at probability of 0.011691786621483614
+For topic 2 word shoot occurred at probability of 0.011391648396163514
+For topic 2 word hours occurred at probability of 0.008100794720840656
+For topic 2 word die occurred at probability of 0.007933386776430117
+For topic 2 word great occurred at probability of 0.007905029274864228
+For topic 2 word hard occurred at probability of 0.0076597886651144425
+ 
+ 
+For topic 3 word game occurred at probability of 0.08347903581695193
+For topic 3 word die occurred at probability of 0.015222433844634514
+For topic 3 word bullets occurred at probability of 0.01446004176347686
+For topic 3 word hell occurred at probability of 0.013109384220585003
+For topic 3 word gun occurred at probability of 0.012163135143691448
+For topic 3 word would occurred at probability of 0.01138763343716226
+For topic 3 word poop occurred at probability of 0.011111147360156915
+For topic 3 word bullet occurred at probability of 0.009051014194908513
+For topic 3 word even occurred at probability of 0.008851493036741763
+For topic 3 word guns occurred at probability of 0.008611005914073712
+ 
+ 
+For topic 4 word gun occurred at probability of 0.0495800777411564
+For topic 4 word bullet occurred at probability of 0.02400316225788625
+For topic 4 word get occurred at probability of 0.017476543274814876
+For topic 4 word really occurred at probability of 0.015639531852269
+For topic 4 word bullets occurred at probability of 0.014644455402858698
+For topic 4 word hell occurred at probability of 0.014533065667773353
+For topic 4 word guns occurred at probability of 0.014392338986376216
+For topic 4 word poop occurred at probability of 0.014098457566191488
+For topic 4 word die occurred at probability of 0.013267582151251034
+For topic 4 word would occurred at probability of 0.011363185149864865
+ 
+ 
+For topic 5 word gun occurred at probability of 0.0573267615160245
+For topic 5 word guns occurred at probability of 0.017477460457505024
+For topic 5 word hard occurred at probability of 0.017166329889984618
+For topic 5 word play occurred at probability of 0.014235945259534661
+For topic 5 word shoot occurred at probability of 0.01369745599648499
+For topic 5 word even occurred at probability of 0.010998011078419257
+For topic 5 word bullet occurred at probability of 0.010542409414232323
+For topic 5 word get occurred at probability of 0.01037789617460821
+For topic 5 word boss occurred at probability of 0.009932302888962524
+For topic 5 word hell occurred at probability of 0.009381932358420879
+ 
+ 
+For topic 6 word game occurred at probability of 0.05669016222182903
+For topic 6 word gun occurred at probability of 0.05573442201109195
+For topic 6 word get occurred at probability of 0.018532901924933665
+For topic 6 word hours occurred at probability of 0.01380841693847201
+For topic 6 word guns occurred at probability of 0.012622117922077071
+For topic 6 word bullet occurred at probability of 0.012506700794414002
+For topic 6 word die occurred at probability of 0.011554731862531753
+For topic 6 word bullets occurred at probability of 0.010014199916106577
+For topic 6 word one occurred at probability of 0.010005727515889953
+For topic 6 word first occurred at probability of 0.00949496135093479
+ 
+ 
+For topic 7 word game occurred at probability of 0.03305969750437262
+For topic 7 word bullet occurred at probability of 0.0212480029402206
+For topic 7 word bullets occurred at probability of 0.015641388464965763
+For topic 7 word hours occurred at probability of 0.014097631323623103
+For topic 7 word would occurred at probability of 0.01190269297421248
+For topic 7 word get occurred at probability of 0.01048224957053536
+For topic 7 word fun occurred at probability of 0.010054972846105141
+For topic 7 word time occurred at probability of 0.00976858377958131
+For topic 7 word great occurred at probability of 0.00834114902717391
+For topic 7 word guns occurred at probability of 0.008167982248061896
+ 
+ 
+For topic 8 word game occurred at probability of 0.034227455071455894
+For topic 8 word gun occurred at probability of 0.03138998013219677
+For topic 8 word really occurred at probability of 0.018308898817543818
+For topic 8 word bullet occurred at probability of 0.0177830556480805
+For topic 8 word poop occurred at probability of 0.012711214049426807
+For topic 8 word guns occurred at probability of 0.012684956856927547
+For topic 8 word play occurred at probability of 0.011850746132876998
+For topic 8 word bullets occurred at probability of 0.011549954084079295
+For topic 8 word time occurred at probability of 0.010800992806375954
+For topic 8 word shoot occurred at probability of 0.008440873703218513
+ 
+ 
+For topic 9 word game occurred at probability of 0.04032133524864512
+For topic 9 word bullet occurred at probability of 0.021608106836362058
+For topic 9 word really occurred at probability of 0.017838215813363707
+For topic 9 word get occurred at probability of 0.01736476008695337
+For topic 9 word hard occurred at probability of 0.013979781017271091
+For topic 9 word bullets occurred at probability of 0.013000359182703395
+For topic 9 word hell occurred at probability of 0.012858949183663343
+For topic 9 word guns occurred at probability of 0.012285778227695807
+For topic 9 word like occurred at probability of 0.011946851151350982
+For topic 9 word one occurred at probability of 0.011408398562155992
+ 
+ 
+For topic 10 word game occurred at probability of 0.07447087457990387
+For topic 10 word like occurred at probability of 0.014776621181547931
+For topic 10 word guns occurred at probability of 0.013877784509517021
+For topic 10 word get occurred at probability of 0.013583633643900332
+For topic 10 word shoot occurred at probability of 0.012367818568182492
+For topic 10 word time occurred at probability of 0.012004147492931869
+For topic 10 word hard occurred at probability of 0.010413324797439337
+For topic 10 word one occurred at probability of 0.009355594351808732
+For topic 10 word even occurred at probability of 0.00870866850375391
+For topic 10 word items occurred at probability of 0.008420487628521262
+ 
+ 

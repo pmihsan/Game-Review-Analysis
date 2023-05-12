@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.051072633274550534
+For topic 1 word alpha occurred at probability of 0.018364355237710826
+For topic 1 word new occurred at probability of 0.012583861078156094
+For topic 1 word years occurred at probability of 0.011831050427662474
+For topic 1 word like occurred at probability of 0.011444796738043266
+For topic 1 word would occurred at probability of 0.009936913941634741
+For topic 1 word get occurred at probability of 0.008744192342922699
+For topic 1 word hours occurred at probability of 0.00793869314095542
+For topic 1 word dont occurred at probability of 0.00786089590653128
+For topic 1 word gear occurred at probability of 0.007655931202140095
+ 
+ 
+For topic 2 word game occurred at probability of 0.0482820193260103
+For topic 2 word like occurred at probability of 0.01893554798178779
+For topic 2 word alpha occurred at probability of 0.014976728863047505
+For topic 2 word region occurred at probability of 0.013921135038369998
+For topic 2 word really occurred at probability of 0.01086819384227274
+For topic 2 word dont occurred at probability of 0.009953097093294644
+For topic 2 word still occurred at probability of 0.008789688066331043
+For topic 2 word good occurred at probability of 0.00831655265385638
+For topic 2 word feel occurred at probability of 0.007633798759946864
+For topic 2 word better occurred at probability of 0.006954381016795044
+ 
+ 
+For topic 3 word game occurred at probability of 0.0489290123455017
+For topic 3 word alpha occurred at probability of 0.018751787762953474
+For topic 3 word world occurred at probability of 0.01295815001330776
+For topic 3 word dont occurred at probability of 0.011273653667809297
+For topic 3 word new occurred at probability of 0.010975380533088342
+For topic 3 word fun occurred at probability of 0.010607209595204269
+For topic 3 word play occurred at probability of 0.008487071635955221
+For topic 3 word hours occurred at probability of 0.0083179757511511
+For topic 3 word like occurred at probability of 0.008220992792996634
+For topic 3 word gear occurred at probability of 0.007690504311479455
+ 
+ 
+For topic 4 word game occurred at probability of 0.045490652420955145
+For topic 4 word fun occurred at probability of 0.0162377557810688
+For topic 4 word still occurred at probability of 0.014058367508785233
+For topic 4 word get occurred at probability of 0.012957749777948604
+For topic 4 word much occurred at probability of 0.011275792876999964
+For topic 4 word region occurred at probability of 0.010010435661485361
+For topic 4 word world occurred at probability of 0.009571038107803586
+For topic 4 word like occurred at probability of 0.009556068243623655
+For topic 4 word hours occurred at probability of 0.009003185660163102
+For topic 4 word really occurred at probability of 0.0077232374334329865
+ 
+ 
+For topic 5 word game occurred at probability of 0.03854381428099433
+For topic 5 word new occurred at probability of 0.014334338944863757
+For topic 5 word like occurred at probability of 0.012664582497938481
+For topic 5 word much occurred at probability of 0.011718415073362262
+For topic 5 word get occurred at probability of 0.011498510064407186
+For topic 5 word world occurred at probability of 0.01045269395781097
+For topic 5 word fun occurred at probability of 0.010260798825295753
+For topic 5 word region occurred at probability of 0.009845935277804157
+For topic 5 word years occurred at probability of 0.0089934710616158
+For topic 5 word really occurred at probability of 0.008757003271676219
+ 
+ 
+For topic 6 word game occurred at probability of 0.029141541387789283
+For topic 6 word region occurred at probability of 0.018024184119338208
+For topic 6 word world occurred at probability of 0.015752730768522235
+For topic 6 word gear occurred at probability of 0.011832935619557583
+For topic 6 word like occurred at probability of 0.011515182962039556
+For topic 6 word fun occurred at probability of 0.011206472770777208
+For topic 6 word dont occurred at probability of 0.008638662316118043
+For topic 6 word progression occurred at probability of 0.008379035473687806
+For topic 6 word people occurred at probability of 0.007716434111227045
+For topic 6 word time occurred at probability of 0.007679601347709835
+ 
+ 
+For topic 7 word game occurred at probability of 0.0565082651514327
+For topic 7 word alpha occurred at probability of 0.021151122235514314
+For topic 7 word like occurred at probability of 0.01612865942846733
+For topic 7 word fun occurred at probability of 0.015374509012967736
+For topic 7 word get occurred at probability of 0.012799106254297895
+For topic 7 word good occurred at probability of 0.009079442065203554
+For topic 7 word one occurred at probability of 0.008835438524048748
+For topic 7 word years occurred at probability of 0.008360924404303884
+For topic 7 word would occurred at probability of 0.00831269130614183
+For topic 7 word really occurred at probability of 0.008205687858881806
+ 
+ 
+For topic 8 word game occurred at probability of 0.0548538643430128
+For topic 8 word fun occurred at probability of 0.014421063655368688
+For topic 8 word like occurred at probability of 0.013855945395974236
+For topic 8 word region occurred at probability of 0.013448231698814619
+For topic 8 word new occurred at probability of 0.01162181652336738
+For topic 8 word one occurred at probability of 0.009234212139392154
+For topic 8 word much occurred at probability of 0.008996859212304555
+For topic 8 word play occurred at probability of 0.008501186651764534
+For topic 8 word alpha occurred at probability of 0.008196617932711004
+For topic 8 word time occurred at probability of 0.008099977499927075
+ 
+ 
+For topic 9 word game occurred at probability of 0.058790439833438776
+For topic 9 word like occurred at probability of 0.02012881628490745
+For topic 9 word gear occurred at probability of 0.012614936123617498
+For topic 9 word get occurred at probability of 0.011256255721335106
+For topic 9 word progression occurred at probability of 0.009116667270239008
+For topic 9 word would occurred at probability of 0.00907584208970229
+For topic 9 word world occurred at probability of 0.008451077058358262
+For topic 9 word good occurred at probability of 0.008173451759668892
+For topic 9 word play occurred at probability of 0.008126820975627586
+For topic 9 word region occurred at probability of 0.007464876070507957
+ 
+ 
+For topic 10 word region occurred at probability of 0.013493722998544004
+For topic 10 word alpha occurred at probability of 0.013480668040983577
+For topic 10 word gear occurred at probability of 0.012507520292087224
+For topic 10 word dont occurred at probability of 0.011452242959350245
+For topic 10 word game occurred at probability of 0.010645921292669851
+For topic 10 word world occurred at probability of 0.0100131158349398
+For topic 10 word get occurred at probability of 0.009964522629782497
+For topic 10 word time occurred at probability of 0.009103759904711675
+For topic 10 word cube occurred at probability of 0.008419893268970052
+For topic 10 word make occurred at probability of 0.007831104384295252
+ 
+ 

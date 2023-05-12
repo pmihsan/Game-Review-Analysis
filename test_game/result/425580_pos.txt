@@ -1,0 +1,120 @@
+For topic 1 word room occurred at probability of 0.03825123613013262
+For topic 1 word first occurred at probability of 0.03219886519098356
+For topic 1 word really occurred at probability of 0.019856687602002848
+For topic 1 word games occurred at probability of 0.019457238634357006
+For topic 1 word game occurred at probability of 0.019410306355229626
+For topic 1 word great occurred at probability of 0.01386959871167756
+For topic 1 word love occurred at probability of 0.013136701769056357
+For topic 1 word good occurred at probability of 0.012684266607504031
+For topic 1 word time occurred at probability of 0.00884905138388005
+For topic 1 word even occurred at probability of 0.007954863242057053
+ 
+ 
+For topic 2 word game occurred at probability of 0.03972477049099777
+For topic 2 word first occurred at probability of 0.03268604967586201
+For topic 2 word really occurred at probability of 0.02200570273868335
+For topic 2 word room occurred at probability of 0.021831269274077202
+For topic 2 word puzzles occurred at probability of 0.01965936429162356
+For topic 2 word puzzle occurred at probability of 0.018836129797939926
+For topic 2 word one occurred at probability of 0.018757466587430473
+For topic 2 word great occurred at probability of 0.015759548350466668
+For topic 2 word good occurred at probability of 0.009740664256367099
+For topic 2 word recommend occurred at probability of 0.009710537035254955
+ 
+ 
+For topic 3 word game occurred at probability of 0.06970214284383773
+For topic 3 word first occurred at probability of 0.0265480572198476
+For topic 3 word room occurred at probability of 0.024972519199186218
+For topic 3 word puzzle occurred at probability of 0.02370082654351811
+For topic 3 word puzzles occurred at probability of 0.022295575492043935
+For topic 3 word good occurred at probability of 0.01797491709642741
+For topic 3 word love occurred at probability of 0.010009736640860778
+For topic 3 word great occurred at probability of 0.008806014704651564
+For topic 3 word fun occurred at probability of 0.008565387836242935
+For topic 3 word played occurred at probability of 0.00842632552651416
+ 
+ 
+For topic 4 word game occurred at probability of 0.07794589073509636
+For topic 4 word games occurred at probability of 0.023328709157684938
+For topic 4 word one occurred at probability of 0.02134485794017377
+For topic 4 word room occurred at probability of 0.02062286525577452
+For topic 4 word puzzle occurred at probability of 0.01886995024776472
+For topic 4 word puzzles occurred at probability of 0.017207274043949883
+For topic 4 word first occurred at probability of 0.014884337023718308
+For topic 4 word great occurred at probability of 0.012932996833514166
+For topic 4 word good occurred at probability of 0.011604513159084983
+For topic 4 word little occurred at probability of 0.008959822693146349
+ 
+ 
+For topic 5 word game occurred at probability of 0.052089143131082045
+For topic 5 word room occurred at probability of 0.03213367418372287
+For topic 5 word puzzles occurred at probability of 0.027974593246429206
+For topic 5 word puzzle occurred at probability of 0.024890681757692858
+For topic 5 word one occurred at probability of 0.024313016218230198
+For topic 5 word games occurred at probability of 0.01702559414930623
+For topic 5 word great occurred at probability of 0.013560892701367181
+For topic 5 word story occurred at probability of 0.009703939398165148
+For topic 5 word much occurred at probability of 0.008863212871700934
+For topic 5 word first occurred at probability of 0.008453595822962783
+ 
+ 
+For topic 6 word room occurred at probability of 0.04970131869478083
+For topic 6 word one occurred at probability of 0.0404109119988956
+For topic 6 word first occurred at probability of 0.02056855372713296
+For topic 6 word puzzles occurred at probability of 0.01771183447496295
+For topic 6 word love occurred at probability of 0.013354178940961622
+For topic 6 word good occurred at probability of 0.011350687619907826
+For topic 6 word really occurred at probability of 0.010413046344716832
+For topic 6 word two occurred at probability of 0.009313009024943529
+For topic 6 word recommend occurred at probability of 0.008723813486116581
+For topic 6 word games occurred at probability of 0.008559012589030305
+ 
+ 
+For topic 7 word game occurred at probability of 0.05036792502542381
+For topic 7 word room occurred at probability of 0.03890204030380256
+For topic 7 word puzzles occurred at probability of 0.029307336360295793
+For topic 7 word one occurred at probability of 0.02904723161517478
+For topic 7 word great occurred at probability of 0.019943395778090147
+For topic 7 word puzzle occurred at probability of 0.01558356236533833
+For topic 7 word first occurred at probability of 0.014474240822063614
+For topic 7 word good occurred at probability of 0.0114994846047433
+For topic 7 word fun occurred at probability of 0.011493138389826752
+For topic 7 word bit occurred at probability of 0.008478872084899648
+ 
+ 
+For topic 8 word game occurred at probability of 0.047947778000711955
+For topic 8 word games occurred at probability of 0.023239905749707856
+For topic 8 word puzzle occurred at probability of 0.02143865184377303
+For topic 8 word puzzles occurred at probability of 0.021248062544466456
+For topic 8 word recommend occurred at probability of 0.010202912608716462
+For topic 8 word still occurred at probability of 0.009931370323745156
+For topic 8 word played occurred at probability of 0.00888223567564944
+For topic 8 word good occurred at probability of 0.008071158524348988
+For topic 8 word worth occurred at probability of 0.007911945173742102
+For topic 8 word hints occurred at probability of 0.007735895089571044
+ 
+ 
+For topic 9 word game occurred at probability of 0.039783223147148904
+For topic 9 word room occurred at probability of 0.02723453410465244
+For topic 9 word one occurred at probability of 0.026849547504691647
+For topic 9 word puzzle occurred at probability of 0.023683573567685048
+For topic 9 word puzzles occurred at probability of 0.019585076727167364
+For topic 9 word first occurred at probability of 0.01941118074334016
+For topic 9 word really occurred at probability of 0.015305250499488695
+For topic 9 word great occurred at probability of 0.013171135449742282
+For topic 9 word good occurred at probability of 0.012920115517406777
+For topic 9 word story occurred at probability of 0.009990762319173778
+ 
+ 
+For topic 10 word puzzles occurred at probability of 0.03666421221701826
+For topic 10 word game occurred at probability of 0.021429325279947502
+For topic 10 word puzzle occurred at probability of 0.021081408904288532
+For topic 10 word games occurred at probability of 0.01905226045665493
+For topic 10 word really occurred at probability of 0.018799749125217632
+For topic 10 word room occurred at probability of 0.013946540693685812
+For topic 10 word great occurred at probability of 0.013669026791358023
+For topic 10 word played occurred at probability of 0.011418704273106702
+For topic 10 word good occurred at probability of 0.01001381886236538
+For topic 10 word little occurred at probability of 0.009437167996137414
+ 
+ 

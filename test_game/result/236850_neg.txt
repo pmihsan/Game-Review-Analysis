@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.08122353937839148
+For topic 1 word dlc occurred at probability of 0.025462946726862213
+For topic 1 word paradox occurred at probability of 0.01956551613269019
+For topic 1 word play occurred at probability of 0.01424371150419166
+For topic 1 word war occurred at probability of 0.009862924269951008
+For topic 1 word one occurred at probability of 0.0069285467300446175
+For topic 1 word every occurred at probability of 0.006629546435124467
+For topic 1 word never occurred at probability of 0.0061858603651442435
+For topic 1 word like occurred at probability of 0.006184775667395292
+For topic 1 word even occurred at probability of 0.00604133390343661
+ 
+ 
+For topic 2 word game occurred at probability of 0.04012797205100533
+For topic 2 word dlc occurred at probability of 0.02172788645059796
+For topic 2 word get occurred at probability of 0.020549672862608923
+For topic 2 word paradox occurred at probability of 0.014270912897747384
+For topic 2 word buy occurred at probability of 0.010474519369369514
+For topic 2 word played occurred at probability of 0.009825381634215613
+For topic 2 word much occurred at probability of 0.008667916454160606
+For topic 2 word war occurred at probability of 0.008490139334776403
+For topic 2 word cant occurred at probability of 0.007968325262179651
+For topic 2 word one occurred at probability of 0.00780113251807993
+ 
+ 
+For topic 3 word dlc occurred at probability of 0.015213291188269876
+For topic 3 word would occurred at probability of 0.012107451699092258
+For topic 3 word get occurred at probability of 0.012018289471375876
+For topic 3 word war occurred at probability of 0.0104519736170671
+For topic 3 word time occurred at probability of 0.010273087262820507
+For topic 3 word playing occurred at probability of 0.010232177032323498
+For topic 3 word games occurred at probability of 0.009905242182887799
+For topic 3 word game occurred at probability of 0.008402592731554416
+For topic 3 word one occurred at probability of 0.007712016127869846
+For topic 3 word ive occurred at probability of 0.006950526884637051
+ 
+ 
+For topic 4 word game occurred at probability of 0.016597244044922153
+For topic 4 word time occurred at probability of 0.015102374280065159
+For topic 4 word hours occurred at probability of 0.015061630651919268
+For topic 4 word good occurred at probability of 0.012437701075537416
+For topic 4 word games occurred at probability of 0.01031583049736869
+For topic 4 word war occurred at probability of 0.010256525150066474
+For topic 4 word buy occurred at probability of 0.00869392233925691
+For topic 4 word like occurred at probability of 0.008611915139033144
+For topic 4 word play occurred at probability of 0.00813052406166778
+For topic 4 word policy occurred at probability of 0.006913628325679395
+ 
+ 
+For topic 5 word game occurred at probability of 0.04652437500226288
+For topic 5 word play occurred at probability of 0.013674314671885571
+For topic 5 word get occurred at probability of 0.013144709162841895
+For topic 5 word hours occurred at probability of 0.012978206244242542
+For topic 5 word played occurred at probability of 0.009279802780362357
+For topic 5 word dont occurred at probability of 0.009019062495699705
+For topic 5 word dlcs occurred at probability of 0.008658242070102533
+For topic 5 word still occurred at probability of 0.007959495821502002
+For topic 5 word playing occurred at probability of 0.007593040708166829
+For topic 5 word even occurred at probability of 0.007410940223308295
+ 
+ 
+For topic 6 word game occurred at probability of 0.07005815028190399
+For topic 6 word dlc occurred at probability of 0.028671152544721704
+For topic 6 word hours occurred at probability of 0.010552230393054354
+For topic 6 word time occurred at probability of 0.010511524047260596
+For topic 6 word war occurred at probability of 0.009642922119291419
+For topic 6 word paradox occurred at probability of 0.00847557515747914
+For topic 6 word bad occurred at probability of 0.006837242900418684
+For topic 6 word make occurred at probability of 0.006612211737109833
+For topic 6 word every occurred at probability of 0.006545917490496843
+For topic 6 word would occurred at probability of 0.006339592395291654
+ 
+ 
+For topic 7 word game occurred at probability of 0.03833267537449567
+For topic 7 word dlc occurred at probability of 0.014737775028271904
+For topic 7 word get occurred at probability of 0.012911593992236282
+For topic 7 word play occurred at probability of 0.011592016710014127
+For topic 7 word dont occurred at probability of 0.010475901315473499
+For topic 7 word good occurred at probability of 0.01002941845512012
+For topic 7 word dlcs occurred at probability of 0.008172984133515894
+For topic 7 word still occurred at probability of 0.008013646157144469
+For topic 7 word new occurred at probability of 0.007185368614371954
+For topic 7 word like occurred at probability of 0.006873026796457887
+ 
+ 
+For topic 8 word game occurred at probability of 0.0658730579364401
+For topic 8 word time occurred at probability of 0.014645621753443418
+For topic 8 word dont occurred at probability of 0.011185600989327811
+For topic 8 word hours occurred at probability of 0.01064038072084133
+For topic 8 word games occurred at probability of 0.010545788834942026
+For topic 8 word play occurred at probability of 0.01015693221608602
+For topic 8 word buy occurred at probability of 0.009545607305044767
+For topic 8 word would occurred at probability of 0.008639221968468648
+For topic 8 word bad occurred at probability of 0.007236124326177354
+For topic 8 word dlc occurred at probability of 0.006842131396542619
+ 
+ 
+For topic 9 word game occurred at probability of 0.045658556184519965
+For topic 9 word get occurred at probability of 0.01914630114161144
+For topic 9 word hours occurred at probability of 0.015861900434527346
+For topic 9 word dlcs occurred at probability of 0.010052121599164182
+For topic 9 word play occurred at probability of 0.009517639049136347
+For topic 9 word would occurred at probability of 0.008942972795856497
+For topic 9 word one occurred at probability of 0.008472377631932837
+For topic 9 word good occurred at probability of 0.008032358456336685
+For topic 9 word dlc occurred at probability of 0.007550902610910282
+For topic 9 word like occurred at probability of 0.006509731056027284
+ 
+ 
+For topic 10 word game occurred at probability of 0.0733057374990383
+For topic 10 word dlc occurred at probability of 0.022985078535431552
+For topic 10 word paradox occurred at probability of 0.018123398180501973
+For topic 10 word play occurred at probability of 0.01238632193326756
+For topic 10 word would occurred at probability of 0.012069648188760287
+For topic 10 word dlcs occurred at probability of 0.011769341177217809
+For topic 10 word buy occurred at probability of 0.010501254553319588
+For topic 10 word war occurred at probability of 0.010484449955126115
+For topic 10 word games occurred at probability of 0.008268300186297813
+For topic 10 word even occurred at probability of 0.00803273660584487
+ 
+ 

@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.05230312251805927
+For topic 1 word cod occurred at probability of 0.019273713784021845
+For topic 1 word even occurred at probability of 0.014841644170445917
+For topic 1 word dont occurred at probability of 0.013532482730723544
+For topic 1 word bad occurred at probability of 0.012203090969294617
+For topic 1 word buy occurred at probability of 0.011452235461298161
+For topic 1 word call occurred at probability of 0.009089165624331753
+For topic 1 word get occurred at probability of 0.008803697391495455
+For topic 1 word one occurred at probability of 0.00808525651000508
+For topic 1 word multiplayer occurred at probability of 0.0075646970802023365
+ 
+ 
+For topic 2 word time occurred at probability of 0.018179597803895494
+For topic 2 word game occurred at probability of 0.01621887592644379
+For topic 2 word duty occurred at probability of 0.014326002806367586
+For topic 2 word multiplayer occurred at probability of 0.012482576929605485
+For topic 2 word like occurred at probability of 0.011446674037023354
+For topic 2 word warfare occurred at probability of 0.011276115277656578
+For topic 2 word play occurred at probability of 0.00982532790946775
+For topic 2 word get occurred at probability of 0.009482416930567263
+For topic 2 word even occurred at probability of 0.009307251539781717
+For topic 2 word free occurred at probability of 0.008946889654699676
+ 
+ 
+For topic 3 word game occurred at probability of 0.07727782279725864
+For topic 3 word cod occurred at probability of 0.018786124552245265
+For topic 3 word play occurred at probability of 0.015856882377241706
+For topic 3 word even occurred at probability of 0.01413683193862258
+For topic 3 word get occurred at probability of 0.013279364137458937
+For topic 3 word bad occurred at probability of 0.013253824479495751
+For topic 3 word warfare occurred at probability of 0.011159326388640298
+For topic 3 word multiplayer occurred at probability of 0.010623659217561384
+For topic 3 word really occurred at probability of 0.010150406676661092
+For topic 3 word played occurred at probability of 0.009795642993060603
+ 
+ 
+For topic 4 word game occurred at probability of 0.07303397013919902
+For topic 4 word even occurred at probability of 0.01676811363560596
+For topic 4 word cod occurred at probability of 0.013306303338021096
+For topic 4 word duty occurred at probability of 0.011426867723200437
+For topic 4 word dont occurred at probability of 0.010941329667065656
+For topic 4 word multiplayer occurred at probability of 0.01017869402149311
+For topic 4 word good occurred at probability of 0.009363984478418404
+For topic 4 word get occurred at probability of 0.009209475369707768
+For topic 4 word like occurred at probability of 0.009087659501986499
+For topic 4 word campaign occurred at probability of 0.009059262458176615
+ 
+ 
+For topic 5 word game occurred at probability of 0.040008088124246964
+For topic 5 word play occurred at probability of 0.0175914151741371
+For topic 5 word time occurred at probability of 0.015006171847950953
+For topic 5 word like occurred at probability of 0.01410480992909795
+For topic 5 word even occurred at probability of 0.011891389821218954
+For topic 5 word get occurred at probability of 0.011508754425845069
+For topic 5 word really occurred at probability of 0.009765543287691537
+For topic 5 word bad occurred at probability of 0.009510724417204451
+For topic 5 word call occurred at probability of 0.007758407585020508
+For topic 5 word dont occurred at probability of 0.007679137095818712
+ 
+ 
+For topic 6 word game occurred at probability of 0.07960154260036169
+For topic 6 word multiplayer occurred at probability of 0.012096664435307904
+For topic 6 word bad occurred at probability of 0.010731359592054986
+For topic 6 word campaign occurred at probability of 0.009875891754649292
+For topic 6 word play occurred at probability of 0.009834215133100146
+For topic 6 word would occurred at probability of 0.00862521488030986
+For topic 6 word one occurred at probability of 0.008545859096111217
+For topic 6 word call occurred at probability of 0.00777511171551771
+For topic 6 word cant occurred at probability of 0.007466141052086826
+For topic 6 word time occurred at probability of 0.00744237183796446
+ 
+ 
+For topic 7 word game occurred at probability of 0.03118096587241278
+For topic 7 word dont occurred at probability of 0.019288864834094734
+For topic 7 word play occurred at probability of 0.012928756224477995
+For topic 7 word call occurred at probability of 0.009963413097305937
+For topic 7 word cod occurred at probability of 0.009961594360244663
+For topic 7 word buy occurred at probability of 0.009228513710904968
+For topic 7 word one occurred at probability of 0.009024975512190975
+For topic 7 word zombies occurred at probability of 0.007577384501756739
+For topic 7 word im occurred at probability of 0.006983879131338717
+For topic 7 word got occurred at probability of 0.006779133818215136
+ 
+ 
+For topic 8 word time occurred at probability of 0.012145352067521138
+For topic 8 word play occurred at probability of 0.011372562055684758
+For topic 8 word buy occurred at probability of 0.011268934741154495
+For topic 8 word game occurred at probability of 0.010349988481665446
+For topic 8 word call occurred at probability of 0.009212620154076779
+For topic 8 word multiplayer occurred at probability of 0.009132671377038536
+For topic 8 word duty occurred at probability of 0.008764902687289189
+For topic 8 word money occurred at probability of 0.008541689209011886
+For topic 8 word pc occurred at probability of 0.008516816748112319
+For topic 8 word would occurred at probability of 0.008292309738728514
+ 
+ 
+For topic 9 word game occurred at probability of 0.01675301086780798
+For topic 9 word cod occurred at probability of 0.014634040691507788
+For topic 9 word play occurred at probability of 0.013375128240996568
+For topic 9 word bad occurred at probability of 0.010234831933966067
+For topic 9 word multiplayer occurred at probability of 0.009746709144025981
+For topic 9 word buy occurred at probability of 0.009136973603635115
+For topic 9 word call occurred at probability of 0.009094551411275313
+For topic 9 word warfare occurred at probability of 0.00870856934213061
+For topic 9 word campaign occurred at probability of 0.008397713525285967
+For topic 9 word cant occurred at probability of 0.0074256633885492924
+ 
+ 
+For topic 10 word game occurred at probability of 0.022254217623590256
+For topic 10 word like occurred at probability of 0.01680216475878232
+For topic 10 word dont occurred at probability of 0.016433185331740766
+For topic 10 word buy occurred at probability of 0.012630956103445164
+For topic 10 word bad occurred at probability of 0.01163089061771697
+For topic 10 word campaign occurred at probability of 0.010484925593888847
+For topic 10 word pc occurred at probability of 0.010409198375309375
+For topic 10 word people occurred at probability of 0.009003692469751232
+For topic 10 word zombies occurred at probability of 0.0072959205115396145
+For topic 10 word play occurred at probability of 0.006928327777897366
+ 
+ 

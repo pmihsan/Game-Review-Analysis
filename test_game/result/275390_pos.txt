@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.06954980082775919
+For topic 1 word like occurred at probability of 0.018736205899090773
+For topic 1 word combat occurred at probability of 0.01536915346181102
+For topic 1 word fun occurred at probability of 0.01463884869682514
+For topic 1 word good occurred at probability of 0.012242328367783578
+For topic 1 word great occurred at probability of 0.01071961734309736
+For topic 1 word get occurred at probability of 0.01061679643835875
+For topic 1 word one occurred at probability of 0.008904565910652106
+For topic 1 word games occurred at probability of 0.008253536259634852
+For topic 1 word metroidvania occurred at probability of 0.007888315181004813
+ 
+ 
+For topic 2 word style occurred at probability of 0.01454460213816924
+For topic 2 word game occurred at probability of 0.013727969247624233
+For topic 2 word play occurred at probability of 0.013426114596011285
+For topic 2 word one occurred at probability of 0.011930519683444314
+For topic 2 word good occurred at probability of 0.011455979749358363
+For topic 2 word really occurred at probability of 0.011429183858183936
+For topic 2 word pretty occurred at probability of 0.01055174388848845
+For topic 2 word music occurred at probability of 0.009311167841150325
+For topic 2 word games occurred at probability of 0.00847565027840016
+For topic 2 word even occurred at probability of 0.007160967978677292
+ 
+ 
+For topic 3 word fun occurred at probability of 0.023510744684236758
+For topic 3 word game occurred at probability of 0.013061671045271655
+For topic 3 word platforming occurred at probability of 0.012286497140385731
+For topic 3 word like occurred at probability of 0.011618513965455714
+For topic 3 word play occurred at probability of 0.009847873109278241
+For topic 3 word guacamelee occurred at probability of 0.009780894308980293
+For topic 3 word get occurred at probability of 0.00948514786656917
+For topic 3 word well occurred at probability of 0.009190714354773815
+For topic 3 word metroidvania occurred at probability of 0.008854365182792345
+For topic 3 word games occurred at probability of 0.008740078064668562
+ 
+ 
+For topic 4 word game occurred at probability of 0.05738210527708746
+For topic 4 word fun occurred at probability of 0.02180417318589121
+For topic 4 word metroidvania occurred at probability of 0.015984850810880254
+For topic 4 word games occurred at probability of 0.010575063558388565
+For topic 4 word great occurred at probability of 0.008448603555011251
+For topic 4 word combat occurred at probability of 0.00842496952644398
+For topic 4 word like occurred at probability of 0.0077552904192234925
+For topic 4 word really occurred at probability of 0.006362115365738217
+For topic 4 word much occurred at probability of 0.006257815797190092
+For topic 4 word even occurred at probability of 0.006126747133904581
+ 
+ 
+For topic 5 word game occurred at probability of 0.04306614907719494
+For topic 5 word fun occurred at probability of 0.016565141515641993
+For topic 5 word like occurred at probability of 0.016148790112809026
+For topic 5 word great occurred at probability of 0.01376860303856204
+For topic 5 word good occurred at probability of 0.012749614623383464
+For topic 5 word one occurred at probability of 0.011464475843066094
+For topic 5 word combat occurred at probability of 0.010786315041416885
+For topic 5 word really occurred at probability of 0.010749731559691932
+For topic 5 word games occurred at probability of 0.009948289101742655
+For topic 5 word hard occurred at probability of 0.009735019272522608
+ 
+ 
+For topic 6 word game occurred at probability of 0.021531307477644087
+For topic 6 word great occurred at probability of 0.014338005538564468
+For topic 6 word like occurred at probability of 0.013986614355404062
+For topic 6 word play occurred at probability of 0.01379587817750293
+For topic 6 word style occurred at probability of 0.013604043904212337
+For topic 6 word games occurred at probability of 0.011998986103528607
+For topic 6 word get occurred at probability of 0.010345173528707566
+For topic 6 word really occurred at probability of 0.01010314410641052
+For topic 6 word time occurred at probability of 0.009059529480373887
+For topic 6 word gameplay occurred at probability of 0.007078280346942958
+ 
+ 
+For topic 7 word game occurred at probability of 0.05964185462112239
+For topic 7 word fun occurred at probability of 0.02048657214407158
+For topic 7 word really occurred at probability of 0.013642683871192744
+For topic 7 word good occurred at probability of 0.01353590706919405
+For topic 7 word metroidvania occurred at probability of 0.011100969389875587
+For topic 7 word like occurred at probability of 0.010484447685413343
+For topic 7 word guacamelee occurred at probability of 0.00806903866385892
+For topic 7 word music occurred at probability of 0.007551190319301381
+For topic 7 word also occurred at probability of 0.0075287176302262105
+For topic 7 word platformer occurred at probability of 0.007419167244308168
+ 
+ 
+For topic 8 word game occurred at probability of 0.02387003705639661
+For topic 8 word fun occurred at probability of 0.021724726730344913
+For topic 8 word combat occurred at probability of 0.015584438531401056
+For topic 8 word great occurred at probability of 0.011757033386657506
+For topic 8 word one occurred at probability of 0.011603134873116155
+For topic 8 word platforming occurred at probability of 0.01117322556690957
+For topic 8 word really occurred at probability of 0.010685798976045607
+For topic 8 word style occurred at probability of 0.00967295295279465
+For topic 8 word time occurred at probability of 0.008879779838841266
+For topic 8 word well occurred at probability of 0.008674235248958792
+ 
+ 
+For topic 9 word game occurred at probability of 0.04728845553264607
+For topic 9 word good occurred at probability of 0.014868083040212473
+For topic 9 word play occurred at probability of 0.013931226449163786
+For topic 9 word like occurred at probability of 0.013033197519822856
+For topic 9 word metroidvania occurred at probability of 0.012859866593621061
+For topic 9 word great occurred at probability of 0.009000251176989778
+For topic 9 word one occurred at probability of 0.008041519743100094
+For topic 9 word fun occurred at probability of 0.007262758196655956
+For topic 9 word really occurred at probability of 0.007221331340472958
+For topic 9 word well occurred at probability of 0.0071770687184513704
+ 
+ 
+For topic 10 word game occurred at probability of 0.06299141355147134
+For topic 10 word fun occurred at probability of 0.017471781881966356
+For topic 10 word good occurred at probability of 0.017349683745945386
+For topic 10 word metroidvania occurred at probability of 0.015053588257833253
+For topic 10 word get occurred at probability of 0.01314232990133615
+For topic 10 word play occurred at probability of 0.011304822888123877
+For topic 10 word really occurred at probability of 0.011140329903243653
+For topic 10 word one occurred at probability of 0.01034175511556274
+For topic 10 word platforming occurred at probability of 0.009850990963881836
+For topic 10 word gameplay occurred at probability of 0.007967025610767453
+ 
+ 

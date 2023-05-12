@@ -1,0 +1,120 @@
+For topic 1 word time occurred at probability of 0.018723928760393645
+For topic 1 word farm occurred at probability of 0.01432330709213817
+For topic 1 word life occurred at probability of 0.011533822600894625
+For topic 1 word playing occurred at probability of 0.011457568717980275
+For topic 1 word buy occurred at probability of 0.009923586612893434
+For topic 1 word fun occurred at probability of 0.009784933514555746
+For topic 1 word would occurred at probability of 0.009743933883657432
+For topic 1 word get occurred at probability of 0.009006141499306206
+For topic 1 word hours occurred at probability of 0.008705174848072143
+For topic 1 word relaxing occurred at probability of 0.008328126822446198
+ 
+ 
+For topic 2 word harvest occurred at probability of 0.01660980911447436
+For topic 2 word get occurred at probability of 0.013325445144133287
+For topic 2 word good occurred at probability of 0.012784171025180851
+For topic 2 word life occurred at probability of 0.012275526455175089
+For topic 2 word farming occurred at probability of 0.010201230436233492
+For topic 2 word buy occurred at probability of 0.009591143609115324
+For topic 2 word go occurred at probability of 0.009032743648566734
+For topic 2 word dont occurred at probability of 0.00792909170913991
+For topic 2 word hours occurred at probability of 0.007621144637854298
+For topic 2 word stardew occurred at probability of 0.007397347690441886
+ 
+ 
+For topic 3 word time occurred at probability of 0.014940324594219567
+For topic 3 word farm occurred at probability of 0.013705081166547442
+For topic 3 word hours occurred at probability of 0.013263246960413795
+For topic 3 word get occurred at probability of 0.01269771596234217
+For topic 3 word would occurred at probability of 0.011184697323838368
+For topic 3 word playing occurred at probability of 0.01041031001208741
+For topic 3 word farming occurred at probability of 0.00992788149234291
+For topic 3 word cant occurred at probability of 0.008673513568144232
+For topic 3 word games occurred at probability of 0.007696384477245113
+For topic 3 word played occurred at probability of 0.007527011430646422
+ 
+ 
+For topic 4 word get occurred at probability of 0.014156681685153764
+For topic 4 word games occurred at probability of 0.010344814063869869
+For topic 4 word much occurred at probability of 0.009194531524676228
+For topic 4 word good occurred at probability of 0.008900204380284186
+For topic 4 word bad occurred at probability of 0.008419151892463774
+For topic 4 word really occurred at probability of 0.007586058665209026
+For topic 4 word im occurred at probability of 0.007419138768218932
+For topic 4 word like occurred at probability of 0.007247116931227748
+For topic 4 word fun occurred at probability of 0.007146497311595467
+For topic 4 word stardew occurred at probability of 0.007129712257961197
+ 
+ 
+For topic 5 word dont occurred at probability of 0.018042303439905087
+For topic 5 word time occurred at probability of 0.010383281907372748
+For topic 5 word really occurred at probability of 0.009098811709952075
+For topic 5 word much occurred at probability of 0.009035704031533722
+For topic 5 word like occurred at probability of 0.008918215187179467
+For topic 5 word im occurred at probability of 0.008891000438561149
+For topic 5 word farming occurred at probability of 0.007971871620625565
+For topic 5 word fun occurred at probability of 0.007939648971454275
+For topic 5 word get occurred at probability of 0.007886307951926992
+For topic 5 word go occurred at probability of 0.007668636509964953
+ 
+ 
+For topic 6 word hours occurred at probability of 0.014772967336269118
+For topic 6 word playing occurred at probability of 0.012459766823346992
+For topic 6 word get occurred at probability of 0.011283664406810414
+For topic 6 word games occurred at probability of 0.011138206530369267
+For topic 6 word farming occurred at probability of 0.011006356037189538
+For topic 6 word life occurred at probability of 0.009408956545124865
+For topic 6 word im occurred at probability of 0.009235594388242455
+For topic 6 word stardew occurred at probability of 0.009133926697655467
+For topic 6 word really occurred at probability of 0.008063819737367493
+For topic 6 word time occurred at probability of 0.008052458872270834
+ 
+ 
+For topic 7 word time occurred at probability of 0.01972479370555629
+For topic 7 word dont occurred at probability of 0.01184909227876831
+For topic 7 word harvest occurred at probability of 0.011058514375859875
+For topic 7 word hours occurred at probability of 0.009506695858218495
+For topic 7 word would occurred at probability of 0.00894877004814523
+For topic 7 word cant occurred at probability of 0.008176451436594671
+For topic 7 word go occurred at probability of 0.007757254831436517
+For topic 7 word get occurred at probability of 0.007345951313276649
+For topic 7 word one occurred at probability of 0.007201455700480988
+For topic 7 word im occurred at probability of 0.007101223920005623
+ 
+ 
+For topic 8 word farm occurred at probability of 0.014641493427957057
+For topic 8 word one occurred at probability of 0.014463573621422827
+For topic 8 word playing occurred at probability of 0.013345299413932392
+For topic 8 word good occurred at probability of 0.012998613340602077
+For topic 8 word get occurred at probability of 0.012995953874432404
+For topic 8 word even occurred at probability of 0.008384237010941603
+For topic 8 word relaxing occurred at probability of 0.007683441673660827
+For topic 8 word bad occurred at probability of 0.007520091355905663
+For topic 8 word moon occurred at probability of 0.007464801663871311
+For topic 8 word great occurred at probability of 0.00647514163323287
+ 
+ 
+For topic 9 word hours occurred at probability of 0.017633672083212593
+For topic 9 word get occurred at probability of 0.015344746452277099
+For topic 9 word time occurred at probability of 0.014500466380638287
+For topic 9 word playing occurred at probability of 0.012056909522282545
+For topic 9 word one occurred at probability of 0.011797513301218613
+For topic 9 word stardew occurred at probability of 0.010814711854932007
+For topic 9 word would occurred at probability of 0.010251583689282891
+For topic 9 word life occurred at probability of 0.009682222749780272
+For topic 9 word buy occurred at probability of 0.008531671816891954
+For topic 9 word stop occurred at probability of 0.00800158546720726
+ 
+ 
+For topic 10 word hours occurred at probability of 0.015717462968995437
+For topic 10 word good occurred at probability of 0.012182180206458984
+For topic 10 word farm occurred at probability of 0.011043576929307014
+For topic 10 word one occurred at probability of 0.010812502822893295
+For topic 10 word get occurred at probability of 0.009790281701770464
+For topic 10 word stop occurred at probability of 0.009542630875209783
+For topic 10 word playing occurred at probability of 0.009055298089962312
+For topic 10 word much occurred at probability of 0.008932297290091647
+For topic 10 word moon occurred at probability of 0.008358084641203828
+For topic 10 word even occurred at probability of 0.007919384676670862
+ 
+ 

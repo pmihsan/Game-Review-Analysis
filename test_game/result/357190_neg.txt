@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.03592482750301592
+For topic 1 word online occurred at probability of 0.024256337623186915
+For topic 1 word get occurred at probability of 0.023988468510469433
+For topic 1 word shit occurred at probability of 0.022315831130803924
+For topic 1 word one occurred at probability of 0.018171416415660863
+For topic 1 word fun occurred at probability of 0.013487721598679414
+For topic 1 word dont occurred at probability of 0.010192616006385562
+For topic 1 word netcode occurred at probability of 0.010096848987049711
+For topic 1 word play occurred at probability of 0.00998645212037837
+For topic 1 word really occurred at probability of 0.009889348918877966
+ 
+ 
+For topic 2 word game occurred at probability of 0.09999158955902697
+For topic 2 word online occurred at probability of 0.024443222569761783
+For topic 2 word get occurred at probability of 0.01494009326763685
+For topic 2 word shit occurred at probability of 0.01383225055486618
+For topic 2 word play occurred at probability of 0.011711669766555409
+For topic 2 word even occurred at probability of 0.010899334059689425
+For topic 2 word capcom occurred at probability of 0.010214778192566628
+For topic 2 word well occurred at probability of 0.009187287612874117
+For topic 2 word years occurred at probability of 0.009185690701199414
+For topic 2 word mode occurred at probability of 0.009019079552029654
+ 
+ 
+For topic 3 word online occurred at probability of 0.03443795659021782
+For topic 3 word game occurred at probability of 0.02294030210283399
+For topic 3 word games occurred at probability of 0.01674015199592747
+For topic 3 word port occurred at probability of 0.01485842539087752
+For topic 3 word fighting occurred at probability of 0.013849461567602478
+For topic 3 word played occurred at probability of 0.013484008356175706
+For topic 3 word get occurred at probability of 0.013431895185873064
+For topic 3 word fucking occurred at probability of 0.012847109677010218
+For topic 3 word still occurred at probability of 0.012438089181950015
+For topic 3 word netcode occurred at probability of 0.011493668142831233
+ 
+ 
+For topic 4 word game occurred at probability of 0.04292433339590496
+For topic 4 word play occurred at probability of 0.03067518948427137
+For topic 4 word one occurred at probability of 0.0204333444845077
+For topic 4 word even occurred at probability of 0.012903868301317165
+For topic 4 word get occurred at probability of 0.012463062235650642
+For topic 4 word online occurred at probability of 0.011107688870206174
+For topic 4 word time occurred at probability of 0.010720569046325153
+For topic 4 word netcode occurred at probability of 0.010343524314850222
+For topic 4 word fighting occurred at probability of 0.009809942821744385
+For topic 4 word buy occurred at probability of 0.009500584637896253
+ 
+ 
+For topic 5 word game occurred at probability of 0.03219794885687412
+For topic 5 word one occurred at probability of 0.026305406679158705
+For topic 5 word play occurred at probability of 0.024523833802681694
+For topic 5 word like occurred at probability of 0.016629862529510594
+For topic 5 word even occurred at probability of 0.016008608960307705
+For topic 5 word players occurred at probability of 0.013187811135043932
+For topic 5 word well occurred at probability of 0.01244511473716208
+For topic 5 word fun occurred at probability of 0.011445032022250804
+For topic 5 word port occurred at probability of 0.010873708999806338
+For topic 5 word still occurred at probability of 0.010780550759315026
+ 
+ 
+For topic 6 word game occurred at probability of 0.052460806139999656
+For topic 6 word online occurred at probability of 0.03950454844355983
+For topic 6 word fighting occurred at probability of 0.01761659530476575
+For topic 6 word shit occurred at probability of 0.014009828891001311
+For topic 6 word cant occurred at probability of 0.01370306904934033
+For topic 6 word fun occurred at probability of 0.01213911752838368
+For topic 6 word netcode occurred at probability of 0.011947723862216422
+For topic 6 word players occurred at probability of 0.011423771437311716
+For topic 6 word capcom occurred at probability of 0.010988837804125762
+For topic 6 word want occurred at probability of 0.010597440797563359
+ 
+ 
+For topic 7 word game occurred at probability of 0.09964522592342265
+For topic 7 word play occurred at probability of 0.02508149376113483
+For topic 7 word even occurred at probability of 0.014842308283514285
+For topic 7 word capcom occurred at probability of 0.012282405274504367
+For topic 7 word time occurred at probability of 0.011501645131817026
+For topic 7 word youre occurred at probability of 0.011308531644678226
+For topic 7 word playing occurred at probability of 0.011144345510155099
+For topic 7 word dead occurred at probability of 0.010888606105459216
+For topic 7 word version occurred at probability of 0.009487529235364731
+For topic 7 word would occurred at probability of 0.008327696591938554
+ 
+ 
+For topic 8 word game occurred at probability of 0.053297230198434443
+For topic 8 word online occurred at probability of 0.01792134626550154
+For topic 8 word get occurred at probability of 0.01744679969198902
+For topic 8 word even occurred at probability of 0.013868732104683482
+For topic 8 word fun occurred at probability of 0.012807983451369746
+For topic 8 word youre occurred at probability of 0.011255455599247807
+For topic 8 word cant occurred at probability of 0.01122870307748563
+For topic 8 word shit occurred at probability of 0.011007744533626542
+For topic 8 word buy occurred at probability of 0.009682888321537644
+For topic 8 word much occurred at probability of 0.008518954221883259
+ 
+ 
+For topic 9 word game occurred at probability of 0.051300336535886636
+For topic 9 word play occurred at probability of 0.019990404270727485
+For topic 9 word games occurred at probability of 0.0165282314834969
+For topic 9 word netcode occurred at probability of 0.012897163495975486
+For topic 9 word online occurred at probability of 0.012614879653860017
+For topic 9 word played occurred at probability of 0.011305822603183129
+For topic 9 word good occurred at probability of 0.011245345816281165
+For topic 9 word buy occurred at probability of 0.01043359859706109
+For topic 9 word shit occurred at probability of 0.009431453830676251
+For topic 9 word playing occurred at probability of 0.008814546799384555
+ 
+ 
+For topic 10 word game occurred at probability of 0.046722881869872016
+For topic 10 word online occurred at probability of 0.03017748924694117
+For topic 10 word play occurred at probability of 0.022530870227819067
+For topic 10 word get occurred at probability of 0.019491538382190372
+For topic 10 word fighting occurred at probability of 0.01910104096220827
+For topic 10 word played occurred at probability of 0.015151131036766428
+For topic 10 word shit occurred at probability of 0.014156703567803405
+For topic 10 word one occurred at probability of 0.014023575689154284
+For topic 10 word fucking occurred at probability of 0.013505420890037121
+For topic 10 word capcom occurred at probability of 0.010127006454156982
+ 
+ 

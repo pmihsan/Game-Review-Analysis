@@ -1,0 +1,120 @@
+For topic 1 word like occurred at probability of 0.027048803282841396
+For topic 1 word really occurred at probability of 0.015078782722988565
+For topic 1 word minecraft occurred at probability of 0.012236215556284031
+For topic 1 word get occurred at probability of 0.011461658150737321
+For topic 1 word love occurred at probability of 0.011449749168800033
+For topic 1 word much occurred at probability of 0.010666944100962998
+For topic 1 word stardew occurred at probability of 0.008766705539661537
+For topic 1 word game occurred at probability of 0.008357639619327619
+For topic 1 word dont occurred at probability of 0.008279067921929874
+For topic 1 word cute occurred at probability of 0.007852877499663348
+ 
+ 
+For topic 2 word game occurred at probability of 0.06854110435704752
+For topic 2 word like occurred at probability of 0.03101069848553484
+For topic 2 word play occurred at probability of 0.01723747580742558
+For topic 2 word building occurred at probability of 0.013200115751872434
+For topic 2 word stardew occurred at probability of 0.011435702812475915
+For topic 2 word would occurred at probability of 0.010913932834745824
+For topic 2 word things occurred at probability of 0.009601910021620834
+For topic 2 word fun occurred at probability of 0.009257179854929378
+For topic 2 word much occurred at probability of 0.0085382196338509
+For topic 2 word valley occurred at probability of 0.00843676339322908
+ 
+ 
+For topic 3 word game occurred at probability of 0.08486093453838738
+For topic 3 word play occurred at probability of 0.016069259142956458
+For topic 3 word fun occurred at probability of 0.013588257287670049
+For topic 3 word time occurred at probability of 0.012620479305264564
+For topic 3 word valley occurred at probability of 0.009264102388856273
+For topic 3 word really occurred at probability of 0.009186081491802844
+For topic 3 word make occurred at probability of 0.008751797938188132
+For topic 3 word recommend occurred at probability of 0.008750077946046498
+For topic 3 word want occurred at probability of 0.008481529756300541
+For topic 3 word would occurred at probability of 0.00811842883084055
+ 
+ 
+For topic 4 word game occurred at probability of 0.08521485853909497
+For topic 4 word get occurred at probability of 0.01906087637922029
+For topic 4 word fun occurred at probability of 0.014464918567870633
+For topic 4 word minecraft occurred at probability of 0.011251073759444239
+For topic 4 word things occurred at probability of 0.009046476361005522
+For topic 4 word dont occurred at probability of 0.008163926671321145
+For topic 4 word games occurred at probability of 0.008077177307798373
+For topic 4 word want occurred at probability of 0.008009119467817445
+For topic 4 word build occurred at probability of 0.007413563820314784
+For topic 4 word new occurred at probability of 0.007324336939554763
+ 
+ 
+For topic 5 word game occurred at probability of 0.06517532905230332
+For topic 5 word fun occurred at probability of 0.012763950583036148
+For topic 5 word staxel occurred at probability of 0.011610277771880268
+For topic 5 word building occurred at probability of 0.008774769886634967
+For topic 5 word love occurred at probability of 0.00866733340824861
+For topic 5 word time occurred at probability of 0.008353557262393027
+For topic 5 word could occurred at probability of 0.00807323420203574
+For topic 5 word make occurred at probability of 0.007799107903825424
+For topic 5 word even occurred at probability of 0.007417654582466885
+For topic 5 word one occurred at probability of 0.00717415432563202
+ 
+ 
+For topic 6 word love occurred at probability of 0.018375380886172986
+For topic 6 word really occurred at probability of 0.01724188396753027
+For topic 6 word time occurred at probability of 0.012399677418199296
+For topic 6 word early occurred at probability of 0.011045704640353683
+For topic 6 word staxel occurred at probability of 0.010240752027878375
+For topic 6 word get occurred at probability of 0.010160367832935292
+For topic 6 word fun occurred at probability of 0.009141954624818347
+For topic 6 word build occurred at probability of 0.00907179522357528
+For topic 6 word stardew occurred at probability of 0.008262942558253265
+For topic 6 word great occurred at probability of 0.008192336861987356
+ 
+ 
+For topic 7 word like occurred at probability of 0.01581883222348343
+For topic 7 word minecraft occurred at probability of 0.015571013585630407
+For topic 7 word game occurred at probability of 0.014663292128808608
+For topic 7 word really occurred at probability of 0.01440923963907681
+For topic 7 word building occurred at probability of 0.0142147282686777
+For topic 7 word much occurred at probability of 0.01419384286257718
+For topic 7 word get occurred at probability of 0.012463553391239836
+For topic 7 word valley occurred at probability of 0.010841548652315482
+For topic 7 word recommend occurred at probability of 0.009102130858565293
+For topic 7 word play occurred at probability of 0.009004956571965378
+ 
+ 
+For topic 8 word game occurred at probability of 0.04745136647868886
+For topic 8 word like occurred at probability of 0.021567789901446605
+For topic 8 word love occurred at probability of 0.018157980791627417
+For topic 8 word stardew occurred at probability of 0.01321111157403049
+For topic 8 word minecraft occurred at probability of 0.011447015263500702
+For topic 8 word really occurred at probability of 0.011336625747121213
+For topic 8 word valley occurred at probability of 0.01005194740738049
+For topic 8 word fun occurred at probability of 0.008959035456750659
+For topic 8 word cute occurred at probability of 0.008467566700703238
+For topic 8 word things occurred at probability of 0.008154464725140895
+ 
+ 
+For topic 9 word like occurred at probability of 0.028129136839121757
+For topic 9 word get occurred at probability of 0.020201903530718535
+For topic 9 word much occurred at probability of 0.013230053073909186
+For topic 9 word time occurred at probability of 0.011903144102298173
+For topic 9 word building occurred at probability of 0.011429485667813098
+For topic 9 word fun occurred at probability of 0.010951119028757903
+For topic 9 word staxel occurred at probability of 0.010496800335884106
+For topic 9 word cute occurred at probability of 0.009389671505407144
+For topic 9 word games occurred at probability of 0.008134324178712684
+For topic 9 word one occurred at probability of 0.008126467392679852
+ 
+ 
+For topic 10 word game occurred at probability of 0.06172584996170232
+For topic 10 word like occurred at probability of 0.039543623575679074
+For topic 10 word really occurred at probability of 0.014936830261171513
+For topic 10 word building occurred at probability of 0.013893983821180832
+For topic 10 word minecraft occurred at probability of 0.01272532041645725
+For topic 10 word fun occurred at probability of 0.011319243112187988
+For topic 10 word stardew occurred at probability of 0.009860063591741994
+For topic 10 word lot occurred at probability of 0.008762744219858423
+For topic 10 word games occurred at probability of 0.008358606670194281
+For topic 10 word even occurred at probability of 0.00757950732966502
+ 
+ 

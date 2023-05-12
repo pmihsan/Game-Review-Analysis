@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.058836929354611996
+For topic 1 word story occurred at probability of 0.02458204556158868
+For topic 1 word moon occurred at probability of 0.019530725956564937
+For topic 1 word play occurred at probability of 0.013095800651316648
+For topic 1 word good occurred at probability of 0.012027518604386599
+For topic 1 word first occurred at probability of 0.01182996576111327
+For topic 1 word also occurred at probability of 0.010094266208995077
+For topic 1 word recommend occurred at probability of 0.009717850821737187
+For topic 1 word much occurred at probability of 0.00941220519016034
+For topic 1 word amazing occurred at probability of 0.009241346537539146
+ 
+ 
+For topic 2 word story occurred at probability of 0.039904853225247124
+For topic 2 word paradise occurred at probability of 0.024783210099362938
+For topic 2 word games occurred at probability of 0.022371178197718628
+For topic 2 word like occurred at probability of 0.013599040222248464
+For topic 2 word finding occurred at probability of 0.011820826907340147
+For topic 2 word play occurred at probability of 0.011726977638508678
+For topic 2 word playing occurred at probability of 0.011153709868296753
+For topic 2 word first occurred at probability of 0.010870786382270098
+For topic 2 word well occurred at probability of 0.010556927434582182
+For topic 2 word one occurred at probability of 0.008751241858788233
+ 
+ 
+For topic 3 word game occurred at probability of 0.06278548677271849
+For topic 3 word moon occurred at probability of 0.0442943342856705
+For topic 3 word story occurred at probability of 0.03288205395547831
+For topic 3 word finding occurred at probability of 0.015487522127484204
+For topic 3 word games occurred at probability of 0.013205862790654868
+For topic 3 word one occurred at probability of 0.012282034246223908
+For topic 3 word good occurred at probability of 0.011833389491854472
+For topic 3 word played occurred at probability of 0.010970285830391816
+For topic 3 word great occurred at probability of 0.009370818427565117
+For topic 3 word made occurred at probability of 0.00801474620236751
+ 
+ 
+For topic 4 word moon occurred at probability of 0.043395145548573114
+For topic 4 word game occurred at probability of 0.03838967788675345
+For topic 4 word like occurred at probability of 0.022871390383800552
+For topic 4 word paradise occurred at probability of 0.0219145349577225
+For topic 4 word story occurred at probability of 0.018698722777784532
+For topic 4 word great occurred at probability of 0.013166334996909198
+For topic 4 word dont occurred at probability of 0.010250676791990062
+For topic 4 word play occurred at probability of 0.0091912728080048
+For topic 4 word still occurred at probability of 0.00906457908443596
+For topic 4 word well occurred at probability of 0.007901695541696905
+ 
+ 
+For topic 5 word moon occurred at probability of 0.02212988368281072
+For topic 5 word games occurred at probability of 0.020478679991638483
+For topic 5 word play occurred at probability of 0.015847264157984722
+For topic 5 word one occurred at probability of 0.014403397417751377
+For topic 5 word finding occurred at probability of 0.013481299357816341
+For topic 5 word great occurred at probability of 0.013291437852960178
+For topic 5 word really occurred at probability of 0.012230688118144943
+For topic 5 word good occurred at probability of 0.011808693174554004
+For topic 5 word even occurred at probability of 0.010045612164381297
+For topic 5 word story occurred at probability of 0.009972354841284036
+ 
+ 
+For topic 6 word game occurred at probability of 0.03989926411031619
+For topic 6 word story occurred at probability of 0.02492845630880418
+For topic 6 word moon occurred at probability of 0.01621864968221904
+For topic 6 word one occurred at probability of 0.014413632673807096
+For topic 6 word good occurred at probability of 0.01433275823257187
+For topic 6 word really occurred at probability of 0.01239386043572532
+For topic 6 word games occurred at probability of 0.010496877166919383
+For topic 6 word made occurred at probability of 0.00879216351029254
+For topic 6 word beautiful occurred at probability of 0.008191275444516083
+For topic 6 word worth occurred at probability of 0.007928962535032062
+ 
+ 
+For topic 7 word moon occurred at probability of 0.03623737047274553
+For topic 7 word game occurred at probability of 0.02803512502375154
+For topic 7 word story occurred at probability of 0.02699833413371079
+For topic 7 word like occurred at probability of 0.02512430549847463
+For topic 7 word games occurred at probability of 0.01745680984860293
+For topic 7 word finding occurred at probability of 0.017145450454520823
+For topic 7 word one occurred at probability of 0.012399187174723908
+For topic 7 word still occurred at probability of 0.009728306192382257
+For topic 7 word played occurred at probability of 0.008268986094595154
+For topic 7 word even occurred at probability of 0.008259689684140972
+ 
+ 
+For topic 8 word game occurred at probability of 0.06740676443556004
+For topic 8 word story occurred at probability of 0.025173706911958176
+For topic 8 word finding occurred at probability of 0.017214485558133402
+For topic 8 word like occurred at probability of 0.016035333609001574
+For topic 8 word one occurred at probability of 0.015572333389133742
+For topic 8 word games occurred at probability of 0.014596770273284475
+For topic 8 word moon occurred at probability of 0.01405772380399048
+For topic 8 word would occurred at probability of 0.011816890505256389
+For topic 8 word really occurred at probability of 0.011558576656289453
+For topic 8 word amazing occurred at probability of 0.011123528801436147
+ 
+ 
+For topic 9 word game occurred at probability of 0.07349653928030815
+For topic 9 word story occurred at probability of 0.03645183247802145
+For topic 9 word moon occurred at probability of 0.017519431589316035
+For topic 9 word great occurred at probability of 0.012644060263210573
+For topic 9 word really occurred at probability of 0.011645212984911757
+For topic 9 word would occurred at probability of 0.010122371217865536
+For topic 9 word music occurred at probability of 0.009748798778306327
+For topic 9 word games occurred at probability of 0.009232154525040333
+For topic 9 word good occurred at probability of 0.00895430966510848
+For topic 9 word play occurred at probability of 0.008199794010703223
+ 
+ 
+For topic 10 word story occurred at probability of 0.03296613277272537
+For topic 10 word game occurred at probability of 0.02591385969088652
+For topic 10 word one occurred at probability of 0.01694492983833315
+For topic 10 word play occurred at probability of 0.013224419074119378
+For topic 10 word great occurred at probability of 0.012398395936848078
+For topic 10 word played occurred at probability of 0.012309397498355017
+For topic 10 word paradise occurred at probability of 0.011948990615351799
+For topic 10 word moon occurred at probability of 0.01097114087092588
+For topic 10 word really occurred at probability of 0.009331906891771293
+For topic 10 word even occurred at probability of 0.009196607445478365
+ 
+ 

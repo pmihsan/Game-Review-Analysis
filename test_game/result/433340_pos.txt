@@ -1,0 +1,120 @@
+For topic 1 word slimes occurred at probability of 0.02917279456353946
+For topic 1 word great occurred at probability of 0.014017099643976549
+For topic 1 word cute occurred at probability of 0.010919479316398821
+For topic 1 word want occurred at probability of 0.010670813176256384
+For topic 1 word ive occurred at probability of 0.010343181909725926
+For topic 1 word slime occurred at probability of 0.009646081572952086
+For topic 1 word rancher occurred at probability of 0.009313919595912122
+For topic 1 word adorable occurred at probability of 0.009312990743694901
+For topic 1 word recommend occurred at probability of 0.008696252660114276
+For topic 1 word one occurred at probability of 0.008071257358765349
+ 
+ 
+For topic 2 word slimes occurred at probability of 0.031052062048620106
+For topic 2 word fun occurred at probability of 0.02830704916241866
+For topic 2 word cute occurred at probability of 0.016034735994470587
+For topic 2 word great occurred at probability of 0.011690342496642836
+For topic 2 word get occurred at probability of 0.011292177989555426
+For topic 2 word really occurred at probability of 0.011028994580441846
+For topic 2 word adorable occurred at probability of 0.01060857046601406
+For topic 2 word good occurred at probability of 0.010444543040686883
+For topic 2 word games occurred at probability of 0.010410377139791968
+For topic 2 word rancher occurred at probability of 0.010010081518739299
+ 
+ 
+For topic 3 word fun occurred at probability of 0.026066815203800598
+For topic 3 word slime occurred at probability of 0.015949560463166763
+For topic 3 word love occurred at probability of 0.0143765932987441
+For topic 3 word like occurred at probability of 0.013961167168582393
+For topic 3 word cute occurred at probability of 0.013359669182893373
+For topic 3 word get occurred at probability of 0.011842992526901776
+For topic 3 word relaxing occurred at probability of 0.010787886206940125
+For topic 3 word slimes occurred at probability of 0.009847217928469074
+For topic 3 word really occurred at probability of 0.009363436358153046
+For topic 3 word recommend occurred at probability of 0.009088590711563961
+ 
+ 
+For topic 4 word fun occurred at probability of 0.04292066670387828
+For topic 4 word slime occurred at probability of 0.02118922593088562
+For topic 4 word good occurred at probability of 0.018032469478402216
+For topic 4 word yes occurred at probability of 0.017971061004506024
+For topic 4 word like occurred at probability of 0.015562747487636964
+For topic 4 word love occurred at probability of 0.014439800964522149
+For topic 4 word recommend occurred at probability of 0.01017379386619733
+For topic 4 word time occurred at probability of 0.010073735664867797
+For topic 4 word great occurred at probability of 0.009437987354356312
+For topic 4 word one occurred at probability of 0.008978514391615781
+ 
+ 
+For topic 5 word fun occurred at probability of 0.02422166797982146
+For topic 5 word cute occurred at probability of 0.017780243375289297
+For topic 5 word much occurred at probability of 0.016401151921728717
+For topic 5 word love occurred at probability of 0.01481757812068924
+For topic 5 word would occurred at probability of 0.014073371759521756
+For topic 5 word slimes occurred at probability of 0.010949359895483072
+For topic 5 word time occurred at probability of 0.010119964668289702
+For topic 5 word played occurred at probability of 0.009126097813292194
+For topic 5 word really occurred at probability of 0.008679387755761115
+For topic 5 word something occurred at probability of 0.008631219690782578
+ 
+ 
+For topic 6 word slimes occurred at probability of 0.02856110822165711
+For topic 6 word good occurred at probability of 0.01825634091650768
+For topic 6 word would occurred at probability of 0.018152284052374502
+For topic 6 word love occurred at probability of 0.01667838529445732
+For topic 6 word really occurred at probability of 0.015991782138586052
+For topic 6 word like occurred at probability of 0.015340534699833808
+For topic 6 word cute occurred at probability of 0.013583890309849812
+For topic 6 word get occurred at probability of 0.01334099701951598
+For topic 6 word yes occurred at probability of 0.013004407772102185
+For topic 6 word one occurred at probability of 0.01196687616981688
+ 
+ 
+For topic 7 word fun occurred at probability of 0.032835089160148705
+For topic 7 word cute occurred at probability of 0.024880612288619534
+For topic 7 word slime occurred at probability of 0.01966502154230778
+For topic 7 word love occurred at probability of 0.015312519204783069
+For topic 7 word great occurred at probability of 0.01514703427440277
+For topic 7 word get occurred at probability of 0.012983328877929771
+For topic 7 word like occurred at probability of 0.012074293627202649
+For topic 7 word slimes occurred at probability of 0.011579890425921575
+For topic 7 word good occurred at probability of 0.009822431092922976
+For topic 7 word recommend occurred at probability of 0.009606929312937931
+ 
+ 
+For topic 8 word slime occurred at probability of 0.02943477617691457
+For topic 8 word like occurred at probability of 0.01931758916867549
+For topic 8 word yes occurred at probability of 0.014056791871259973
+For topic 8 word one occurred at probability of 0.011802626831973992
+For topic 8 word even occurred at probability of 0.011674095308251135
+For topic 8 word games occurred at probability of 0.011209390747438774
+For topic 8 word time occurred at probability of 0.009462808278446562
+For topic 8 word new occurred at probability of 0.009232136161983581
+For topic 8 word ive occurred at probability of 0.008289653339323052
+For topic 8 word adorable occurred at probability of 0.008090039639303733
+ 
+ 
+For topic 9 word slimes occurred at probability of 0.03479128466457122
+For topic 9 word cute occurred at probability of 0.023699662900972408
+For topic 9 word fun occurred at probability of 0.018234744251128542
+For topic 9 word good occurred at probability of 0.01686114568668791
+For topic 9 word would occurred at probability of 0.015954447832026788
+For topic 9 word great occurred at probability of 0.011071424556671648
+For topic 9 word really occurred at probability of 0.011051085173075233
+For topic 9 word want occurred at probability of 0.010408158512672393
+For topic 9 word even occurred at probability of 0.010152513532763802
+For topic 9 word games occurred at probability of 0.00976979578738445
+ 
+ 
+For topic 10 word cute occurred at probability of 0.028971837900793714
+For topic 10 word slimes occurred at probability of 0.028258062221475522
+For topic 10 word fun occurred at probability of 0.01849208460491199
+For topic 10 word like occurred at probability of 0.017906235383309422
+For topic 10 word slime occurred at probability of 0.014853765470210225
+For topic 10 word really occurred at probability of 0.014777233078711247
+For topic 10 word good occurred at probability of 0.01326872169284091
+For topic 10 word much occurred at probability of 0.013034003324502143
+For topic 10 word would occurred at probability of 0.0122085267244584
+For topic 10 word love occurred at probability of 0.01109910397159338
+ 
+ 

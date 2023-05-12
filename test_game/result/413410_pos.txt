@@ -1,0 +1,120 @@
+For topic 1 word lol occurred at probability of 0.0182963978376754
+For topic 1 word happened occurred at probability of 0.0033489919921888592
+For topic 1 word moment occurred at probability of 0.0027705843770161895
+For topic 1 word academy occurred at probability of 0.00274902222487383
+For topic 1 word thrilling occurred at probability of 0.002469092233855102
+For topic 1 word average occurred at probability of 0.0024477991953783572
+For topic 1 word strong occurred at probability of 0.002351603994225798
+For topic 1 word man occurred at probability of 0.0022635759103606322
+For topic 1 word somewhat occurred at probability of 0.0022462700660450933
+For topic 1 word interactions occurred at probability of 0.002213433572328921
+ 
+ 
+For topic 2 word lol occurred at probability of 0.0039013448141678804
+For topic 2 word happened occurred at probability of 0.0028839558706111167
+For topic 2 word tho occurred at probability of 0.0028650206462143106
+For topic 2 word certainly occurred at probability of 0.0026463610260510644
+For topic 2 word average occurred at probability of 0.002526087682878329
+For topic 2 word tried occurred at probability of 0.0024476951765952278
+For topic 2 word waiting occurred at probability of 0.002332288185013814
+For topic 2 word answer occurred at probability of 0.002253516290839517
+For topic 2 word academy occurred at probability of 0.0022050533188516003
+For topic 2 word shows occurred at probability of 0.00212349114234435
+ 
+ 
+For topic 3 word lol occurred at probability of 0.020005044609790988
+For topic 3 word looks occurred at probability of 0.003676252189700266
+For topic 3 word else occurred at probability of 0.003543250363979019
+For topic 3 word academy occurred at probability of 0.0032440361583996407
+For topic 3 word man occurred at probability of 0.0030540883420911843
+For topic 3 word god occurred at probability of 0.002623700832812104
+For topic 3 word fully occurred at probability of 0.0023975201139825437
+For topic 3 word thrilling occurred at probability of 0.00219305825559009
+For topic 3 word grind occurred at probability of 0.0020746060448490586
+For topic 3 word waifus occurred at probability of 0.002030969316172948
+ 
+ 
+For topic 4 word lol occurred at probability of 0.026857373679419504
+For topic 4 word ride occurred at probability of 0.003236034011520101
+For topic 4 word mini occurred at probability of 0.003011404025600162
+For topic 4 word likely occurred at probability of 0.0025481389043610506
+For topic 4 word protagonist occurred at probability of 0.0025442976655711312
+For topic 4 word pink occurred at probability of 0.00251887887395986
+For topic 4 word likes occurred at probability of 0.002505541258423364
+For topic 4 word various occurred at probability of 0.00221754975281155
+For topic 4 word somewhat occurred at probability of 0.0021733726035378293
+For topic 4 word heavy occurred at probability of 0.0021037222659664716
+ 
+ 
+For topic 5 word lol occurred at probability of 0.022134658515172323
+For topic 5 word b occurred at probability of 0.004975569518999488
+For topic 5 word happened occurred at probability of 0.004091397770688925
+For topic 5 word god occurred at probability of 0.003026469351510618
+For topic 5 word mini occurred at probability of 0.002437866764307641
+For topic 5 word vns occurred at probability of 0.002377978092397342
+For topic 5 word ride occurred at probability of 0.002335395251788683
+For topic 5 word protagonist occurred at probability of 0.002227318646510348
+For topic 5 word controller occurred at probability of 0.0022115386688438704
+For topic 5 word wow occurred at probability of 0.002061774974196288
+ 
+ 
+For topic 6 word else occurred at probability of 0.0048848189799898575
+For topic 6 word gave occurred at probability of 0.003339342671091733
+For topic 6 word ultimate occurred at probability of 0.0033172232548995388
+For topic 6 word academy occurred at probability of 0.0028444541147342652
+For topic 6 word likely occurred at probability of 0.0027357067462391144
+For topic 6 word likes occurred at probability of 0.002642955918211646
+For topic 6 word storytelling occurred at probability of 0.002369472021428517
+For topic 6 word wow occurred at probability of 0.0023330550098491555
+For topic 6 word somewhat occurred at probability of 0.00233011734585481
+For topic 6 word cry occurred at probability of 0.0022673440141094277
+ 
+ 
+For topic 7 word lol occurred at probability of 0.02350436049713982
+For topic 7 word looks occurred at probability of 0.003581374070018593
+For topic 7 word mini occurred at probability of 0.0028149217697600887
+For topic 7 word ultimate occurred at probability of 0.0027173757664795692
+For topic 7 word average occurred at probability of 0.0027143198133752207
+For topic 7 word else occurred at probability of 0.0025992101405429547
+For topic 7 word man occurred at probability of 0.0025853215958946095
+For topic 7 word moment occurred at probability of 0.002490261686333259
+For topic 7 word happened occurred at probability of 0.0024900324152439092
+For topic 7 word likely occurred at probability of 0.002454330979747747
+ 
+ 
+For topic 8 word lol occurred at probability of 0.018679543313003314
+For topic 8 word b occurred at probability of 0.004006819336977802
+For topic 8 word mini occurred at probability of 0.0036668466056070984
+For topic 8 word lose occurred at probability of 0.0026505647178845042
+For topic 8 word somewhat occurred at probability of 0.002603005199670863
+For topic 8 word god occurred at probability of 0.002511816057231602
+For topic 8 word ride occurred at probability of 0.002340497474179382
+For topic 8 word creative occurred at probability of 0.002245173232498568
+For topic 8 word average occurred at probability of 0.002045088702321316
+For topic 8 word predictable occurred at probability of 0.0020320860360689857
+ 
+ 
+For topic 9 word b occurred at probability of 0.003585742060307128
+For topic 9 word average occurred at probability of 0.0029477526046039143
+For topic 9 word wow occurred at probability of 0.0029033527334807047
+For topic 9 word else occurred at probability of 0.00281915561987449
+For topic 9 word ultimate occurred at probability of 0.0027888720517184303
+For topic 9 word pacing occurred at probability of 0.002638997059762356
+For topic 9 word vns occurred at probability of 0.002471151490267956
+For topic 9 word moment occurred at probability of 0.0024227918373288006
+For topic 9 word controller occurred at probability of 0.0023618040654134666
+For topic 9 word normal occurred at probability of 0.002137353461911917
+ 
+ 
+For topic 10 word lol occurred at probability of 0.01306928462326286
+For topic 10 word b occurred at probability of 0.004366973016072076
+For topic 10 word ultimate occurred at probability of 0.0036868769683447307
+For topic 10 word looks occurred at probability of 0.0034808067677586903
+For topic 10 word happened occurred at probability of 0.00345822279383089
+For topic 10 word moment occurred at probability of 0.002755485703996004
+For topic 10 word interactions occurred at probability of 0.002232931126117829
+For topic 10 word ride occurred at probability of 0.0021090088930960232
+For topic 10 word themes occurred at probability of 0.002046773726871542
+For topic 10 word correct occurred at probability of 0.0019703648242793055
+ 
+ 

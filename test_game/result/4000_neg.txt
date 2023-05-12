@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.06656669442023865
+For topic 1 word get occurred at probability of 0.021802111493419797
+For topic 1 word play occurred at probability of 0.011922380705518919
+For topic 1 word shit occurred at probability of 0.01042217576639907
+For topic 1 word garrys occurred at probability of 0.01026073680877517
+For topic 1 word bad occurred at probability of 0.009171587189787122
+For topic 1 word dont occurred at probability of 0.009041719270767384
+For topic 1 word want occurred at probability of 0.008718960084914035
+For topic 1 word server occurred at probability of 0.008582892825192997
+For topic 1 word good occurred at probability of 0.008403864596605883
+ 
+ 
+For topic 2 word get occurred at probability of 0.03748384481457821
+For topic 2 word garrys occurred at probability of 0.013881244696438293
+For topic 2 word friends occurred at probability of 0.013727708876872004
+For topic 2 word play occurred at probability of 0.013343669381289738
+For topic 2 word want occurred at probability of 0.011900371988796989
+For topic 2 word mod occurred at probability of 0.010520977656914163
+For topic 2 word dont occurred at probability of 0.01047030586555148
+For topic 2 word fun occurred at probability of 0.010146125615807917
+For topic 2 word would occurred at probability of 0.010001832938585397
+For topic 2 word bad occurred at probability of 0.008843650489075226
+ 
+ 
+For topic 3 word game occurred at probability of 0.0831502913330504
+For topic 3 word would occurred at probability of 0.013217044133814306
+For topic 3 word mod occurred at probability of 0.012171930357394986
+For topic 3 word garrys occurred at probability of 0.009936578139879736
+For topic 3 word fuck occurred at probability of 0.00992736687598626
+For topic 3 word sandbox occurred at probability of 0.009840154896830444
+For topic 3 word buy occurred at probability of 0.008946034393605369
+For topic 3 word get occurred at probability of 0.0088774098271962
+For topic 3 word gmod occurred at probability of 0.007893531819599325
+For topic 3 word like occurred at probability of 0.007783988571348828
+ 
+ 
+For topic 4 word play occurred at probability of 0.02204552867256376
+For topic 4 word get occurred at probability of 0.016254540423802314
+For topic 4 word shit occurred at probability of 0.010730420355714929
+For topic 4 word dont occurred at probability of 0.009721571600571159
+For topic 4 word time occurred at probability of 0.009536577129558627
+For topic 4 word mods occurred at probability of 0.009436573899891911
+For topic 4 word gmod occurred at probability of 0.009311941175332432
+For topic 4 word bad occurred at probability of 0.009177796177095032
+For topic 4 word playing occurred at probability of 0.009057847911640321
+For topic 4 word mod occurred at probability of 0.009037379745585926
+ 
+ 
+For topic 5 word game occurred at probability of 0.022969327336036984
+For topic 5 word play occurred at probability of 0.02020140989602879
+For topic 5 word get occurred at probability of 0.016658852318234236
+For topic 5 word would occurred at probability of 0.010033667975256785
+For topic 5 word make occurred at probability of 0.009428266526792939
+For topic 5 word like occurred at probability of 0.009176149527424826
+For topic 5 word buy occurred at probability of 0.00806902918893889
+For topic 5 word good occurred at probability of 0.00784141493408298
+For topic 5 word mods occurred at probability of 0.007641807507605044
+For topic 5 word really occurred at probability of 0.007315310316007352
+ 
+ 
+For topic 6 word game occurred at probability of 0.026345119325070904
+For topic 6 word play occurred at probability of 0.021093357661273585
+For topic 6 word garrys occurred at probability of 0.01287264742010844
+For topic 6 word server occurred at probability of 0.01258803913538522
+For topic 6 word dont occurred at probability of 0.01046489588648264
+For topic 6 word good occurred at probability of 0.009851350477210308
+For topic 6 word kill occurred at probability of 0.009695690648640653
+For topic 6 word would occurred at probability of 0.009502039942561448
+For topic 6 word played occurred at probability of 0.008605812861250518
+For topic 6 word one occurred at probability of 0.00841540169317565
+ 
+ 
+For topic 7 word game occurred at probability of 0.02747672099647494
+For topic 7 word friends occurred at probability of 0.015321721771347002
+For topic 7 word play occurred at probability of 0.012945678547626084
+For topic 7 word like occurred at probability of 0.011786266387488515
+For topic 7 word fuck occurred at probability of 0.011707049649015248
+For topic 7 word sandbox occurred at probability of 0.010271011922762242
+For topic 7 word get occurred at probability of 0.009978860064003335
+For topic 7 word fun occurred at probability of 0.008497204709912479
+For topic 7 word would occurred at probability of 0.007725652115990739
+For topic 7 word mod occurred at probability of 0.0073524450860387655
+ 
+ 
+For topic 8 word game occurred at probability of 0.08702103267167245
+For topic 8 word get occurred at probability of 0.022807465492614483
+For topic 8 word play occurred at probability of 0.019257611803027454
+For topic 8 word fun occurred at probability of 0.011823932283455744
+For topic 8 word make occurred at probability of 0.009507732228731034
+For topic 8 word bad occurred at probability of 0.009225222531638363
+For topic 8 word one occurred at probability of 0.008648749951397474
+For topic 8 word garrys occurred at probability of 0.007708104790145049
+For topic 8 word like occurred at probability of 0.007466667898223656
+For topic 8 word shit occurred at probability of 0.007302156795547101
+ 
+ 
+For topic 9 word game occurred at probability of 0.08923173294641075
+For topic 9 word time occurred at probability of 0.014176414613520615
+For topic 9 word fun occurred at probability of 0.012410751112449499
+For topic 9 word friends occurred at probability of 0.0111012311144644
+For topic 9 word mod occurred at probability of 0.00971789781607641
+For topic 9 word shit occurred at probability of 0.009433296244864175
+For topic 9 word playing occurred at probability of 0.008660511056046764
+For topic 9 word dont occurred at probability of 0.00863026395061441
+For topic 9 word fuck occurred at probability of 0.0083634248601043
+For topic 9 word server occurred at probability of 0.008061377519094628
+ 
+ 
+For topic 10 word game occurred at probability of 0.05508370571125452
+For topic 10 word kill occurred at probability of 0.014625524812894081
+For topic 10 word get occurred at probability of 0.012364892548017458
+For topic 10 word want occurred at probability of 0.009515709014995417
+For topic 10 word life occurred at probability of 0.008907398310823107
+For topic 10 word gmod occurred at probability of 0.008251191541719998
+For topic 10 word servers occurred at probability of 0.008040566209551158
+For topic 10 word games occurred at probability of 0.007578748748394225
+For topic 10 word one occurred at probability of 0.0074813176653555045
+For topic 10 word fun occurred at probability of 0.007407979892212417
+ 
+ 

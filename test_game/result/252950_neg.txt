@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.077067689846934
+For topic 1 word im occurred at probability of 0.0123540722188909
+For topic 1 word bad occurred at probability of 0.012052620610297009
+For topic 1 word epic occurred at probability of 0.01201662122968191
+For topic 1 word get occurred at probability of 0.011631819723534054
+For topic 1 word hours occurred at probability of 0.010586692047246087
+For topic 1 word good occurred at probability of 0.009487351367195774
+For topic 1 word fuck occurred at probability of 0.007973183948641344
+For topic 1 word cant occurred at probability of 0.00784174617360161
+For topic 1 word friends occurred at probability of 0.007741750359306984
+ 
+ 
+For topic 2 word game occurred at probability of 0.04516751293905476
+For topic 2 word play occurred at probability of 0.019190249619393994
+For topic 2 word fun occurred at probability of 0.014126056599071766
+For topic 2 word games occurred at probability of 0.013353864004001124
+For topic 2 word one occurred at probability of 0.009396990393257159
+For topic 2 word dont occurred at probability of 0.00916979779314583
+For topic 2 word toxic occurred at probability of 0.008877833736940944
+For topic 2 word even occurred at probability of 0.008683450146731986
+For topic 2 word im occurred at probability of 0.00855788320013587
+For topic 2 word hours occurred at probability of 0.008549664131255321
+ 
+ 
+For topic 3 word game occurred at probability of 0.10474620848955551
+For topic 3 word epic occurred at probability of 0.015118350082584692
+For topic 3 word shit occurred at probability of 0.014654791411631089
+For topic 3 word dont occurred at probability of 0.01425142625282902
+For topic 3 word get occurred at probability of 0.013123820041907437
+For topic 3 word play occurred at probability of 0.01311073882094189
+For topic 3 word like occurred at probability of 0.009560328694723001
+For topic 3 word even occurred at probability of 0.009497529164356939
+For topic 3 word bad occurred at probability of 0.008850325414449857
+For topic 3 word league occurred at probability of 0.008551612036446783
+ 
+ 
+For topic 4 word game occurred at probability of 0.07283750166270668
+For topic 4 word games occurred at probability of 0.018758767733592648
+For topic 4 word get occurred at probability of 0.0182342709862595
+For topic 4 word fun occurred at probability of 0.015882704665517382
+For topic 4 word playing occurred at probability of 0.01429055928090203
+For topic 4 word great occurred at probability of 0.013355559842829087
+For topic 4 word one occurred at probability of 0.011684860173659238
+For topic 4 word play occurred at probability of 0.00998812498892431
+For topic 4 word epic occurred at probability of 0.009054301888678758
+For topic 4 word bad occurred at probability of 0.008918367841520699
+ 
+ 
+For topic 5 word dont occurred at probability of 0.02099403981782756
+For topic 5 word epic occurred at probability of 0.01569471584437793
+For topic 5 word bad occurred at probability of 0.012912647714421166
+For topic 5 word im occurred at probability of 0.011642004092648652
+For topic 5 word game occurred at probability of 0.011433438623313223
+For topic 5 word good occurred at probability of 0.010716123708056165
+For topic 5 word one occurred at probability of 0.008374197126674851
+For topic 5 word fun occurred at probability of 0.007903112616461792
+For topic 5 word rocket occurred at probability of 0.007109830362200046
+For topic 5 word great occurred at probability of 0.007080397296184542
+ 
+ 
+For topic 6 word play occurred at probability of 0.020089304402179035
+For topic 6 word game occurred at probability of 0.01726462476660269
+For topic 6 word hate occurred at probability of 0.012202824798692237
+For topic 6 word good occurred at probability of 0.012037849073683363
+For topic 6 word dont occurred at probability of 0.011289892616292782
+For topic 6 word fucking occurred at probability of 0.01082375950111197
+For topic 6 word epic occurred at probability of 0.010576444292592021
+For topic 6 word fun occurred at probability of 0.010462248419226447
+For topic 6 word like occurred at probability of 0.010105940247044585
+For topic 6 word one occurred at probability of 0.009648794666536523
+ 
+ 
+For topic 7 word game occurred at probability of 0.06361072653538653
+For topic 7 word play occurred at probability of 0.023015863802021874
+For topic 7 word epic occurred at probability of 0.014518672809185106
+For topic 7 word playing occurred at probability of 0.013772940726125116
+For topic 7 word fun occurred at probability of 0.012660252640068913
+For topic 7 word bad occurred at probability of 0.01213857141476406
+For topic 7 word dont occurred at probability of 0.011470005867616215
+For topic 7 word fuck occurred at probability of 0.009681653438757673
+For topic 7 word league occurred at probability of 0.009514728939517332
+For topic 7 word fucking occurred at probability of 0.009415447565234802
+ 
+ 
+For topic 8 word play occurred at probability of 0.023255092609931857
+For topic 8 word game occurred at probability of 0.020677992579592887
+For topic 8 word games occurred at probability of 0.01843039552621408
+For topic 8 word epic occurred at probability of 0.01701529345006871
+For topic 8 word get occurred at probability of 0.015541122139839257
+For topic 8 word hours occurred at probability of 0.013411185825460368
+For topic 8 word shit occurred at probability of 0.012985392251953673
+For topic 8 word even occurred at probability of 0.009976825208081509
+For topic 8 word bad occurred at probability of 0.009359550603502083
+For topic 8 word hate occurred at probability of 0.008478810665909815
+ 
+ 
+For topic 9 word game occurred at probability of 0.10222053588279079
+For topic 9 word games occurred at probability of 0.019147231048445255
+For topic 9 word play occurred at probability of 0.016362450609610328
+For topic 9 word shit occurred at probability of 0.013033326420588779
+For topic 9 word get occurred at probability of 0.012860608727081052
+For topic 9 word people occurred at probability of 0.00961904156924103
+For topic 9 word fuck occurred at probability of 0.009242204355750743
+For topic 9 word great occurred at probability of 0.00920415419301008
+For topic 9 word bad occurred at probability of 0.007796440704552862
+For topic 9 word friends occurred at probability of 0.00755457664912758
+ 
+ 
+For topic 10 word game occurred at probability of 0.02199208683815475
+For topic 10 word playing occurred at probability of 0.013171366761184694
+For topic 10 word good occurred at probability of 0.01175080654338404
+For topic 10 word people occurred at probability of 0.011079309000723127
+For topic 10 word games occurred at probability of 0.01023183163923991
+For topic 10 word im occurred at probability of 0.010077239885338088
+For topic 10 word get occurred at probability of 0.009452583815936548
+For topic 10 word rocket occurred at probability of 0.00924513979578619
+For topic 10 word fucking occurred at probability of 0.009243487628120278
+For topic 10 word league occurred at probability of 0.008907886673592868
+ 
+ 

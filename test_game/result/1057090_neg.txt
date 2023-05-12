@@ -1,0 +1,120 @@
+For topic 1 word lot occurred at probability of 0.01109183716803686
+For topic 1 word cried occurred at probability of 0.009269440936980695
+For topic 1 word know occurred at probability of 0.008008889665760336
+For topic 1 word long occurred at probability of 0.005802884273801739
+For topic 1 word sad occurred at probability of 0.005773695837951823
+For topic 1 word already occurred at probability of 0.005610438866613624
+For topic 1 word glitches occurred at probability of 0.004982611375927685
+For topic 1 word regret occurred at probability of 0.004944506886424723
+For topic 1 word enjoyed occurred at probability of 0.004859688198044832
+For topic 1 word audio occurred at probability of 0.00484936365996026
+ 
+ 
+For topic 2 word audio occurred at probability of 0.007908791116596014
+For topic 2 word movement occurred at probability of 0.007326437471337251
+For topic 2 word cried occurred at probability of 0.007211627902256407
+For topic 2 word chase occurred at probability of 0.0069634335043891145
+For topic 2 word sound occurred at probability of 0.006249953511260835
+For topic 2 word try occurred at probability of 0.005760276256197429
+For topic 2 word long occurred at probability of 0.0054154687712305504
+For topic 2 word absolutely occurred at probability of 0.005351826777761926
+For topic 2 word design occurred at probability of 0.005022791402892898
+For topic 2 word isnt occurred at probability of 0.004954887284068381
+ 
+ 
+For topic 3 word lot occurred at probability of 0.010349415217919057
+For topic 3 word cried occurred at probability of 0.0065036622112375365
+For topic 3 word movement occurred at probability of 0.006490899234039705
+For topic 3 word player occurred at probability of 0.005553944447386251
+For topic 3 word last occurred at probability of 0.005110699929759417
+For topic 3 word another occurred at probability of 0.004980149090753099
+For topic 3 word hate occurred at probability of 0.004760587127914102
+For topic 3 word satisfying occurred at probability of 0.004750695273087972
+For topic 3 word abilities occurred at probability of 0.004646998629895881
+For topic 3 word glitches occurred at probability of 0.0045077969449472885
+ 
+ 
+For topic 4 word lot occurred at probability of 0.011904185158260446
+For topic 4 word audio occurred at probability of 0.006262005688491953
+For topic 4 word makes occurred at probability of 0.006082833739824855
+For topic 4 word fixed occurred at probability of 0.0047460294771851045
+For topic 4 word easy occurred at probability of 0.004729245845546442
+For topic 4 word try occurred at probability of 0.004705618118402384
+For topic 4 word take occurred at probability of 0.004691562655449913
+For topic 4 word wont occurred at probability of 0.00464050774810633
+For topic 4 word think occurred at probability of 0.00446506632520825
+For topic 4 word sad occurred at probability of 0.004163198732567727
+ 
+ 
+For topic 5 word sad occurred at probability of 0.006134035166229156
+For topic 5 word already occurred at probability of 0.0058562388217925565
+For topic 5 word shit occurred at probability of 0.005565414638106713
+For topic 5 word tears occurred at probability of 0.005212176559666703
+For topic 5 word characters occurred at probability of 0.00471205453680098
+For topic 5 word lot occurred at probability of 0.004385117686145236
+For topic 5 word fixed occurred at probability of 0.00426558708633699
+For topic 5 word take occurred at probability of 0.004216571027632785
+For topic 5 word felt occurred at probability of 0.00413436201921194
+For topic 5 word masterpiece occurred at probability of 0.00409216560295538
+ 
+ 
+For topic 6 word know occurred at probability of 0.013287989687117857
+For topic 6 word movement occurred at probability of 0.0071742387775252485
+For topic 6 word makes occurred at probability of 0.0063408203860401075
+For topic 6 word doesnt occurred at probability of 0.006044268876956922
+For topic 6 word try occurred at probability of 0.005933713871963889
+For topic 6 word metroidvania occurred at probability of 0.005015919900516628
+For topic 6 word theres occurred at probability of 0.004639474257243775
+For topic 6 word sometimes occurred at probability of 0.004552922737475403
+For topic 6 word use occurred at probability of 0.004381222551495175
+For topic 6 word lost occurred at probability of 0.004367582637779553
+ 
+ 
+For topic 7 word sound occurred at probability of 0.006289706440759737
+For topic 7 word chase occurred at probability of 0.005279389221385382
+For topic 7 word love occurred at probability of 0.005190452577085107
+For topic 7 word cried occurred at probability of 0.0050795445494780005
+For topic 7 word worth occurred at probability of 0.004603366080752735
+For topic 7 word regret occurred at probability of 0.004594216623971525
+For topic 7 word another occurred at probability of 0.004530296262499892
+For topic 7 word abilities occurred at probability of 0.004477880970442828
+For topic 7 word absolutely occurred at probability of 0.004381527888021019
+For topic 7 word fixed occurred at probability of 0.004378837624188304
+ 
+ 
+For topic 8 word stop occurred at probability of 0.011081779985929517
+For topic 8 word cried occurred at probability of 0.008762003954915354
+For topic 8 word lot occurred at probability of 0.006433947546039525
+For topic 8 word easy occurred at probability of 0.005568550325940941
+For topic 8 word youre occurred at probability of 0.005333490426876528
+For topic 8 word use occurred at probability of 0.005215520839145196
+For topic 8 word abilities occurred at probability of 0.005167911484901558
+For topic 8 word felt occurred at probability of 0.0049843466783396455
+For topic 8 word stuck occurred at probability of 0.004914635219031874
+For topic 8 word design occurred at probability of 0.004769216802082676
+ 
+ 
+For topic 9 word know occurred at probability of 0.007388346206936299
+For topic 9 word fantastic occurred at probability of 0.005248804290101555
+For topic 9 word abilities occurred at probability of 0.004951860776814181
+For topic 9 word last occurred at probability of 0.004852768734339942
+For topic 9 word enjoyed occurred at probability of 0.0048338751283634705
+For topic 9 word love occurred at probability of 0.0048322905567849735
+For topic 9 word glitches occurred at probability of 0.004549920554881596
+For topic 9 word makes occurred at probability of 0.004307603703713885
+For topic 9 word think occurred at probability of 0.004205754683104972
+For topic 9 word stop occurred at probability of 0.004110211703444641
+ 
+ 
+For topic 10 word cried occurred at probability of 0.006971625029739885
+For topic 10 word sound occurred at probability of 0.006261146039476188
+For topic 10 word makes occurred at probability of 0.006106719626519709
+For topic 10 word doesnt occurred at probability of 0.006087903103109704
+For topic 10 word long occurred at probability of 0.005908606034704584
+For topic 10 word audio occurred at probability of 0.005534884365557225
+For topic 10 word last occurred at probability of 0.005435813879954518
+For topic 10 word sad occurred at probability of 0.0053393155526382215
+For topic 10 word save occurred at probability of 0.004927398000782048
+For topic 10 word lot occurred at probability of 0.0048031385870970205
+ 
+ 

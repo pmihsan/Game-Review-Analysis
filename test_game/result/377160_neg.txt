@@ -1,0 +1,120 @@
+For topic 1 word fallout occurred at probability of 0.018292067073215658
+For topic 1 word mods occurred at probability of 0.01564908496978089
+For topic 1 word game occurred at probability of 0.012715955008210409
+For topic 1 word bethesda occurred at probability of 0.011314122991544091
+For topic 1 word new occurred at probability of 0.011273612184362413
+For topic 1 word dont occurred at probability of 0.010969814330222887
+For topic 1 word even occurred at probability of 0.009671884462687578
+For topic 1 word one occurred at probability of 0.009073841508214834
+For topic 1 word still occurred at probability of 0.008052138257883664
+For topic 1 word really occurred at probability of 0.007467265686908288
+ 
+ 
+For topic 2 word game occurred at probability of 0.058537221686968906
+For topic 2 word get occurred at probability of 0.014121903911803254
+For topic 2 word fallout occurred at probability of 0.01166017608729681
+For topic 2 word play occurred at probability of 0.010923977570327098
+For topic 2 word time occurred at probability of 0.008960481264968786
+For topic 2 word story occurred at probability of 0.007804228481714709
+For topic 2 word games occurred at probability of 0.007768587081118237
+For topic 2 word like occurred at probability of 0.007075639719258759
+For topic 2 word really occurred at probability of 0.006870215259797739
+For topic 2 word bethesda occurred at probability of 0.006858269205881367
+ 
+ 
+For topic 3 word game occurred at probability of 0.06474726134466836
+For topic 3 word fallout occurred at probability of 0.01054588895302967
+For topic 3 word one occurred at probability of 0.009218278202019954
+For topic 3 word really occurred at probability of 0.008673105356547486
+For topic 3 word much occurred at probability of 0.008098536246549857
+For topic 3 word people occurred at probability of 0.007161411365692891
+For topic 3 word play occurred at probability of 0.0053406530058828314
+For topic 3 word mod occurred at probability of 0.005272624466771026
+For topic 3 word every occurred at probability of 0.005040741451254574
+For topic 3 word fuck occurred at probability of 0.004946642499807502
+ 
+ 
+For topic 4 word game occurred at probability of 0.06013710796010606
+For topic 4 word fallout occurred at probability of 0.01470881889338579
+For topic 4 word mods occurred at probability of 0.012786023560648084
+For topic 4 word story occurred at probability of 0.01083617637881737
+For topic 4 word even occurred at probability of 0.010464792796563625
+For topic 4 word like occurred at probability of 0.010104169942789102
+For topic 4 word bethesda occurred at probability of 0.009577708619988815
+For topic 4 word new occurred at probability of 0.0073346318614404115
+For topic 4 word hours occurred at probability of 0.006165092193476008
+For topic 4 word cant occurred at probability of 0.005962212358050565
+ 
+ 
+For topic 5 word game occurred at probability of 0.01736118437446223
+For topic 5 word story occurred at probability of 0.014256306836164955
+For topic 5 word one occurred at probability of 0.010696319370180073
+For topic 5 word mods occurred at probability of 0.010209331658288535
+For topic 5 word time occurred at probability of 0.009590736621327105
+For topic 5 word fallout occurred at probability of 0.007881158105355087
+For topic 5 word games occurred at probability of 0.006550116262720954
+For topic 5 word play occurred at probability of 0.006275833488423143
+For topic 5 word cant occurred at probability of 0.006155697893906676
+For topic 5 word make occurred at probability of 0.006098055001942642
+ 
+ 
+For topic 6 word fallout occurred at probability of 0.018391363346809155
+For topic 6 word like occurred at probability of 0.013112005402654853
+For topic 6 word play occurred at probability of 0.012107677203408504
+For topic 6 word mods occurred at probability of 0.011347870949295534
+For topic 6 word game occurred at probability of 0.010435056762450956
+For topic 6 word new occurred at probability of 0.009620853878398297
+For topic 6 word would occurred at probability of 0.009498343112960743
+For topic 6 word bethesda occurred at probability of 0.008330148046144745
+For topic 6 word get occurred at probability of 0.007864644556503443
+For topic 6 word hours occurred at probability of 0.007650502142762853
+ 
+ 
+For topic 7 word fallout occurred at probability of 0.017139005043746366
+For topic 7 word game occurred at probability of 0.015290433054965219
+For topic 7 word dont occurred at probability of 0.012963571138622742
+For topic 7 word bethesda occurred at probability of 0.01090265958757391
+For topic 7 word games occurred at probability of 0.010413907750421258
+For topic 7 word hours occurred at probability of 0.009944007226681782
+For topic 7 word get occurred at probability of 0.009738245502831415
+For topic 7 word even occurred at probability of 0.009492820132746086
+For topic 7 word make occurred at probability of 0.007241240727183826
+For topic 7 word still occurred at probability of 0.0061563971958399
+ 
+ 
+For topic 8 word game occurred at probability of 0.06624635206609145
+For topic 8 word fallout occurred at probability of 0.024220911358582474
+For topic 8 word time occurred at probability of 0.013596091580968417
+For topic 8 word bethesda occurred at probability of 0.009835983379878108
+For topic 8 word dont occurred at probability of 0.009623154539234327
+For topic 8 word mods occurred at probability of 0.008705464552496036
+For topic 8 word would occurred at probability of 0.007228139945457681
+For topic 8 word really occurred at probability of 0.006933171881905136
+For topic 8 word still occurred at probability of 0.006824035557477747
+For topic 8 word fun occurred at probability of 0.0063471206731554935
+ 
+ 
+For topic 9 word game occurred at probability of 0.04603993615306933
+For topic 9 word like occurred at probability of 0.011958651378751866
+For topic 9 word mods occurred at probability of 0.011817791946575775
+For topic 9 word bethesda occurred at probability of 0.010782941117551207
+For topic 9 word fallout occurred at probability of 0.010072498059730818
+For topic 9 word get occurred at probability of 0.009746317482170417
+For topic 9 word make occurred at probability of 0.00826010123568447
+For topic 9 word people occurred at probability of 0.008018903074980998
+For topic 9 word even occurred at probability of 0.007750996994653267
+For topic 9 word one occurred at probability of 0.007361092574584092
+ 
+ 
+For topic 10 word game occurred at probability of 0.04557957673528435
+For topic 10 word fallout occurred at probability of 0.0237964108403236
+For topic 10 word mods occurred at probability of 0.015042658288554752
+For topic 10 word bethesda occurred at probability of 0.010966867512278239
+For topic 10 word play occurred at probability of 0.009406131933926745
+For topic 10 word dont occurred at probability of 0.008717325578074855
+For topic 10 word much occurred at probability of 0.00805645983386475
+For topic 10 word would occurred at probability of 0.007731114918604929
+For topic 10 word way occurred at probability of 0.007075386576832028
+For topic 10 word games occurred at probability of 0.00610745399484274
+ 
+ 

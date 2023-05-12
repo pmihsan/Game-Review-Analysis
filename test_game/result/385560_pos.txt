@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.0666959835693055
+For topic 1 word fun occurred at probability of 0.017750631581645103
+For topic 1 word good occurred at probability of 0.014923205339063819
+For topic 1 word get occurred at probability of 0.013122311424283547
+For topic 1 word like occurred at probability of 0.012219173546252385
+For topic 1 word story occurred at probability of 0.011920095468888205
+For topic 1 word even occurred at probability of 0.010774645853009608
+For topic 1 word metroid occurred at probability of 0.008967244596417226
+For topic 1 word shadow occurred at probability of 0.008521292057169188
+For topic 1 word xbox occurred at probability of 0.008082027780413122
+ 
+ 
+For topic 2 word good occurred at probability of 0.016309394628342255
+For topic 2 word metroidvania occurred at probability of 0.01553387097989695
+For topic 2 word one occurred at probability of 0.01356082628774204
+For topic 2 word metroid occurred at probability of 0.013279831376169641
+For topic 2 word shadow occurred at probability of 0.009981482290541367
+For topic 2 word story occurred at probability of 0.009863460055235088
+For topic 2 word games occurred at probability of 0.009566470944504458
+For topic 2 word complex occurred at probability of 0.007986058698247093
+For topic 2 word also occurred at probability of 0.007066707776989355
+For topic 2 word get occurred at probability of 0.0069065247259554536
+ 
+ 
+For topic 3 word game occurred at probability of 0.03256589866667778
+For topic 3 word metroidvania occurred at probability of 0.0257325336138524
+For topic 3 word good occurred at probability of 0.01865922462757574
+For topic 3 word one occurred at probability of 0.01798477525656645
+For topic 3 word like occurred at probability of 0.01696300332732468
+For topic 3 word great occurred at probability of 0.014147481477498057
+For topic 3 word metroid occurred at probability of 0.012925315422277685
+For topic 3 word really occurred at probability of 0.010712101320915131
+For topic 3 word find occurred at probability of 0.010618650510739838
+For topic 3 word complex occurred at probability of 0.010202880548665071
+ 
+ 
+For topic 4 word game occurred at probability of 0.06634610590424307
+For topic 4 word metroid occurred at probability of 0.01326028935631862
+For topic 4 word get occurred at probability of 0.013043772581608047
+For topic 4 word games occurred at probability of 0.012934546974438002
+For topic 4 word shadow occurred at probability of 0.0124254545611051
+For topic 4 word metroidvania occurred at probability of 0.01105544269585155
+For topic 4 word really occurred at probability of 0.010993790276849144
+For topic 4 word play occurred at probability of 0.00900287349075045
+For topic 4 word also occurred at probability of 0.008321666555532738
+For topic 4 word best occurred at probability of 0.007665733477216899
+ 
+ 
+For topic 5 word game occurred at probability of 0.07435220762520943
+For topic 5 word fun occurred at probability of 0.01907100997828617
+For topic 5 word good occurred at probability of 0.016696074423482907
+For topic 5 word one occurred at probability of 0.016115996927106534
+For topic 5 word great occurred at probability of 0.01562255635071028
+For topic 5 word games occurred at probability of 0.013825316321816815
+For topic 5 word like occurred at probability of 0.01376393922039576
+For topic 5 word get occurred at probability of 0.010973033536319468
+For topic 5 word complex occurred at probability of 0.010605558938414274
+For topic 5 word really occurred at probability of 0.009746928271960815
+ 
+ 
+For topic 6 word game occurred at probability of 0.03625471723142965
+For topic 6 word fun occurred at probability of 0.014273536153995011
+For topic 6 word complex occurred at probability of 0.01320729353864759
+For topic 6 word played occurred at probability of 0.012212528553698577
+For topic 6 word like occurred at probability of 0.011142341531734599
+For topic 6 word story occurred at probability of 0.010770288165146783
+For topic 6 word metroidvania occurred at probability of 0.009265374908006696
+For topic 6 word get occurred at probability of 0.008465954363038977
+For topic 6 word find occurred at probability of 0.00805887188080924
+For topic 6 word xbox occurred at probability of 0.007790377545904994
+ 
+ 
+For topic 7 word game occurred at probability of 0.029737423582643332
+For topic 7 word really occurred at probability of 0.013314957946947016
+For topic 7 word fun occurred at probability of 0.012649835312181152
+For topic 7 word one occurred at probability of 0.012197416362641204
+For topic 7 word like occurred at probability of 0.011137468822949404
+For topic 7 word back occurred at probability of 0.010458335763617266
+For topic 7 word great occurred at probability of 0.010193998952226594
+For topic 7 word games occurred at probability of 0.010133763857981452
+For topic 7 word shadow occurred at probability of 0.009870710329277806
+For topic 7 word steam occurred at probability of 0.008934305045293444
+ 
+ 
+For topic 8 word game occurred at probability of 0.01803895266437945
+For topic 8 word shadow occurred at probability of 0.013635702761902254
+For topic 8 word one occurred at probability of 0.013434145689709697
+For topic 8 word story occurred at probability of 0.01258849839465963
+For topic 8 word complex occurred at probability of 0.011533453718318902
+For topic 8 word really occurred at probability of 0.010757820955129551
+For topic 8 word good occurred at probability of 0.00992766484444133
+For topic 8 word back occurred at probability of 0.009402394931974513
+For topic 8 word even occurred at probability of 0.009242039816485494
+For topic 8 word metroid occurred at probability of 0.008629195124192628
+ 
+ 
+For topic 9 word game occurred at probability of 0.03725896705805317
+For topic 9 word get occurred at probability of 0.013260790165563972
+For topic 9 word like occurred at probability of 0.012660849621220483
+For topic 9 word played occurred at probability of 0.011691370430977559
+For topic 9 word find occurred at probability of 0.00965388678866946
+For topic 9 word map occurred at probability of 0.009628649281643548
+For topic 9 word xbox occurred at probability of 0.00924085908515517
+For topic 9 word great occurred at probability of 0.009191555370710038
+For topic 9 word also occurred at probability of 0.008547688488090295
+For topic 9 word good occurred at probability of 0.008295707242362114
+ 
+ 
+For topic 10 word game occurred at probability of 0.07872069721191677
+For topic 10 word metroidvania occurred at probability of 0.018241461311782066
+For topic 10 word like occurred at probability of 0.014916033381931643
+For topic 10 word good occurred at probability of 0.013806880855377554
+For topic 10 word metroid occurred at probability of 0.01059231835027985
+For topic 10 word map occurred at probability of 0.009880264442521611
+For topic 10 word story occurred at probability of 0.00985661082434727
+For topic 10 word shadow occurred at probability of 0.00963138969283031
+For topic 10 word really occurred at probability of 0.009524220074228831
+For topic 10 word fun occurred at probability of 0.008830947983561929
+ 
+ 

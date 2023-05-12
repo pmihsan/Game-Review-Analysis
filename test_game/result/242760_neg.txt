@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.02808352643381133
+For topic 1 word cannibals occurred at probability of 0.01073161644713099
+For topic 1 word get occurred at probability of 0.010049902426114027
+For topic 1 word time occurred at probability of 0.009159028643997837
+For topic 1 word im occurred at probability of 0.009093032821834416
+For topic 1 word much occurred at probability of 0.00823531241147221
+For topic 1 word find occurred at probability of 0.008218922675440407
+For topic 1 word still occurred at probability of 0.00676281746297151
+For topic 1 word die occurred at probability of 0.006725199442193772
+For topic 1 word make occurred at probability of 0.006454501823550487
+ 
+ 
+For topic 2 word game occurred at probability of 0.04415045924716426
+For topic 2 word find occurred at probability of 0.011689023684358734
+For topic 2 word get occurred at probability of 0.011446248715465523
+For topic 2 word would occurred at probability of 0.010141529637933884
+For topic 2 word kill occurred at probability of 0.008514902213637826
+For topic 2 word forest occurred at probability of 0.00781629645581226
+For topic 2 word one occurred at probability of 0.007684029697738998
+For topic 2 word dont occurred at probability of 0.00709113560488554
+For topic 2 word survival occurred at probability of 0.006651099760807004
+For topic 2 word like occurred at probability of 0.00656957067687055
+ 
+ 
+For topic 3 word game occurred at probability of 0.05373065610920664
+For topic 3 word play occurred at probability of 0.00784754788314777
+For topic 3 word one occurred at probability of 0.007491581393964789
+For topic 3 word go occurred at probability of 0.0074683738996608115
+For topic 3 word kill occurred at probability of 0.006329611194300622
+For topic 3 word cannibals occurred at probability of 0.006079297081752248
+For topic 3 word get occurred at probability of 0.005378057560121136
+For topic 3 word good occurred at probability of 0.005362679503298117
+For topic 3 word survival occurred at probability of 0.005320039651769998
+For topic 3 word like occurred at probability of 0.005267154096686661
+ 
+ 
+For topic 4 word game occurred at probability of 0.05521033362125372
+For topic 4 word play occurred at probability of 0.011731032605577455
+For topic 4 word get occurred at probability of 0.00964681330968253
+For topic 4 word scary occurred at probability of 0.00862468501245994
+For topic 4 word time occurred at probability of 0.007859216439493546
+For topic 4 word cant occurred at probability of 0.007057406937941906
+For topic 4 word shit occurred at probability of 0.0069505786783841785
+For topic 4 word survival occurred at probability of 0.006666170928579173
+For topic 4 word one occurred at probability of 0.006579993128031904
+For topic 4 word make occurred at probability of 0.006295194639936102
+ 
+ 
+For topic 5 word game occurred at probability of 0.030358888000742403
+For topic 5 word friends occurred at probability of 0.00932712689763139
+For topic 5 word get occurred at probability of 0.008506606968987957
+For topic 5 word like occurred at probability of 0.008092720089149822
+For topic 5 word cave occurred at probability of 0.008071940705460438
+For topic 5 word go occurred at probability of 0.007532282629946792
+For topic 5 word dont occurred at probability of 0.00750161045529306
+For topic 5 word still occurred at probability of 0.0072612973290047
+For topic 5 word good occurred at probability of 0.006365833999517949
+For topic 5 word play occurred at probability of 0.006106477139437128
+ 
+ 
+For topic 6 word game occurred at probability of 0.05050420454119964
+For topic 6 word play occurred at probability of 0.01171131270613932
+For topic 6 word get occurred at probability of 0.009012211979244428
+For topic 6 word would occurred at probability of 0.008458170800944393
+For topic 6 word plane occurred at probability of 0.00807646587929802
+For topic 6 word im occurred at probability of 0.007483569281629175
+For topic 6 word forest occurred at probability of 0.007218895862221924
+For topic 6 word cannibals occurred at probability of 0.0071438567429123224
+For topic 6 word dont occurred at probability of 0.007049905382366422
+For topic 6 word kill occurred at probability of 0.00702521000865415
+ 
+ 
+For topic 7 word game occurred at probability of 0.021707685626227866
+For topic 7 word get occurred at probability of 0.010780505638284166
+For topic 7 word dont occurred at probability of 0.007216136605743778
+For topic 7 word shit occurred at probability of 0.0071801034473083876
+For topic 7 word one occurred at probability of 0.006934536337415063
+For topic 7 word fun occurred at probability of 0.006562989173922378
+For topic 7 word like occurred at probability of 0.0065339477986134905
+For topic 7 word would occurred at probability of 0.006416769573788593
+For topic 7 word first occurred at probability of 0.006368003213183579
+For topic 7 word see occurred at probability of 0.005344316775060463
+ 
+ 
+For topic 8 word game occurred at probability of 0.04362876053214597
+For topic 8 word would occurred at probability of 0.009891066355600303
+For topic 8 word forest occurred at probability of 0.008841772379978501
+For topic 8 word good occurred at probability of 0.007688368596250163
+For topic 8 word scary occurred at probability of 0.007666988904208568
+For topic 8 word like occurred at probability of 0.007586296078702932
+For topic 8 word build occurred at probability of 0.006753548988979576
+For topic 8 word even occurred at probability of 0.006182297237899844
+For topic 8 word first occurred at probability of 0.0061656283563133645
+For topic 8 word see occurred at probability of 0.005871376551567471
+ 
+ 
+For topic 9 word would occurred at probability of 0.011105127779355094
+For topic 9 word play occurred at probability of 0.010800225197938896
+For topic 9 word like occurred at probability of 0.009413157194653184
+For topic 9 word one occurred at probability of 0.008428395092260125
+For topic 9 word day occurred at probability of 0.007580976088128618
+For topic 9 word plane occurred at probability of 0.006912720107886911
+For topic 9 word shit occurred at probability of 0.006741106581074095
+For topic 9 word even occurred at probability of 0.006583955125277484
+For topic 9 word build occurred at probability of 0.006461136766572766
+For topic 9 word make occurred at probability of 0.006233801316859751
+ 
+ 
+For topic 10 word game occurred at probability of 0.023158461652711588
+For topic 10 word cannibals occurred at probability of 0.010629072389758456
+For topic 10 word time occurred at probability of 0.009748906312249846
+For topic 10 word cave occurred at probability of 0.00953017146253401
+For topic 10 word get occurred at probability of 0.008119952854559196
+For topic 10 word much occurred at probability of 0.0073967930839884104
+For topic 10 word scary occurred at probability of 0.007156363011875463
+For topic 10 word like occurred at probability of 0.006923373247805533
+For topic 10 word one occurred at probability of 0.006366218924550709
+For topic 10 word friends occurred at probability of 0.0061398060354900625
+ 
+ 

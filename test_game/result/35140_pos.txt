@@ -1,0 +1,120 @@
+For topic 1 word like occurred at probability of 0.023699698702011066
+For topic 1 word one occurred at probability of 0.023691155001623377
+For topic 1 word great occurred at probability of 0.021319857386506404
+For topic 1 word games occurred at probability of 0.017865957506181324
+For topic 1 word arkham occurred at probability of 0.015816101418204255
+For topic 1 word gameplay occurred at probability of 0.012304303298215838
+For topic 1 word series occurred at probability of 0.011922358593692707
+For topic 1 word asylum occurred at probability of 0.011554647889356194
+For topic 1 word really occurred at probability of 0.011141640492083152
+For topic 1 word fun occurred at probability of 0.010011409694880897
+ 
+ 
+For topic 2 word batman occurred at probability of 0.034687363562158686
+For topic 2 word great occurred at probability of 0.02467152539228776
+For topic 2 word arkham occurred at probability of 0.015942674067245362
+For topic 2 word really occurred at probability of 0.014976735958103506
+For topic 2 word still occurred at probability of 0.013988612787107646
+For topic 2 word fun occurred at probability of 0.012442120369711505
+For topic 2 word story occurred at probability of 0.01105968341052243
+For topic 2 word games occurred at probability of 0.010256965733320253
+For topic 2 word one occurred at probability of 0.008867842809990053
+For topic 2 word like occurred at probability of 0.008009818454703948
+ 
+ 
+For topic 3 word great occurred at probability of 0.02570207845137369
+For topic 3 word batman occurred at probability of 0.025375828716854173
+For topic 3 word arkham occurred at probability of 0.022965688239226567
+For topic 3 word story occurred at probability of 0.015548013160928778
+For topic 3 word best occurred at probability of 0.013369406051013381
+For topic 3 word asylum occurred at probability of 0.01216603373436291
+For topic 3 word like occurred at probability of 0.01147456048833649
+For topic 3 word fun occurred at probability of 0.009703005505885372
+For topic 3 word series occurred at probability of 0.008710961886321818
+For topic 3 word combat occurred at probability of 0.008643702916977651
+ 
+ 
+For topic 4 word batman occurred at probability of 0.03170130594282541
+For topic 4 word like occurred at probability of 0.02123434921403701
+For topic 4 word games occurred at probability of 0.017128057989592903
+For topic 4 word combat occurred at probability of 0.013930684851806605
+For topic 4 word fun occurred at probability of 0.01364936308458937
+For topic 4 word well occurred at probability of 0.012062694958559182
+For topic 4 word great occurred at probability of 0.011099143308847585
+For topic 4 word feel occurred at probability of 0.010406007053038855
+For topic 4 word story occurred at probability of 0.00991747514086857
+For topic 4 word city occurred at probability of 0.009860287847738762
+ 
+ 
+For topic 5 word one occurred at probability of 0.018044244098313133
+For topic 5 word games occurred at probability of 0.015874157478269327
+For topic 5 word arkham occurred at probability of 0.0130748819543743
+For topic 5 word story occurred at probability of 0.012935530870862055
+For topic 5 word would occurred at probability of 0.011961696688519414
+For topic 5 word batman occurred at probability of 0.011784345018839038
+For topic 5 word well occurred at probability of 0.011638405319019208
+For topic 5 word get occurred at probability of 0.011352937528817905
+For topic 5 word fun occurred at probability of 0.010827005216741223
+For topic 5 word even occurred at probability of 0.010389050933302214
+ 
+ 
+For topic 6 word batman occurred at probability of 0.02808510712639235
+For topic 6 word games occurred at probability of 0.01358250995142716
+For topic 6 word even occurred at probability of 0.013142828819022153
+For topic 6 word get occurred at probability of 0.012805434571297299
+For topic 6 word combat occurred at probability of 0.012724740916477373
+For topic 6 word great occurred at probability of 0.012046520739454097
+For topic 6 word well occurred at probability of 0.010300143285085965
+For topic 6 word first occurred at probability of 0.010003920968232723
+For topic 6 word arkham occurred at probability of 0.009605404215124754
+For topic 6 word best occurred at probability of 0.00952347109408754
+ 
+ 
+For topic 7 word batman occurred at probability of 0.03370082930048014
+For topic 7 word one occurred at probability of 0.022649970338365223
+For topic 7 word arkham occurred at probability of 0.019672185859561726
+For topic 7 word games occurred at probability of 0.018676808192067653
+For topic 7 word get occurred at probability of 0.013983956619427602
+For topic 7 word best occurred at probability of 0.013682112020535608
+For topic 7 word combat occurred at probability of 0.013439174880255455
+For topic 7 word fun occurred at probability of 0.013058865990750146
+For topic 7 word play occurred at probability of 0.01289126967427106
+For topic 7 word really occurred at probability of 0.010394454897564803
+ 
+ 
+For topic 8 word batman occurred at probability of 0.06775364541413324
+For topic 8 word arkham occurred at probability of 0.019316923428791155
+For topic 8 word story occurred at probability of 0.01784134241777004
+For topic 8 word really occurred at probability of 0.011899834497510082
+For topic 8 word best occurred at probability of 0.011537092545819945
+For topic 8 word play occurred at probability of 0.011293961552627057
+For topic 8 word well occurred at probability of 0.00974659950837138
+For topic 8 word asylum occurred at probability of 0.009368562953637137
+For topic 8 word combat occurred at probability of 0.009243740685848429
+For topic 8 word still occurred at probability of 0.008739956874089821
+ 
+ 
+For topic 9 word great occurred at probability of 0.03145967261552138
+For topic 9 word story occurred at probability of 0.01921989690261205
+For topic 9 word even occurred at probability of 0.014652235985865276
+For topic 9 word like occurred at probability of 0.013855665416156827
+For topic 9 word one occurred at probability of 0.012976004236165899
+For topic 9 word play occurred at probability of 0.012523342242908677
+For topic 9 word combat occurred at probability of 0.010782078611938957
+For topic 9 word series occurred at probability of 0.009453849409071699
+For topic 9 word batman occurred at probability of 0.009228591783514916
+For topic 9 word still occurred at probability of 0.009034669980696002
+ 
+ 
+For topic 10 word arkham occurred at probability of 0.027330580149836983
+For topic 10 word story occurred at probability of 0.024568196290078358
+For topic 10 word like occurred at probability of 0.023347912199197733
+For topic 10 word combat occurred at probability of 0.013251862811897174
+For topic 10 word get occurred at probability of 0.013007393454457714
+For topic 10 word games occurred at probability of 0.01298032207785117
+For topic 10 word play occurred at probability of 0.011129733149281588
+For topic 10 word batman occurred at probability of 0.010220098512105095
+For topic 10 word first occurred at probability of 0.009646910228278476
+For topic 10 word time occurred at probability of 0.009334809763851044
+ 
+ 

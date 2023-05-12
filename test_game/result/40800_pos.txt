@@ -1,0 +1,120 @@
+For topic 1 word one occurred at probability of 0.018161362013214798
+For topic 1 word fun occurred at probability of 0.014784969950851497
+For topic 1 word level occurred at probability of 0.01454871681715694
+For topic 1 word play occurred at probability of 0.014435205400109504
+For topic 1 word games occurred at probability of 0.013230686993527991
+For topic 1 word played occurred at probability of 0.013001088911681832
+For topic 1 word good occurred at probability of 0.012439523517850395
+For topic 1 word levels occurred at probability of 0.011192301297818055
+For topic 1 word super occurred at probability of 0.011049265547320719
+For topic 1 word make occurred at probability of 0.010677953213497965
+ 
+ 
+For topic 2 word fun occurred at probability of 0.028346464261116807
+For topic 2 word meat occurred at probability of 0.017535097848136765
+For topic 2 word one occurred at probability of 0.012323435805630605
+For topic 2 word super occurred at probability of 0.012111357675378902
+For topic 2 word controls occurred at probability of 0.011888708996462771
+For topic 2 word best occurred at probability of 0.011683120140083662
+For topic 2 word make occurred at probability of 0.011244231040290315
+For topic 2 word time occurred at probability of 0.011214076345316949
+For topic 2 word hard occurred at probability of 0.010749558574239723
+For topic 2 word played occurred at probability of 0.009665683968557142
+ 
+ 
+For topic 3 word meat occurred at probability of 0.022652735702046598
+For topic 3 word one occurred at probability of 0.020359140770749146
+For topic 3 word super occurred at probability of 0.016354670181797867
+For topic 3 word hard occurred at probability of 0.012989055459181583
+For topic 3 word controls occurred at probability of 0.01257335798506936
+For topic 3 word level occurred at probability of 0.011530878642728172
+For topic 3 word fun occurred at probability of 0.01148930434690862
+For topic 3 word levels occurred at probability of 0.010621006447397687
+For topic 3 word platformer occurred at probability of 0.010227197833943422
+For topic 3 word great occurred at probability of 0.009916815525990767
+ 
+ 
+For topic 4 word boy occurred at probability of 0.022021935925229122
+For topic 4 word get occurred at probability of 0.019831458207828032
+For topic 4 word best occurred at probability of 0.017567488359289844
+For topic 4 word super occurred at probability of 0.017050229242752422
+For topic 4 word level occurred at probability of 0.01627965248837925
+For topic 4 word games occurred at probability of 0.016216037537028376
+For topic 4 word one occurred at probability of 0.014409116095817026
+For topic 4 word hard occurred at probability of 0.012976123237354666
+For topic 4 word time occurred at probability of 0.012096061370201736
+For topic 4 word levels occurred at probability of 0.011320866631675554
+ 
+ 
+For topic 5 word super occurred at probability of 0.020995292136383965
+For topic 5 word good occurred at probability of 0.019833051611774902
+For topic 5 word hard occurred at probability of 0.01708487274949324
+For topic 5 word games occurred at probability of 0.01668151332071162
+For topic 5 word fun occurred at probability of 0.01586639285940074
+For topic 5 word really occurred at probability of 0.013539103940277861
+For topic 5 word level occurred at probability of 0.01175633168094496
+For topic 5 word meat occurred at probability of 0.009992462637875473
+For topic 5 word best occurred at probability of 0.009389677784925303
+For topic 5 word ever occurred at probability of 0.00896010724612661
+ 
+ 
+For topic 6 word boy occurred at probability of 0.020018872997971282
+For topic 6 word great occurred at probability of 0.016585663705141973
+For topic 6 word platformer occurred at probability of 0.016212186377304597
+For topic 6 word hard occurred at probability of 0.0135364729406874
+For topic 6 word fun occurred at probability of 0.0134362969848462
+For topic 6 word really occurred at probability of 0.012906758000011648
+For topic 6 word play occurred at probability of 0.012652536616993412
+For topic 6 word super occurred at probability of 0.01157018518117619
+For topic 6 word levels occurred at probability of 0.011032058836422415
+For topic 6 word controls occurred at probability of 0.008885366142290973
+ 
+ 
+For topic 7 word really occurred at probability of 0.018495088569987283
+For topic 7 word boy occurred at probability of 0.016532991365398004
+For topic 7 word hard occurred at probability of 0.015416616452723821
+For topic 7 word great occurred at probability of 0.015394070229230054
+For topic 7 word platformer occurred at probability of 0.01286613249091314
+For topic 7 word buy occurred at probability of 0.012430853077817187
+For topic 7 word time occurred at probability of 0.010004553317494233
+For topic 7 word one occurred at probability of 0.009440864486611505
+For topic 7 word love occurred at probability of 0.008586777384214704
+For topic 7 word difficult occurred at probability of 0.008583641826159205
+ 
+ 
+For topic 8 word meat occurred at probability of 0.022896069817768382
+For topic 8 word platformer occurred at probability of 0.017247847300247764
+For topic 8 word good occurred at probability of 0.016947974204457445
+For topic 8 word get occurred at probability of 0.01631345431351926
+For topic 8 word fun occurred at probability of 0.014573878971476655
+For topic 8 word games occurred at probability of 0.01358652706811623
+For topic 8 word boy occurred at probability of 0.01268717419614159
+For topic 8 word great occurred at probability of 0.011947742437717498
+For topic 8 word levels occurred at probability of 0.011101053839905086
+For topic 8 word one occurred at probability of 0.010803871958599158
+ 
+ 
+For topic 9 word fun occurred at probability of 0.03109932756478144
+For topic 9 word good occurred at probability of 0.020330047270329398
+For topic 9 word levels occurred at probability of 0.013672926580640364
+For topic 9 word great occurred at probability of 0.013338423292279036
+For topic 9 word platformers occurred at probability of 0.013300987337517977
+For topic 9 word best occurred at probability of 0.010897335008648078
+For topic 9 word level occurred at probability of 0.010828999284483918
+For topic 9 word meat occurred at probability of 0.010367040706555922
+For topic 9 word dont occurred at probability of 0.009078967621379537
+For topic 9 word super occurred at probability of 0.00872311964760139
+ 
+ 
+For topic 10 word meat occurred at probability of 0.024842268160564507
+For topic 10 word good occurred at probability of 0.020006309465632713
+For topic 10 word fun occurred at probability of 0.01857153254910446
+For topic 10 word play occurred at probability of 0.01786204971383839
+For topic 10 word super occurred at probability of 0.016438512714563112
+For topic 10 word games occurred at probability of 0.014708738857235658
+For topic 10 word platformer occurred at probability of 0.014629106093342656
+For topic 10 word get occurred at probability of 0.014311946493847094
+For topic 10 word great occurred at probability of 0.013754043401498347
+For topic 10 word played occurred at probability of 0.013236524420594326
+ 
+ 

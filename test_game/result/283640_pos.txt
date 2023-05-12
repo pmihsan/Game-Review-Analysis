@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.06289077122973015
+For topic 1 word dark occurred at probability of 0.032171986596027935
+For topic 1 word souls occurred at probability of 0.024265390458308268
+For topic 1 word good occurred at probability of 0.01619264923462444
+For topic 1 word great occurred at probability of 0.010459051208156442
+For topic 1 word one occurred at probability of 0.009714476449924937
+For topic 1 word really occurred at probability of 0.009221725036914156
+For topic 1 word like occurred at probability of 0.008873869717139299
+For topic 1 word well occurred at probability of 0.008501598585654909
+For topic 1 word would occurred at probability of 0.007403609839851722
+ 
+ 
+For topic 2 word game occurred at probability of 0.037485914464500544
+For topic 2 word souls occurred at probability of 0.029993034144466163
+For topic 2 word dark occurred at probability of 0.02487844435152761
+For topic 2 word like occurred at probability of 0.015471188466306391
+For topic 2 word games occurred at probability of 0.010874426616863223
+For topic 2 word salt occurred at probability of 0.010642452299127763
+For topic 2 word get occurred at probability of 0.010169252546631296
+For topic 2 word really occurred at probability of 0.010075766565279191
+For topic 2 word one occurred at probability of 0.009911735865790734
+For topic 2 word fun occurred at probability of 0.00954195809180699
+ 
+ 
+For topic 3 word dark occurred at probability of 0.03599275776000579
+For topic 3 word good occurred at probability of 0.019207896716272238
+For topic 3 word like occurred at probability of 0.01723818501392454
+For topic 3 word souls occurred at probability of 0.011520868377585959
+For topic 3 word love occurred at probability of 0.010063498329972992
+For topic 3 word fun occurred at probability of 0.009119305318580906
+For topic 3 word bosses occurred at probability of 0.008540353736552311
+For topic 3 word hours occurred at probability of 0.00811211078218562
+For topic 3 word first occurred at probability of 0.007287253780285535
+For topic 3 word even occurred at probability of 0.006742379227412573
+ 
+ 
+For topic 4 word dark occurred at probability of 0.03249243302861148
+For topic 4 word game occurred at probability of 0.025682380226932016
+For topic 4 word souls occurred at probability of 0.022935535431683418
+For topic 4 word like occurred at probability of 0.01727947073559795
+For topic 4 word great occurred at probability of 0.011297802318286178
+For topic 4 word really occurred at probability of 0.009622480936961208
+For topic 4 word much occurred at probability of 0.009486307857182361
+For topic 4 word sanctuary occurred at probability of 0.008245736507259453
+For topic 4 word even occurred at probability of 0.0071783392266770345
+For topic 4 word best occurred at probability of 0.006830048299371787
+ 
+ 
+For topic 5 word game occurred at probability of 0.04913245387214009
+For topic 5 word like occurred at probability of 0.02466608807406075
+For topic 5 word souls occurred at probability of 0.023844686217262493
+For topic 5 word great occurred at probability of 0.014766948827871476
+For topic 5 word really occurred at probability of 0.013393413718664107
+For topic 5 word well occurred at probability of 0.01210669685555395
+For topic 5 word fun occurred at probability of 0.011446761115846128
+For topic 5 word bosses occurred at probability of 0.010338293299837624
+For topic 5 word games occurred at probability of 0.008226769228170217
+For topic 5 word one occurred at probability of 0.008183142343680234
+ 
+ 
+For topic 6 word game occurred at probability of 0.0697966155089212
+For topic 6 word souls occurred at probability of 0.040235576092012705
+For topic 6 word like occurred at probability of 0.015434516409976493
+For topic 6 word great occurred at probability of 0.013252802896048996
+For topic 6 word dark occurred at probability of 0.010785912214394745
+For topic 6 word really occurred at probability of 0.010389814664469685
+For topic 6 word get occurred at probability of 0.010169813213491962
+For topic 6 word would occurred at probability of 0.00908131423083621
+For topic 6 word love occurred at probability of 0.008017804880785483
+For topic 6 word one occurred at probability of 0.008013317930929794
+ 
+ 
+For topic 7 word game occurred at probability of 0.05172386994742914
+For topic 7 word souls occurred at probability of 0.03441816951526831
+For topic 7 word dark occurred at probability of 0.03289492213962706
+For topic 7 word like occurred at probability of 0.01325640175901997
+For topic 7 word one occurred at probability of 0.010988660335154861
+For topic 7 word good occurred at probability of 0.010862519373383039
+For topic 7 word fun occurred at probability of 0.010723941336792515
+For topic 7 word games occurred at probability of 0.010288585219968288
+For topic 7 word sanctuary occurred at probability of 0.009757055393390874
+For topic 7 word salt occurred at probability of 0.009098205446043308
+ 
+ 
+For topic 8 word like occurred at probability of 0.02555861738941122
+For topic 8 word souls occurred at probability of 0.01249669059970298
+For topic 8 word salt occurred at probability of 0.01065401994890741
+For topic 8 word love occurred at probability of 0.010214490756753779
+For topic 8 word games occurred at probability of 0.009781348693966305
+For topic 8 word style occurred at probability of 0.009605372800063293
+For topic 8 word great occurred at probability of 0.008904258924129384
+For topic 8 word recommend occurred at probability of 0.0088860828654519
+For topic 8 word dark occurred at probability of 0.008644917731226102
+For topic 8 word good occurred at probability of 0.008387886562184836
+ 
+ 
+For topic 9 word dark occurred at probability of 0.029104073403107302
+For topic 9 word good occurred at probability of 0.0128277453008782
+For topic 9 word one occurred at probability of 0.01130610548414
+For topic 9 word great occurred at probability of 0.010215193148693142
+For topic 9 word played occurred at probability of 0.00912741842469785
+For topic 9 word like occurred at probability of 0.009088329935695713
+For topic 9 word well occurred at probability of 0.0081124322528227
+For topic 9 word would occurred at probability of 0.008102020448472707
+For topic 9 word many occurred at probability of 0.007413431317973467
+For topic 9 word much occurred at probability of 0.007381312089612453
+ 
+ 
+For topic 10 word game occurred at probability of 0.0764776820470697
+For topic 10 word like occurred at probability of 0.029271986185006205
+For topic 10 word souls occurred at probability of 0.025039314347282293
+For topic 10 word dark occurred at probability of 0.02045399377705593
+For topic 10 word games occurred at probability of 0.016411592218942617
+For topic 10 word good occurred at probability of 0.013321534188890162
+For topic 10 word love occurred at probability of 0.009707599400791496
+For topic 10 word get occurred at probability of 0.009438146010139311
+For topic 10 word played occurred at probability of 0.009117939273039525
+For topic 10 word fun occurred at probability of 0.008349435337757893
+ 
+ 

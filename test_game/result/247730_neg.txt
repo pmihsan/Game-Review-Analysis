@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.04969064041790878
+For topic 1 word dont occurred at probability of 0.01793402053198342
+For topic 1 word even occurred at probability of 0.009978694587753086
+For topic 1 word money occurred at probability of 0.009857800973708575
+For topic 1 word nether occurred at probability of 0.009726766504927806
+For topic 1 word first occurred at probability of 0.007576902473871987
+For topic 1 word get occurred at probability of 0.007241324234815208
+For topic 1 word people occurred at probability of 0.007201417643354095
+For topic 1 word cant occurred at probability of 0.006726159927085861
+For topic 1 word good occurred at probability of 0.006678760495731566
+ 
+ 
+For topic 2 word game occurred at probability of 0.08396237463720582
+For topic 2 word get occurred at probability of 0.01793468650256335
+For topic 2 word even occurred at probability of 0.014739983654858792
+For topic 2 word still occurred at probability of 0.009654957620936029
+For topic 2 word really occurred at probability of 0.007947981810530247
+For topic 2 word cant occurred at probability of 0.007899335656473362
+For topic 2 word make occurred at probability of 0.006805710532285468
+For topic 2 word people occurred at probability of 0.006690355568194643
+For topic 2 word kill occurred at probability of 0.006395292612017246
+For topic 2 word nether occurred at probability of 0.006341571275866705
+ 
+ 
+For topic 3 word game occurred at probability of 0.055435950108704245
+For topic 3 word like occurred at probability of 0.012040935175303108
+For topic 3 word nether occurred at probability of 0.009927852068421155
+For topic 3 word good occurred at probability of 0.009422138855352423
+For topic 3 word cant occurred at probability of 0.008022647029256102
+For topic 3 word players occurred at probability of 0.007448353133497799
+For topic 3 word games occurred at probability of 0.007405456708083524
+For topic 3 word dont occurred at probability of 0.007402161341909753
+For topic 3 word even occurred at probability of 0.007089055140621544
+For topic 3 word bad occurred at probability of 0.007084008993485302
+ 
+ 
+For topic 4 word game occurred at probability of 0.07100480917395874
+For topic 4 word money occurred at probability of 0.01102269778853628
+For topic 4 word get occurred at probability of 0.01043950118531234
+For topic 4 word play occurred at probability of 0.01004723073205391
+For topic 4 word buy occurred at probability of 0.010033662566096002
+For topic 4 word dont occurred at probability of 0.008857473490475545
+For topic 4 word nether occurred at probability of 0.008645821433383551
+For topic 4 word like occurred at probability of 0.008352995461514703
+For topic 4 word much occurred at probability of 0.007219044414790131
+For topic 4 word even occurred at probability of 0.006773516177351236
+ 
+ 
+For topic 5 word game occurred at probability of 0.05041886553570683
+For topic 5 word money occurred at probability of 0.01758503530183056
+For topic 5 word play occurred at probability of 0.01234175012949735
+For topic 5 word like occurred at probability of 0.011283176188164105
+For topic 5 word one occurred at probability of 0.009226056427773605
+For topic 5 word much occurred at probability of 0.008238611795688444
+For topic 5 word bad occurred at probability of 0.007604538324598527
+For topic 5 word nether occurred at probability of 0.007082107634560871
+For topic 5 word would occurred at probability of 0.006844909231968794
+For topic 5 word shit occurred at probability of 0.006734677625353403
+ 
+ 
+For topic 6 word dont occurred at probability of 0.010246979684374347
+For topic 6 word really occurred at probability of 0.009318385901469415
+For topic 6 word get occurred at probability of 0.009042530787899294
+For topic 6 word game occurred at probability of 0.008987556404313953
+For topic 6 word people occurred at probability of 0.008209792636753489
+For topic 6 word play occurred at probability of 0.007462366931066608
+For topic 6 word around occurred at probability of 0.006896981471182142
+For topic 6 word shit occurred at probability of 0.005830218425471856
+For topic 6 word ever occurred at probability of 0.005811322884767331
+For topic 6 word first occurred at probability of 0.005738368130505405
+ 
+ 
+For topic 7 word game occurred at probability of 0.032293906206035734
+For topic 7 word money occurred at probability of 0.01608917736551827
+For topic 7 word even occurred at probability of 0.015613726286346502
+For topic 7 word time occurred at probability of 0.014415805821882465
+For topic 7 word play occurred at probability of 0.010811487326503005
+For topic 7 word dont occurred at probability of 0.010109951577068217
+For topic 7 word players occurred at probability of 0.009778157032553034
+For topic 7 word one occurred at probability of 0.00832958930772966
+For topic 7 word nether occurred at probability of 0.00825265510016522
+For topic 7 word would occurred at probability of 0.007970700121063885
+ 
+ 
+For topic 8 word game occurred at probability of 0.04381498079207783
+For topic 8 word get occurred at probability of 0.02080842343414055
+For topic 8 word time occurred at probability of 0.01655014223685135
+For topic 8 word dont occurred at probability of 0.014894546610770242
+For topic 8 word play occurred at probability of 0.011806873869944525
+For topic 8 word money occurred at probability of 0.009549292481764312
+For topic 8 word one occurred at probability of 0.007517669233377845
+For topic 8 word buy occurred at probability of 0.007043013171818685
+For topic 8 word would occurred at probability of 0.0069111147261478705
+For topic 8 word even occurred at probability of 0.0066703602110154935
+ 
+ 
+For topic 9 word game occurred at probability of 0.0589238652505206
+For topic 9 word get occurred at probability of 0.014702427607023855
+For topic 9 word dont occurred at probability of 0.012456602111139461
+For topic 9 word even occurred at probability of 0.009122197719556281
+For topic 9 word nether occurred at probability of 0.007700474371526038
+For topic 9 word nothing occurred at probability of 0.007562755486908176
+For topic 9 word players occurred at probability of 0.00750327443295775
+For topic 9 word one occurred at probability of 0.007500041954218034
+For topic 9 word find occurred at probability of 0.0072945977810787
+For topic 9 word people occurred at probability of 0.0072911557961015715
+ 
+ 
+For topic 10 word game occurred at probability of 0.04626668784869919
+For topic 10 word time occurred at probability of 0.014557276227773626
+For topic 10 word even occurred at probability of 0.01324726709240567
+For topic 10 word get occurred at probability of 0.01291748211830406
+For topic 10 word buy occurred at probability of 0.010560907899005302
+For topic 10 word like occurred at probability of 0.009350528714002207
+For topic 10 word play occurred at probability of 0.008445900542927301
+For topic 10 word first occurred at probability of 0.007783598773859282
+For topic 10 word really occurred at probability of 0.00726825513537554
+For topic 10 word still occurred at probability of 0.006951910178511253
+ 
+ 

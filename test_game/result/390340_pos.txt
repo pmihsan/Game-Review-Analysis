@@ -1,0 +1,120 @@
+For topic 1 word get occurred at probability of 0.01746324654491617
+For topic 1 word like occurred at probability of 0.016533048921136287
+For topic 1 word one occurred at probability of 0.013863200040679447
+For topic 1 word really occurred at probability of 0.01247855447908202
+For topic 1 word good occurred at probability of 0.011618285925506656
+For topic 1 word play occurred at probability of 0.010968676193503852
+For topic 1 word games occurred at probability of 0.010876739847240425
+For topic 1 word bundle occurred at probability of 0.009438844425415423
+For topic 1 word players occurred at probability of 0.00927275036590589
+For topic 1 word humble occurred at probability of 0.00918760083119516
+ 
+ 
+For topic 2 word get occurred at probability of 0.01950962823798452
+For topic 2 word like occurred at probability of 0.017251589471816712
+For topic 2 word good occurred at probability of 0.016522236890316722
+For topic 2 word would occurred at probability of 0.01599247909169841
+For topic 2 word fun occurred at probability of 0.010562084979509834
+For topic 2 word play occurred at probability of 0.010508135035927414
+For topic 2 word really occurred at probability of 0.010323285096358489
+For topic 2 word bad occurred at probability of 0.009634273988687726
+For topic 2 word much occurred at probability of 0.009303740570501262
+For topic 2 word im occurred at probability of 0.009137021255330183
+ 
+ 
+For topic 3 word like occurred at probability of 0.02643852152571361
+For topic 3 word evil occurred at probability of 0.0128822053565958
+For topic 3 word capcom occurred at probability of 0.012560681194478765
+For topic 3 word fun occurred at probability of 0.012178263076805569
+For topic 3 word resident occurred at probability of 0.011393394836620803
+For topic 3 word better occurred at probability of 0.011150816646840318
+For topic 3 word really occurred at probability of 0.010638471646756388
+For topic 3 word even occurred at probability of 0.01060762151265339
+For topic 3 word bad occurred at probability of 0.010369324382791038
+For topic 3 word mode occurred at probability of 0.010083273303784428
+ 
+ 
+For topic 4 word like occurred at probability of 0.01875720776337613
+For topic 4 word get occurred at probability of 0.018756393135392513
+For topic 4 word play occurred at probability of 0.01776277537074198
+For topic 4 word fun occurred at probability of 0.014314587517233506
+For topic 4 word multiplayer occurred at probability of 0.01354348411032368
+For topic 4 word got occurred at probability of 0.011371283813696356
+For topic 4 word better occurred at probability of 0.011269798093568912
+For topic 4 word bad occurred at probability of 0.010907962980498896
+For topic 4 word online occurred at probability of 0.010729600840851363
+For topic 4 word capcom occurred at probability of 0.01024720321945973
+ 
+ 
+For topic 5 word fun occurred at probability of 0.017517288687597724
+For topic 5 word even occurred at probability of 0.01668471438769772
+For topic 5 word play occurred at probability of 0.016205801730796936
+For topic 5 word time occurred at probability of 0.015025015687465055
+For topic 5 word people occurred at probability of 0.014056358467674952
+For topic 5 word worth occurred at probability of 0.013632110764024784
+For topic 5 word multiplayer occurred at probability of 0.012215432010890245
+For topic 5 word evil occurred at probability of 0.011759485793781834
+For topic 5 word get occurred at probability of 0.011703802509834384
+For topic 5 word resident occurred at probability of 0.010549716253353707
+ 
+ 
+For topic 6 word like occurred at probability of 0.01672481802917212
+For topic 6 word play occurred at probability of 0.016518270327495872
+For topic 6 word good occurred at probability of 0.016363970054167835
+For topic 6 word would occurred at probability of 0.014995130460337902
+For topic 6 word fun occurred at probability of 0.012258719467929658
+For topic 6 word people occurred at probability of 0.01043025276268231
+For topic 6 word really occurred at probability of 0.010422277054319473
+For topic 6 word resident occurred at probability of 0.010354728311660705
+For topic 6 word evil occurred at probability of 0.009180681469195639
+For topic 6 word dead occurred at probability of 0.009027282265537945
+ 
+ 
+For topic 7 word good occurred at probability of 0.01711606087240591
+For topic 7 word would occurred at probability of 0.016927023476134007
+For topic 7 word time occurred at probability of 0.016263253439742473
+For topic 7 word worth occurred at probability of 0.014095670293523517
+For topic 7 word resident occurred at probability of 0.011703887070207223
+For topic 7 word even occurred at probability of 0.010495510841063876
+For topic 7 word much occurred at probability of 0.010417681228724003
+For topic 7 word play occurred at probability of 0.01002506692078367
+For topic 7 word pretty occurred at probability of 0.010004815814432348
+For topic 7 word one occurred at probability of 0.009778941642878717
+ 
+ 
+For topic 8 word like occurred at probability of 0.022278963451055463
+For topic 8 word get occurred at probability of 0.014336541599077154
+For topic 8 word people occurred at probability of 0.01239464844845275
+For topic 8 word fun occurred at probability of 0.012385683353075062
+For topic 8 word worth occurred at probability of 0.011941917048828993
+For topic 8 word got occurred at probability of 0.01133956389199163
+For topic 8 word better occurred at probability of 0.010690779983406166
+For topic 8 word games occurred at probability of 0.010573395539230444
+For topic 8 word play occurred at probability of 0.009752568553703288
+For topic 8 word time occurred at probability of 0.009260113461884318
+ 
+ 
+For topic 9 word would occurred at probability of 0.021747454340624153
+For topic 9 word play occurred at probability of 0.01893813004147329
+For topic 9 word multiplayer occurred at probability of 0.01500410040793235
+For topic 9 word people occurred at probability of 0.011992745137103246
+For topic 9 word good occurred at probability of 0.011713862605453595
+For topic 9 word got occurred at probability of 0.011116883684627389
+For topic 9 word dead occurred at probability of 0.01037012997111348
+For topic 9 word evil occurred at probability of 0.009648813553962911
+For topic 9 word even occurred at probability of 0.009516962879482489
+For topic 9 word umbrella occurred at probability of 0.00890553012942831
+ 
+ 
+For topic 10 word like occurred at probability of 0.040828836435241316
+For topic 10 word fun occurred at probability of 0.02339275279259576
+For topic 10 word people occurred at probability of 0.01325731866090437
+For topic 10 word good occurred at probability of 0.01210884756820599
+For topic 10 word playing occurred at probability of 0.010210552342941564
+For topic 10 word resident occurred at probability of 0.010187497133284883
+For topic 10 word get occurred at probability of 0.0097355161173516
+For topic 10 word even occurred at probability of 0.009476805895455463
+For topic 10 word worth occurred at probability of 0.008814906518944456
+For topic 10 word players occurred at probability of 0.008728929170321179
+ 
+ 

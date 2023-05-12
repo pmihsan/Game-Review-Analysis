@@ -1,0 +1,17 @@
+WHOLE 9635437
+UNIQUE 315
+
+          app_id                     app_name
+3         292030     The Witcher 3: Wild Hunt
+469395        70                    Half-Life
+526715       240       Counter-Strike: Source
+644796       420     Half-Life 2: Episode Two
+668296       620                     Portal 2
+...          ...                          ...
+21672948  530070        Train Sim World® 2020
+21679452  574050      DRAGON QUEST HEROES™ II
+21680051  572410  Steel Division: Normandy 44
+21685255  421020                       DiRT 4
+21696272  546560              Half-Life: Alyx
+
+[315 rows x 2 columns]

@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.061068123035103894
+For topic 1 word dont occurred at probability of 0.017449454463109214
+For topic 1 word play occurred at probability of 0.015478420094471153
+For topic 1 word would occurred at probability of 0.012153991196242683
+For topic 1 word like occurred at probability of 0.010241904621781883
+For topic 1 word one occurred at probability of 0.009702366443544195
+For topic 1 word even occurred at probability of 0.009341895271215284
+For topic 1 word really occurred at probability of 0.008596512374582711
+For topic 1 word get occurred at probability of 0.008514004004870237
+For topic 1 word undertale occurred at probability of 0.007754370133912472
+ 
+ 
+For topic 2 word get occurred at probability of 0.0185167938709878
+For topic 2 word play occurred at probability of 0.01285244894289178
+For topic 2 word one occurred at probability of 0.01231283949205033
+For topic 2 word undertale occurred at probability of 0.012186401264977977
+For topic 2 word kill occurred at probability of 0.010500591622448676
+For topic 2 word bad occurred at probability of 0.009740587903879792
+For topic 2 word characters occurred at probability of 0.008946783618488502
+For topic 2 word cry occurred at probability of 0.008936491096124285
+For topic 2 word dont occurred at probability of 0.008378136842466523
+For topic 2 word buy occurred at probability of 0.007617479787579401
+ 
+ 
+For topic 3 word game occurred at probability of 0.02353076297044311
+For topic 3 word kill occurred at probability of 0.0153079267056706
+For topic 3 word bad occurred at probability of 0.012311491094817715
+For topic 3 word one occurred at probability of 0.009851326696082381
+For topic 3 word make occurred at probability of 0.008977738714817204
+For topic 3 word sans occurred at probability of 0.0072416582594809695
+For topic 3 word played occurred at probability of 0.0071167698124915725
+For topic 3 word go occurred at probability of 0.007093038259908072
+For topic 3 word games occurred at probability of 0.0066566446005348005
+For topic 3 word characters occurred at probability of 0.006347587290694473
+ 
+ 
+For topic 4 word game occurred at probability of 0.07322119602514054
+For topic 4 word time occurred at probability of 0.01595161768087627
+For topic 4 word play occurred at probability of 0.014015282597137173
+For topic 4 word like occurred at probability of 0.011299190530004728
+For topic 4 word undertale occurred at probability of 0.01019224134428757
+For topic 4 word one occurred at probability of 0.008036158254302078
+For topic 4 word story occurred at probability of 0.007688042602816413
+For topic 4 word really occurred at probability of 0.007500431751927492
+For topic 4 word im occurred at probability of 0.007307045332498052
+For topic 4 word fucking occurred at probability of 0.0069135130974395465
+ 
+ 
+For topic 5 word game occurred at probability of 0.019325247754545243
+For topic 5 word bad occurred at probability of 0.016864880214668455
+For topic 5 word play occurred at probability of 0.016702918867925298
+For topic 5 word time occurred at probability of 0.014882522767462783
+For topic 5 word get occurred at probability of 0.014496358951998193
+For topic 5 word kill occurred at probability of 0.013256471735594674
+For topic 5 word feel occurred at probability of 0.008979250250212088
+For topic 5 word characters occurred at probability of 0.008543178966920119
+For topic 5 word really occurred at probability of 0.008237296833599852
+For topic 5 word im occurred at probability of 0.007315924745190717
+ 
+ 
+For topic 6 word game occurred at probability of 0.05238978879126908
+For topic 6 word dont occurred at probability of 0.0186658297488685
+For topic 6 word play occurred at probability of 0.012885720605931772
+For topic 6 word bad occurred at probability of 0.010013864240705939
+For topic 6 word even occurred at probability of 0.009109060087727413
+For topic 6 word first occurred at probability of 0.008661470301770509
+For topic 6 word one occurred at probability of 0.008378507043852082
+For topic 6 word made occurred at probability of 0.007518532357858957
+For topic 6 word buy occurred at probability of 0.0072946131464969805
+For topic 6 word make occurred at probability of 0.006209189724105352
+ 
+ 
+For topic 7 word undertale occurred at probability of 0.01389223889191992
+For topic 7 word get occurred at probability of 0.013594868452339284
+For topic 7 word characters occurred at probability of 0.009812532416956555
+For topic 7 word story occurred at probability of 0.009554181892014759
+For topic 7 word bad occurred at probability of 0.00890796104228785
+For topic 7 word really occurred at probability of 0.008361880346641244
+For topic 7 word fucking occurred at probability of 0.008259386521061767
+For topic 7 word game occurred at probability of 0.0074345030420656065
+For topic 7 word pacifist occurred at probability of 0.007233287298911928
+For topic 7 word sans occurred at probability of 0.007224108029089895
+ 
+ 
+For topic 8 word game occurred at probability of 0.12684105728252118
+For topic 8 word would occurred at probability of 0.012432089601692715
+For topic 8 word kill occurred at probability of 0.01217013836417682
+For topic 8 word play occurred at probability of 0.011591050004437182
+For topic 8 word bad occurred at probability of 0.009055020436075131
+For topic 8 word story occurred at probability of 0.008212851915828984
+For topic 8 word like occurred at probability of 0.007879449076552513
+For topic 8 word cry occurred at probability of 0.0074572947981198815
+For topic 8 word even occurred at probability of 0.007292050507345553
+For topic 8 word played occurred at probability of 0.00694172277921798
+ 
+ 
+For topic 9 word game occurred at probability of 0.059505962656186864
+For topic 9 word dont occurred at probability of 0.013254517688226903
+For topic 9 word one occurred at probability of 0.01094194847413038
+For topic 9 word time occurred at probability of 0.009067861144523492
+For topic 9 word characters occurred at probability of 0.00828049414481805
+For topic 9 word play occurred at probability of 0.008190339965914268
+For topic 9 word undertale occurred at probability of 0.008186665054761995
+For topic 9 word first occurred at probability of 0.007319140317678511
+For topic 9 word story occurred at probability of 0.007187508978556878
+For topic 9 word im occurred at probability of 0.006268549776769001
+ 
+ 
+For topic 10 word game occurred at probability of 0.03523241145050371
+For topic 10 word dont occurred at probability of 0.017712832884297335
+For topic 10 word bad occurred at probability of 0.015988906477131422
+For topic 10 word time occurred at probability of 0.01468549164070884
+For topic 10 word kill occurred at probability of 0.011172220258608775
+For topic 10 word story occurred at probability of 0.008843071436716907
+For topic 10 word really occurred at probability of 0.008517627840521699
+For topic 10 word made occurred at probability of 0.007314366145994846
+For topic 10 word would occurred at probability of 0.007279844543983473
+For topic 10 word genocide occurred at probability of 0.006950234418416514
+ 
+ 

@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.02195362663485852
+For topic 1 word one occurred at probability of 0.016624873469931314
+For topic 1 word great occurred at probability of 0.013551499568487979
+For topic 1 word even occurred at probability of 0.01216933620392477
+For topic 1 word games occurred at probability of 0.011336042201817968
+For topic 1 word get occurred at probability of 0.011007014536132731
+For topic 1 word rimworld occurred at probability of 0.008850171954255895
+For topic 1 word many occurred at probability of 0.008664076214665395
+For topic 1 word fun occurred at probability of 0.00851532064500348
+For topic 1 word much occurred at probability of 0.008214948260790899
+ 
+ 
+For topic 2 word game occurred at probability of 0.10557890055014528
+For topic 2 word like occurred at probability of 0.016373576998430655
+For topic 2 word mods occurred at probability of 0.014087957103377877
+For topic 2 word good occurred at probability of 0.012103680953442953
+For topic 2 word great occurred at probability of 0.010709610717983759
+For topic 2 word one occurred at probability of 0.009733860772266671
+For topic 2 word played occurred at probability of 0.009624308278273683
+For topic 2 word best occurred at probability of 0.009348208377003779
+For topic 2 word ive occurred at probability of 0.007684616218711447
+For topic 2 word community occurred at probability of 0.007621446454621276
+ 
+ 
+For topic 3 word one occurred at probability of 0.018402449933182
+For topic 3 word good occurred at probability of 0.017200952902077387
+For topic 3 word mods occurred at probability of 0.01124952678813772
+For topic 3 word played occurred at probability of 0.010320747021264261
+For topic 3 word game occurred at probability of 0.010140781369284512
+For topic 3 word would occurred at probability of 0.010038534250568405
+For topic 3 word great occurred at probability of 0.009955644899365151
+For topic 3 word colony occurred at probability of 0.009735415171478507
+For topic 3 word ive occurred at probability of 0.00893187030509975
+For topic 3 word hours occurred at probability of 0.008829532372499865
+ 
+ 
+For topic 4 word game occurred at probability of 0.056653274096291444
+For topic 4 word games occurred at probability of 0.016072913771952083
+For topic 4 word like occurred at probability of 0.015207241940767629
+For topic 4 word time occurred at probability of 0.014456562759882502
+For topic 4 word mods occurred at probability of 0.013343656396336617
+For topic 4 word good occurred at probability of 0.01221320156916198
+For topic 4 word fun occurred at probability of 0.012005875089109674
+For topic 4 word love occurred at probability of 0.011852279711748168
+For topic 4 word much occurred at probability of 0.009569357458769903
+For topic 4 word great occurred at probability of 0.008723923911482672
+ 
+ 
+For topic 5 word fun occurred at probability of 0.01684062372519688
+For topic 5 word game occurred at probability of 0.01647652984904462
+For topic 5 word time occurred at probability of 0.014342305215394074
+For topic 5 word colony occurred at probability of 0.012388501618048204
+For topic 5 word great occurred at probability of 0.01222071922210297
+For topic 5 word one occurred at probability of 0.012106131374932064
+For topic 5 word like occurred at probability of 0.009995307758104892
+For topic 5 word rimworld occurred at probability of 0.009947190921312469
+For topic 5 word even occurred at probability of 0.007669784430757148
+For topic 5 word really occurred at probability of 0.00740574184066393
+ 
+ 
+For topic 6 word game occurred at probability of 0.061835407176494404
+For topic 6 word good occurred at probability of 0.021954347096970035
+For topic 6 word fun occurred at probability of 0.021736884480285955
+For topic 6 word play occurred at probability of 0.01427184894061441
+For topic 6 word rimworld occurred at probability of 0.014075073235867784
+For topic 6 word hours occurred at probability of 0.014063242009040886
+For topic 6 word colony occurred at probability of 0.0129096992623239
+For topic 6 word get occurred at probability of 0.01171275570495301
+For topic 6 word love occurred at probability of 0.010985818792083768
+For topic 6 word games occurred at probability of 0.009117921113947151
+ 
+ 
+For topic 7 word game occurred at probability of 0.031140247997997864
+For topic 7 word one occurred at probability of 0.02189012981692573
+For topic 7 word hours occurred at probability of 0.01764320111877318
+For topic 7 word like occurred at probability of 0.015650624917350465
+For topic 7 word great occurred at probability of 0.015099128306183391
+For topic 7 word mods occurred at probability of 0.014946569957399588
+For topic 7 word games occurred at probability of 0.013599065447695801
+For topic 7 word play occurred at probability of 0.012200140379397793
+For topic 7 word many occurred at probability of 0.010724137074616061
+For topic 7 word fun occurred at probability of 0.009240976378123161
+ 
+ 
+For topic 8 word game occurred at probability of 0.1029684675678147
+For topic 8 word play occurred at probability of 0.011397212814555718
+For topic 8 word even occurred at probability of 0.011026712356320365
+For topic 8 word much occurred at probability of 0.0107397113247866
+For topic 8 word best occurred at probability of 0.010513589552864775
+For topic 8 word played occurred at probability of 0.01045130923665907
+For topic 8 word time occurred at probability of 0.009914284995081544
+For topic 8 word colony occurred at probability of 0.008690294276282895
+For topic 8 word games occurred at probability of 0.008682837254129334
+For topic 8 word amazing occurred at probability of 0.008627277536111262
+ 
+ 
+For topic 9 word game occurred at probability of 0.043220612579177226
+For topic 9 word like occurred at probability of 0.01690305456301934
+For topic 9 word hours occurred at probability of 0.015790599335072097
+For topic 9 word one occurred at probability of 0.01433290639826936
+For topic 9 word rimworld occurred at probability of 0.013385263721388993
+For topic 9 word get occurred at probability of 0.011573234271339381
+For topic 9 word best occurred at probability of 0.010876019070443244
+For topic 9 word play occurred at probability of 0.009693256983033034
+For topic 9 word great occurred at probability of 0.009154848333018462
+For topic 9 word amazing occurred at probability of 0.008914708001590756
+ 
+ 
+For topic 10 word game occurred at probability of 0.03183233679721897
+For topic 10 word time occurred at probability of 0.01793265996873701
+For topic 10 word like occurred at probability of 0.017470082688293125
+For topic 10 word one occurred at probability of 0.012923382380866152
+For topic 10 word get occurred at probability of 0.011097488543909769
+For topic 10 word mods occurred at probability of 0.010990553009981537
+For topic 10 word love occurred at probability of 0.009110446779843488
+For topic 10 word make occurred at probability of 0.008785284480358738
+For topic 10 word good occurred at probability of 0.008616053526668381
+For topic 10 word fun occurred at probability of 0.008228189113394308
+ 
+ 

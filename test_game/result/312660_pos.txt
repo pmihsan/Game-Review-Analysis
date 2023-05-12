@@ -1,0 +1,120 @@
+For topic 1 word elite occurred at probability of 0.016889661470608833
+For topic 1 word games occurred at probability of 0.01384242984672271
+For topic 1 word would occurred at probability of 0.01359720378500566
+For topic 1 word good occurred at probability of 0.010874202765021861
+For topic 1 word played occurred at probability of 0.009451908364209685
+For topic 1 word one occurred at probability of 0.009137998323860318
+For topic 1 word even occurred at probability of 0.0090034394234713
+For topic 1 word maps occurred at probability of 0.00881854708204377
+For topic 1 word well occurred at probability of 0.0082486160349878
+For topic 1 word play occurred at probability of 0.007742219663483692
+ 
+ 
+For topic 2 word sniper occurred at probability of 0.016787089576077337
+For topic 2 word fun occurred at probability of 0.01669189015753558
+For topic 2 word great occurred at probability of 0.010808559237227967
+For topic 2 word also occurred at probability of 0.010350926622318693
+For topic 2 word graphics occurred at probability of 0.008991780557226908
+For topic 2 word stealth occurred at probability of 0.008429010231830842
+For topic 2 word really occurred at probability of 0.008103140320198585
+For topic 2 word play occurred at probability of 0.007927776811602557
+For topic 2 word even occurred at probability of 0.007543494842292268
+For topic 2 word get occurred at probability of 0.007047255964788534
+ 
+ 
+For topic 3 word like occurred at probability of 0.02780780501372128
+For topic 3 word get occurred at probability of 0.019252774656740898
+For topic 3 word good occurred at probability of 0.019117806001825575
+For topic 3 word great occurred at probability of 0.017791346225707202
+For topic 3 word elite occurred at probability of 0.015841323262067282
+For topic 3 word sniper occurred at probability of 0.013282472726343923
+For topic 3 word play occurred at probability of 0.013038916429689918
+For topic 3 word really occurred at probability of 0.010331527026562877
+For topic 3 word fun occurred at probability of 0.008873118929670564
+For topic 3 word much occurred at probability of 0.008318231242491553
+ 
+ 
+For topic 4 word good occurred at probability of 0.028094558713335518
+For topic 4 word sniper occurred at probability of 0.026500433304299097
+For topic 4 word like occurred at probability of 0.022593181191472803
+For topic 4 word fun occurred at probability of 0.022233406041551686
+For topic 4 word great occurred at probability of 0.013321970157751774
+For topic 4 word would occurred at probability of 0.010040985346372568
+For topic 4 word elite occurred at probability of 0.01001005032436508
+For topic 4 word stealth occurred at probability of 0.008863010270702937
+For topic 4 word games occurred at probability of 0.008766487313721628
+For topic 4 word story occurred at probability of 0.007507154027828732
+ 
+ 
+For topic 5 word sniper occurred at probability of 0.024206172703455178
+For topic 5 word great occurred at probability of 0.017596234088918396
+For topic 5 word good occurred at probability of 0.015426700840814406
+For topic 5 word play occurred at probability of 0.014969523251063625
+For topic 5 word best occurred at probability of 0.01341529284545039
+For topic 5 word really occurred at probability of 0.011810648045482784
+For topic 5 word games occurred at probability of 0.009110727302644788
+For topic 5 word fun occurred at probability of 0.008930908713038813
+For topic 5 word graphics occurred at probability of 0.008016399600031619
+For topic 5 word recommend occurred at probability of 0.00776924481841162
+ 
+ 
+For topic 6 word good occurred at probability of 0.01721378276224728
+For topic 6 word fun occurred at probability of 0.016379789925618834
+For topic 6 word like occurred at probability of 0.01584181717150317
+For topic 6 word sniper occurred at probability of 0.013337541376316406
+For topic 6 word best occurred at probability of 0.013164581078245313
+For topic 6 word elite occurred at probability of 0.012169056609980865
+For topic 6 word really occurred at probability of 0.01101166543306825
+For topic 6 word games occurred at probability of 0.009705132660103687
+For topic 6 word one occurred at probability of 0.009556371826846917
+For topic 6 word time occurred at probability of 0.009333777568173324
+ 
+ 
+For topic 7 word like occurred at probability of 0.024805132824777972
+For topic 7 word good occurred at probability of 0.020320017440159557
+For topic 7 word great occurred at probability of 0.016767311254913427
+For topic 7 word one occurred at probability of 0.013405804869768933
+For topic 7 word games occurred at probability of 0.012006400228667193
+For topic 7 word also occurred at probability of 0.009950689625569305
+For topic 7 word play occurred at probability of 0.009288095727223807
+For topic 7 word much occurred at probability of 0.008322130009372293
+For topic 7 word worth occurred at probability of 0.008115377452892245
+For topic 7 word better occurred at probability of 0.008009252859344732
+ 
+ 
+For topic 8 word fun occurred at probability of 0.03077326715724626
+For topic 8 word sniper occurred at probability of 0.02674314030884328
+For topic 8 word play occurred at probability of 0.01684281250278871
+For topic 8 word best occurred at probability of 0.013630796696342677
+For topic 8 word would occurred at probability of 0.012662362831657304
+For topic 8 word elite occurred at probability of 0.010950503046008126
+For topic 8 word good occurred at probability of 0.010726515324164044
+For topic 8 word great occurred at probability of 0.008287034574711201
+For topic 8 word recommend occurred at probability of 0.00786335229413823
+For topic 8 word really occurred at probability of 0.00711800858304596
+ 
+ 
+For topic 9 word good occurred at probability of 0.025385286804225318
+For topic 9 word great occurred at probability of 0.019419993200498396
+For topic 9 word one occurred at probability of 0.017144316554213612
+For topic 9 word like occurred at probability of 0.015500497991594293
+For topic 9 word sniper occurred at probability of 0.01331502788237344
+For topic 9 word would occurred at probability of 0.011122685456459626
+For topic 9 word graphics occurred at probability of 0.010488286452132727
+For topic 9 word fun occurred at probability of 0.008117602195524988
+For topic 9 word better occurred at probability of 0.007497643182110611
+For topic 9 word played occurred at probability of 0.007152723636997984
+ 
+ 
+For topic 10 word sniper occurred at probability of 0.029126912359406475
+For topic 10 word fun occurred at probability of 0.02236666143703339
+For topic 10 word elite occurred at probability of 0.017502653051225205
+For topic 10 word games occurred at probability of 0.016889966613910463
+For topic 10 word play occurred at probability of 0.014213842130879242
+For topic 10 word really occurred at probability of 0.010062496046406126
+For topic 10 word series occurred at probability of 0.007896147841444571
+For topic 10 word time occurred at probability of 0.007071155278033831
+For topic 10 word graphics occurred at probability of 0.006746064810298777
+For topic 10 word campaign occurred at probability of 0.006608788793223266
+ 
+ 

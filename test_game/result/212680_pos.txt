@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.03698222164658737
+For topic 1 word one occurred at probability of 0.017981769014861895
+For topic 1 word ship occurred at probability of 0.014052646934297077
+For topic 1 word fun occurred at probability of 0.013685821222645616
+For topic 1 word great occurred at probability of 0.012306753468768908
+For topic 1 word like occurred at probability of 0.012107903356128926
+For topic 1 word time occurred at probability of 0.011354325456598702
+For topic 1 word get occurred at probability of 0.010877447799135263
+For topic 1 word crew occurred at probability of 0.009577915128011724
+For topic 1 word play occurred at probability of 0.009443311235999953
+ 
+ 
+For topic 2 word game occurred at probability of 0.0359348060907745
+For topic 2 word fun occurred at probability of 0.015223522479050898
+For topic 2 word ship occurred at probability of 0.012902892750990063
+For topic 2 word good occurred at probability of 0.011295386852893927
+For topic 2 word games occurred at probability of 0.010541697807681305
+For topic 2 word best occurred at probability of 0.010130344169650536
+For topic 2 word play occurred at probability of 0.010099834455338415
+For topic 2 word great occurred at probability of 0.009642282219341316
+For topic 2 word ships occurred at probability of 0.008855763449275234
+For topic 2 word easy occurred at probability of 0.008172329623682452
+ 
+ 
+For topic 3 word game occurred at probability of 0.08994060799618002
+For topic 3 word fun occurred at probability of 0.019696853474827546
+For topic 3 word time occurred at probability of 0.014512166714706232
+For topic 3 word play occurred at probability of 0.014282225710901071
+For topic 3 word good occurred at probability of 0.011553264153195911
+For topic 3 word ship occurred at probability of 0.01152443187384183
+For topic 3 word one occurred at probability of 0.010088794826942093
+For topic 3 word best occurred at probability of 0.010072014469584518
+For topic 3 word great occurred at probability of 0.009495693210790256
+For topic 3 word hours occurred at probability of 0.00934837325381829
+ 
+ 
+For topic 4 word game occurred at probability of 0.06503757438256748
+For topic 4 word one occurred at probability of 0.018975127344007674
+For topic 4 word like occurred at probability of 0.01711921256941376
+For topic 4 word get occurred at probability of 0.016293802216987844
+For topic 4 word games occurred at probability of 0.014956373893403279
+For topic 4 word great occurred at probability of 0.013621045304301048
+For topic 4 word best occurred at probability of 0.010501333344883667
+For topic 4 word ship occurred at probability of 0.010457044217960235
+For topic 4 word ships occurred at probability of 0.008566640539113818
+For topic 4 word beat occurred at probability of 0.008092995678627096
+ 
+ 
+For topic 5 word game occurred at probability of 0.08846716937475534
+For topic 5 word fun occurred at probability of 0.017522392066544466
+For topic 5 word good occurred at probability of 0.013547632391718849
+For topic 5 word one occurred at probability of 0.013471310779527734
+For topic 5 word great occurred at probability of 0.01313240446692412
+For topic 5 word ship occurred at probability of 0.013131380053795345
+For topic 5 word games occurred at probability of 0.01153226665950309
+For topic 5 word even occurred at probability of 0.00851790176585411
+For topic 5 word crew occurred at probability of 0.007978140130161676
+For topic 5 word hours occurred at probability of 0.00784786494109829
+ 
+ 
+For topic 6 word game occurred at probability of 0.06510164023239065
+For topic 6 word time occurred at probability of 0.016919837351770068
+For topic 6 word great occurred at probability of 0.012856084033365058
+For topic 6 word like occurred at probability of 0.010527130563680617
+For topic 6 word ships occurred at probability of 0.010448525819545414
+For topic 6 word really occurred at probability of 0.008968863631427229
+For topic 6 word strategy occurred at probability of 0.007738033955867072
+For topic 6 word make occurred at probability of 0.007730500993588799
+For topic 6 word love occurred at probability of 0.00748955192702075
+For topic 6 word ever occurred at probability of 0.007418290632698445
+ 
+ 
+For topic 7 word fun occurred at probability of 0.019794290085654427
+For topic 7 word games occurred at probability of 0.01550457579330149
+For topic 7 word great occurred at probability of 0.014982194174604776
+For topic 7 word good occurred at probability of 0.011189172981862387
+For topic 7 word best occurred at probability of 0.00970026925395088
+For topic 7 word ftl occurred at probability of 0.009214312712773742
+For topic 7 word would occurred at probability of 0.009017564738241635
+For topic 7 word different occurred at probability of 0.008742582680327605
+For topic 7 word play occurred at probability of 0.008597155919410512
+For topic 7 word make occurred at probability of 0.008207364700112681
+ 
+ 
+For topic 8 word game occurred at probability of 0.06352824023094186
+For topic 8 word like occurred at probability of 0.029837547501411658
+For topic 8 word games occurred at probability of 0.018219060369186236
+For topic 8 word good occurred at probability of 0.013856055493723554
+For topic 8 word fun occurred at probability of 0.013777174352854223
+For topic 8 word play occurred at probability of 0.012444582377223581
+For topic 8 word hard occurred at probability of 0.009123955404903223
+For topic 8 word great occurred at probability of 0.008346157384938775
+For topic 8 word even occurred at probability of 0.008330305562381124
+For topic 8 word ship occurred at probability of 0.007984212420795242
+ 
+ 
+For topic 9 word game occurred at probability of 0.06406335816352608
+For topic 9 word get occurred at probability of 0.020020674246054217
+For topic 9 word ftl occurred at probability of 0.013968326823418373
+For topic 9 word fun occurred at probability of 0.012209698733687773
+For topic 9 word hours occurred at probability of 0.010963633330352456
+For topic 9 word good occurred at probability of 0.010316398733616786
+For topic 9 word played occurred at probability of 0.010307510103806254
+For topic 9 word play occurred at probability of 0.007770282106085666
+For topic 9 word dont occurred at probability of 0.0077540477691324045
+For topic 9 word would occurred at probability of 0.007231343076241891
+ 
+ 
+For topic 10 word like occurred at probability of 0.028637148775963916
+For topic 10 word fun occurred at probability of 0.019600653581470076
+For topic 10 word time occurred at probability of 0.017214713189187488
+For topic 10 word games occurred at probability of 0.014180403496229557
+For topic 10 word ftl occurred at probability of 0.014050764147992103
+For topic 10 word play occurred at probability of 0.013243036241478247
+For topic 10 word one occurred at probability of 0.012715259449384729
+For topic 10 word really occurred at probability of 0.010900172004522722
+For topic 10 word love occurred at probability of 0.010359231239029867
+For topic 10 word crew occurred at probability of 0.00994553893244474
+ 
+ 

@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.06898689743019346
+For topic 1 word telltale occurred at probability of 0.021197080562941638
+For topic 1 word great occurred at probability of 0.019178694709072054
+For topic 1 word characters occurred at probability of 0.015911445331563422
+For topic 1 word like occurred at probability of 0.015357482666257855
+For topic 1 word games occurred at probability of 0.012262101670159497
+For topic 1 word really occurred at probability of 0.01224958760878749
+For topic 1 word would occurred at probability of 0.010321040733961385
+For topic 1 word played occurred at probability of 0.009504561592898616
+For topic 1 word wolf occurred at probability of 0.007907042840551461
+ 
+ 
+For topic 2 word game occurred at probability of 0.03746530094134964
+For topic 2 word good occurred at probability of 0.02644996021687982
+For topic 2 word story occurred at probability of 0.023757203167798883
+For topic 2 word one occurred at probability of 0.01643273101948033
+For topic 2 word telltale occurred at probability of 0.015520491229485688
+For topic 2 word characters occurred at probability of 0.01418027893902921
+For topic 2 word us occurred at probability of 0.011989379565495777
+For topic 2 word wolf occurred at probability of 0.011625246768285654
+For topic 2 word time occurred at probability of 0.010004001531612983
+For topic 2 word love occurred at probability of 0.009592226612372943
+ 
+ 
+For topic 3 word story occurred at probability of 0.05580775799988303
+For topic 3 word game occurred at probability of 0.04495753882609603
+For topic 3 word one occurred at probability of 0.01798214803041788
+For topic 3 word games occurred at probability of 0.01614033429219558
+For topic 3 word walking occurred at probability of 0.01560764790806096
+For topic 3 word wolf occurred at probability of 0.013947122144994576
+For topic 3 word really occurred at probability of 0.012375896188960542
+For topic 3 word play occurred at probability of 0.011927889058450453
+For topic 3 word like occurred at probability of 0.011708664624425385
+For topic 3 word best occurred at probability of 0.010213242754591774
+ 
+ 
+For topic 4 word game occurred at probability of 0.02719370397211782
+For topic 4 word telltale occurred at probability of 0.02493718124327807
+For topic 4 word story occurred at probability of 0.02359524813781799
+For topic 4 word like occurred at probability of 0.016230265971628927
+For topic 4 word walking occurred at probability of 0.014803159780523637
+For topic 4 word episode occurred at probability of 0.013047257079296944
+For topic 4 word great occurred at probability of 0.012246082245238921
+For topic 4 word time occurred at probability of 0.009733508641504329
+For topic 4 word best occurred at probability of 0.009350764876027207
+For topic 4 word play occurred at probability of 0.009258974596148212
+ 
+ 
+For topic 5 word game occurred at probability of 0.07459110161118726
+For topic 5 word like occurred at probability of 0.01842321102755035
+For topic 5 word characters occurred at probability of 0.01608757153402666
+For topic 5 word games occurred at probability of 0.013828768165655612
+For topic 5 word great occurred at probability of 0.012577693449510253
+For topic 5 word telltale occurred at probability of 0.012515327308292341
+For topic 5 word walking occurred at probability of 0.011966504060758412
+For topic 5 word story occurred at probability of 0.011912078363513302
+For topic 5 word really occurred at probability of 0.010283478076493303
+For topic 5 word among occurred at probability of 0.009984887317073362
+ 
+ 
+For topic 6 word story occurred at probability of 0.04133193101887452
+For topic 6 word great occurred at probability of 0.022548869570683115
+For topic 6 word games occurred at probability of 0.01830634355499074
+For topic 6 word wolf occurred at probability of 0.015896195574384937
+For topic 6 word good occurred at probability of 0.012902915218582672
+For topic 6 word telltale occurred at probability of 0.012641528676279996
+For topic 6 word would occurred at probability of 0.009983588085203618
+For topic 6 word like occurred at probability of 0.009340125215448542
+For topic 6 word dead occurred at probability of 0.009328290175110946
+For topic 6 word dont occurred at probability of 0.00827231389097287
+ 
+ 
+For topic 7 word great occurred at probability of 0.02294539319940682
+For topic 7 word one occurred at probability of 0.018996278001335846
+For topic 7 word like occurred at probability of 0.017537758737297654
+For topic 7 word dead occurred at probability of 0.015113263316188078
+For topic 7 word game occurred at probability of 0.014984773562956235
+For topic 7 word episode occurred at probability of 0.01398909860431991
+For topic 7 word story occurred at probability of 0.013579519997383317
+For topic 7 word best occurred at probability of 0.011824392056605917
+For topic 7 word games occurred at probability of 0.010853511307853989
+For topic 7 word would occurred at probability of 0.010741228897296128
+ 
+ 
+For topic 8 word game occurred at probability of 0.04933730092610347
+For topic 8 word games occurred at probability of 0.017852802038343593
+For topic 8 word telltale occurred at probability of 0.017242614062445358
+For topic 8 word wolf occurred at probability of 0.017015138131889047
+For topic 8 word choices occurred at probability of 0.01257408818897501
+For topic 8 word play occurred at probability of 0.01127698490098746
+For topic 8 word us occurred at probability of 0.010490227435769935
+For topic 8 word one occurred at probability of 0.010475381717638826
+For topic 8 word among occurred at probability of 0.010126862577843997
+For topic 8 word dead occurred at probability of 0.010041759942778524
+ 
+ 
+For topic 9 word game occurred at probability of 0.053697777002393636
+For topic 9 word story occurred at probability of 0.026961036035730083
+For topic 9 word like occurred at probability of 0.01764315750885109
+For topic 9 word characters occurred at probability of 0.01335017354082402
+For topic 9 word really occurred at probability of 0.012523683602703948
+For topic 9 word good occurred at probability of 0.011985664630377832
+For topic 9 word wolf occurred at probability of 0.010879004829115942
+For topic 9 word games occurred at probability of 0.010521387621563693
+For topic 9 word choices occurred at probability of 0.010173026316220296
+For topic 9 word dead occurred at probability of 0.00928858084477419
+ 
+ 
+For topic 10 word game occurred at probability of 0.05424714953435334
+For topic 10 word good occurred at probability of 0.022020709752987335
+For topic 10 word great occurred at probability of 0.020795777700003962
+For topic 10 word one occurred at probability of 0.016432805805842443
+For topic 10 word telltale occurred at probability of 0.016192123305908464
+For topic 10 word story occurred at probability of 0.015761949998055583
+For topic 10 word games occurred at probability of 0.015727802315213094
+For topic 10 word us occurred at probability of 0.010457373067401412
+For topic 10 word love occurred at probability of 0.009415643974559797
+For topic 10 word much occurred at probability of 0.007667202909991757
+ 
+ 

@@ -1,0 +1,120 @@
+For topic 1 word knight occurred at probability of 0.02430593113559171
+For topic 1 word like occurred at probability of 0.020878358375271976
+For topic 1 word one occurred at probability of 0.01996672467067615
+For topic 1 word games occurred at probability of 0.01980119656679954
+For topic 1 word great occurred at probability of 0.019495720162426945
+For topic 1 word good occurred at probability of 0.015773696873158438
+For topic 1 word shovel occurred at probability of 0.013829991246659437
+For topic 1 word fun occurred at probability of 0.012214761202781584
+For topic 1 word gameplay occurred at probability of 0.010901865216117905
+For topic 1 word platformers occurred at probability of 0.008477863600826148
+ 
+ 
+For topic 2 word shovel occurred at probability of 0.029659791522054422
+For topic 2 word games occurred at probability of 0.02571321586587231
+For topic 2 word knight occurred at probability of 0.015765193049532143
+For topic 2 word good occurred at probability of 0.015112104303456006
+For topic 2 word one occurred at probability of 0.014116447294982362
+For topic 2 word music occurred at probability of 0.010309027784615869
+For topic 2 word get occurred at probability of 0.010228578068031288
+For topic 2 word even occurred at probability of 0.008974296383420942
+For topic 2 word controls occurred at probability of 0.008520540875199363
+For topic 2 word great occurred at probability of 0.008484919123682296
+ 
+ 
+For topic 3 word games occurred at probability of 0.027661940935494133
+For topic 3 word shovel occurred at probability of 0.021290708468043436
+For topic 3 word knight occurred at probability of 0.020008284389178052
+For topic 3 word best occurred at probability of 0.011908020231370393
+For topic 3 word good occurred at probability of 0.01190328149025231
+For topic 3 word platformer occurred at probability of 0.011053290761545865
+For topic 3 word fun occurred at probability of 0.010366747312168596
+For topic 3 word really occurred at probability of 0.010362492588491638
+For topic 3 word mega occurred at probability of 0.00836291551544374
+For topic 3 word well occurred at probability of 0.007607226880777381
+ 
+ 
+For topic 4 word games occurred at probability of 0.026419914312303883
+For topic 4 word knight occurred at probability of 0.014802198992484646
+For topic 4 word best occurred at probability of 0.014270410061142321
+For topic 4 word like occurred at probability of 0.014030063983559844
+For topic 4 word play occurred at probability of 0.012840458323113242
+For topic 4 word fun occurred at probability of 0.011065473041583583
+For topic 4 word gameplay occurred at probability of 0.010011817040885034
+For topic 4 word nes occurred at probability of 0.009623856875777655
+For topic 4 word love occurred at probability of 0.00944150315141043
+For topic 4 word platformers occurred at probability of 0.008563405571163439
+ 
+ 
+For topic 5 word shovel occurred at probability of 0.02140258473620533
+For topic 5 word like occurred at probability of 0.014970933344459687
+For topic 5 word great occurred at probability of 0.011406395990827118
+For topic 5 word good occurred at probability of 0.010194385877769725
+For topic 5 word knight occurred at probability of 0.01008703065745608
+For topic 5 word really occurred at probability of 0.009490275725383052
+For topic 5 word nes occurred at probability of 0.009413891948620827
+For topic 5 word play occurred at probability of 0.00788248915532707
+For topic 5 word old occurred at probability of 0.007533952542920621
+For topic 5 word played occurred at probability of 0.007524881441058117
+ 
+ 
+For topic 6 word one occurred at probability of 0.02187261287738428
+For topic 6 word like occurred at probability of 0.02068057267394783
+For topic 6 word fun occurred at probability of 0.013661238525529668
+For topic 6 word games occurred at probability of 0.013440191284379744
+For topic 6 word level occurred at probability of 0.00925167777239898
+For topic 6 word levels occurred at probability of 0.009097648012425828
+For topic 6 word even occurred at probability of 0.008556371832393455
+For topic 6 word get occurred at probability of 0.008438914557385904
+For topic 6 word characters occurred at probability of 0.007916957171688846
+For topic 6 word man occurred at probability of 0.007778148057274209
+ 
+ 
+For topic 7 word knight occurred at probability of 0.022142342283253867
+For topic 7 word shovel occurred at probability of 0.02166259543002164
+For topic 7 word great occurred at probability of 0.019556725765485405
+For topic 7 word good occurred at probability of 0.011820816968954047
+For topic 7 word like occurred at probability of 0.011631981730142803
+For topic 7 word play occurred at probability of 0.010398118972015853
+For topic 7 word platformer occurred at probability of 0.0090542464289295
+For topic 7 word music occurred at probability of 0.008726137224806287
+For topic 7 word one occurred at probability of 0.008700219111700429
+For topic 7 word best occurred at probability of 0.008643478068859962
+ 
+ 
+For topic 8 word knight occurred at probability of 0.022832263447496334
+For topic 8 word shovel occurred at probability of 0.020110038266743728
+For topic 8 word games occurred at probability of 0.019169163216524204
+For topic 8 word like occurred at probability of 0.01484515620139556
+For topic 8 word great occurred at probability of 0.012358153587427199
+For topic 8 word really occurred at probability of 0.01169530207282299
+For topic 8 word fun occurred at probability of 0.010984123935391074
+For topic 8 word music occurred at probability of 0.009141906470989987
+For topic 8 word good occurred at probability of 0.00848691351885908
+For topic 8 word amazing occurred at probability of 0.008085282241695668
+ 
+ 
+For topic 9 word shovel occurred at probability of 0.017637278391320045
+For topic 9 word good occurred at probability of 0.01674786752437305
+For topic 9 word knight occurred at probability of 0.01564841013709194
+For topic 9 word like occurred at probability of 0.01481289255706243
+For topic 9 word really occurred at probability of 0.01249215152563535
+For topic 9 word great occurred at probability of 0.012434200269369934
+For topic 9 word amazing occurred at probability of 0.01084152172495865
+For topic 9 word fun occurred at probability of 0.008702579747912515
+For topic 9 word games occurred at probability of 0.00848021097701411
+For topic 9 word nes occurred at probability of 0.008453799997728694
+ 
+ 
+For topic 10 word knight occurred at probability of 0.02085025600055704
+For topic 10 word one occurred at probability of 0.02041550718094513
+For topic 10 word like occurred at probability of 0.016049808240284485
+For topic 10 word play occurred at probability of 0.013080299573293545
+For topic 10 word great occurred at probability of 0.012724753167544994
+For topic 10 word really occurred at probability of 0.010529489794859185
+For topic 10 word amazing occurred at probability of 0.009564330201260242
+For topic 10 word fun occurred at probability of 0.008965682702669082
+For topic 10 word best occurred at probability of 0.008632697668662499
+For topic 10 word get occurred at probability of 0.008493368274513979
+ 
+ 

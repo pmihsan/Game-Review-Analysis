@@ -1,0 +1,120 @@
+For topic 1 word kill occurred at probability of 0.009457111392477787
+For topic 1 word take occurred at probability of 0.008901631341168524
+For topic 1 word ive occurred at probability of 0.0075411337950035545
+For topic 1 word bought occurred at probability of 0.00460287763173279
+For topic 1 word bottle occurred at probability of 0.004365217473521188
+For topic 1 word main occurred at probability of 0.00430760373042207
+For topic 1 word times occurred at probability of 0.004223504846258216
+For topic 1 word especially occurred at probability of 0.0039830261549246085
+For topic 1 word try occurred at probability of 0.0036875449500299363
+For topic 1 word content occurred at probability of 0.003676538873055472
+ 
+ 
+For topic 2 word kill occurred at probability of 0.007235596447189034
+For topic 2 word going occurred at probability of 0.0051385236579967455
+For topic 2 word wont occurred at probability of 0.005115635919220797
+For topic 2 word bought occurred at probability of 0.00493739022862785
+For topic 2 word times occurred at probability of 0.004818333237732596
+For topic 2 word thing occurred at probability of 0.004710497938681398
+For topic 2 word amazing occurred at probability of 0.004422634055003558
+For topic 2 word run occurred at probability of 0.004217371646882432
+For topic 2 word rum occurred at probability of 0.004139329253001281
+For topic 2 word done occurred at probability of 0.004090846723354022
+ 
+ 
+For topic 3 word take occurred at probability of 0.007278831802154317
+For topic 3 word kill occurred at probability of 0.004974440001344762
+For topic 3 word wont occurred at probability of 0.004872301591075141
+For topic 3 word rum occurred at probability of 0.0046585951353019725
+For topic 3 word wait occurred at probability of 0.004589032484891037
+For topic 3 word different occurred at probability of 0.0043763180418038795
+For topic 3 word small occurred at probability of 0.004132992336787862
+For topic 3 word die occurred at probability of 0.00409634051427291
+For topic 3 word loading occurred at probability of 0.003821480127721484
+For topic 3 word leave occurred at probability of 0.0036932925593020707
+ 
+ 
+For topic 4 word kill occurred at probability of 0.0048623368955602935
+For topic 4 word enjoy occurred at probability of 0.004701960348217246
+For topic 4 word thieves occurred at probability of 0.004268005409054226
+For topic 4 word loading occurred at probability of 0.004255351601468009
+For topic 4 word small occurred at probability of 0.004098099894766063
+For topic 4 word board occurred at probability of 0.0038964998907337245
+For topic 4 word since occurred at probability of 0.0037811041811049643
+For topic 4 word mic occurred at probability of 0.0037196578042372817
+For topic 4 word melee occurred at probability of 0.0035980408205325744
+For topic 4 word shoot occurred at probability of 0.0035630355277902494
+ 
+ 
+For topic 5 word another occurred at probability of 0.005225843427184012
+For topic 5 word rum occurred at probability of 0.005220268037792063
+For topic 5 word youll occurred at probability of 0.004658470171297074
+For topic 5 word small occurred at probability of 0.0044253694847223
+For topic 5 word thing occurred at probability of 0.004272018490265722
+For topic 5 word needs occurred at probability of 0.004241965696845121
+For topic 5 word board occurred at probability of 0.004186749449964138
+For topic 5 word wont occurred at probability of 0.004073976589670569
+For topic 5 word always occurred at probability of 0.0036392587443433754
+For topic 5 word stop occurred at probability of 0.0034493631394081135
+ 
+ 
+For topic 6 word take occurred at probability of 0.008899357998975925
+For topic 6 word ive occurred at probability of 0.00580854514946268
+For topic 6 word bottle occurred at probability of 0.004733292434708665
+For topic 6 word die occurred at probability of 0.00446958485795925
+For topic 6 word since occurred at probability of 0.0041707500741883325
+For topic 6 word run occurred at probability of 0.004063301278150991
+For topic 6 word wait occurred at probability of 0.003962719475367935
+For topic 6 word amazing occurred at probability of 0.0037931755958252617
+For topic 6 word needs occurred at probability of 0.0037334360958115476
+For topic 6 word shoot occurred at probability of 0.00363651228607706
+ 
+ 
+For topic 7 word ive occurred at probability of 0.005713846652524306
+For topic 7 word going occurred at probability of 0.0053199424026602205
+For topic 7 word different occurred at probability of 0.005047712529597329
+For topic 7 word die occurred at probability of 0.004667666395917869
+For topic 7 word rum occurred at probability of 0.004521709541439721
+For topic 7 word sure occurred at probability of 0.004376514630450686
+For topic 7 word done occurred at probability of 0.004310861348334881
+For topic 7 word leave occurred at probability of 0.004250604154288643
+For topic 7 word price occurred at probability of 0.004184771373892987
+For topic 7 word mic occurred at probability of 0.004167461523578482
+ 
+ 
+For topic 8 word ive occurred at probability of 0.009666004104105688
+For topic 8 word bought occurred at probability of 0.006314665912040727
+For topic 8 word take occurred at probability of 0.006281555255401498
+For topic 8 word rum occurred at probability of 0.005697275355132768
+For topic 8 word going occurred at probability of 0.004651970547523007
+For topic 8 word done occurred at probability of 0.004359844480474065
+For topic 8 word tell occurred at probability of 0.004149669563009369
+For topic 8 word ye occurred at probability of 0.004076073418393444
+For topic 8 word small occurred at probability of 0.0040070365460817495
+For topic 8 word youll occurred at probability of 0.003962839170421017
+ 
+ 
+For topic 9 word kill occurred at probability of 0.009204466715957385
+For topic 9 word ive occurred at probability of 0.007426369718750467
+For topic 9 word thieves occurred at probability of 0.0053945662360607065
+For topic 9 word die occurred at probability of 0.00501179630553938
+For topic 9 word another occurred at probability of 0.004901777748118683
+For topic 9 word going occurred at probability of 0.004870652971646668
+For topic 9 word loading occurred at probability of 0.004698914289072649
+For topic 9 word board occurred at probability of 0.003927928749902164
+For topic 9 word ye occurred at probability of 0.0038684855879870046
+For topic 9 word shoot occurred at probability of 0.003788135236180897
+ 
+ 
+For topic 10 word take occurred at probability of 0.00824043265114745
+For topic 10 word kill occurred at probability of 0.00661857302164982
+For topic 10 word amazing occurred at probability of 0.004880043435110063
+For topic 10 word ive occurred at probability of 0.0045871143350140415
+For topic 10 word waste occurred at probability of 0.00406505605612545
+For topic 10 word thieves occurred at probability of 0.004064164876408058
+For topic 10 word price occurred at probability of 0.0038805167700517542
+For topic 10 word done occurred at probability of 0.0035668715394555324
+For topic 10 word different occurred at probability of 0.0034377033868899847
+For topic 10 word always occurred at probability of 0.003412917272457914
+ 
+ 

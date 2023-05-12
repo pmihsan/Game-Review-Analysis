@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.04428368023838937
+For topic 1 word good occurred at probability of 0.021490472780464155
+For topic 1 word like occurred at probability of 0.015237201149668242
+For topic 1 word combat occurred at probability of 0.013765811557852907
+For topic 1 word vampire occurred at probability of 0.013043481477622626
+For topic 1 word make occurred at probability of 0.011203922732595788
+For topic 1 word one occurred at probability of 0.01000425277373735
+For topic 1 word way occurred at probability of 0.007914246910424753
+For topic 1 word well occurred at probability of 0.0070110369019293845
+For topic 1 word vampyr occurred at probability of 0.0069327076992106934
+ 
+ 
+For topic 2 word game occurred at probability of 0.0451695407589588
+For topic 2 word good occurred at probability of 0.011400216792731541
+For topic 2 word get occurred at probability of 0.009972502178514227
+For topic 2 word vampire occurred at probability of 0.00990365225848934
+For topic 2 word choices occurred at probability of 0.009849097704663348
+For topic 2 word great occurred at probability of 0.009820447786442787
+For topic 2 word make occurred at probability of 0.008405335142485848
+For topic 2 word characters occurred at probability of 0.007404684685108113
+For topic 2 word like occurred at probability of 0.007236920392368972
+For topic 2 word dont occurred at probability of 0.007180418858481413
+ 
+ 
+For topic 3 word story occurred at probability of 0.023931314259147976
+For topic 3 word game occurred at probability of 0.019556491079047677
+For topic 3 word really occurred at probability of 0.01845867030902176
+For topic 3 word great occurred at probability of 0.010336980578602502
+For topic 3 word get occurred at probability of 0.009214460240892492
+For topic 3 word one occurred at probability of 0.008718098827775212
+For topic 3 word dont occurred at probability of 0.006857533485812839
+For topic 3 word people occurred at probability of 0.006625453726686568
+For topic 3 word feel occurred at probability of 0.006557802702195374
+For topic 3 word much occurred at probability of 0.00651449993180145
+ 
+ 
+For topic 4 word game occurred at probability of 0.036475132465171235
+For topic 4 word like occurred at probability of 0.019597268586281035
+For topic 4 word story occurred at probability of 0.01954574450887329
+For topic 4 word combat occurred at probability of 0.016810030619086893
+For topic 4 word good occurred at probability of 0.016160889920363936
+For topic 4 word one occurred at probability of 0.010079664468328517
+For topic 4 word characters occurred at probability of 0.00931194046512898
+For topic 4 word people occurred at probability of 0.008017301006649146
+For topic 4 word games occurred at probability of 0.007741036528472771
+For topic 4 word dont occurred at probability of 0.007325934197701877
+ 
+ 
+For topic 5 word game occurred at probability of 0.0325234512161966
+For topic 5 word like occurred at probability of 0.01898602085936886
+For topic 5 word story occurred at probability of 0.01783859702356737
+For topic 5 word combat occurred at probability of 0.017597142075667132
+For topic 5 word good occurred at probability of 0.014779095892402646
+For topic 5 word really occurred at probability of 0.01336806945093697
+For topic 5 word great occurred at probability of 0.012578967783997143
+For topic 5 word vampire occurred at probability of 0.009923240335947494
+For topic 5 word would occurred at probability of 0.0062555550090242
+For topic 5 word playing occurred at probability of 0.006170424716592515
+ 
+ 
+For topic 6 word game occurred at probability of 0.0465827418835978
+For topic 6 word story occurred at probability of 0.025004076689710955
+For topic 6 word like occurred at probability of 0.01988252513603148
+For topic 6 word really occurred at probability of 0.016721565145238145
+For topic 6 word combat occurred at probability of 0.015762849917234933
+For topic 6 word time occurred at probability of 0.008558684672183561
+For topic 6 word play occurred at probability of 0.008331445270941843
+For topic 6 word great occurred at probability of 0.00818598604077989
+For topic 6 word vampire occurred at probability of 0.007516664870290218
+For topic 6 word good occurred at probability of 0.00691086920571551
+ 
+ 
+For topic 7 word game occurred at probability of 0.04057366525010267
+For topic 7 word would occurred at probability of 0.013293735942359578
+For topic 7 word like occurred at probability of 0.012599745891071046
+For topic 7 word good occurred at probability of 0.012220559596689329
+For topic 7 word story occurred at probability of 0.011368321316259035
+For topic 7 word play occurred at probability of 0.00908674766430753
+For topic 7 word interesting occurred at probability of 0.008275514754080374
+For topic 7 word games occurred at probability of 0.00823713205491811
+For topic 7 word great occurred at probability of 0.007648739095437467
+For topic 7 word get occurred at probability of 0.007639124254687904
+ 
+ 
+For topic 8 word game occurred at probability of 0.06418239864350424
+For topic 8 word good occurred at probability of 0.01827625746885197
+For topic 8 word combat occurred at probability of 0.015583022049251372
+For topic 8 word like occurred at probability of 0.014012997435020512
+For topic 8 word vampire occurred at probability of 0.011710762909239208
+For topic 8 word time occurred at probability of 0.010334380411534673
+For topic 8 word get occurred at probability of 0.008966913351338916
+For topic 8 word play occurred at probability of 0.007854362492909613
+For topic 8 word people occurred at probability of 0.007178515101607273
+For topic 8 word fun occurred at probability of 0.006912930559419988
+ 
+ 
+For topic 9 word game occurred at probability of 0.04757841584577841
+For topic 9 word really occurred at probability of 0.017337692408293463
+For topic 9 word like occurred at probability of 0.011390398334069234
+For topic 9 word one occurred at probability of 0.009401844289175582
+For topic 9 word story occurred at probability of 0.008999869967932445
+For topic 9 word games occurred at probability of 0.008805906040365042
+For topic 9 word way occurred at probability of 0.00792249403317768
+For topic 9 word would occurred at probability of 0.007743461313049287
+For topic 9 word make occurred at probability of 0.007358975264869549
+For topic 9 word fun occurred at probability of 0.007344765230733389
+ 
+ 
+For topic 10 word game occurred at probability of 0.06038867813341409
+For topic 10 word story occurred at probability of 0.02598269801911573
+For topic 10 word combat occurred at probability of 0.014267912551798727
+For topic 10 word great occurred at probability of 0.012431267395293514
+For topic 10 word good occurred at probability of 0.012140305578636408
+For topic 10 word vampire occurred at probability of 0.009465561422144393
+For topic 10 word bit occurred at probability of 0.009047610151100484
+For topic 10 word interesting occurred at probability of 0.007857550428929072
+For topic 10 word would occurred at probability of 0.007851625969986247
+For topic 10 word really occurred at probability of 0.007548350479736022
+ 
+ 

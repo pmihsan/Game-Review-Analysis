@@ -1,0 +1,120 @@
+For topic 1 word play occurred at probability of 0.015879615577229278
+For topic 1 word horror occurred at probability of 0.011179317496754174
+For topic 1 word dont occurred at probability of 0.0107046736287658
+For topic 1 word played occurred at probability of 0.010538398402759863
+For topic 1 word scared occurred at probability of 0.009885268390243767
+For topic 1 word would occurred at probability of 0.009861813808919038
+For topic 1 word games occurred at probability of 0.009718805178481697
+For topic 1 word one occurred at probability of 0.009588195330662536
+For topic 1 word really occurred at probability of 0.00924378665054459
+For topic 1 word playing occurred at probability of 0.008032903252088197
+ 
+ 
+For topic 2 word scary occurred at probability of 0.02050848362115597
+For topic 2 word horror occurred at probability of 0.01782501816999166
+For topic 2 word shit occurred at probability of 0.016504214858994844
+For topic 2 word dont occurred at probability of 0.012534544360563683
+For topic 2 word games occurred at probability of 0.00934582759537117
+For topic 2 word nope occurred at probability of 0.009302238960088097
+For topic 2 word like occurred at probability of 0.009237279709505587
+For topic 2 word good occurred at probability of 0.008820603269004735
+For topic 2 word scared occurred at probability of 0.008505255304937146
+For topic 2 word story occurred at probability of 0.007848531359583027
+ 
+ 
+For topic 3 word play occurred at probability of 0.025939529256154337
+For topic 3 word outlast occurred at probability of 0.017210001687492316
+For topic 3 word scary occurred at probability of 0.016422524667677435
+For topic 3 word nope occurred at probability of 0.01638678050049287
+For topic 3 word horror occurred at probability of 0.015206551385735635
+For topic 3 word scared occurred at probability of 0.012444038727033147
+For topic 3 word one occurred at probability of 0.010635789655613698
+For topic 3 word dont occurred at probability of 0.009157344442128759
+For topic 3 word shit occurred at probability of 0.008902527125644415
+For topic 3 word time occurred at probability of 0.007614486359711287
+ 
+ 
+For topic 4 word horror occurred at probability of 0.015290030412866716
+For topic 4 word play occurred at probability of 0.012937925542427203
+For topic 4 word games occurred at probability of 0.012448576373544571
+For topic 4 word would occurred at probability of 0.011253308074638247
+For topic 4 word even occurred at probability of 0.010198937013227221
+For topic 4 word outlast occurred at probability of 0.009687677937404325
+For topic 4 word get occurred at probability of 0.009153663411955781
+For topic 4 word like occurred at probability of 0.008553883886200904
+For topic 4 word good occurred at probability of 0.008003254606737094
+For topic 4 word way occurred at probability of 0.00709643844324625
+ 
+ 
+For topic 5 word nope occurred at probability of 0.018148195275646747
+For topic 5 word scary occurred at probability of 0.017032790761748365
+For topic 5 word even occurred at probability of 0.012908944859146246
+For topic 5 word one occurred at probability of 0.011780163448791462
+For topic 5 word played occurred at probability of 0.009791350819428103
+For topic 5 word horror occurred at probability of 0.009676813232803276
+For topic 5 word play occurred at probability of 0.00909304370394794
+For topic 5 word get occurred at probability of 0.008740240151129135
+For topic 5 word well occurred at probability of 0.0072520060203511314
+For topic 5 word shit occurred at probability of 0.007058937705366771
+ 
+ 
+For topic 6 word scary occurred at probability of 0.03675911886895915
+For topic 6 word horror occurred at probability of 0.016163496138597612
+For topic 6 word shit occurred at probability of 0.014836767540079097
+For topic 6 word one occurred at probability of 0.009969725970291263
+For topic 6 word really occurred at probability of 0.009239739497482299
+For topic 6 word playing occurred at probability of 0.008542127711976745
+For topic 6 word like occurred at probability of 0.00839096272736786
+For topic 6 word get occurred at probability of 0.008380180736675773
+For topic 6 word first occurred at probability of 0.007954976378659412
+For topic 6 word played occurred at probability of 0.0078072979913693455
+ 
+ 
+For topic 7 word horror occurred at probability of 0.01478107559184159
+For topic 7 word games occurred at probability of 0.013882847340875085
+For topic 7 word really occurred at probability of 0.012569127909534732
+For topic 7 word outlast occurred at probability of 0.010165688065822496
+For topic 7 word play occurred at probability of 0.008840105788378455
+For topic 7 word get occurred at probability of 0.00864833665463236
+For topic 7 word scary occurred at probability of 0.00821218574075753
+For topic 7 word scare occurred at probability of 0.007422693720572785
+For topic 7 word much occurred at probability of 0.007285421845623342
+For topic 7 word one occurred at probability of 0.00656129783362872
+ 
+ 
+For topic 8 word scary occurred at probability of 0.028803906493472593
+For topic 8 word horror occurred at probability of 0.012268809530062591
+For topic 8 word nope occurred at probability of 0.011887735663865879
+For topic 8 word scared occurred at probability of 0.01138776198547981
+For topic 8 word would occurred at probability of 0.008610719305441676
+For topic 8 word shit occurred at probability of 0.008444749657489701
+For topic 8 word played occurred at probability of 0.008029882655594426
+For topic 8 word play occurred at probability of 0.00707867249809271
+For topic 8 word time occurred at probability of 0.006869160331197222
+For topic 8 word made occurred at probability of 0.006841517900679961
+ 
+ 
+For topic 9 word scared occurred at probability of 0.01211134370630058
+For topic 9 word really occurred at probability of 0.011018829046709302
+For topic 9 word nope occurred at probability of 0.010271212652247737
+For topic 9 word horror occurred at probability of 0.010127663025951167
+For topic 9 word playing occurred at probability of 0.009421475697992836
+For topic 9 word like occurred at probability of 0.00906379299098461
+For topic 9 word would occurred at probability of 0.00841815732688523
+For topic 9 word way occurred at probability of 0.007824300866333213
+For topic 9 word get occurred at probability of 0.007681474317329456
+For topic 9 word jump occurred at probability of 0.0075529361150917015
+ 
+ 
+For topic 10 word scary occurred at probability of 0.021241378451245393
+For topic 10 word outlast occurred at probability of 0.014353334787991924
+For topic 10 word play occurred at probability of 0.012494094050124274
+For topic 10 word scared occurred at probability of 0.009917481204071571
+For topic 10 word scare occurred at probability of 0.009686389998966222
+For topic 10 word first occurred at probability of 0.008640795488460857
+For topic 10 word like occurred at probability of 0.008430168518525918
+For topic 10 word story occurred at probability of 0.008191172683967957
+For topic 10 word good occurred at probability of 0.008049141747332011
+For topic 10 word much occurred at probability of 0.007086489837084077
+ 
+ 

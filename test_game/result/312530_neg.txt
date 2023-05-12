@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.054465011373422835
+For topic 1 word get occurred at probability of 0.015498272118786452
+For topic 1 word quack occurred at probability of 0.013445536307025843
+For topic 1 word kill occurred at probability of 0.011909978157084345
+For topic 1 word fucking occurred at probability of 0.01026151653427358
+For topic 1 word duck occurred at probability of 0.010170584115435713
+For topic 1 word like occurred at probability of 0.008769330796416109
+For topic 1 word one occurred at probability of 0.008655674256138836
+For topic 1 word playing occurred at probability of 0.007970258277519012
+For topic 1 word time occurred at probability of 0.007956773065699146
+ 
+ 
+For topic 2 word game occurred at probability of 0.10095040781849726
+For topic 2 word ducks occurred at probability of 0.024464731687289496
+For topic 2 word bark occurred at probability of 0.01939588491923938
+For topic 2 word duck occurred at probability of 0.011480809515841931
+For topic 2 word fun occurred at probability of 0.010648386446821891
+For topic 2 word get occurred at probability of 0.009511029543865752
+For topic 2 word hours occurred at probability of 0.009405992943193362
+For topic 2 word buy occurred at probability of 0.009039019173692087
+For topic 2 word make occurred at probability of 0.008209800596844929
+For topic 2 word friend occurred at probability of 0.008085620197782748
+ 
+ 
+For topic 3 word game occurred at probability of 0.09458912501874789
+For topic 3 word duck occurred at probability of 0.04136692393387125
+For topic 3 word quack occurred at probability of 0.022244196005047973
+For topic 3 word get occurred at probability of 0.014690718329705256
+For topic 3 word kill occurred at probability of 0.013942990751685777
+For topic 3 word one occurred at probability of 0.012156450895123095
+For topic 3 word would occurred at probability of 0.010212761802862305
+For topic 3 word fun occurred at probability of 0.009741945131977426
+For topic 3 word shit occurred at probability of 0.008598981205897098
+For topic 3 word like occurred at probability of 0.007091727662018492
+ 
+ 
+For topic 4 word duck occurred at probability of 0.03405096081910512
+For topic 4 word quack occurred at probability of 0.025431295109138156
+For topic 4 word game occurred at probability of 0.017321745987143044
+For topic 4 word get occurred at probability of 0.01582921736873173
+For topic 4 word would occurred at probability of 0.013573707840079791
+For topic 4 word bark occurred at probability of 0.013039078008410972
+For topic 4 word ducks occurred at probability of 0.011771345619225375
+For topic 4 word bad occurred at probability of 0.008813140529390494
+For topic 4 word fucking occurred at probability of 0.008207288681007499
+For topic 4 word shit occurred at probability of 0.008106282822069835
+ 
+ 
+For topic 5 word would occurred at probability of 0.01672235482012789
+For topic 5 word game occurred at probability of 0.011558150938394985
+For topic 5 word great occurred at probability of 0.011384408237223647
+For topic 5 word get occurred at probability of 0.010206633046303865
+For topic 5 word hours occurred at probability of 0.009503809327741287
+For topic 5 word good occurred at probability of 0.00790913635012447
+For topic 5 word really occurred at probability of 0.007553765493239466
+For topic 5 word guns occurred at probability of 0.007272181815136863
+For topic 5 word people occurred at probability of 0.007226210702723919
+For topic 5 word shit occurred at probability of 0.007168249830309077
+ 
+ 
+For topic 6 word game occurred at probability of 0.07893878234513586
+For topic 6 word duck occurred at probability of 0.01632598232893853
+For topic 6 word bark occurred at probability of 0.013431477253014556
+For topic 6 word kill occurred at probability of 0.011116947216174811
+For topic 6 word ducks occurred at probability of 0.011033712633838587
+For topic 6 word shit occurred at probability of 0.009748226175636622
+For topic 6 word fucking occurred at probability of 0.009112314295274758
+For topic 6 word fun occurred at probability of 0.00847317333747033
+For topic 6 word fuck occurred at probability of 0.008304313446149963
+For topic 6 word friend occurred at probability of 0.00814108727783602
+ 
+ 
+For topic 7 word quack occurred at probability of 0.03623518312013899
+For topic 7 word game occurred at probability of 0.026944274977765147
+For topic 7 word duck occurred at probability of 0.0251431403335282
+For topic 7 word get occurred at probability of 0.016809217048914315
+For topic 7 word fun occurred at probability of 0.01616595278197965
+For topic 7 word ducks occurred at probability of 0.01511201602312908
+For topic 7 word make occurred at probability of 0.014375523665380951
+For topic 7 word good occurred at probability of 0.012959125427440644
+For topic 7 word time occurred at probability of 0.009894732462064635
+For topic 7 word one occurred at probability of 0.009427129572722197
+ 
+ 
+For topic 8 word game occurred at probability of 0.0725948200543893
+For topic 8 word quack occurred at probability of 0.03781052305937896
+For topic 8 word ducks occurred at probability of 0.026377762155612126
+For topic 8 word one occurred at probability of 0.013869015876670193
+For topic 8 word fun occurred at probability of 0.011404094508456645
+For topic 8 word get occurred at probability of 0.010918196806803364
+For topic 8 word great occurred at probability of 0.008856957640975391
+For topic 8 word buy occurred at probability of 0.007750354559922652
+For topic 8 word gun occurred at probability of 0.007500397356572579
+For topic 8 word bark occurred at probability of 0.007451688498364949
+ 
+ 
+For topic 9 word game occurred at probability of 0.045347662988370556
+For topic 9 word quack occurred at probability of 0.032880212163608966
+For topic 9 word duck occurred at probability of 0.021261810521758517
+For topic 9 word ducks occurred at probability of 0.018894389051935797
+For topic 9 word would occurred at probability of 0.01692882695132129
+For topic 9 word fun occurred at probability of 0.01686467097243335
+For topic 9 word kill occurred at probability of 0.013035656301050452
+For topic 9 word great occurred at probability of 0.011260417742791571
+For topic 9 word good occurred at probability of 0.011083048063274174
+For topic 9 word shoot occurred at probability of 0.0071321254242309225
+ 
+ 
+For topic 10 word duck occurred at probability of 0.04244514460131555
+For topic 10 word ducks occurred at probability of 0.028100927952476658
+For topic 10 word bark occurred at probability of 0.023696663795743533
+For topic 10 word fun occurred at probability of 0.01597913046590693
+For topic 10 word get occurred at probability of 0.01318701621449718
+For topic 10 word would occurred at probability of 0.010324544092993741
+For topic 10 word one occurred at probability of 0.01010915617566591
+For topic 10 word like occurred at probability of 0.010014307227830204
+For topic 10 word quack occurred at probability of 0.00972276933914279
+For topic 10 word time occurred at probability of 0.008785367373257436
+ 
+ 

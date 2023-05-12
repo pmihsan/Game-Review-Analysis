@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.04250471919547469
+For topic 1 word tomb occurred at probability of 0.01703975256970113
+For topic 1 word like occurred at probability of 0.011105363226683554
+For topic 1 word lara occurred at probability of 0.01106567381129299
+For topic 1 word one occurred at probability of 0.01050642977994822
+For topic 1 word would occurred at probability of 0.0076617652114724585
+For topic 1 word games occurred at probability of 0.007647851780542336
+For topic 1 word good occurred at probability of 0.007397850500485444
+For topic 1 word even occurred at probability of 0.007144363217425456
+For topic 1 word dont occurred at probability of 0.006786615455505223
+ 
+ 
+For topic 2 word story occurred at probability of 0.015846339097678838
+For topic 2 word time occurred at probability of 0.010150158401468263
+For topic 2 word tomb occurred at probability of 0.01007850722103336
+For topic 2 word bad occurred at probability of 0.009170280874839702
+For topic 2 word get occurred at probability of 0.008875732816624895
+For topic 2 word hours occurred at probability of 0.007531049178057445
+For topic 2 word end occurred at probability of 0.007467938162936037
+For topic 2 word gameplay occurred at probability of 0.006924618725470372
+For topic 2 word im occurred at probability of 0.0064668292189216285
+For topic 2 word great occurred at probability of 0.0064122577584048625
+ 
+ 
+For topic 3 word game occurred at probability of 0.04787978344908201
+For topic 3 word raider occurred at probability of 0.012229786378548343
+For topic 3 word story occurred at probability of 0.01067940562633442
+For topic 3 word even occurred at probability of 0.010371849963732409
+For topic 3 word graphics occurred at probability of 0.009623139902731257
+For topic 3 word first occurred at probability of 0.0076152281457944
+For topic 3 word like occurred at probability of 0.006453337800293952
+For topic 3 word much occurred at probability of 0.006346925151332482
+For topic 3 word im occurred at probability of 0.0056625335223110355
+For topic 3 word really occurred at probability of 0.005660422014722215
+ 
+ 
+For topic 4 word game occurred at probability of 0.026119451644887083
+For topic 4 word tomb occurred at probability of 0.017744687100220587
+For topic 4 word raider occurred at probability of 0.012367228958899024
+For topic 4 word time occurred at probability of 0.010735908273716096
+For topic 4 word story occurred at probability of 0.010596362198066443
+For topic 4 word lara occurred at probability of 0.010175843930896348
+For topic 4 word get occurred at probability of 0.010157559534261984
+For topic 4 word one occurred at probability of 0.0077734132915679155
+For topic 4 word bad occurred at probability of 0.007040210336849848
+For topic 4 word first occurred at probability of 0.0066599926759855765
+ 
+ 
+For topic 5 word game occurred at probability of 0.05758449555301665
+For topic 5 word good occurred at probability of 0.012988269310641573
+For topic 5 word get occurred at probability of 0.011180976465505239
+For topic 5 word lara occurred at probability of 0.010106822828190119
+For topic 5 word one occurred at probability of 0.009655943813214645
+For topic 5 word really occurred at probability of 0.00909174750529249
+For topic 5 word story occurred at probability of 0.008671384899518058
+For topic 5 word first occurred at probability of 0.007014066334949592
+For topic 5 word well occurred at probability of 0.006862478910720208
+For topic 5 word time occurred at probability of 0.006575959267792093
+ 
+ 
+For topic 6 word game occurred at probability of 0.05678778832875622
+For topic 6 word story occurred at probability of 0.014172380870198625
+For topic 6 word lara occurred at probability of 0.01349510472060387
+For topic 6 word bad occurred at probability of 0.01299691034698742
+For topic 6 word raider occurred at probability of 0.01180504404664677
+For topic 6 word tomb occurred at probability of 0.011526656440244781
+For topic 6 word like occurred at probability of 0.01024766515579251
+For topic 6 word really occurred at probability of 0.009174664087936046
+For topic 6 word graphics occurred at probability of 0.00885652572758792
+For topic 6 word make occurred at probability of 0.00754503740018386
+ 
+ 
+For topic 7 word game occurred at probability of 0.02843317492990461
+For topic 7 word tomb occurred at probability of 0.017118053649115277
+For topic 7 word story occurred at probability of 0.016396808773422526
+For topic 7 word play occurred at probability of 0.01391098056866551
+For topic 7 word get occurred at probability of 0.0122549331516137
+For topic 7 word time occurred at probability of 0.011115024242735418
+For topic 7 word raider occurred at probability of 0.010348376581362862
+For topic 7 word even occurred at probability of 0.010212059484335435
+For topic 7 word bad occurred at probability of 0.00968185272517698
+For topic 7 word games occurred at probability of 0.008286124131876698
+ 
+ 
+For topic 8 word game occurred at probability of 0.06073493108599519
+For topic 8 word one occurred at probability of 0.0125990474244157
+For topic 8 word tomb occurred at probability of 0.011397979832655331
+For topic 8 word time occurred at probability of 0.0090448753459415
+For topic 8 word would occurred at probability of 0.008031447382508229
+For topic 8 word really occurred at probability of 0.007877215193255249
+For topic 8 word like occurred at probability of 0.007519870387986976
+For topic 8 word played occurred at probability of 0.007377848973143951
+For topic 8 word dont occurred at probability of 0.007109233109783124
+For topic 8 word gameplay occurred at probability of 0.006854886558295729
+ 
+ 
+For topic 9 word game occurred at probability of 0.039964578588871064
+For topic 9 word story occurred at probability of 0.015972835773293947
+For topic 9 word one occurred at probability of 0.014048041110131007
+For topic 9 word bad occurred at probability of 0.013544635844828026
+For topic 9 word raider occurred at probability of 0.010454512633452068
+For topic 9 word play occurred at probability of 0.010040529210033572
+For topic 9 word get occurred at probability of 0.009378859278872357
+For topic 9 word hours occurred at probability of 0.009324635932659793
+For topic 9 word games occurred at probability of 0.009024620365884316
+For topic 9 word good occurred at probability of 0.008242905556771256
+ 
+ 
+For topic 10 word game occurred at probability of 0.028358361681898613
+For topic 10 word tomb occurred at probability of 0.015937231066651333
+For topic 10 word lara occurred at probability of 0.014305590429878997
+For topic 10 word play occurred at probability of 0.013117376719999956
+For topic 10 word one occurred at probability of 0.00956562780407968
+For topic 10 word games occurred at probability of 0.00941212887718513
+For topic 10 word would occurred at probability of 0.009353384222368803
+For topic 10 word really occurred at probability of 0.008248420043351528
+For topic 10 word dont occurred at probability of 0.008038469924702862
+For topic 10 word raider occurred at probability of 0.007716080811462771
+ 
+ 

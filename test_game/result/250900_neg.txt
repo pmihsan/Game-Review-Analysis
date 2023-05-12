@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.03229400322218008
+For topic 1 word get occurred at probability of 0.01866433211196923
+For topic 1 word items occurred at probability of 0.016088586108615764
+For topic 1 word play occurred at probability of 0.012417827579971412
+For topic 1 word hours occurred at probability of 0.011269329008689922
+For topic 1 word isaac occurred at probability of 0.010731385781509013
+For topic 1 word run occurred at probability of 0.0079349286546042
+For topic 1 word bad occurred at probability of 0.007568895049302649
+For topic 1 word much occurred at probability of 0.00755373910168348
+For topic 1 word still occurred at probability of 0.0075239502021119346
+ 
+ 
+For topic 2 word items occurred at probability of 0.019378869428665367
+For topic 2 word game occurred at probability of 0.0189153806101384
+For topic 2 word would occurred at probability of 0.014924631508642892
+For topic 2 word time occurred at probability of 0.012815690676583169
+For topic 2 word one occurred at probability of 0.010903141023560513
+For topic 2 word play occurred at probability of 0.009982011318956483
+For topic 2 word like occurred at probability of 0.009855740822430487
+For topic 2 word die occurred at probability of 0.009126092705630869
+For topic 2 word played occurred at probability of 0.00908720966560264
+For topic 2 word dont occurred at probability of 0.008190344388239956
+ 
+ 
+For topic 3 word get occurred at probability of 0.015664766041480104
+For topic 3 word items occurred at probability of 0.01535286964282724
+For topic 3 word fun occurred at probability of 0.009081348603142345
+For topic 3 word games occurred at probability of 0.009053987274481706
+For topic 3 word game occurred at probability of 0.008703040211862016
+For topic 3 word played occurred at probability of 0.008541409692865943
+For topic 3 word play occurred at probability of 0.008401502340070343
+For topic 3 word kill occurred at probability of 0.008360685418018828
+For topic 3 word isaac occurred at probability of 0.008067141489772766
+For topic 3 word time occurred at probability of 0.007970697175788724
+ 
+ 
+For topic 4 word game occurred at probability of 0.03559648182087413
+For topic 4 word hours occurred at probability of 0.015199183267257574
+For topic 4 word one occurred at probability of 0.01441103472346814
+For topic 4 word play occurred at probability of 0.01333703520700418
+For topic 4 word like occurred at probability of 0.012528812830319001
+For topic 4 word kill occurred at probability of 0.011547843715337626
+For topic 4 word get occurred at probability of 0.011225142391990068
+For topic 4 word fun occurred at probability of 0.010107473743198592
+For topic 4 word cry occurred at probability of 0.008657009364917303
+For topic 4 word really occurred at probability of 0.007461441036549903
+ 
+ 
+For topic 5 word game occurred at probability of 0.09923881426768244
+For topic 5 word time occurred at probability of 0.013335739796982929
+For topic 5 word isaac occurred at probability of 0.012141364527828205
+For topic 5 word one occurred at probability of 0.011718464088228724
+For topic 5 word kill occurred at probability of 0.010228930615961413
+For topic 5 word enemies occurred at probability of 0.007148600651966549
+For topic 5 word games occurred at probability of 0.006952568393010662
+For topic 5 word items occurred at probability of 0.006799757229603181
+For topic 5 word playing occurred at probability of 0.006329975618595378
+For topic 5 word play occurred at probability of 0.006291828732974252
+ 
+ 
+For topic 6 word game occurred at probability of 0.01654517292263937
+For topic 6 word would occurred at probability of 0.012701460305948693
+For topic 6 word play occurred at probability of 0.010437976564094058
+For topic 6 word fun occurred at probability of 0.010125249507676303
+For topic 6 word die occurred at probability of 0.010024118374086198
+For topic 6 word get occurred at probability of 0.009767049259666434
+For topic 6 word great occurred at probability of 0.009092346138156876
+For topic 6 word much occurred at probability of 0.008622501356118868
+For topic 6 word new occurred at probability of 0.008354746575085588
+For topic 6 word every occurred at probability of 0.00820495504836523
+ 
+ 
+For topic 7 word game occurred at probability of 0.07971625596641731
+For topic 7 word would occurred at probability of 0.014275540606162212
+For topic 7 word play occurred at probability of 0.01302895799287669
+For topic 7 word get occurred at probability of 0.012522649659514263
+For topic 7 word items occurred at probability of 0.010586588668563731
+For topic 7 word like occurred at probability of 0.010352973703659554
+For topic 7 word isaac occurred at probability of 0.009258329888351758
+For topic 7 word hard occurred at probability of 0.008891807361082879
+For topic 7 word cry occurred at probability of 0.008534707515424612
+For topic 7 word hate occurred at probability of 0.006956038742240462
+ 
+ 
+For topic 8 word game occurred at probability of 0.06864107831073088
+For topic 8 word get occurred at probability of 0.022956773382735503
+For topic 8 word much occurred at probability of 0.010351671964115575
+For topic 8 word fun occurred at probability of 0.01023130972915689
+For topic 8 word binding occurred at probability of 0.008803770060748013
+For topic 8 word one occurred at probability of 0.008796048421224861
+For topic 8 word new occurred at probability of 0.008465734243664483
+For topic 8 word kill occurred at probability of 0.00803432677856694
+For topic 8 word die occurred at probability of 0.007803556853431014
+For topic 8 word im occurred at probability of 0.007125916697222743
+ 
+ 
+For topic 9 word game occurred at probability of 0.021238949715133747
+For topic 9 word get occurred at probability of 0.0164854330436085
+For topic 9 word hours occurred at probability of 0.011867676909692109
+For topic 9 word isaac occurred at probability of 0.011018319303896148
+For topic 9 word dont occurred at probability of 0.010970591608418663
+For topic 9 word hate occurred at probability of 0.01030363421477712
+For topic 9 word playing occurred at probability of 0.009804455904609795
+For topic 9 word play occurred at probability of 0.009369518568238396
+For topic 9 word cant occurred at probability of 0.00929809262577167
+For topic 9 word new occurred at probability of 0.007941404994045975
+ 
+ 
+For topic 10 word game occurred at probability of 0.06084096681061848
+For topic 10 word hours occurred at probability of 0.016303419901372795
+For topic 10 word kill occurred at probability of 0.012683041587354334
+For topic 10 word would occurred at probability of 0.012253165603517633
+For topic 10 word time occurred at probability of 0.010049419140676618
+For topic 10 word playing occurred at probability of 0.008881066659471809
+For topic 10 word every occurred at probability of 0.008465198907090486
+For topic 10 word fun occurred at probability of 0.008288369624251276
+For topic 10 word hard occurred at probability of 0.007639109274276679
+For topic 10 word never occurred at probability of 0.006768905809910002
+ 
+ 

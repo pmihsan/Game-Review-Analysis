@@ -1,0 +1,120 @@
+For topic 1 word wallpapers occurred at probability of 0.037432983365660095
+For topic 1 word wallpaper occurred at probability of 0.03168152959998796
+For topic 1 word yes occurred at probability of 0.02951251885005639
+For topic 1 word software occurred at probability of 0.025944835751516772
+For topic 1 word use occurred at probability of 0.021095549036688768
+For topic 1 word worth occurred at probability of 0.02085780494990988
+For topic 1 word really occurred at probability of 0.01956011467522621
+For topic 1 word good occurred at probability of 0.014306653784387122
+For topic 1 word nice occurred at probability of 0.013050482896768474
+For topic 1 word cool occurred at probability of 0.010703422135708131
+ 
+ 
+For topic 2 word wallpaper occurred at probability of 0.02476381608471759
+For topic 2 word cool occurred at probability of 0.022954817904927736
+For topic 2 word good occurred at probability of 0.01898438885861012
+For topic 2 word worth occurred at probability of 0.01887971075097268
+For topic 2 word app occurred at probability of 0.016976619845984243
+For topic 2 word best occurred at probability of 0.016370617737412763
+For topic 2 word great occurred at probability of 0.015419083102155834
+For topic 2 word really occurred at probability of 0.01290740433786176
+For topic 2 word like occurred at probability of 0.012624378526347183
+For topic 2 word amazing occurred at probability of 0.012589465975183792
+ 
+ 
+For topic 3 word wallpapers occurred at probability of 0.045752353644432586
+For topic 3 word good occurred at probability of 0.04315488924055348
+For topic 3 word wallpaper occurred at probability of 0.029678181170065973
+For topic 3 word cool occurred at probability of 0.02955284332444214
+For topic 3 word nice occurred at probability of 0.014851174858565049
+For topic 3 word app occurred at probability of 0.014732062769591624
+For topic 3 word amazing occurred at probability of 0.013538411931410255
+For topic 3 word like occurred at probability of 0.013170987827825314
+For topic 3 word desktop occurred at probability of 0.01074647686482883
+For topic 3 word love occurred at probability of 0.010715655958076744
+ 
+ 
+For topic 4 word good occurred at probability of 0.05126706910012823
+For topic 4 word wallpapers occurred at probability of 0.036450815238565124
+For topic 4 word software occurred at probability of 0.02615741341831517
+For topic 4 word wallpaper occurred at probability of 0.023302300762890703
+For topic 4 word really occurred at probability of 0.018837581846096022
+For topic 4 word love occurred at probability of 0.017197081813218766
+For topic 4 word like occurred at probability of 0.012340861367854793
+For topic 4 word cool occurred at probability of 0.012014735321374767
+For topic 4 word use occurred at probability of 0.011647990070914504
+For topic 4 word nice occurred at probability of 0.010891095133928407
+ 
+ 
+For topic 5 word wallpapers occurred at probability of 0.0347963530264375
+For topic 5 word best occurred at probability of 0.02518812203969113
+For topic 5 word cool occurred at probability of 0.022067316804078398
+For topic 5 word yes occurred at probability of 0.015362945933601553
+For topic 5 word wallpaper occurred at probability of 0.014650993397249058
+For topic 5 word love occurred at probability of 0.014170621829789376
+For topic 5 word use occurred at probability of 0.013868917533927156
+For topic 5 word worth occurred at probability of 0.013711517615326064
+For topic 5 word nice occurred at probability of 0.0135240820262229
+For topic 5 word app occurred at probability of 0.013269881020712259
+ 
+ 
+For topic 6 word good occurred at probability of 0.05518491706053579
+For topic 6 word wallpapers occurred at probability of 0.03709780213228327
+For topic 6 word great occurred at probability of 0.028755384925111895
+For topic 6 word nice occurred at probability of 0.02656335445275085
+For topic 6 word yes occurred at probability of 0.02506918788476566
+For topic 6 word wallpaper occurred at probability of 0.019676295267364963
+For topic 6 word like occurred at probability of 0.018518606698536704
+For topic 6 word worth occurred at probability of 0.017963399356056432
+For topic 6 word use occurred at probability of 0.01702594355584867
+For topic 6 word love occurred at probability of 0.014747072859923363
+ 
+ 
+For topic 7 word yes occurred at probability of 0.0353187362868252
+For topic 7 word cool occurred at probability of 0.02919875079280454
+For topic 7 word good occurred at probability of 0.02907204924614173
+For topic 7 word wallpaper occurred at probability of 0.02408006305521497
+For topic 7 word wallpapers occurred at probability of 0.022169266843685875
+For topic 7 word best occurred at probability of 0.019501923318522445
+For topic 7 word really occurred at probability of 0.018827221735518422
+For topic 7 word use occurred at probability of 0.013706195876819847
+For topic 7 word love occurred at probability of 0.013703046482390931
+For topic 7 word desktop occurred at probability of 0.012337312156537468
+ 
+ 
+For topic 8 word wallpaper occurred at probability of 0.028250100022838086
+For topic 8 word cool occurred at probability of 0.027935748526372838
+For topic 8 word software occurred at probability of 0.025514003116324825
+For topic 8 word app occurred at probability of 0.020461762427408842
+For topic 8 word yes occurred at probability of 0.020066113434746534
+For topic 8 word good occurred at probability of 0.019515929133851126
+For topic 8 word really occurred at probability of 0.01884916625038773
+For topic 8 word like occurred at probability of 0.018351174465851224
+For topic 8 word wallpapers occurred at probability of 0.01757998372814037
+For topic 8 word nice occurred at probability of 0.016955493222586007
+ 
+ 
+For topic 9 word cool occurred at probability of 0.024147090975086907
+For topic 9 word wallpaper occurred at probability of 0.023323173581874024
+For topic 9 word great occurred at probability of 0.02316341259811457
+For topic 9 word app occurred at probability of 0.01864865939424772
+For topic 9 word amazing occurred at probability of 0.017572643045601414
+For topic 9 word really occurred at probability of 0.014854701242699024
+For topic 9 word make occurred at probability of 0.010806136346377601
+For topic 9 word recommend occurred at probability of 0.010593283195313588
+For topic 9 word good occurred at probability of 0.010041057311635208
+For topic 9 word like occurred at probability of 0.01002475210834665
+ 
+ 
+For topic 10 word good occurred at probability of 0.047465156044288775
+For topic 10 word wallpapers occurred at probability of 0.04295917417582917
+For topic 10 word great occurred at probability of 0.022780214414900857
+For topic 10 word best occurred at probability of 0.021024169115423774
+For topic 10 word software occurred at probability of 0.020398408668285548
+For topic 10 word like occurred at probability of 0.016531349998490413
+For topic 10 word desktop occurred at probability of 0.013046532627233424
+For topic 10 word easy occurred at probability of 0.012857537854019902
+For topic 10 word nice occurred at probability of 0.012675402587504308
+For topic 10 word recommend occurred at probability of 0.010340604862985596
+ 
+ 

@@ -1,0 +1,120 @@
+For topic 1 word still occurred at probability of 0.023691741679957704
+For topic 1 word rts occurred at probability of 0.021491409936799457
+For topic 1 word one occurred at probability of 0.01718006310039016
+For topic 1 word games occurred at probability of 0.016578281799347463
+For topic 1 word age occurred at probability of 0.014361686819824951
+For topic 1 word back occurred at probability of 0.013748686824756613
+For topic 1 word time occurred at probability of 0.013019462989770695
+For topic 1 word play occurred at probability of 0.0126787876891145
+For topic 1 word fun occurred at probability of 0.01219068762404267
+For topic 1 word like occurred at probability of 0.01051232444164
+ 
+ 
+For topic 2 word like occurred at probability of 0.01919947882946451
+For topic 2 word games occurred at probability of 0.01855805016608754
+For topic 2 word played occurred at probability of 0.016119511052439996
+For topic 2 word time occurred at probability of 0.014366095710095252
+For topic 2 word still occurred at probability of 0.013612410427299798
+For topic 2 word great occurred at probability of 0.012952487961913487
+For topic 2 word play occurred at probability of 0.01146987356091747
+For topic 2 word much occurred at probability of 0.010997969136955927
+For topic 2 word fun occurred at probability of 0.01073105095064489
+For topic 2 word years occurred at probability of 0.009561009731245403
+ 
+ 
+For topic 3 word great occurred at probability of 0.018757025868394558
+For topic 3 word play occurred at probability of 0.018753820656522088
+For topic 3 word like occurred at probability of 0.01856266575736421
+For topic 3 word old occurred at probability of 0.01717361538430189
+For topic 3 word one occurred at probability of 0.017064788813672262
+For topic 3 word best occurred at probability of 0.014874484344234678
+For topic 3 word age occurred at probability of 0.014117486624806106
+For topic 3 word fun occurred at probability of 0.012813564746732821
+For topic 3 word still occurred at probability of 0.012374111854709793
+For topic 3 word empires occurred at probability of 0.012322820428782747
+ 
+ 
+For topic 4 word one occurred at probability of 0.018354864157903095
+For topic 4 word games occurred at probability of 0.01786248366335632
+For topic 4 word play occurred at probability of 0.017625143780563488
+For topic 4 word best occurred at probability of 0.01751654149933516
+For topic 4 word still occurred at probability of 0.015540054325650005
+For topic 4 word played occurred at probability of 0.01409047618367823
+For topic 4 word ever occurred at probability of 0.011315836390665112
+For topic 4 word back occurred at probability of 0.011155705351179218
+For topic 4 word much occurred at probability of 0.011025337936733484
+For topic 4 word better occurred at probability of 0.011022139750337338
+ 
+ 
+For topic 5 word great occurred at probability of 0.021437387561144418
+For topic 5 word still occurred at probability of 0.019366484072117225
+For topic 5 word games occurred at probability of 0.01835098736107996
+For topic 5 word rts occurred at probability of 0.013859710715231207
+For topic 5 word old occurred at probability of 0.013455162403181108
+For topic 5 word classic occurred at probability of 0.012412475019911925
+For topic 5 word love occurred at probability of 0.011569803046423126
+For topic 5 word years occurred at probability of 0.010905981064674214
+For topic 5 word age occurred at probability of 0.01014822145560745
+For topic 5 word like occurred at probability of 0.008962061840920776
+ 
+ 
+For topic 6 word play occurred at probability of 0.030284079708204844
+For topic 6 word rts occurred at probability of 0.021226412939047017
+For topic 6 word one occurred at probability of 0.019666790428260795
+For topic 6 word fun occurred at probability of 0.018606801911480352
+For topic 6 word great occurred at probability of 0.01774626075600481
+For topic 6 word time occurred at probability of 0.013879194348546819
+For topic 6 word like occurred at probability of 0.011067024258840952
+For topic 6 word ever occurred at probability of 0.011050436649610937
+For topic 6 word love occurred at probability of 0.010724331154761171
+For topic 6 word multiplayer occurred at probability of 0.009725343249232122
+ 
+ 
+For topic 7 word rts occurred at probability of 0.01934910903383548
+For topic 7 word great occurred at probability of 0.016368463011129257
+For topic 7 word one occurred at probability of 0.016338402676505926
+For topic 7 word age occurred at probability of 0.015430176110592527
+For topic 7 word played occurred at probability of 0.015334371764093245
+For topic 7 word classic occurred at probability of 0.013539402051513605
+For topic 7 word playing occurred at probability of 0.01305425129823669
+For topic 7 word new occurred at probability of 0.012028407790117233
+For topic 7 word really occurred at probability of 0.011135366036615435
+For topic 7 word love occurred at probability of 0.010896586530487296
+ 
+ 
+For topic 8 word play occurred at probability of 0.02568036817710768
+For topic 8 word best occurred at probability of 0.021571775553663894
+For topic 8 word one occurred at probability of 0.01833641448071533
+For topic 8 word games occurred at probability of 0.01719642480201391
+For topic 8 word time occurred at probability of 0.015186831790034773
+For topic 8 word still occurred at probability of 0.013404800169219909
+For topic 8 word played occurred at probability of 0.013381370487133493
+For topic 8 word age occurred at probability of 0.010571739785331583
+For topic 8 word old occurred at probability of 0.009818009999491277
+For topic 8 word strategy occurred at probability of 0.00933312492261832
+ 
+ 
+For topic 9 word best occurred at probability of 0.017040244777278814
+For topic 9 word games occurred at probability of 0.015840131626175848
+For topic 9 word played occurred at probability of 0.01532536179042644
+For topic 9 word great occurred at probability of 0.013977562198629096
+For topic 9 word new occurred at probability of 0.012592150873212282
+For topic 9 word play occurred at probability of 0.012334179933840818
+For topic 9 word time occurred at probability of 0.012207955231266634
+For topic 9 word still occurred at probability of 0.012145011629130884
+For topic 9 word hd occurred at probability of 0.01085050063768355
+For topic 9 word ever occurred at probability of 0.010262871930006003
+ 
+ 
+For topic 10 word fun occurred at probability of 0.025090761929950394
+For topic 10 word rts occurred at probability of 0.020122354719913214
+For topic 10 word still occurred at probability of 0.017814115749152266
+For topic 10 word games occurred at probability of 0.016631239160003485
+For topic 10 word really occurred at probability of 0.012877677313582523
+For topic 10 word classic occurred at probability of 0.012821122520432566
+For topic 10 word like occurred at probability of 0.01205356093728346
+For topic 10 word love occurred at probability of 0.012042322595627214
+For topic 10 word playing occurred at probability of 0.011614674527090934
+For topic 10 word hd occurred at probability of 0.011218706274960816
+ 
+ 

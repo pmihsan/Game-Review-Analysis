@@ -1,0 +1,120 @@
+For topic 1 word enemies occurred at probability of 0.01585003643645032
+For topic 1 word stealth occurred at probability of 0.01523551195439265
+For topic 1 word play occurred at probability of 0.013930795219946876
+For topic 1 word ninja occurred at probability of 0.013742502656313207
+For topic 1 word like occurred at probability of 0.013608260522534811
+For topic 1 word one occurred at probability of 0.012759480779693173
+For topic 1 word dont occurred at probability of 0.0109645458312523
+For topic 1 word killing occurred at probability of 0.009100975935695192
+For topic 1 word go occurred at probability of 0.00789526989156983
+For topic 1 word new occurred at probability of 0.007742130074557952
+ 
+ 
+For topic 2 word stealth occurred at probability of 0.04275289743295448
+For topic 2 word ninja occurred at probability of 0.0331747705222593
+For topic 2 word one occurred at probability of 0.012855196901074584
+For topic 2 word like occurred at probability of 0.010782700359609983
+For topic 2 word play occurred at probability of 0.010110758702653884
+For topic 2 word also occurred at probability of 0.008144649652935518
+For topic 2 word level occurred at probability of 0.00802769310024701
+For topic 2 word enemies occurred at probability of 0.007470642512371922
+For topic 2 word get occurred at probability of 0.007105550372788031
+For topic 2 word mark occurred at probability of 0.006586498826898424
+ 
+ 
+For topic 3 word ninja occurred at probability of 0.011640060375894304
+For topic 3 word games occurred at probability of 0.010546659354543355
+For topic 3 word story occurred at probability of 0.010045252658348458
+For topic 3 word one occurred at probability of 0.008445095973511776
+For topic 3 word well occurred at probability of 0.00844336629212711
+For topic 3 word mark occurred at probability of 0.008133347071707823
+For topic 3 word dont occurred at probability of 0.007883370693334972
+For topic 3 word also occurred at probability of 0.007616311615524614
+For topic 3 word guards occurred at probability of 0.0073076162301265015
+For topic 3 word around occurred at probability of 0.006882287817950496
+ 
+ 
+For topic 4 word ninja occurred at probability of 0.03198001356499606
+For topic 4 word stealth occurred at probability of 0.029040725283032462
+For topic 4 word like occurred at probability of 0.014700705666927947
+For topic 4 word get occurred at probability of 0.012189774975241636
+For topic 4 word games occurred at probability of 0.00956780939349147
+For topic 4 word good occurred at probability of 0.008790384122759268
+For topic 4 word make occurred at probability of 0.007815413572078418
+For topic 4 word guards occurred at probability of 0.007737089917821737
+For topic 4 word go occurred at probability of 0.007661545452322047
+For topic 4 word enemies occurred at probability of 0.007630264447341913
+ 
+ 
+For topic 5 word stealth occurred at probability of 0.027526951130597548
+For topic 5 word games occurred at probability of 0.01366927431133363
+For topic 5 word play occurred at probability of 0.010555004456641641
+For topic 5 word mark occurred at probability of 0.010408937526166744
+For topic 5 word well occurred at probability of 0.009418638350153712
+For topic 5 word like occurred at probability of 0.008131883648777915
+For topic 5 word also occurred at probability of 0.008076122786008654
+For topic 5 word one occurred at probability of 0.0077683907064171
+For topic 5 word great occurred at probability of 0.007661616484876032
+For topic 5 word dont occurred at probability of 0.007553674967924452
+ 
+ 
+For topic 6 word stealth occurred at probability of 0.02660761283067896
+For topic 6 word one occurred at probability of 0.011254269836808523
+For topic 6 word play occurred at probability of 0.010254531549343594
+For topic 6 word games occurred at probability of 0.00779692383572393
+For topic 6 word get occurred at probability of 0.007754437390539851
+For topic 6 word ninja occurred at probability of 0.00761401654081653
+For topic 6 word gameplay occurred at probability of 0.007587492337372139
+For topic 6 word go occurred at probability of 0.007371857065980216
+For topic 6 word time occurred at probability of 0.00687332378280146
+For topic 6 word controls occurred at probability of 0.006869134833187712
+ 
+ 
+For topic 7 word ninja occurred at probability of 0.017337321582059816
+For topic 7 word one occurred at probability of 0.009909786161749453
+For topic 7 word make occurred at probability of 0.009512422721012331
+For topic 7 word killing occurred at probability of 0.009073531599074971
+For topic 7 word level occurred at probability of 0.008908813649959501
+For topic 7 word gameplay occurred at probability of 0.007780896077317866
+For topic 7 word play occurred at probability of 0.00751225239499793
+For topic 7 word guard occurred at probability of 0.007330324806121801
+For topic 7 word really occurred at probability of 0.006830195084693401
+For topic 7 word levels occurred at probability of 0.006555726844401195
+ 
+ 
+For topic 8 word get occurred at probability of 0.014236000728061518
+For topic 8 word guards occurred at probability of 0.011808712515311775
+For topic 8 word mark occurred at probability of 0.011794468638049858
+For topic 8 word ninja occurred at probability of 0.010587017641564124
+For topic 8 word enemies occurred at probability of 0.010090963849555875
+For topic 8 word like occurred at probability of 0.009473013389405061
+For topic 8 word good occurred at probability of 0.008695478927096144
+For topic 8 word one occurred at probability of 0.008441956246765652
+For topic 8 word killing occurred at probability of 0.008239533221516887
+For topic 8 word dont occurred at probability of 0.007554435383414557
+ 
+ 
+For topic 9 word stealth occurred at probability of 0.022929673435549462
+For topic 9 word get occurred at probability of 0.018656335336979857
+For topic 9 word guards occurred at probability of 0.013568461135820636
+For topic 9 word ninja occurred at probability of 0.010725498534826966
+For topic 9 word well occurred at probability of 0.010056905817894863
+For topic 9 word great occurred at probability of 0.008534098419552022
+For topic 9 word really occurred at probability of 0.008253642821979542
+For topic 9 word story occurred at probability of 0.008151885230757702
+For topic 9 word killing occurred at probability of 0.0077456383678222345
+For topic 9 word games occurred at probability of 0.0075170686803387775
+ 
+ 
+For topic 10 word like occurred at probability of 0.018158006129410872
+For topic 10 word games occurred at probability of 0.01168843628830535
+For topic 10 word enemies occurred at probability of 0.010302184518133358
+For topic 10 word levels occurred at probability of 0.008963621399329179
+For topic 10 word one occurred at probability of 0.00853970573558583
+For topic 10 word story occurred at probability of 0.008493741105675424
+For topic 10 word every occurred at probability of 0.00843912398474727
+For topic 10 word guard occurred at probability of 0.008055532315916212
+For topic 10 word fun occurred at probability of 0.007730768145986818
+For topic 10 word play occurred at probability of 0.007107464753838447
+ 
+ 

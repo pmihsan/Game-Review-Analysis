@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.04732920565616158
+For topic 1 word civ occurred at probability of 0.038395296447553816
+For topic 1 word like occurred at probability of 0.022128463669712058
+For topic 1 word good occurred at probability of 0.017824879782666142
+For topic 1 word great occurred at probability of 0.014417540163716528
+For topic 1 word play occurred at probability of 0.013074631148865527
+For topic 1 word games occurred at probability of 0.013003946862937172
+For topic 1 word one occurred at probability of 0.012774472747116239
+For topic 1 word really occurred at probability of 0.010902620375954639
+For topic 1 word ai occurred at probability of 0.01026737165440676
+ 
+ 
+For topic 2 word civ occurred at probability of 0.037111120767688244
+For topic 2 word game occurred at probability of 0.035442785471730305
+For topic 2 word good occurred at probability of 0.01606048825543057
+For topic 2 word fun occurred at probability of 0.014380579544217243
+For topic 2 word really occurred at probability of 0.011287511137641346
+For topic 2 word get occurred at probability of 0.010856861077451223
+For topic 2 word games occurred at probability of 0.010415826364001153
+For topic 2 word play occurred at probability of 0.010053860229212666
+For topic 2 word ai occurred at probability of 0.009260678681962306
+For topic 2 word better occurred at probability of 0.008819570671798732
+ 
+ 
+For topic 3 word game occurred at probability of 0.07085867808673196
+For topic 3 word civ occurred at probability of 0.0340797697679691
+For topic 3 word good occurred at probability of 0.016836200195822697
+For topic 3 word like occurred at probability of 0.012039588419157112
+For topic 3 word civilization occurred at probability of 0.01120492285508718
+For topic 3 word one occurred at probability of 0.010522991788713
+For topic 3 word love occurred at probability of 0.00981208677924354
+For topic 3 word play occurred at probability of 0.009249554113264714
+For topic 3 word ai occurred at probability of 0.008299910476643014
+For topic 3 word still occurred at probability of 0.007575380374519687
+ 
+ 
+For topic 4 word game occurred at probability of 0.06778122951036776
+For topic 4 word civ occurred at probability of 0.026217794367105297
+For topic 4 word like occurred at probability of 0.02140826332498529
+For topic 4 word even occurred at probability of 0.010827907308585065
+For topic 4 word love occurred at probability of 0.009344365326656391
+For topic 4 word best occurred at probability of 0.008616404360371097
+For topic 4 word really occurred at probability of 0.007880636944300998
+For topic 4 word hours occurred at probability of 0.007336432125598661
+For topic 4 word playing occurred at probability of 0.0071544063866426375
+For topic 4 word much occurred at probability of 0.0069121183915015535
+ 
+ 
+For topic 5 word game occurred at probability of 0.047942432918318664
+For topic 5 word like occurred at probability of 0.018680060537297833
+For topic 5 word lot occurred at probability of 0.012334329576647278
+For topic 5 word games occurred at probability of 0.011513693270825054
+For topic 5 word played occurred at probability of 0.010214605769254408
+For topic 5 word would occurred at probability of 0.008975374273087871
+For topic 5 word one occurred at probability of 0.008961921326021551
+For topic 5 word good occurred at probability of 0.008504843766837794
+For topic 5 word really occurred at probability of 0.00792678538610385
+For topic 5 word play occurred at probability of 0.0074968208145143565
+ 
+ 
+For topic 6 word game occurred at probability of 0.038770831579366644
+For topic 6 word civ occurred at probability of 0.01720855730071805
+For topic 6 word like occurred at probability of 0.015812847317254033
+For topic 6 word great occurred at probability of 0.014517936447216252
+For topic 6 word new occurred at probability of 0.01349906191452211
+For topic 6 word lot occurred at probability of 0.010109583633569173
+For topic 6 word get occurred at probability of 0.009857368616358405
+For topic 6 word best occurred at probability of 0.009570890061949111
+For topic 6 word good occurred at probability of 0.008641745988432389
+For topic 6 word better occurred at probability of 0.0077388728010719075
+ 
+ 
+For topic 7 word game occurred at probability of 0.06112227984968814
+For topic 7 word civ occurred at probability of 0.017966261344162803
+For topic 7 word great occurred at probability of 0.016206477766510248
+For topic 7 word new occurred at probability of 0.014209965177647112
+For topic 7 word play occurred at probability of 0.012216431694050968
+For topic 7 word like occurred at probability of 0.010802340532622684
+For topic 7 word really occurred at probability of 0.009616624215635102
+For topic 7 word good occurred at probability of 0.008693815401940483
+For topic 7 word ai occurred at probability of 0.008596012181739153
+For topic 7 word time occurred at probability of 0.007802146853506543
+ 
+ 
+For topic 8 word game occurred at probability of 0.05230434945779436
+For topic 8 word fun occurred at probability of 0.017471580533930903
+For topic 8 word civilization occurred at probability of 0.015814429329198274
+For topic 8 word new occurred at probability of 0.01450616368035033
+For topic 8 word good occurred at probability of 0.014216282486295079
+For topic 8 word civ occurred at probability of 0.01416693463735432
+For topic 8 word get occurred at probability of 0.012679270234744487
+For topic 8 word like occurred at probability of 0.012501836000786536
+For topic 8 word v occurred at probability of 0.010150700405297027
+For topic 8 word games occurred at probability of 0.008641227238086057
+ 
+ 
+For topic 9 word game occurred at probability of 0.046651190560541386
+For topic 9 word civ occurred at probability of 0.03120534724295026
+For topic 9 word fun occurred at probability of 0.016702115689233105
+For topic 9 word civilization occurred at probability of 0.014684467892352808
+For topic 9 word ai occurred at probability of 0.010003666059391784
+For topic 9 word like occurred at probability of 0.009594095646667616
+For topic 9 word good occurred at probability of 0.007933482444905835
+For topic 9 word play occurred at probability of 0.007861952271559508
+For topic 9 word would occurred at probability of 0.00753406690268827
+For topic 9 word dont occurred at probability of 0.007516413135247412
+ 
+ 
+For topic 10 word civ occurred at probability of 0.034381350214552915
+For topic 10 word like occurred at probability of 0.018856161344478997
+For topic 10 word fun occurred at probability of 0.015634299861721303
+For topic 10 word great occurred at probability of 0.013049393822517328
+For topic 10 word one occurred at probability of 0.012710697625826672
+For topic 10 word even occurred at probability of 0.011693428502944806
+For topic 10 word still occurred at probability of 0.011031487803341103
+For topic 10 word civilization occurred at probability of 0.010396229932557177
+For topic 10 word play occurred at probability of 0.00932939109374098
+For topic 10 word good occurred at probability of 0.009231326785475509
+ 
+ 

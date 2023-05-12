@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.09400217552454013
+For topic 1 word fun occurred at probability of 0.017882477375050554
+For topic 1 word good occurred at probability of 0.017596335922415506
+For topic 1 word even occurred at probability of 0.013413022571979481
+For topic 1 word really occurred at probability of 0.010544288686995628
+For topic 1 word survival occurred at probability of 0.009118537240806367
+For topic 1 word find occurred at probability of 0.00895375496800046
+For topic 1 word still occurred at probability of 0.008218894011671335
+For topic 1 word worth occurred at probability of 0.007962188898231495
+For topic 1 word like occurred at probability of 0.00779640309739361
+ 
+ 
+For topic 2 word game occurred at probability of 0.029809581547495315
+For topic 2 word like occurred at probability of 0.028998443493653162
+For topic 2 word play occurred at probability of 0.012903038419795707
+For topic 2 word one occurred at probability of 0.011191262618614781
+For topic 2 word even occurred at probability of 0.010897535782472385
+For topic 2 word good occurred at probability of 0.010782494173338587
+For topic 2 word nether occurred at probability of 0.010410537419215351
+For topic 2 word worth occurred at probability of 0.009631055392209473
+For topic 2 word still occurred at probability of 0.007859834437145555
+For topic 2 word fun occurred at probability of 0.007400374281970066
+ 
+ 
+For topic 3 word game occurred at probability of 0.07112740628859353
+For topic 3 word get occurred at probability of 0.016682503826022863
+For topic 3 word fun occurred at probability of 0.01585831137651513
+For topic 3 word play occurred at probability of 0.01453558661411314
+For topic 3 word nether occurred at probability of 0.014135006247304162
+For topic 3 word great occurred at probability of 0.011695615342709033
+For topic 3 word would occurred at probability of 0.010138023772870689
+For topic 3 word server occurred at probability of 0.0078048115297779394
+For topic 3 word got occurred at probability of 0.007500249236508991
+For topic 3 word time occurred at probability of 0.00742471977562683
+ 
+ 
+For topic 4 word game occurred at probability of 0.02591985429797255
+For topic 4 word like occurred at probability of 0.013155480137468149
+For topic 4 word still occurred at probability of 0.012548660586358111
+For topic 4 word one occurred at probability of 0.011582423393274944
+For topic 4 word nether occurred at probability of 0.011508338453121653
+For topic 4 word buy occurred at probability of 0.010714006712436126
+For topic 4 word fun occurred at probability of 0.010047681143538708
+For topic 4 word good occurred at probability of 0.00981385154520859
+For topic 4 word find occurred at probability of 0.009201361371560184
+For topic 4 word really occurred at probability of 0.009026347310194164
+ 
+ 
+For topic 5 word game occurred at probability of 0.03524614547931609
+For topic 5 word nether occurred at probability of 0.021934640075159866
+For topic 5 word good occurred at probability of 0.014299814804558268
+For topic 5 word get occurred at probability of 0.011215145484141915
+For topic 5 word great occurred at probability of 0.010923135058464572
+For topic 5 word play occurred at probability of 0.010281428734379828
+For topic 5 word fun occurred at probability of 0.009371023607582256
+For topic 5 word even occurred at probability of 0.008597470911914373
+For topic 5 word like occurred at probability of 0.008487826996407889
+For topic 5 word still occurred at probability of 0.007695361403893716
+ 
+ 
+For topic 6 word like occurred at probability of 0.011979228724518733
+For topic 6 word time occurred at probability of 0.010171894999423553
+For topic 6 word fun occurred at probability of 0.009708636086797215
+For topic 6 word still occurred at probability of 0.009664982343020385
+For topic 6 word play occurred at probability of 0.009526930680806643
+For topic 6 word survival occurred at probability of 0.008436208024393276
+For topic 6 word buy occurred at probability of 0.00727598709773297
+For topic 6 word steam occurred at probability of 0.007057089725584862
+For topic 6 word cant occurred at probability of 0.006773849113192549
+For topic 6 word game occurred at probability of 0.0066543523033534575
+ 
+ 
+For topic 7 word game occurred at probability of 0.05312195456522264
+For topic 7 word good occurred at probability of 0.020674063370870046
+For topic 7 word one occurred at probability of 0.011871597534485996
+For topic 7 word games occurred at probability of 0.00965685602205667
+For topic 7 word would occurred at probability of 0.008935857574322706
+For topic 7 word get occurred at probability of 0.008251883458027838
+For topic 7 word survival occurred at probability of 0.008013481118935954
+For topic 7 word really occurred at probability of 0.008003810182499021
+For topic 7 word fun occurred at probability of 0.00790237412106252
+For topic 7 word even occurred at probability of 0.007616469239335109
+ 
+ 
+For topic 8 word game occurred at probability of 0.04702531698703885
+For topic 8 word good occurred at probability of 0.020248905501128595
+For topic 8 word nether occurred at probability of 0.01664465916351083
+For topic 8 word get occurred at probability of 0.01544296847580297
+For topic 8 word fun occurred at probability of 0.013300413860331635
+For topic 8 word buy occurred at probability of 0.011564225676461735
+For topic 8 word would occurred at probability of 0.010016842302082605
+For topic 8 word play occurred at probability of 0.009718735461145666
+For topic 8 word time occurred at probability of 0.00865239048210065
+For topic 8 word recommend occurred at probability of 0.007947924243649493
+ 
+ 
+For topic 9 word game occurred at probability of 0.09366191789594541
+For topic 9 word like occurred at probability of 0.026717245697159164
+For topic 9 word get occurred at probability of 0.012947191396709955
+For topic 9 word survival occurred at probability of 0.012168814315721331
+For topic 9 word would occurred at probability of 0.010740598085909525
+For topic 9 word buy occurred at probability of 0.010446702603722883
+For topic 9 word nether occurred at probability of 0.009311193393647353
+For topic 9 word fun occurred at probability of 0.009120371670910348
+For topic 9 word really occurred at probability of 0.008992782460352074
+For topic 9 word great occurred at probability of 0.007442392265125149
+ 
+ 
+For topic 10 word game occurred at probability of 0.07237127131507332
+For topic 10 word like occurred at probability of 0.023658566978658705
+For topic 10 word play occurred at probability of 0.013825250498977997
+For topic 10 word really occurred at probability of 0.01134263731630992
+For topic 10 word great occurred at probability of 0.010016426363633176
+For topic 10 word still occurred at probability of 0.009680547597974942
+For topic 10 word back occurred at probability of 0.008237985628085974
+For topic 10 word get occurred at probability of 0.008216738717187254
+For topic 10 word good occurred at probability of 0.008080900692013764
+For topic 10 word games occurred at probability of 0.007842441483489272
+ 
+ 

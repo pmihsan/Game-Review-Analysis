@@ -1,0 +1,120 @@
+For topic 1 word important occurred at probability of 0.002079359970744328
+For topic 1 word hey occurred at probability of 0.0017050552100089991
+For topic 1 word designed occurred at probability of 0.0016488330659898453
+For topic 1 word paint occurred at probability of 0.0015919573003117013
+For topic 1 word insanely occurred at probability of 0.0015495644195290903
+For topic 1 word per occurred at probability of 0.0014528244505046947
+For topic 1 word abilities occurred at probability of 0.0014385527604733905
+For topic 1 word beautifully occurred at probability of 0.0014255795211044098
+For topic 1 word improves occurred at probability of 0.001330353879833586
+For topic 1 word possibilities occurred at probability of 0.0012573658313141667
+ 
+ 
+For topic 2 word realy occurred at probability of 0.002752461385637042
+For topic 2 word lags occurred at probability of 0.002003501644789824
+For topic 2 word important occurred at probability of 0.0018203029164863122
+For topic 2 word frequently occurred at probability of 0.0016369878688626885
+For topic 2 word gotta occurred at probability of 0.0016244337275605064
+For topic 2 word disappointing occurred at probability of 0.0015266463484176784
+For topic 2 word bland occurred at probability of 0.0015035340031862208
+For topic 2 word hooks occurred at probability of 0.0014586309393073015
+For topic 2 word kids occurred at probability of 0.0013756820965445267
+For topic 2 word beautifully occurred at probability of 0.001286783332112737
+ 
+ 
+For topic 3 word realy occurred at probability of 0.0035829235991467713
+For topic 3 word abilities occurred at probability of 0.001969176909131501
+For topic 3 word hey occurred at probability of 0.001824708162900862
+For topic 3 word dark occurred at probability of 0.0017556027048648566
+For topic 3 word lags occurred at probability of 0.0017093966688913336
+For topic 3 word seeing occurred at probability of 0.0016217322651230872
+For topic 3 word disappointing occurred at probability of 0.0015990058301806067
+For topic 3 word villages occurred at probability of 0.0015509377797733482
+For topic 3 word knew occurred at probability of 0.0014810886357408668
+For topic 3 word varied occurred at probability of 0.0014425325772231105
+ 
+ 
+For topic 4 word realy occurred at probability of 0.002816576911026913
+For topic 4 word important occurred at probability of 0.00219377087051057
+For topic 4 word bland occurred at probability of 0.0017572230217016264
+For topic 4 word challanges occurred at probability of 0.0016962237967186303
+For topic 4 word seeing occurred at probability of 0.0016596759555272708
+For topic 4 word grinding occurred at probability of 0.0016377650845832907
+For topic 4 word abilities occurred at probability of 0.001573583175435545
+For topic 4 word road occurred at probability of 0.0015482403261569075
+For topic 4 word varied occurred at probability of 0.001508987598827114
+For topic 4 word necessary occurred at probability of 0.0014757299237125108
+ 
+ 
+For topic 5 word realy occurred at probability of 0.0039054542641674996
+For topic 5 word wow occurred at probability of 0.0034212593629261508
+For topic 5 word missing occurred at probability of 0.0030115158765180966
+For topic 5 word notice occurred at probability of 0.002045418482470169
+For topic 5 word ti occurred at probability of 0.001820921120259844
+For topic 5 word press occurred at probability of 0.0016443226155023708
+For topic 5 word lovely occurred at probability of 0.001558193450822998
+For topic 5 word disappointing occurred at probability of 0.0014995042800219302
+For topic 5 word challanges occurred at probability of 0.0013601541770646888
+For topic 5 word rushed occurred at probability of 0.001350156927221792
+ 
+ 
+For topic 6 word lags occurred at probability of 0.0028517209339624806
+For topic 6 word important occurred at probability of 0.0018868642501001433
+For topic 6 word abilities occurred at probability of 0.0017848324394530528
+For topic 6 word seeing occurred at probability of 0.001740340143622823
+For topic 6 word wow occurred at probability of 0.001587673762079673
+For topic 6 word stiffy occurred at probability of 0.001524706369354152
+For topic 6 word per occurred at probability of 0.001494363269260281
+For topic 6 word rushed occurred at probability of 0.001480690478008748
+For topic 6 word realy occurred at probability of 0.0014715674726320134
+For topic 6 word perhaps occurred at probability of 0.0014631747168975476
+ 
+ 
+For topic 7 word stiffy occurred at probability of 0.003336767132894153
+For topic 7 word realy occurred at probability of 0.0030324623797307543
+For topic 7 word haha occurred at probability of 0.00203973475797618
+For topic 7 word seeing occurred at probability of 0.0018863728639446878
+For topic 7 word press occurred at probability of 0.0017752183356850846
+For topic 7 word ti occurred at probability of 0.001770686010145275
+For topic 7 word important occurred at probability of 0.001720394655441968
+For topic 7 word atleast occurred at probability of 0.0015572932874904479
+For topic 7 word bland occurred at probability of 0.0015300243676579452
+For topic 7 word wow occurred at probability of 0.0014862834808120025
+ 
+ 
+For topic 8 word stiffy occurred at probability of 0.002466619561619953
+For topic 8 word press occurred at probability of 0.002088840098277164
+For topic 8 word abilities occurred at probability of 0.0018831012920496589
+For topic 8 word realy occurred at probability of 0.0017440120058679124
+For topic 8 word wow occurred at probability of 0.0016921919531469498
+For topic 8 word seeing occurred at probability of 0.0016528302961215297
+For topic 8 word knew occurred at probability of 0.001484034482960623
+For topic 8 word lovely occurred at probability of 0.00138220950652274
+For topic 8 word instantly occurred at probability of 0.001323310673319664
+For topic 8 word cup occurred at probability of 0.0012685839348773546
+ 
+ 
+For topic 9 word wow occurred at probability of 0.003689477771760099
+For topic 9 word stiffy occurred at probability of 0.0030832445626374832
+For topic 9 word missing occurred at probability of 0.002742701531756088
+For topic 9 word lags occurred at probability of 0.002323761566033052
+For topic 9 word abilities occurred at probability of 0.002250400089571599
+For topic 9 word seeing occurred at probability of 0.0019858298939295443
+For topic 9 word press occurred at probability of 0.001952480806127325
+For topic 9 word notice occurred at probability of 0.0018092159500211547
+For topic 9 word hooks occurred at probability of 0.0018067380557294304
+For topic 9 word designed occurred at probability of 0.0017752857977248624
+ 
+ 
+For topic 10 word hooks occurred at probability of 0.0020049421447994003
+For topic 10 word villages occurred at probability of 0.00181551684796373
+For topic 10 word abilities occurred at probability of 0.0016555588720517714
+For topic 10 word seeing occurred at probability of 0.0016201432715883693
+For topic 10 word combo occurred at probability of 0.001502818776331463
+For topic 10 word realy occurred at probability of 0.001482372080392467
+For topic 10 word road occurred at probability of 0.0013634458137763462
+For topic 10 word grinding occurred at probability of 0.0013562383476949207
+For topic 10 word heist occurred at probability of 0.001344612916498352
+For topic 10 word object occurred at probability of 0.0012903355848809103
+ 
+ 

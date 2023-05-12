@@ -1,0 +1,120 @@
+For topic 1 word city occurred at probability of 0.037139499907407635
+For topic 1 word mods occurred at probability of 0.015600477962373441
+For topic 1 word good occurred at probability of 0.015304235280450192
+For topic 1 word cities occurred at probability of 0.014208642127859727
+For topic 1 word fun occurred at probability of 0.010677689541647965
+For topic 1 word simcity occurred at probability of 0.009891038116117511
+For topic 1 word builder occurred at probability of 0.009746970004922738
+For topic 1 word really occurred at probability of 0.00920514920586095
+For topic 1 word build occurred at probability of 0.00835822955434036
+For topic 1 word like occurred at probability of 0.008320566659795785
+ 
+ 
+For topic 2 word city occurred at probability of 0.03746766376996872
+For topic 2 word good occurred at probability of 0.01607751213189499
+For topic 2 word like occurred at probability of 0.014189931437105166
+For topic 2 word great occurred at probability of 0.013458357870649001
+For topic 2 word one occurred at probability of 0.013328492522165189
+For topic 2 word dlc occurred at probability of 0.00988377601707096
+For topic 2 word play occurred at probability of 0.009771148463612754
+For topic 2 word simcity occurred at probability of 0.009304935597450194
+For topic 2 word hours occurred at probability of 0.008718888698495303
+For topic 2 word make occurred at probability of 0.008468048522748428
+ 
+ 
+For topic 3 word city occurred at probability of 0.04756795660810469
+For topic 3 word building occurred at probability of 0.013832290546233606
+For topic 3 word love occurred at probability of 0.013571027458171889
+For topic 3 word play occurred at probability of 0.012765187635282938
+For topic 3 word really occurred at probability of 0.009921180342776401
+For topic 3 word mods occurred at probability of 0.009507542007359817
+For topic 3 word would occurred at probability of 0.008435101411698794
+For topic 3 word builder occurred at probability of 0.008140027459215556
+For topic 3 word sim occurred at probability of 0.007908246945454288
+For topic 3 word want occurred at probability of 0.007401644033293847
+ 
+ 
+For topic 4 word city occurred at probability of 0.03010421253545767
+For topic 4 word fun occurred at probability of 0.019675498493152064
+For topic 4 word good occurred at probability of 0.015214862718850418
+For topic 4 word best occurred at probability of 0.014252992841852892
+For topic 4 word mods occurred at probability of 0.013131790518082649
+For topic 4 word like occurred at probability of 0.011458816395601172
+For topic 4 word one occurred at probability of 0.010881211199426807
+For topic 4 word really occurred at probability of 0.010026941355881168
+For topic 4 word great occurred at probability of 0.009341353505187262
+For topic 4 word would occurred at probability of 0.009238087665640098
+ 
+ 
+For topic 5 word city occurred at probability of 0.022023585215688184
+For topic 5 word good occurred at probability of 0.019687259035851834
+For topic 5 word great occurred at probability of 0.017258204535555332
+For topic 5 word cities occurred at probability of 0.015334699528724073
+For topic 5 word mods occurred at probability of 0.014203908949757796
+For topic 5 word play occurred at probability of 0.012955183669033202
+For topic 5 word building occurred at probability of 0.011851166365819116
+For topic 5 word one occurred at probability of 0.011244076938152759
+For topic 5 word sim occurred at probability of 0.011020719015410586
+For topic 5 word would occurred at probability of 0.01049970497460806
+ 
+ 
+For topic 6 word good occurred at probability of 0.02199048696071389
+For topic 6 word much occurred at probability of 0.013371928437076868
+For topic 6 word dlc occurred at probability of 0.012880447166362234
+For topic 6 word build occurred at probability of 0.012877070544360778
+For topic 6 word get occurred at probability of 0.012190741931696048
+For topic 6 word love occurred at probability of 0.011720133221312502
+For topic 6 word games occurred at probability of 0.010280277726361333
+For topic 6 word building occurred at probability of 0.009581748362689794
+For topic 6 word better occurred at probability of 0.009489814491641236
+For topic 6 word great occurred at probability of 0.008900857933902818
+ 
+ 
+For topic 7 word city occurred at probability of 0.030207922701737843
+For topic 7 word like occurred at probability of 0.0179257300936513
+For topic 7 word cities occurred at probability of 0.016864493146655644
+For topic 7 word play occurred at probability of 0.015186764477525054
+For topic 7 word best occurred at probability of 0.014127803551331518
+For topic 7 word building occurred at probability of 0.012826080757165483
+For topic 7 word time occurred at probability of 0.012037290004744261
+For topic 7 word great occurred at probability of 0.011817615805025546
+For topic 7 word much occurred at probability of 0.010364824938643524
+For topic 7 word love occurred at probability of 0.01005147484814531
+ 
+ 
+For topic 8 word city occurred at probability of 0.042215814374959235
+For topic 8 word cities occurred at probability of 0.019024289929012308
+For topic 8 word get occurred at probability of 0.013138829246318057
+For topic 8 word like occurred at probability of 0.013054632926133443
+For topic 8 word fun occurred at probability of 0.011195324154305937
+For topic 8 word really occurred at probability of 0.01067276678234941
+For topic 8 word would occurred at probability of 0.010562982159398429
+For topic 8 word time occurred at probability of 0.009344035051577122
+For topic 8 word one occurred at probability of 0.009027827289365313
+For topic 8 word love occurred at probability of 0.008486429304024807
+ 
+ 
+For topic 9 word city occurred at probability of 0.0465797560084494
+For topic 9 word fun occurred at probability of 0.022138878299311764
+For topic 9 word like occurred at probability of 0.018993694983282856
+For topic 9 word building occurred at probability of 0.013795108949116522
+For topic 9 word simcity occurred at probability of 0.013305107059647164
+For topic 9 word best occurred at probability of 0.013286524180238403
+For topic 9 word great occurred at probability of 0.012046256122281924
+For topic 9 word really occurred at probability of 0.011127342007964627
+For topic 9 word sim occurred at probability of 0.010750078935026624
+For topic 9 word good occurred at probability of 0.01005649438349991
+ 
+ 
+For topic 10 word good occurred at probability of 0.017418938034117273
+For topic 10 word great occurred at probability of 0.016398363465674685
+For topic 10 word like occurred at probability of 0.015813650860908576
+For topic 10 word city occurred at probability of 0.015002926908094613
+For topic 10 word dlc occurred at probability of 0.012119817709014184
+For topic 10 word simcity occurred at probability of 0.011833136948175695
+For topic 10 word much occurred at probability of 0.011494856247017049
+For topic 10 word time occurred at probability of 0.010696554207576675
+For topic 10 word one occurred at probability of 0.008899284404915503
+For topic 10 word better occurred at probability of 0.008519784232070955
+ 
+ 

@@ -1,0 +1,120 @@
+For topic 1 word one occurred at probability of 0.022996508019970146
+For topic 1 word get occurred at probability of 0.017332782423606596
+For topic 1 word time occurred at probability of 0.017317401466088633
+For topic 1 word ever occurred at probability of 0.015684471440276668
+For topic 1 word play occurred at probability of 0.015000420168435146
+For topic 1 word buy occurred at probability of 0.014152483217119023
+For topic 1 word dont occurred at probability of 0.011744662049053877
+For topic 1 word servers occurred at probability of 0.009874841621362838
+For topic 1 word server occurred at probability of 0.009403114236965092
+For topic 1 word worst occurred at probability of 0.00901012231878604
+ 
+ 
+For topic 2 word one occurred at probability of 0.02219261435899519
+For topic 2 word like occurred at probability of 0.015013668679226651
+For topic 2 word bad occurred at probability of 0.013606622975175694
+For topic 2 word play occurred at probability of 0.01348885043866425
+For topic 2 word ever occurred at probability of 0.013033654393480684
+For topic 2 word would occurred at probability of 0.013021618809920381
+For topic 2 word time occurred at probability of 0.01187057457676972
+For topic 2 word people occurred at probability of 0.010712176818955386
+For topic 2 word dont occurred at probability of 0.01007372013370622
+For topic 2 word get occurred at probability of 0.009392167231461516
+ 
+ 
+For topic 3 word bad occurred at probability of 0.020426526829595608
+For topic 3 word get occurred at probability of 0.01927632384068058
+For topic 3 word play occurred at probability of 0.01763505973687283
+For topic 3 word shit occurred at probability of 0.016018623039618318
+For topic 3 word early occurred at probability of 0.010540439880232266
+For topic 3 word time occurred at probability of 0.010295221745086208
+For topic 3 word worst occurred at probability of 0.010153655781929706
+For topic 3 word friends occurred at probability of 0.009158613869332732
+For topic 3 word playing occurred at probability of 0.008206407252227434
+For topic 3 word back occurred at probability of 0.0077468131862484775
+ 
+ 
+For topic 4 word play occurred at probability of 0.027308906499518597
+For topic 4 word bad occurred at probability of 0.019764437447782113
+For topic 4 word dont occurred at probability of 0.015774469477135452
+For topic 4 word one occurred at probability of 0.014944146179771446
+For topic 4 word buy occurred at probability of 0.013263231200411871
+For topic 4 word people occurred at probability of 0.011851809898798872
+For topic 4 word shit occurred at probability of 0.011609479008903578
+For topic 4 word playing occurred at probability of 0.011360331677983865
+For topic 4 word server occurred at probability of 0.010443880784002376
+For topic 4 word cant occurred at probability of 0.009282802798336837
+ 
+ 
+For topic 5 word like occurred at probability of 0.015580004089098603
+For topic 5 word shit occurred at probability of 0.01421171757669044
+For topic 5 word people occurred at probability of 0.01373483078063413
+For topic 5 word buy occurred at probability of 0.013510840606217276
+For topic 5 word get occurred at probability of 0.011491529972969124
+For topic 5 word review occurred at probability of 0.010366894563111571
+For topic 5 word server occurred at probability of 0.009395107111817968
+For topic 5 word could occurred at probability of 0.009245770955306739
+For topic 5 word cents occurred at probability of 0.008750695730683001
+For topic 5 word servers occurred at probability of 0.007835004205065249
+ 
+ 
+For topic 6 word play occurred at probability of 0.01884311694377522
+For topic 6 word servers occurred at probability of 0.0179854648472969
+For topic 6 word ever occurred at probability of 0.015441443648768803
+For topic 6 word get occurred at probability of 0.013996390694913766
+For topic 6 word like occurred at probability of 0.013769359914072892
+For topic 6 word bad occurred at probability of 0.011884493258147374
+For topic 6 word cant occurred at probability of 0.011591329112072758
+For topic 6 word buy occurred at probability of 0.010774713895179137
+For topic 6 word worst occurred at probability of 0.008774404783427846
+For topic 6 word would occurred at probability of 0.008354327977137272
+ 
+ 
+For topic 7 word time occurred at probability of 0.020054689237573455
+For topic 7 word get occurred at probability of 0.01801227772370592
+For topic 7 word dont occurred at probability of 0.014277736085245653
+For topic 7 word bad occurred at probability of 0.014229026741991412
+For topic 7 word shit occurred at probability of 0.013633243046182788
+For topic 7 word people occurred at probability of 0.013082635439825633
+For topic 7 word one occurred at probability of 0.012968886888062263
+For topic 7 word fun occurred at probability of 0.01161858712821588
+For topic 7 word cant occurred at probability of 0.009837008220963351
+For topic 7 word play occurred at probability of 0.009656609546634888
+ 
+ 
+For topic 8 word dont occurred at probability of 0.02546606122119835
+For topic 8 word one occurred at probability of 0.023337232574628747
+For topic 8 word get occurred at probability of 0.01445285584600546
+For topic 8 word ever occurred at probability of 0.01375990454381113
+For topic 8 word servers occurred at probability of 0.013544280339963268
+For topic 8 word friends occurred at probability of 0.013027636804272527
+For topic 8 word like occurred at probability of 0.011807526393903724
+For topic 8 word would occurred at probability of 0.011594780277579894
+For topic 8 word review occurred at probability of 0.009928100320173045
+For topic 8 word server occurred at probability of 0.009589366885127576
+ 
+ 
+For topic 9 word get occurred at probability of 0.01831672776097313
+For topic 9 word like occurred at probability of 0.014202282464930206
+For topic 9 word people occurred at probability of 0.013581801735974697
+For topic 9 word would occurred at probability of 0.012153051318264826
+For topic 9 word worst occurred at probability of 0.010613120794534357
+For topic 9 word shit occurred at probability of 0.010405702577797908
+For topic 9 word got occurred at probability of 0.010195875957240601
+For topic 9 word played occurred at probability of 0.009375297443279857
+For topic 9 word games occurred at probability of 0.009234357031797234
+For topic 9 word one occurred at probability of 0.008848253719227078
+ 
+ 
+For topic 10 word dont occurred at probability of 0.024511723986176872
+For topic 10 word get occurred at probability of 0.017167671434444403
+For topic 10 word servers occurred at probability of 0.015499192073546247
+For topic 10 word time occurred at probability of 0.015455381382737337
+For topic 10 word buy occurred at probability of 0.013646842539554706
+For topic 10 word would occurred at probability of 0.01302258415853621
+For topic 10 word one occurred at probability of 0.012517560845249742
+For topic 10 word games occurred at probability of 0.012181565849982309
+For topic 10 word bad occurred at probability of 0.012125232192920707
+For topic 10 word play occurred at probability of 0.01164458251412193
+ 
+ 

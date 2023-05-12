@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.08403643993624013
+For topic 1 word like occurred at probability of 0.029474019140535195
+For topic 1 word good occurred at probability of 0.015555951992202305
+For topic 1 word even occurred at probability of 0.012255645501024306
+For topic 1 word play occurred at probability of 0.012104007768892922
+For topic 1 word fun occurred at probability of 0.01048570122365472
+For topic 1 word stalker occurred at probability of 0.009783308236325018
+For topic 1 word free occurred at probability of 0.007653774318496221
+For topic 1 word quests occurred at probability of 0.007493477674426867
+For topic 1 word much occurred at probability of 0.007407119109902824
+ 
+ 
+For topic 2 word game occurred at probability of 0.09761293004025033
+For topic 2 word good occurred at probability of 0.02105904610765119
+For topic 2 word dont occurred at probability of 0.015177264713810744
+For topic 2 word play occurred at probability of 0.011917921616694875
+For topic 2 word playing occurred at probability of 0.00834394540658384
+For topic 2 word graphics occurred at probability of 0.007027370560386746
+For topic 2 word played occurred at probability of 0.006944605242134012
+For topic 2 word great occurred at probability of 0.006607743913325487
+For topic 2 word get occurred at probability of 0.0063848649677262
+For topic 2 word know occurred at probability of 0.005555044735271688
+ 
+ 
+For topic 3 word game occurred at probability of 0.07765585308530873
+For topic 3 word good occurred at probability of 0.014830490201962556
+For topic 3 word time occurred at probability of 0.014744765945319848
+For topic 3 word stalker occurred at probability of 0.014602716393406314
+For topic 3 word get occurred at probability of 0.010814933302321389
+For topic 3 word make occurred at probability of 0.009664105788638919
+For topic 3 word would occurred at probability of 0.007854203517279747
+For topic 3 word great occurred at probability of 0.00771879747789654
+For topic 3 word quests occurred at probability of 0.007685350647354298
+For topic 3 word fun occurred at probability of 0.007263908315914745
+ 
+ 
+For topic 4 word game occurred at probability of 0.06422145461313125
+For topic 4 word time occurred at probability of 0.01926334792076047
+For topic 4 word get occurred at probability of 0.018444894989347385
+For topic 4 word play occurred at probability of 0.014291606825956699
+For topic 4 word tutorial occurred at probability of 0.013391137568592127
+For topic 4 word good occurred at probability of 0.012998935017759903
+For topic 4 word games occurred at probability of 0.008720746532525109
+For topic 4 word would occurred at probability of 0.00842022966523546
+For topic 4 word free occurred at probability of 0.008182979837635735
+For topic 4 word played occurred at probability of 0.008026749542003046
+ 
+ 
+For topic 5 word game occurred at probability of 0.07285360983885569
+For topic 5 word like occurred at probability of 0.025310895151013355
+For topic 5 word play occurred at probability of 0.013384222172336153
+For topic 5 word get occurred at probability of 0.013247847114012347
+For topic 5 word better occurred at probability of 0.012264548817783326
+For topic 5 word really occurred at probability of 0.011749156225493195
+For topic 5 word fun occurred at probability of 0.01169244204723954
+For topic 5 word good occurred at probability of 0.011426483748428508
+For topic 5 word stalker occurred at probability of 0.010276615710201534
+For topic 5 word tutorial occurred at probability of 0.0098834071048886
+ 
+ 
+For topic 6 word like occurred at probability of 0.03484108812854931
+For topic 6 word dont occurred at probability of 0.01668539827872093
+For topic 6 word fun occurred at probability of 0.01398932941157814
+For topic 6 word really occurred at probability of 0.013944225088653629
+For topic 6 word tutorial occurred at probability of 0.012903935906022828
+For topic 6 word games occurred at probability of 0.01092656614255226
+For topic 6 word free occurred at probability of 0.010135763081981483
+For topic 6 word first occurred at probability of 0.009013282825589325
+For topic 6 word would occurred at probability of 0.008678460423518122
+For topic 6 word quests occurred at probability of 0.008325404819805947
+ 
+ 
+For topic 7 word game occurred at probability of 0.05729532587874484
+For topic 7 word good occurred at probability of 0.03370005307342764
+For topic 7 word get occurred at probability of 0.0200490192861765
+For topic 7 word dont occurred at probability of 0.01723301138717627
+For topic 7 word play occurred at probability of 0.013566593821361711
+For topic 7 word fun occurred at probability of 0.012351247195129984
+For topic 7 word like occurred at probability of 0.012229897145731718
+For topic 7 word stalker occurred at probability of 0.011358230166827856
+For topic 7 word make occurred at probability of 0.009961020919272765
+For topic 7 word tutorial occurred at probability of 0.00987304238336404
+ 
+ 
+For topic 8 word like occurred at probability of 0.037961722406592145
+For topic 8 word good occurred at probability of 0.03433312253511759
+For topic 8 word game occurred at probability of 0.028998127114959242
+For topic 8 word tutorial occurred at probability of 0.013117724564782367
+For topic 8 word really occurred at probability of 0.012471860420279124
+For topic 8 word fun occurred at probability of 0.011669041578177958
+For topic 8 word dont occurred at probability of 0.01155828147791492
+For topic 8 word get occurred at probability of 0.010061418996857023
+For topic 8 word play occurred at probability of 0.006888317035344924
+For topic 8 word games occurred at probability of 0.006123378850302563
+ 
+ 
+For topic 9 word like occurred at probability of 0.03451966489118751
+For topic 9 word game occurred at probability of 0.023710836645040523
+For topic 9 word really occurred at probability of 0.014829201136315915
+For topic 9 word get occurred at probability of 0.01447707502071374
+For topic 9 word even occurred at probability of 0.009377632510706915
+For topic 9 word time occurred at probability of 0.008859936220079669
+For topic 9 word free occurred at probability of 0.008632410187574852
+For topic 9 word games occurred at probability of 0.008390019303823238
+For topic 9 word one occurred at probability of 0.007061298188369058
+For topic 9 word find occurred at probability of 0.006754498749422578
+ 
+ 
+For topic 10 word game occurred at probability of 0.06171304980864115
+For topic 10 word get occurred at probability of 0.016306569063162902
+For topic 10 word time occurred at probability of 0.01443297469316862
+For topic 10 word fun occurred at probability of 0.013851264181811823
+For topic 10 word games occurred at probability of 0.009319504055479821
+For topic 10 word like occurred at probability of 0.009172224062529948
+For topic 10 word love occurred at probability of 0.008896000857229969
+For topic 10 word go occurred at probability of 0.008560347098324624
+For topic 10 word hours occurred at probability of 0.008219527686910357
+For topic 10 word play occurred at probability of 0.00803396378089084
+ 
+ 

@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.05239314315290504
+For topic 1 word dungeon occurred at probability of 0.01351484094156559
+For topic 1 word hard occurred at probability of 0.01170434184479291
+For topic 1 word darkest occurred at probability of 0.008333527360803237
+For topic 1 word stress occurred at probability of 0.008160829747248457
+For topic 1 word go occurred at probability of 0.007287124077432781
+For topic 1 word get occurred at probability of 0.007147972311322122
+For topic 1 word much occurred at probability of 0.006836416139476557
+For topic 1 word really occurred at probability of 0.006734724875842813
+For topic 1 word characters occurred at probability of 0.00636394824675816
+ 
+ 
+For topic 2 word game occurred at probability of 0.07197954162335539
+For topic 2 word get occurred at probability of 0.011455843340682536
+For topic 2 word hard occurred at probability of 0.011448695840322265
+For topic 2 word rng occurred at probability of 0.008671296509667907
+For topic 2 word like occurred at probability of 0.00836349407264264
+For topic 2 word dungeon occurred at probability of 0.008323518031175646
+For topic 2 word characters occurred at probability of 0.007981006193583681
+For topic 2 word time occurred at probability of 0.007834283145051567
+For topic 2 word stress occurred at probability of 0.00666022312008861
+For topic 2 word heroes occurred at probability of 0.006365314460765228
+ 
+ 
+For topic 3 word game occurred at probability of 0.040643487490438855
+For topic 3 word like occurred at probability of 0.01140161887198852
+For topic 3 word time occurred at probability of 0.010702631645840309
+For topic 3 word one occurred at probability of 0.01057514378766763
+For topic 3 word dungeon occurred at probability of 0.010544512757191368
+For topic 3 word get occurred at probability of 0.01041599249423936
+For topic 3 word party occurred at probability of 0.008181033587562923
+For topic 3 word die occurred at probability of 0.008012207787083205
+For topic 3 word go occurred at probability of 0.006187592567583749
+For topic 3 word fun occurred at probability of 0.006054945189497512
+ 
+ 
+For topic 4 word game occurred at probability of 0.020398660054333502
+For topic 4 word get occurred at probability of 0.015670227170962808
+For topic 4 word time occurred at probability of 0.010926772101846291
+For topic 4 word play occurred at probability of 0.01011709290657808
+For topic 4 word rng occurred at probability of 0.008624821148653504
+For topic 4 word stress occurred at probability of 0.00830803763388898
+For topic 4 word would occurred at probability of 0.008253114755857589
+For topic 4 word dungeon occurred at probability of 0.00670340962081117
+For topic 4 word games occurred at probability of 0.006432966521863625
+For topic 4 word much occurred at probability of 0.0064273972540870965
+ 
+ 
+For topic 5 word even occurred at probability of 0.009194976795537655
+For topic 5 word well occurred at probability of 0.009077018411412093
+For topic 5 word party occurred at probability of 0.008978636807715283
+For topic 5 word darkest occurred at probability of 0.00896492992322925
+For topic 5 word die occurred at probability of 0.008503052459462262
+For topic 5 word one occurred at probability of 0.007209197445165749
+For topic 5 word good occurred at probability of 0.007129857598539935
+For topic 5 word get occurred at probability of 0.007019652192286768
+For topic 5 word dont occurred at probability of 0.006611227854406654
+For topic 5 word game occurred at probability of 0.0065258322415212506
+ 
+ 
+For topic 6 word game occurred at probability of 0.07598162782153633
+For topic 6 word even occurred at probability of 0.010113729942931133
+For topic 6 word dont occurred at probability of 0.00912173373291126
+For topic 6 word party occurred at probability of 0.008424527006281594
+For topic 6 word really occurred at probability of 0.00706948562952882
+For topic 6 word dungeon occurred at probability of 0.006635620633803594
+For topic 6 word die occurred at probability of 0.006285376946642948
+For topic 6 word good occurred at probability of 0.006228599139070051
+For topic 6 word first occurred at probability of 0.0060885217189083005
+For topic 6 word fun occurred at probability of 0.006003429384481976
+ 
+ 
+For topic 7 word game occurred at probability of 0.04566094997509017
+For topic 7 word get occurred at probability of 0.017445697150760678
+For topic 7 word one occurred at probability of 0.013997860063528557
+For topic 7 word time occurred at probability of 0.011944394255203388
+For topic 7 word like occurred at probability of 0.009416097753149133
+For topic 7 word go occurred at probability of 0.007828926208456433
+For topic 7 word bad occurred at probability of 0.007191833954142686
+For topic 7 word rng occurred at probability of 0.006377315370635122
+For topic 7 word dungeon occurred at probability of 0.006017929554724478
+For topic 7 word great occurred at probability of 0.005867130688768337
+ 
+ 
+For topic 8 word game occurred at probability of 0.017938694831895797
+For topic 8 word one occurred at probability of 0.013546092509737411
+For topic 8 word dungeon occurred at probability of 0.012848311249480894
+For topic 8 word stress occurred at probability of 0.007494624186990729
+For topic 8 word like occurred at probability of 0.0072896957037466535
+For topic 8 word get occurred at probability of 0.006920275307015058
+For topic 8 word go occurred at probability of 0.006627803037298987
+For topic 8 word characters occurred at probability of 0.006128321542171596
+For topic 8 word think occurred at probability of 0.005554517435829575
+For topic 8 word great occurred at probability of 0.005355215927931315
+ 
+ 
+For topic 9 word dungeon occurred at probability of 0.014264514263020127
+For topic 9 word game occurred at probability of 0.01384819489845982
+For topic 9 word darkest occurred at probability of 0.009730611781918762
+For topic 9 word dont occurred at probability of 0.009353635173113972
+For topic 9 word play occurred at probability of 0.009082708465863561
+For topic 9 word characters occurred at probability of 0.007956730357685815
+For topic 9 word bad occurred at probability of 0.007753435294314037
+For topic 9 word time occurred at probability of 0.007730563607438275
+For topic 9 word like occurred at probability of 0.007546354067385799
+For topic 9 word heroes occurred at probability of 0.007120262480588875
+ 
+ 
+For topic 10 word game occurred at probability of 0.020856108955309052
+For topic 10 word one occurred at probability of 0.01420025891235961
+For topic 10 word characters occurred at probability of 0.009940945760123469
+For topic 10 word darkest occurred at probability of 0.00962648453726017
+For topic 10 word like occurred at probability of 0.009238891983320018
+For topic 10 word die occurred at probability of 0.008536624005810442
+For topic 10 word party occurred at probability of 0.008308204207884412
+For topic 10 word would occurred at probability of 0.008215806584904459
+For topic 10 word dont occurred at probability of 0.007025560277406726
+For topic 10 word really occurred at probability of 0.0061711024252587305
+ 
+ 

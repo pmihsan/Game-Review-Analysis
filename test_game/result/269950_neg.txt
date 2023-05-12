@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.027081700847122914
+For topic 1 word work occurred at probability of 0.013049474073710479
+For topic 1 word steam occurred at probability of 0.012475603153772007
+For topic 1 word simulator occurred at probability of 0.012427411206197905
+For topic 1 word xplane occurred at probability of 0.012055400213921982
+For topic 1 word flight occurred at probability of 0.010712102296252664
+For topic 1 word like occurred at probability of 0.009826709305913594
+For topic 1 word really occurred at probability of 0.009376732586733112
+For topic 1 word still occurred at probability of 0.009319942034471281
+For topic 1 word even occurred at probability of 0.009145517718559776
+ 
+ 
+For topic 2 word xplane occurred at probability of 0.01972122707812876
+For topic 2 word game occurred at probability of 0.014743263458714349
+For topic 2 word fsx occurred at probability of 0.012620429624558708
+For topic 2 word work occurred at probability of 0.01253374830677744
+For topic 2 word vr occurred at probability of 0.011741812696989535
+For topic 2 word steam occurred at probability of 0.010718877845022992
+For topic 2 word atc occurred at probability of 0.010551555123727624
+For topic 2 word cant occurred at probability of 0.008899170153024142
+For topic 2 word really occurred at probability of 0.00860158945155289
+For topic 2 word simulator occurred at probability of 0.00837244793686019
+ 
+ 
+For topic 3 word game occurred at probability of 0.028337797647880806
+For topic 3 word get occurred at probability of 0.016846102126637338
+For topic 3 word sim occurred at probability of 0.015297202426552739
+For topic 3 word atc occurred at probability of 0.012454571467136261
+For topic 3 word planes occurred at probability of 0.011464748185503798
+For topic 3 word would occurred at probability of 0.01047797486234472
+For topic 3 word vr occurred at probability of 0.009753873728516714
+For topic 3 word plane occurred at probability of 0.00949788199672494
+For topic 3 word xplane occurred at probability of 0.008861403741049566
+For topic 3 word dont occurred at probability of 0.008724655238776559
+ 
+ 
+For topic 4 word flight occurred at probability of 0.04003978325546256
+For topic 4 word game occurred at probability of 0.020273110999789984
+For topic 4 word sim occurred at probability of 0.015344294157609357
+For topic 4 word good occurred at probability of 0.01081831782057459
+For topic 4 word buy occurred at probability of 0.010537847707368736
+For topic 4 word fsx occurred at probability of 0.010291373621540204
+For topic 4 word get occurred at probability of 0.010194881542911573
+For topic 4 word plane occurred at probability of 0.008002805626729365
+For topic 4 word bad occurred at probability of 0.007858856408157757
+For topic 4 word even occurred at probability of 0.006854389235969437
+ 
+ 
+For topic 5 word game occurred at probability of 0.0610975224303506
+For topic 5 word xplane occurred at probability of 0.019740638408707715
+For topic 5 word flight occurred at probability of 0.017522600897599237
+For topic 5 word sim occurred at probability of 0.013966705934105332
+For topic 5 word steam occurred at probability of 0.012681508994409186
+For topic 5 word fsx occurred at probability of 0.010420144108871505
+For topic 5 word simulator occurred at probability of 0.009567350043016227
+For topic 5 word still occurred at probability of 0.00946542392590954
+For topic 5 word plane occurred at probability of 0.009043560216830024
+For topic 5 word atc occurred at probability of 0.008531068930306229
+ 
+ 
+For topic 6 word game occurred at probability of 0.04906097753384155
+For topic 6 word get occurred at probability of 0.027948137601556327
+For topic 6 word flight occurred at probability of 0.015190302278046767
+For topic 6 word vr occurred at probability of 0.013498056858825413
+For topic 6 word sim occurred at probability of 0.010386133016383994
+For topic 6 word time occurred at probability of 0.009506010979079143
+For topic 6 word even occurred at probability of 0.008813301223861501
+For topic 6 word money occurred at probability of 0.008769477191324386
+For topic 6 word bad occurred at probability of 0.00825931626724044
+For topic 6 word im occurred at probability of 0.008038588018728676
+ 
+ 
+For topic 7 word game occurred at probability of 0.04405863130082571
+For topic 7 word flight occurred at probability of 0.024226934855503642
+For topic 7 word buy occurred at probability of 0.01723345814999843
+For topic 7 word get occurred at probability of 0.011062352168642623
+For topic 7 word im occurred at probability of 0.009295074381299413
+For topic 7 word one occurred at probability of 0.008932076941426902
+For topic 7 word dont occurred at probability of 0.008915387739222654
+For topic 7 word money occurred at probability of 0.008700638590020883
+For topic 7 word simulator occurred at probability of 0.008407567209942844
+For topic 7 word wont occurred at probability of 0.007876215392577601
+ 
+ 
+For topic 8 word get occurred at probability of 0.028121292580574265
+For topic 8 word xplane occurred at probability of 0.020861758262528434
+For topic 8 word game occurred at probability of 0.016049227448551678
+For topic 8 word simulator occurred at probability of 0.011698239313161019
+For topic 8 word work occurred at probability of 0.010546320545457405
+For topic 8 word even occurred at probability of 0.010021331820737674
+For topic 8 word good occurred at probability of 0.009787824171338177
+For topic 8 word fsx occurred at probability of 0.0087234589762101
+For topic 8 word much occurred at probability of 0.008717749067713302
+For topic 8 word atc occurred at probability of 0.0082393126537384
+ 
+ 
+For topic 9 word get occurred at probability of 0.017229641769989017
+For topic 9 word flight occurred at probability of 0.01609156692822814
+For topic 9 word atc occurred at probability of 0.01430929022512856
+For topic 9 word buy occurred at probability of 0.013417961195210023
+For topic 9 word planes occurred at probability of 0.011943792051754895
+For topic 9 word time occurred at probability of 0.011212559959520068
+For topic 9 word dont occurred at probability of 0.011188899075276306
+For topic 9 word one occurred at probability of 0.010685737572194876
+For topic 9 word vr occurred at probability of 0.01004787417155687
+For topic 9 word game occurred at probability of 0.009851599206031453
+ 
+ 
+For topic 10 word game occurred at probability of 0.03228679538797709
+For topic 10 word flight occurred at probability of 0.021693428580322412
+For topic 10 word sim occurred at probability of 0.015595171135499577
+For topic 10 word graphics occurred at probability of 0.01371119353609932
+For topic 10 word aircraft occurred at probability of 0.011786406930249394
+For topic 10 word really occurred at probability of 0.010726187485371132
+For topic 10 word simulator occurred at probability of 0.010319973505227831
+For topic 10 word atc occurred at probability of 0.009084824602153044
+For topic 10 word even occurred at probability of 0.00846060608688476
+For topic 10 word xplane occurred at probability of 0.008360396050232548
+ 
+ 

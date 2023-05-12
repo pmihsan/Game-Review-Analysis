@@ -1,0 +1,120 @@
+For topic 1 word pink occurred at probability of 0.010249177046862781
+For topic 1 word fucking occurred at probability of 0.008317074372558991
+For topic 1 word real occurred at probability of 0.005902643358111898
+For topic 1 word hate occurred at probability of 0.005699377095540666
+For topic 1 word farming occurred at probability of 0.005283178461380445
+For topic 1 word easy occurred at probability of 0.0050796230166994735
+For topic 1 word suck occurred at probability of 0.004961812825780756
+For topic 1 word graphics occurred at probability of 0.004919747020037751
+For topic 1 word anyone occurred at probability of 0.00468217490065194
+For topic 1 word bugs occurred at probability of 0.004176376789512335
+ 
+ 
+For topic 2 word hate occurred at probability of 0.005581070071737053
+For topic 2 word full occurred at probability of 0.005553117552112728
+For topic 2 word computer occurred at probability of 0.0052231800884031555
+For topic 2 word looking occurred at probability of 0.00515401683766872
+For topic 2 word pretty occurred at probability of 0.004420651779947949
+For topic 2 word suck occurred at probability of 0.00421831939005316
+For topic 2 word food occurred at probability of 0.00409762101402858
+For topic 2 word years occurred at probability of 0.003969510803749005
+For topic 2 word anyone occurred at probability of 0.003965478665186009
+For topic 2 word enjoyable occurred at probability of 0.003715006308093772
+ 
+ 
+For topic 3 word work occurred at probability of 0.007874880557950908
+For topic 3 word fucking occurred at probability of 0.007318268922071584
+For topic 3 word tarr occurred at probability of 0.0063180843617710045
+For topic 3 word bugs occurred at probability of 0.005225361663454497
+For topic 3 word full occurred at probability of 0.005029447895991595
+For topic 3 word thought occurred at probability of 0.0049248777663749785
+For topic 3 word give occurred at probability of 0.004908920697112318
+For topic 3 word seen occurred at probability of 0.004210136259834239
+For topic 3 word sad occurred at probability of 0.00413086991077586
+For topic 3 word suck occurred at probability of 0.004092976145929442
+ 
+ 
+For topic 4 word give occurred at probability of 0.007309273541956159
+For topic 4 word damn occurred at probability of 0.006967840796311716
+For topic 4 word fucking occurred at probability of 0.006881914498713006
+For topic 4 word hate occurred at probability of 0.005681360211622845
+For topic 4 word sad occurred at probability of 0.0050061102961091114
+For topic 4 word enough occurred at probability of 0.004698500210492041
+For topic 4 word tarr occurred at probability of 0.0044822662261355065
+For topic 4 word u occurred at probability of 0.004442996459796398
+For topic 4 word food occurred at probability of 0.004206155567214252
+For topic 4 word bored occurred at probability of 0.004143171972813676
+ 
+ 
+For topic 5 word pink occurred at probability of 0.008551773651688627
+For topic 5 word gonna occurred at probability of 0.006862791121162465
+For topic 5 word damn occurred at probability of 0.005478984195432951
+For topic 5 word farming occurred at probability of 0.0052250248992816595
+For topic 5 word computer occurred at probability of 0.0049728897372231535
+For topic 5 word easy occurred at probability of 0.004496499618686977
+For topic 5 word without occurred at probability of 0.004377130776929655
+For topic 5 word enough occurred at probability of 0.004259684713018862
+For topic 5 word chill occurred at probability of 0.004001970900335567
+For topic 5 word water occurred at probability of 0.003991295480877737
+ 
+ 
+For topic 6 word fucking occurred at probability of 0.007779916972215093
+For topic 6 word food occurred at probability of 0.00630055799258363
+For topic 6 word work occurred at probability of 0.004918434717980353
+For topic 6 word sure occurred at probability of 0.004784906117064587
+For topic 6 word suck occurred at probability of 0.0046626358986818495
+For topic 6 word full occurred at probability of 0.004574138563900075
+For topic 6 word access occurred at probability of 0.004414225302943445
+For topic 6 word chill occurred at probability of 0.004173436030267714
+For topic 6 word let occurred at probability of 0.004148750300502804
+For topic 6 word hate occurred at probability of 0.0036327425616258235
+ 
+ 
+For topic 7 word pink occurred at probability of 0.008599219400300286
+For topic 7 word give occurred at probability of 0.006203874193235008
+For topic 7 word real occurred at probability of 0.0059931627635080665
+For topic 7 word bugs occurred at probability of 0.004863727506369035
+For topic 7 word enough occurred at probability of 0.0045824265323856075
+For topic 7 word full occurred at probability of 0.004272203108301847
+For topic 7 word food occurred at probability of 0.0042246339123248496
+For topic 7 word bored occurred at probability of 0.004197369716313439
+For topic 7 word computer occurred at probability of 0.003921790680793276
+For topic 7 word anything occurred at probability of 0.003884903839533756
+ 
+ 
+For topic 8 word fucking occurred at probability of 0.007878271224481004
+For topic 8 word bought occurred at probability of 0.005183227206468378
+For topic 8 word sad occurred at probability of 0.0049612824035216085
+For topic 8 word looking occurred at probability of 0.0046693683764307175
+For topic 8 word bored occurred at probability of 0.004455372686753442
+For topic 8 word hate occurred at probability of 0.004307278367482021
+For topic 8 word real occurred at probability of 0.004115825463292867
+For topic 8 word areas occurred at probability of 0.003892593822125974
+For topic 8 word water occurred at probability of 0.0038263187569352705
+For topic 8 word sure occurred at probability of 0.0037337173684341197
+ 
+ 
+For topic 9 word fucking occurred at probability of 0.0068485298015128725
+For topic 9 word food occurred at probability of 0.005994017279920524
+For topic 9 word full occurred at probability of 0.005546836618562353
+For topic 9 word farming occurred at probability of 0.00530993341392453
+For topic 9 word bought occurred at probability of 0.005112664490597354
+For topic 9 word suck occurred at probability of 0.0045476000741894625
+For topic 9 word sad occurred at probability of 0.004269866980748057
+For topic 9 word water occurred at probability of 0.004196764422474799
+For topic 9 word tarr occurred at probability of 0.0040396343236833165
+For topic 9 word better occurred at probability of 0.003990187178737517
+ 
+ 
+For topic 10 word pink occurred at probability of 0.011249416528526497
+For topic 10 word gonna occurred at probability of 0.007000278665707402
+For topic 10 word give occurred at probability of 0.00615526634894762
+For topic 10 word tarr occurred at probability of 0.005642444925118684
+For topic 10 word farming occurred at probability of 0.005279307310543919
+For topic 10 word damn occurred at probability of 0.0047270989529280836
+For topic 10 word graphics occurred at probability of 0.0042036290370664016
+For topic 10 word stupid occurred at probability of 0.004115746857960479
+For topic 10 word areas occurred at probability of 0.004109021282116934
+For topic 10 word suck occurred at probability of 0.004087829431193378
+ 
+ 

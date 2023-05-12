@@ -1,0 +1,120 @@
+For topic 1 word horrible occurred at probability of 0.006685495508815986
+For topic 1 word however occurred at probability of 0.006616440981405894
+For topic 1 word finally occurred at probability of 0.004558281199221213
+For topic 1 word dick occurred at probability of 0.004452619971445884
+For topic 1 word gonna occurred at probability of 0.004315578804679576
+For topic 1 word player occurred at probability of 0.0038637752368304076
+For topic 1 word wish occurred at probability of 0.0034204374424099933
+For topic 1 word wanna occurred at probability of 0.0033358582168703252
+For topic 1 word road occurred at probability of 0.003271063718278602
+For topic 1 word cry occurred at probability of 0.0029904164307020904
+ 
+ 
+For topic 2 word nope occurred at probability of 0.007767532845657712
+For topic 2 word finally occurred at probability of 0.005528939951938855
+For topic 2 word feelin occurred at probability of 0.0042865539882013465
+For topic 2 word however occurred at probability of 0.004039733977044381
+For topic 2 word road occurred at probability of 0.003996581226218106
+For topic 2 word master occurred at probability of 0.003908799510539499
+For topic 2 word yes occurred at probability of 0.003819647894439413
+For topic 2 word sure occurred at probability of 0.003432321185394409
+For topic 2 word whole occurred at probability of 0.003387520012301844
+For topic 2 word ass occurred at probability of 0.0033425877320759296
+ 
+ 
+For topic 3 word ass occurred at probability of 0.007869511835438953
+For topic 3 word horrible occurred at probability of 0.0062634781128514515
+For topic 3 word u occurred at probability of 0.005421967092310545
+For topic 3 word review occurred at probability of 0.004397251185416279
+For topic 3 word however occurred at probability of 0.0037409397241980748
+For topic 3 word road occurred at probability of 0.0037243146171879603
+For topic 3 word reach occurred at probability of 0.003659790180749018
+For topic 3 word poor occurred at probability of 0.0034068413216183776
+For topic 3 word gave occurred at probability of 0.0033985467570763184
+For topic 3 word moving occurred at probability of 0.0033430259747165873
+ 
+ 
+For topic 4 word nope occurred at probability of 0.009225526693955472
+For topic 4 word sure occurred at probability of 0.006243817576241068
+For topic 4 word u occurred at probability of 0.005727518560111675
+For topic 4 word ass occurred at probability of 0.0052553068696443595
+For topic 4 word patience occurred at probability of 0.005247363810978659
+For topic 4 word cry occurred at probability of 0.005138185895999115
+For topic 4 word review occurred at probability of 0.004917430337184334
+For topic 4 word whole occurred at probability of 0.0044861755491315165
+For topic 4 word amazing occurred at probability of 0.00343388007209461
+For topic 4 word big occurred at probability of 0.0033685581234913723
+ 
+ 
+For topic 5 word finally occurred at probability of 0.006265499124159695
+For topic 5 word review occurred at probability of 0.004704209023268567
+For topic 5 word throw occurred at probability of 0.004520556555394401
+For topic 5 word however occurred at probability of 0.0038150887149877404
+For topic 5 word bottom occurred at probability of 0.003587955161677859
+For topic 5 word either occurred at probability of 0.003335378827677787
+For topic 5 word started occurred at probability of 0.003183633543399119
+For topic 5 word seriously occurred at probability of 0.0031120247259053334
+For topic 5 word refund occurred at probability of 0.003058625715355444
+For topic 5 word gave occurred at probability of 0.00298359056016761
+ 
+ 
+For topic 6 word nope occurred at probability of 0.0063125048704951526
+For topic 6 word wanna occurred at probability of 0.005930471443853486
+For topic 6 word damn occurred at probability of 0.005517860864840694
+For topic 6 word quotes occurred at probability of 0.00367155161774795
+For topic 6 word relaxing occurred at probability of 0.0035934695415389987
+For topic 6 word simply occurred at probability of 0.003524865259312293
+For topic 6 word simple occurred at probability of 0.0034668983468780197
+For topic 6 word however occurred at probability of 0.00344388753527398
+For topic 6 word wish occurred at probability of 0.0034025161645630684
+For topic 6 word heart occurred at probability of 0.0032798977680609676
+ 
+ 
+For topic 7 word u occurred at probability of 0.005570066249593692
+For topic 7 word finally occurred at probability of 0.005520267057594011
+For topic 7 word sure occurred at probability of 0.005292558819552636
+For topic 7 word ass occurred at probability of 0.004652202444620932
+For topic 7 word wanna occurred at probability of 0.004635824162712945
+For topic 7 word nope occurred at probability of 0.0035205190583374817
+For topic 7 word friends occurred at probability of 0.003407517557420969
+For topic 7 word impossible occurred at probability of 0.003396953388973277
+For topic 7 word gave occurred at probability of 0.0033732683786052327
+For topic 7 word player occurred at probability of 0.0033418248608846853
+ 
+ 
+For topic 8 word nope occurred at probability of 0.006268344239306005
+For topic 8 word u occurred at probability of 0.00570110803391472
+For topic 8 word horrible occurred at probability of 0.004857350972267733
+For topic 8 word finally occurred at probability of 0.004747030272335498
+For topic 8 word wanna occurred at probability of 0.00363853152478158
+For topic 8 word player occurred at probability of 0.003618635258180526
+For topic 8 word pissed occurred at probability of 0.0035476103634228804
+For topic 8 word damn occurred at probability of 0.0034136802866288414
+For topic 8 word gonna occurred at probability of 0.003367357075308341
+For topic 8 word relaxing occurred at probability of 0.0030448281130190263
+ 
+ 
+For topic 9 word nope occurred at probability of 0.010017773534350344
+For topic 9 word damn occurred at probability of 0.0066297596166868065
+For topic 9 word wanna occurred at probability of 0.005726067058367475
+For topic 9 word patience occurred at probability of 0.0053815534821974416
+For topic 9 word u occurred at probability of 0.005102632600357166
+For topic 9 word reach occurred at probability of 0.005028282951051338
+For topic 9 word finally occurred at probability of 0.004637429696681856
+For topic 9 word sure occurred at probability of 0.004110461682317192
+For topic 9 word review occurred at probability of 0.0037788273690910657
+For topic 9 word throw occurred at probability of 0.0036755734638453303
+ 
+ 
+For topic 10 word sure occurred at probability of 0.006821104446053894
+For topic 10 word however occurred at probability of 0.0063905644811122105
+For topic 10 word u occurred at probability of 0.005567485487725921
+For topic 10 word whole occurred at probability of 0.004264279839624028
+For topic 10 word amazing occurred at probability of 0.0036469012716496877
+For topic 10 word impossible occurred at probability of 0.003604516299326633
+For topic 10 word idea occurred at probability of 0.00355869864795003
+For topic 10 word quotes occurred at probability of 0.0033143134273361475
+For topic 10 word simple occurred at probability of 0.003253370723489021
+For topic 10 word moving occurred at probability of 0.0031668997981792496
+ 
+ 

@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.0605916515239218
+For topic 1 word hell occurred at probability of 0.023409706839914623
+For topic 1 word demon occurred at probability of 0.022045351374558608
+For topic 1 word girls occurred at probability of 0.020387677994992793
+For topic 1 word puzzles occurred at probability of 0.013143530182556816
+For topic 1 word one occurred at probability of 0.012773202019400246
+For topic 1 word puzzle occurred at probability of 0.01050042643194056
+For topic 1 word like occurred at probability of 0.010079354777667106
+For topic 1 word free occurred at probability of 0.008726272501167651
+For topic 1 word want occurred at probability of 0.008329016141702129
+ 
+ 
+For topic 2 word demon occurred at probability of 0.024764563336130398
+For topic 2 word girls occurred at probability of 0.022172949185874587
+For topic 2 word game occurred at probability of 0.01918186624906891
+For topic 2 word play occurred at probability of 0.014063761123120884
+For topic 2 word hell occurred at probability of 0.013798900436498823
+For topic 2 word fun occurred at probability of 0.012627634753161037
+For topic 2 word fucking occurred at probability of 0.011851223035496735
+For topic 2 word short occurred at probability of 0.010945751207152481
+For topic 2 word pancakes occurred at probability of 0.010250600605347885
+For topic 2 word best occurred at probability of 0.009074447480596121
+ 
+ 
+For topic 3 word game occurred at probability of 0.023453864258949467
+For topic 3 word girls occurred at probability of 0.02039446913261352
+For topic 3 word demon occurred at probability of 0.018110501675151353
+For topic 3 word free occurred at probability of 0.015890463359742372
+For topic 3 word nightmare occurred at probability of 0.015186735131646494
+For topic 3 word puzzle occurred at probability of 0.014766783858702394
+For topic 3 word bad occurred at probability of 0.013615992849785966
+For topic 3 word good occurred at probability of 0.013398583392081697
+For topic 3 word boss occurred at probability of 0.012972699102008036
+For topic 3 word get occurred at probability of 0.01279074958694581
+ 
+ 
+For topic 4 word game occurred at probability of 0.030615691732440636
+For topic 4 word girls occurred at probability of 0.019575944720494703
+For topic 4 word demon occurred at probability of 0.018560522436673752
+For topic 4 word would occurred at probability of 0.01803887211564004
+For topic 4 word hell occurred at probability of 0.01686320518095181
+For topic 4 word time occurred at probability of 0.011483927472050784
+For topic 4 word go occurred at probability of 0.010931627320377025
+For topic 4 word bad occurred at probability of 0.01072172123878888
+For topic 4 word short occurred at probability of 0.01056541328153855
+For topic 4 word puzzles occurred at probability of 0.009861572995460506
+ 
+ 
+For topic 5 word hell occurred at probability of 0.03129139652273247
+For topic 5 word demon occurred at probability of 0.021820819590479254
+For topic 5 word girls occurred at probability of 0.017455727363697007
+For topic 5 word free occurred at probability of 0.016247823654030987
+For topic 5 word game occurred at probability of 0.014694076869662755
+For topic 5 word hard occurred at probability of 0.014688764683881838
+For topic 5 word good occurred at probability of 0.01250212718836023
+For topic 5 word fuck occurred at probability of 0.011583754478712514
+For topic 5 word puzzles occurred at probability of 0.010963081692707778
+For topic 5 word would occurred at probability of 0.010470422514922426
+ 
+ 
+For topic 6 word game occurred at probability of 0.04439877211222021
+For topic 6 word demon occurred at probability of 0.023260216696209857
+For topic 6 word hell occurred at probability of 0.019691791130403327
+For topic 6 word puzzle occurred at probability of 0.01349334044335803
+For topic 6 word harem occurred at probability of 0.012200663078419712
+For topic 6 word play occurred at probability of 0.011199004946712528
+For topic 6 word go occurred at probability of 0.010634910346010445
+For topic 6 word fucking occurred at probability of 0.010502994994490726
+For topic 6 word hard occurred at probability of 0.010365680417782056
+For topic 6 word art occurred at probability of 0.00991057612513185
+ 
+ 
+For topic 7 word game occurred at probability of 0.08305605812401011
+For topic 7 word hell occurred at probability of 0.026587776204613958
+For topic 7 word hard occurred at probability of 0.015362664987316676
+For topic 7 word puzzles occurred at probability of 0.014101495327340913
+For topic 7 word get occurred at probability of 0.01396872275840588
+For topic 7 word short occurred at probability of 0.01183470438229538
+For topic 7 word play occurred at probability of 0.011331088052272691
+For topic 7 word great occurred at probability of 0.010711805426111531
+For topic 7 word fun occurred at probability of 0.010595704786167524
+For topic 7 word fuck occurred at probability of 0.009549480510617476
+ 
+ 
+For topic 8 word game occurred at probability of 0.07262347572106141
+For topic 8 word hell occurred at probability of 0.026391135063700562
+For topic 8 word would occurred at probability of 0.020882825014350046
+For topic 8 word puzzle occurred at probability of 0.017632259500889185
+For topic 8 word girls occurred at probability of 0.012259599003683255
+For topic 8 word short occurred at probability of 0.010955882466433794
+For topic 8 word harem occurred at probability of 0.010853093701431726
+For topic 8 word good occurred at probability of 0.010685972502067712
+For topic 8 word like occurred at probability of 0.01058614834077598
+For topic 8 word get occurred at probability of 0.010537449747326663
+ 
+ 
+For topic 9 word demon occurred at probability of 0.03368141893280253
+For topic 9 word hard occurred at probability of 0.021436796657696874
+For topic 9 word like occurred at probability of 0.02031643536634259
+For topic 9 word get occurred at probability of 0.01708559773766222
+For topic 9 word puzzle occurred at probability of 0.0164737143163497
+For topic 9 word game occurred at probability of 0.015855746378088044
+For topic 9 word great occurred at probability of 0.011951643742023682
+For topic 9 word would occurred at probability of 0.01183624121338563
+For topic 9 word nightmare occurred at probability of 0.01120966687033109
+For topic 9 word fucking occurred at probability of 0.010960751593377347
+ 
+ 
+For topic 10 word demon occurred at probability of 0.037097805850738436
+For topic 10 word hell occurred at probability of 0.03563610413031178
+For topic 10 word game occurred at probability of 0.01953952363234952
+For topic 10 word would occurred at probability of 0.016005442170594224
+For topic 10 word free occurred at probability of 0.012547172088422192
+For topic 10 word boss occurred at probability of 0.01123981267220189
+For topic 10 word bad occurred at probability of 0.010955331106854855
+For topic 10 word harem occurred at probability of 0.010892292424822857
+For topic 10 word go occurred at probability of 0.010601843315487096
+For topic 10 word puzzles occurred at probability of 0.010505839574548688
+ 
+ 

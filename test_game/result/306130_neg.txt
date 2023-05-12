@@ -1,0 +1,120 @@
+For topic 1 word get occurred at probability of 0.013256877326641011
+For topic 1 word cant occurred at probability of 0.01238579258508099
+For topic 1 word bad occurred at probability of 0.009441375171791767
+For topic 1 word much occurred at probability of 0.008840126471840846
+For topic 1 word steam occurred at probability of 0.008288287428416023
+For topic 1 word game occurred at probability of 0.00803299496368936
+For topic 1 word hours occurred at probability of 0.007784608391402779
+For topic 1 word scrolls occurred at probability of 0.006987349796619996
+For topic 1 word still occurred at probability of 0.006964431393581905
+For topic 1 word play occurred at probability of 0.006788825110434312
+ 
+ 
+For topic 2 word game occurred at probability of 0.04919963398036302
+For topic 2 word get occurred at probability of 0.012322894031081211
+For topic 2 word play occurred at probability of 0.009898557725343838
+For topic 2 word steam occurred at probability of 0.009209046679328299
+For topic 2 word would occurred at probability of 0.008116678185869437
+For topic 2 word cant occurred at probability of 0.007442905253252732
+For topic 2 word skyrim occurred at probability of 0.00688053088357664
+For topic 2 word time occurred at probability of 0.006664005673212674
+For topic 2 word combat occurred at probability of 0.006567775050165182
+For topic 2 word eso occurred at probability of 0.006291477384332877
+ 
+ 
+For topic 3 word game occurred at probability of 0.04956773424193993
+For topic 3 word time occurred at probability of 0.013123629938500893
+For topic 3 word get occurred at probability of 0.012301728804187995
+For topic 3 word play occurred at probability of 0.010575031676275388
+For topic 3 word hours occurred at probability of 0.008853351929241866
+For topic 3 word eso occurred at probability of 0.008835241424040971
+For topic 3 word elder occurred at probability of 0.007222620196320634
+For topic 3 word mmo occurred at probability of 0.007017197501296468
+For topic 3 word like occurred at probability of 0.006951801585937112
+For topic 3 word steam occurred at probability of 0.006657474824080506
+ 
+ 
+For topic 4 word game occurred at probability of 0.05560231783865114
+For topic 4 word get occurred at probability of 0.015218107150320886
+For topic 4 word like occurred at probability of 0.011490570955570297
+For topic 4 word eso occurred at probability of 0.010872684576838624
+For topic 4 word time occurred at probability of 0.010699000033787228
+For topic 4 word would occurred at probability of 0.008894913698448512
+For topic 4 word good occurred at probability of 0.0077382375652057175
+For topic 4 word steam occurred at probability of 0.007219342041345364
+For topic 4 word mmo occurred at probability of 0.007127999401840334
+For topic 4 word hours occurred at probability of 0.006594625667258196
+ 
+ 
+For topic 5 word game occurred at probability of 0.07124782210063721
+For topic 5 word play occurred at probability of 0.01494148361857939
+For topic 5 word boring occurred at probability of 0.009313245331874748
+For topic 5 word cant occurred at probability of 0.008943475544097967
+For topic 5 word combat occurred at probability of 0.006756086527309693
+For topic 5 word like occurred at probability of 0.006197524588689403
+For topic 5 word really occurred at probability of 0.005883426963938882
+For topic 5 word nothing occurred at probability of 0.005666358572496594
+For topic 5 word around occurred at probability of 0.005629177561375394
+For topic 5 word one occurred at probability of 0.005581832599333498
+ 
+ 
+For topic 6 word game occurred at probability of 0.025776147172703687
+For topic 6 word play occurred at probability of 0.01307658894948019
+For topic 6 word one occurred at probability of 0.009438286272829074
+For topic 6 word steam occurred at probability of 0.008423172689981467
+For topic 6 word playing occurred at probability of 0.00819041758509707
+For topic 6 word even occurred at probability of 0.007842182266437781
+For topic 6 word hours occurred at probability of 0.007410412534834369
+For topic 6 word cant occurred at probability of 0.007213572021293918
+For topic 6 word much occurred at probability of 0.007144681417726997
+For topic 6 word eso occurred at probability of 0.006882902453721557
+ 
+ 
+For topic 7 word game occurred at probability of 0.05608018280373983
+For topic 7 word like occurred at probability of 0.008789078583508338
+For topic 7 word even occurred at probability of 0.008141392182026308
+For topic 7 word good occurred at probability of 0.00759859211127178
+For topic 7 word people occurred at probability of 0.007415557665767514
+For topic 7 word play occurred at probability of 0.006578439893046556
+For topic 7 word still occurred at probability of 0.00650929306075373
+For topic 7 word scrolls occurred at probability of 0.006476040490084935
+For topic 7 word playing occurred at probability of 0.006135409811504579
+For topic 7 word one occurred at probability of 0.006094191319219761
+ 
+ 
+For topic 8 word get occurred at probability of 0.013249811594654099
+For topic 8 word time occurred at probability of 0.012190457466967586
+For topic 8 word like occurred at probability of 0.010995172105220387
+For topic 8 word scrolls occurred at probability of 0.010245039570014061
+For topic 8 word even occurred at probability of 0.008446973437151837
+For topic 8 word boring occurred at probability of 0.007501464594558159
+For topic 8 word quests occurred at probability of 0.007444763514993536
+For topic 8 word really occurred at probability of 0.00736302790462348
+For topic 8 word bad occurred at probability of 0.0072938414892368755
+For topic 8 word much occurred at probability of 0.006728179522049291
+ 
+ 
+For topic 9 word game occurred at probability of 0.03450336048812906
+For topic 9 word get occurred at probability of 0.017819521311300237
+For topic 9 word play occurred at probability of 0.01577052784292635
+For topic 9 word even occurred at probability of 0.010069958093013712
+For topic 9 word time occurred at probability of 0.008432486962074935
+For topic 9 word playing occurred at probability of 0.008135175547416513
+For topic 9 word cant occurred at probability of 0.007440968907340388
+For topic 9 word much occurred at probability of 0.007301290025671021
+For topic 9 word one occurred at probability of 0.007107240493940277
+For topic 9 word bad occurred at probability of 0.006924770385531712
+ 
+ 
+For topic 10 word game occurred at probability of 0.07539852534101
+For topic 10 word play occurred at probability of 0.014718913280537406
+For topic 10 word steam occurred at probability of 0.011804807084984822
+For topic 10 word time occurred at probability of 0.010940933980745929
+For topic 10 word hours occurred at probability of 0.009674453920712653
+For topic 10 word boring occurred at probability of 0.008492804635623836
+For topic 10 word like occurred at probability of 0.00816251441265242
+For topic 10 word get occurred at probability of 0.006870068524613215
+For topic 10 word really occurred at probability of 0.006530719674218715
+For topic 10 word im occurred at probability of 0.006429416098956747
+ 
+ 

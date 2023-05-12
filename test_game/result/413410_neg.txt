@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.05590705751492144
+For topic 1 word despair occurred at probability of 0.011857224868948484
+For topic 1 word good occurred at probability of 0.01077218843659915
+For topic 1 word get occurred at probability of 0.010452576052249807
+For topic 1 word also occurred at probability of 0.009710201348967426
+For topic 1 word one occurred at probability of 0.008129308728406814
+For topic 1 word story occurred at probability of 0.008053624903888532
+For topic 1 word murder occurred at probability of 0.007797384505807326
+For topic 1 word got occurred at probability of 0.007233518653190852
+For topic 1 word bear occurred at probability of 0.006996776973337891
+ 
+ 
+For topic 2 word characters occurred at probability of 0.018330541416679027
+For topic 2 word game occurred at probability of 0.013095021432630301
+For topic 2 word good occurred at probability of 0.01269065496724857
+For topic 2 word one occurred at probability of 0.011875256734191007
+For topic 2 word time occurred at probability of 0.010582393382591173
+For topic 2 word despair occurred at probability of 0.010333618410461124
+For topic 2 word really occurred at probability of 0.009705212742529348
+For topic 2 word im occurred at probability of 0.008743482610616492
+For topic 2 word first occurred at probability of 0.008708568846242878
+For topic 2 word story occurred at probability of 0.008695224541532483
+ 
+ 
+For topic 3 word game occurred at probability of 0.0483505910331215
+For topic 3 word get occurred at probability of 0.018531328420774564
+For topic 3 word good occurred at probability of 0.012454303250404001
+For topic 3 word story occurred at probability of 0.009842320654721516
+For topic 3 word really occurred at probability of 0.009105830574676397
+For topic 3 word dont occurred at probability of 0.008753537711819574
+For topic 3 word people occurred at probability of 0.007166523314069102
+For topic 3 word would occurred at probability of 0.007066022967292086
+For topic 3 word mystery occurred at probability of 0.006484596003683706
+For topic 3 word die occurred at probability of 0.006445553554479084
+ 
+ 
+For topic 4 word game occurred at probability of 0.06734228423721532
+For topic 4 word like occurred at probability of 0.012915484769305298
+For topic 4 word play occurred at probability of 0.012310974418506728
+For topic 4 word murder occurred at probability of 0.012132356433780684
+For topic 4 word story occurred at probability of 0.01175129615363621
+For topic 4 word would occurred at probability of 0.009465886471963399
+For topic 4 word school occurred at probability of 0.009363710097328976
+For topic 4 word one occurred at probability of 0.008994488863634255
+For topic 4 word im occurred at probability of 0.006866227878818687
+For topic 4 word never occurred at probability of 0.005727560438322239
+ 
+ 
+For topic 5 word game occurred at probability of 0.039209136716485175
+For topic 5 word good occurred at probability of 0.012879618094507092
+For topic 5 word one occurred at probability of 0.011397281334992125
+For topic 5 word get occurred at probability of 0.011096657360612123
+For topic 5 word would occurred at probability of 0.010987412915676856
+For topic 5 word school occurred at probability of 0.009346207682238976
+For topic 5 word trials occurred at probability of 0.00927115725804286
+For topic 5 word play occurred at probability of 0.008302202967830644
+For topic 5 word first occurred at probability of 0.008142633908284541
+For topic 5 word im occurred at probability of 0.007777552812670339
+ 
+ 
+For topic 6 word game occurred at probability of 0.041716426912914155
+For topic 6 word characters occurred at probability of 0.016813099465716363
+For topic 6 word time occurred at probability of 0.012439822379280423
+For topic 6 word dont occurred at probability of 0.010844626883368104
+For topic 6 word story occurred at probability of 0.010689324497610673
+For topic 6 word school occurred at probability of 0.008942863323273875
+For topic 6 word danganronpa occurred at probability of 0.008196089510709352
+For topic 6 word really occurred at probability of 0.00805179707010757
+For topic 6 word character occurred at probability of 0.006860905270892321
+For topic 6 word novel occurred at probability of 0.006802874144939056
+ 
+ 
+For topic 7 word like occurred at probability of 0.013520471386757544
+For topic 7 word play occurred at probability of 0.011500083953459486
+For topic 7 word despair occurred at probability of 0.009987036798828007
+For topic 7 word one occurred at probability of 0.009892890427992048
+For topic 7 word bad occurred at probability of 0.008071808046360918
+For topic 7 word fun occurred at probability of 0.007618600299500234
+For topic 7 word got occurred at probability of 0.0075987810076096445
+For topic 7 word much occurred at probability of 0.00734355831778749
+For topic 7 word go occurred at probability of 0.006860569984518142
+For topic 7 word played occurred at probability of 0.005910770119161313
+ 
+ 
+For topic 8 word game occurred at probability of 0.049283752924093406
+For topic 8 word characters occurred at probability of 0.018703578103196335
+For topic 8 word dont occurred at probability of 0.010647070535828676
+For topic 8 word time occurred at probability of 0.00978336761481551
+For topic 8 word play occurred at probability of 0.009621564240629994
+For topic 8 word really occurred at probability of 0.009521891456427711
+For topic 8 word one occurred at probability of 0.009320782200403261
+For topic 8 word trials occurred at probability of 0.009171477289236427
+For topic 8 word murder occurred at probability of 0.008846232785168866
+For topic 8 word first occurred at probability of 0.007976295515830838
+ 
+ 
+For topic 9 word game occurred at probability of 0.07311518609361695
+For topic 9 word play occurred at probability of 0.011962942210408401
+For topic 9 word really occurred at probability of 0.010146003671217284
+For topic 9 word characters occurred at probability of 0.009491851769179261
+For topic 9 word one occurred at probability of 0.008947180642738773
+For topic 9 word get occurred at probability of 0.008643992395080808
+For topic 9 word murder occurred at probability of 0.007953905211365101
+For topic 9 word class occurred at probability of 0.00736521991849703
+For topic 9 word story occurred at probability of 0.007309635127510856
+For topic 9 word time occurred at probability of 0.007284492104620191
+ 
+ 
+For topic 10 word like occurred at probability of 0.01602710836899426
+For topic 10 word story occurred at probability of 0.012838071687463988
+For topic 10 word game occurred at probability of 0.012269449051466083
+For topic 10 word dont occurred at probability of 0.011907723986669328
+For topic 10 word characters occurred at probability of 0.009960529151703942
+For topic 10 word murder occurred at probability of 0.009135090266275429
+For topic 10 word get occurred at probability of 0.009018608645435447
+For topic 10 word mystery occurred at probability of 0.008774481917455583
+For topic 10 word anime occurred at probability of 0.00861494933412189
+For topic 10 word despair occurred at probability of 0.007485558877137112
+ 
+ 

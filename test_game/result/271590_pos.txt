@@ -1,0 +1,120 @@
+For topic 1 word fun occurred at probability of 0.022365953906326803
+For topic 1 word like occurred at probability of 0.016571491097555423
+For topic 1 word gta occurred at probability of 0.015248689386284708
+For topic 1 word story occurred at probability of 0.013354583633779012
+For topic 1 word rockstar occurred at probability of 0.011547565351034633
+For topic 1 word played occurred at probability of 0.01021675675899647
+For topic 1 word player occurred at probability of 0.009665713601463836
+For topic 1 word still occurred at probability of 0.009246716478002936
+For topic 1 word buy occurred at probability of 0.008066630092840666
+For topic 1 word v occurred at probability of 0.008046057141419993
+ 
+ 
+For topic 2 word gta occurred at probability of 0.02000386806609828
+For topic 2 word great occurred at probability of 0.015252112921694231
+For topic 2 word play occurred at probability of 0.014817539806026217
+For topic 2 word good occurred at probability of 0.012746106244837402
+For topic 2 word money occurred at probability of 0.01143062104227747
+For topic 2 word best occurred at probability of 0.010225728469953429
+For topic 2 word friends occurred at probability of 0.009569372119028911
+For topic 2 word played occurred at probability of 0.009389928313530591
+For topic 2 word playing occurred at probability of 0.008702001503357612
+For topic 2 word even occurred at probability of 0.008195295392991431
+ 
+ 
+For topic 3 word good occurred at probability of 0.034118002375368474
+For topic 3 word fun occurred at probability of 0.03106037939416115
+For topic 3 word play occurred at probability of 0.018504459191887764
+For topic 3 word online occurred at probability of 0.014564133775938005
+For topic 3 word gta occurred at probability of 0.013828343230645709
+For topic 3 word games occurred at probability of 0.010682265920908901
+For topic 3 word time occurred at probability of 0.009415632051651995
+For topic 3 word buy occurred at probability of 0.008794563256797432
+For topic 3 word even occurred at probability of 0.008525844224595255
+For topic 3 word really occurred at probability of 0.008257391584577306
+ 
+ 
+For topic 4 word good occurred at probability of 0.040371569258719917
+For topic 4 word online occurred at probability of 0.022379831864316534
+For topic 4 word play occurred at probability of 0.016049410978108636
+For topic 4 word get occurred at probability of 0.015341291536313655
+For topic 4 word gta occurred at probability of 0.015280582361871417
+For topic 4 word one occurred at probability of 0.015153918273569413
+For topic 4 word great occurred at probability of 0.013578341889970558
+For topic 4 word story occurred at probability of 0.013230132708176875
+For topic 4 word people occurred at probability of 0.009424343351493185
+For topic 4 word would occurred at probability of 0.00769874163248813
+ 
+ 
+For topic 5 word online occurred at probability of 0.02960563179224557
+For topic 5 word fun occurred at probability of 0.018574771563921177
+For topic 5 word best occurred at probability of 0.015639155895348488
+For topic 5 word get occurred at probability of 0.014830380136124094
+For topic 5 word like occurred at probability of 0.01474264241301243
+For topic 5 word good occurred at probability of 0.013823144217278448
+For topic 5 word play occurred at probability of 0.011862694391176362
+For topic 5 word one occurred at probability of 0.011550754423027882
+For topic 5 word money occurred at probability of 0.010692380694316949
+For topic 5 word dont occurred at probability of 0.009952971784704041
+ 
+ 
+For topic 6 word fun occurred at probability of 0.039875378777103086
+For topic 6 word good occurred at probability of 0.03936243946314615
+For topic 6 word like occurred at probability of 0.016706972146053316
+For topic 6 word online occurred at probability of 0.012764754217557253
+For topic 6 word games occurred at probability of 0.012167469813817004
+For topic 6 word story occurred at probability of 0.012029247500560301
+For topic 6 word great occurred at probability of 0.010787516660224093
+For topic 6 word time occurred at probability of 0.009440509441576811
+For topic 6 word people occurred at probability of 0.008863932480870033
+For topic 6 word mode occurred at probability of 0.00846420347057077
+ 
+ 
+For topic 7 word online occurred at probability of 0.023415713818083505
+For topic 7 word good occurred at probability of 0.016052698659235552
+For topic 7 word fun occurred at probability of 0.01488086756414824
+For topic 7 word like occurred at probability of 0.014667579393460068
+For topic 7 word best occurred at probability of 0.014323270670313137
+For topic 7 word people occurred at probability of 0.011268038743131136
+For topic 7 word great occurred at probability of 0.010808904163695838
+For topic 7 word gta occurred at probability of 0.009986732059717625
+For topic 7 word get occurred at probability of 0.00951500880115732
+For topic 7 word friends occurred at probability of 0.009069549228857155
+ 
+ 
+For topic 8 word fun occurred at probability of 0.01940625142868116
+For topic 8 word play occurred at probability of 0.018859462188283865
+For topic 8 word online occurred at probability of 0.017703824949192634
+For topic 8 word gta occurred at probability of 0.01624723469924699
+For topic 8 word great occurred at probability of 0.014846351970628164
+For topic 8 word games occurred at probability of 0.012444157637567337
+For topic 8 word love occurred at probability of 0.012380502954957143
+For topic 8 word rockstar occurred at probability of 0.010669254774655721
+For topic 8 word like occurred at probability of 0.010408202679050389
+For topic 8 word money occurred at probability of 0.010096428521798555
+ 
+ 
+For topic 9 word great occurred at probability of 0.02073892445992192
+For topic 9 word gta occurred at probability of 0.01729645404484778
+For topic 9 word like occurred at probability of 0.016564504447274215
+For topic 9 word fun occurred at probability of 0.012992085336497013
+For topic 9 word online occurred at probability of 0.011668897151663938
+For topic 9 word get occurred at probability of 0.01062972487662891
+For topic 9 word best occurred at probability of 0.010093966792538338
+For topic 9 word friends occurred at probability of 0.009849431929922874
+For topic 9 word mode occurred at probability of 0.009788224659781517
+For topic 9 word dont occurred at probability of 0.008900998505910423
+ 
+ 
+For topic 10 word good occurred at probability of 0.03123357738173739
+For topic 10 word one occurred at probability of 0.015012162572894462
+For topic 10 word gta occurred at probability of 0.013201817742082601
+For topic 10 word play occurred at probability of 0.012331427720364847
+For topic 10 word story occurred at probability of 0.012244061974996728
+For topic 10 word love occurred at probability of 0.011971204300038512
+For topic 10 word rockstar occurred at probability of 0.01146829462985045
+For topic 10 word people occurred at probability of 0.01118499355875275
+For topic 10 word great occurred at probability of 0.01101884331559216
+For topic 10 word nice occurred at probability of 0.011004055810116329
+ 
+ 

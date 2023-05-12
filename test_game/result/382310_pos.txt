@@ -1,0 +1,120 @@
+For topic 1 word really occurred at probability of 0.01824665210982104
+For topic 1 word friends occurred at probability of 0.014383916931499142
+For topic 1 word one occurred at probability of 0.009600589385241167
+For topic 1 word work occurred at probability of 0.009364647041858895
+For topic 1 word love occurred at probability of 0.008855132134730897
+For topic 1 word people occurred at probability of 0.008626200517311191
+For topic 1 word get occurred at probability of 0.008460734460303463
+For topic 1 word games occurred at probability of 0.007390435654151457
+For topic 1 word much occurred at probability of 0.007253071330748216
+For topic 1 word community occurred at probability of 0.006570673332378784
+ 
+ 
+For topic 2 word time occurred at probability of 0.011568823247008538
+For topic 2 word one occurred at probability of 0.011496572593342191
+For topic 2 word eco occurred at probability of 0.011353222485199531
+For topic 2 word fun occurred at probability of 0.010547004200910388
+For topic 2 word great occurred at probability of 0.010260550647374612
+For topic 2 word world occurred at probability of 0.008880222529300054
+For topic 2 word work occurred at probability of 0.008779219857761068
+For topic 2 word still occurred at probability of 0.008555568329194362
+For topic 2 word better occurred at probability of 0.007860647414782351
+For topic 2 word get occurred at probability of 0.007755116544794646
+ 
+ 
+For topic 3 word like occurred at probability of 0.026761817764262823
+For topic 3 word great occurred at probability of 0.013777314397869174
+For topic 3 word playing occurred at probability of 0.010119712089933258
+For topic 3 word get occurred at probability of 0.009498798127977574
+For topic 3 word fun occurred at probability of 0.00942996851083609
+For topic 3 word lot occurred at probability of 0.009179632384143906
+For topic 3 word still occurred at probability of 0.008805358673355884
+For topic 3 word games occurred at probability of 0.008677317074384697
+For topic 3 word much occurred at probability of 0.008515871361876724
+For topic 3 word minecraft occurred at probability of 0.008350030441013777
+ 
+ 
+For topic 4 word like occurred at probability of 0.020049284052556758
+For topic 4 word fun occurred at probability of 0.016957457215264846
+For topic 4 word server occurred at probability of 0.011649945870380138
+For topic 4 word get occurred at probability of 0.010353670353855416
+For topic 4 word lot occurred at probability of 0.008998581420278502
+For topic 4 word recommend occurred at probability of 0.008273514468038982
+For topic 4 word still occurred at probability of 0.007570663485097347
+For topic 4 word way occurred at probability of 0.007524855779362358
+For topic 4 word world occurred at probability of 0.006212495615962434
+For topic 4 word building occurred at probability of 0.006141903477839959
+ 
+ 
+For topic 5 word server occurred at probability of 0.01796288914078494
+For topic 5 word fun occurred at probability of 0.017708693694380738
+For topic 5 word get occurred at probability of 0.012655499328503446
+For topic 5 word great occurred at probability of 0.012418229465889993
+For topic 5 word really occurred at probability of 0.011849254802574868
+For topic 5 word friends occurred at probability of 0.010888227432795125
+For topic 5 word would occurred at probability of 0.008933644042202813
+For topic 5 word hours occurred at probability of 0.007465481358146158
+For topic 5 word minecraft occurred at probability of 0.007398265868751249
+For topic 5 word well occurred at probability of 0.006918970634821568
+ 
+ 
+For topic 6 word really occurred at probability of 0.019408194243741947
+For topic 6 word time occurred at probability of 0.015195706561350525
+For topic 6 word one occurred at probability of 0.010685162611175001
+For topic 6 word playing occurred at probability of 0.009813853901672413
+For topic 6 word would occurred at probability of 0.009680736522871857
+For topic 6 word fun occurred at probability of 0.0090189894349826
+For topic 6 word much occurred at probability of 0.008247949909175246
+For topic 6 word like occurred at probability of 0.00796491703917056
+For topic 6 word people occurred at probability of 0.007472809714738517
+For topic 6 word server occurred at probability of 0.007422079993059891
+ 
+ 
+For topic 7 word like occurred at probability of 0.0199340587248027
+For topic 7 word time occurred at probability of 0.015970182033074355
+For topic 7 word fun occurred at probability of 0.015073025927604476
+For topic 7 word people occurred at probability of 0.013062917012964087
+For topic 7 word great occurred at probability of 0.011365751371004568
+For topic 7 word would occurred at probability of 0.009905568152294977
+For topic 7 word server occurred at probability of 0.008621751146473327
+For topic 7 word friends occurred at probability of 0.007909123921508545
+For topic 7 word one occurred at probability of 0.0076859364767707375
+For topic 7 word make occurred at probability of 0.007495536313563475
+ 
+ 
+For topic 8 word like occurred at probability of 0.017535521679434486
+For topic 8 word great occurred at probability of 0.011308106162605299
+For topic 8 word eco occurred at probability of 0.010721802519156871
+For topic 8 word would occurred at probability of 0.009538881262949469
+For topic 8 word time occurred at probability of 0.009290945564460437
+For topic 8 word games occurred at probability of 0.00904808861185232
+For topic 8 word much occurred at probability of 0.008985147464543977
+For topic 8 word recommend occurred at probability of 0.008900672014756084
+For topic 8 word minecraft occurred at probability of 0.008542713630696088
+For topic 8 word world occurred at probability of 0.008425622288308197
+ 
+ 
+For topic 9 word really occurred at probability of 0.013183764208564642
+For topic 9 word time occurred at probability of 0.011983521320374373
+For topic 9 word server occurred at probability of 0.00959309385223342
+For topic 9 word still occurred at probability of 0.009354610311050521
+For topic 9 word would occurred at probability of 0.009139759257210089
+For topic 9 word love occurred at probability of 0.008273915450835305
+For topic 9 word dont occurred at probability of 0.008160413064100357
+For topic 9 word games occurred at probability of 0.008134031026930676
+For topic 9 word make occurred at probability of 0.008031087706710438
+For topic 9 word playing occurred at probability of 0.007455764494700739
+ 
+ 
+For topic 10 word like occurred at probability of 0.026586464556244374
+For topic 10 word server occurred at probability of 0.015230830008330108
+For topic 10 word playing occurred at probability of 0.01119862519303438
+For topic 10 word eco occurred at probability of 0.011151950483983377
+For topic 10 word dont occurred at probability of 0.00850551477171406
+For topic 10 word get occurred at probability of 0.008473609540196356
+For topic 10 word still occurred at probability of 0.008269710517739726
+For topic 10 word world occurred at probability of 0.008256209860193467
+For topic 10 word fun occurred at probability of 0.006200886663192008
+For topic 10 word people occurred at probability of 0.006146411267460917
+ 
+ 

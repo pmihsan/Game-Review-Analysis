@@ -1,0 +1,120 @@
+For topic 1 word stellaris occurred at probability of 0.01569465586727481
+For topic 1 word like occurred at probability of 0.012351832665621646
+For topic 1 word paradox occurred at probability of 0.01013851499587476
+For topic 1 word games occurred at probability of 0.00925906873324663
+For topic 1 word strategy occurred at probability of 0.00906285648640799
+For topic 1 word great occurred at probability of 0.008799944129230073
+For topic 1 word lot occurred at probability of 0.008753504628822508
+For topic 1 word best occurred at probability of 0.008315676979486233
+For topic 1 word first occurred at probability of 0.007952437101829874
+For topic 1 word still occurred at probability of 0.007850240962881316
+ 
+ 
+For topic 2 word game occurred at probability of 0.026867779709218217
+For topic 2 word stellaris occurred at probability of 0.01348868041107822
+For topic 2 word great occurred at probability of 0.011017959578079247
+For topic 2 word like occurred at probability of 0.01025400271678391
+For topic 2 word paradox occurred at probability of 0.009523735607418456
+For topic 2 word play occurred at probability of 0.009440922010581432
+For topic 2 word really occurred at probability of 0.008967473867470738
+For topic 2 word even occurred at probability of 0.008491664116852695
+For topic 2 word one occurred at probability of 0.008082825171233278
+For topic 2 word empire occurred at probability of 0.007996680966653966
+ 
+ 
+For topic 3 word game occurred at probability of 0.08938461608683237
+For topic 3 word games occurred at probability of 0.0185439920293513
+For topic 3 word good occurred at probability of 0.012564895689403145
+For topic 3 word fun occurred at probability of 0.012320088401535229
+For topic 3 word space occurred at probability of 0.010971491413741529
+For topic 3 word like occurred at probability of 0.00985745119674952
+For topic 3 word strategy occurred at probability of 0.009608801833458962
+For topic 3 word still occurred at probability of 0.008217665913131424
+For topic 3 word one occurred at probability of 0.008122122697613783
+For topic 3 word even occurred at probability of 0.007476371267878563
+ 
+ 
+For topic 4 word game occurred at probability of 0.08806104513703775
+For topic 4 word like occurred at probability of 0.023213998815634275
+For topic 4 word good occurred at probability of 0.011338482461793623
+For topic 4 word stellaris occurred at probability of 0.010680406246958285
+For topic 4 word play occurred at probability of 0.010089225830866116
+For topic 4 word one occurred at probability of 0.009048621493933111
+For topic 4 word dlc occurred at probability of 0.00791002261104419
+For topic 4 word best occurred at probability of 0.007694709119267088
+For topic 4 word empire occurred at probability of 0.007155814046593706
+For topic 4 word hours occurred at probability of 0.006620157544873135
+ 
+ 
+For topic 5 word game occurred at probability of 0.05514961478914226
+For topic 5 word like occurred at probability of 0.01543699424582353
+For topic 5 word fun occurred at probability of 0.013720365327098218
+For topic 5 word strategy occurred at probability of 0.011411189139942574
+For topic 5 word play occurred at probability of 0.011378136122633923
+For topic 5 word space occurred at probability of 0.011237974531802515
+For topic 5 word new occurred at probability of 0.009518361144713628
+For topic 5 word get occurred at probability of 0.009246541241751933
+For topic 5 word lot occurred at probability of 0.009033567726499308
+For topic 5 word paradox occurred at probability of 0.008280059372387818
+ 
+ 
+For topic 6 word game occurred at probability of 0.016225447244850068
+For topic 6 word stellaris occurred at probability of 0.014747378741416845
+For topic 6 word time occurred at probability of 0.013304926388050486
+For topic 6 word empire occurred at probability of 0.011437485227788662
+For topic 6 word new occurred at probability of 0.010009833100024245
+For topic 6 word play occurred at probability of 0.009732520944966447
+For topic 6 word get occurred at probability of 0.009700897062214367
+For topic 6 word good occurred at probability of 0.00891024522289209
+For topic 6 word dont occurred at probability of 0.0077370282246199415
+For topic 6 word better occurred at probability of 0.007567435650143618
+ 
+ 
+For topic 7 word great occurred at probability of 0.01987177670863393
+For topic 7 word games occurred at probability of 0.017685603591031454
+For topic 7 word time occurred at probability of 0.012744374429425885
+For topic 7 word space occurred at probability of 0.012269899981823228
+For topic 7 word fun occurred at probability of 0.0105754269835669
+For topic 7 word stellaris occurred at probability of 0.009392241839577258
+For topic 7 word lot occurred at probability of 0.008632572957317886
+For topic 7 word many occurred at probability of 0.007833383522184255
+For topic 7 word hours occurred at probability of 0.00762375426236039
+For topic 7 word play occurred at probability of 0.007450979866959506
+ 
+ 
+For topic 8 word game occurred at probability of 0.09246747719320315
+For topic 8 word games occurred at probability of 0.017561976808972462
+For topic 8 word like occurred at probability of 0.017302111482268585
+For topic 8 word good occurred at probability of 0.011882821218487953
+For topic 8 word time occurred at probability of 0.011469636881038959
+For topic 8 word fun occurred at probability of 0.01007487354473281
+For topic 8 word get occurred at probability of 0.009706208222356119
+For topic 8 word strategy occurred at probability of 0.008498961702796013
+For topic 8 word dlc occurred at probability of 0.008156801803970144
+For topic 8 word space occurred at probability of 0.008143267584075572
+ 
+ 
+For topic 9 word game occurred at probability of 0.043674559079881145
+For topic 9 word great occurred at probability of 0.02105761658749331
+For topic 9 word strategy occurred at probability of 0.016611028228912705
+For topic 9 word good occurred at probability of 0.011339362641586468
+For topic 9 word space occurred at probability of 0.010994770886457403
+For topic 9 word really occurred at probability of 0.010235173609478685
+For topic 9 word much occurred at probability of 0.010038324842423988
+For topic 9 word would occurred at probability of 0.009787752040766512
+For topic 9 word stellaris occurred at probability of 0.008986110147245995
+For topic 9 word new occurred at probability of 0.008495194851239231
+ 
+ 
+For topic 10 word game occurred at probability of 0.02237934132382267
+For topic 10 word like occurred at probability of 0.01870690906238527
+For topic 10 word great occurred at probability of 0.014261131453370691
+For topic 10 word paradox occurred at probability of 0.011827676714654626
+For topic 10 word would occurred at probability of 0.010014143227541327
+For topic 10 word get occurred at probability of 0.00989444212932029
+For topic 10 word space occurred at probability of 0.008680360909777918
+For topic 10 word play occurred at probability of 0.008315859840798592
+For topic 10 word strategy occurred at probability of 0.008168750160149837
+For topic 10 word even occurred at probability of 0.008064791762461637
+ 
+ 

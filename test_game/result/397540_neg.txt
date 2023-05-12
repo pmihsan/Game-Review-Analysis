@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.06058679171953739
+For topic 1 word borderlands occurred at probability of 0.014540115019030544
+For topic 1 word like occurred at probability of 0.014316464551875222
+For topic 1 word story occurred at probability of 0.01327709928536658
+For topic 1 word gameplay occurred at probability of 0.009170514617250505
+For topic 1 word really occurred at probability of 0.00860737467206951
+For topic 1 word play occurred at probability of 0.008212311354222615
+For topic 1 word bad occurred at probability of 0.006840957170139845
+For topic 1 word much occurred at probability of 0.006796028842666042
+For topic 1 word go occurred at probability of 0.006728076176606271
+ 
+ 
+For topic 2 word game occurred at probability of 0.022232666467109013
+For topic 2 word borderlands occurred at probability of 0.0220600516403554
+For topic 2 word story occurred at probability of 0.01964531427235855
+For topic 2 word bad occurred at probability of 0.013525482403074352
+For topic 2 word one occurred at probability of 0.010497985077150813
+For topic 2 word get occurred at probability of 0.010374117481705206
+For topic 2 word even occurred at probability of 0.009433567479358952
+For topic 2 word fun occurred at probability of 0.009224617848672737
+For topic 2 word guns occurred at probability of 0.006750554928644531
+For topic 2 word want occurred at probability of 0.006711883273346881
+ 
+ 
+For topic 3 word game occurred at probability of 0.04377793736535064
+For topic 3 word story occurred at probability of 0.01700057712991272
+For topic 3 word characters occurred at probability of 0.01262171708379362
+For topic 3 word even occurred at probability of 0.009930902991128462
+For topic 3 word good occurred at probability of 0.007051587137601898
+For topic 3 word want occurred at probability of 0.006468458552965379
+For topic 3 word first occurred at probability of 0.0059142523982351584
+For topic 3 word time occurred at probability of 0.005812458266452326
+For topic 3 word im occurred at probability of 0.005747356938585933
+For topic 3 word fun occurred at probability of 0.0056756425467557265
+ 
+ 
+For topic 4 word game occurred at probability of 0.05281620228669787
+For topic 4 word story occurred at probability of 0.014179519001652154
+For topic 4 word like occurred at probability of 0.012627505648376107
+For topic 4 word time occurred at probability of 0.008999790285705897
+For topic 4 word borderlands occurred at probability of 0.008207891870333
+For topic 4 word really occurred at probability of 0.007231059616112373
+For topic 4 word gameplay occurred at probability of 0.006729453088898382
+For topic 4 word still occurred at probability of 0.006548588349643671
+For topic 4 word bad occurred at probability of 0.0064294694975066
+For topic 4 word good occurred at probability of 0.006250323536967566
+ 
+ 
+For topic 5 word game occurred at probability of 0.02758577382993841
+For topic 5 word story occurred at probability of 0.02647394240498002
+For topic 5 word borderlands occurred at probability of 0.01786140570850453
+For topic 5 word play occurred at probability of 0.011106920957656335
+For topic 5 word fun occurred at probability of 0.009089404116109874
+For topic 5 word gameplay occurred at probability of 0.007405107092202406
+For topic 5 word games occurred at probability of 0.007042716709598464
+For topic 5 word time occurred at probability of 0.0069967618598118855
+For topic 5 word go occurred at probability of 0.0068389460058438396
+For topic 5 word character occurred at probability of 0.00647580920378344
+ 
+ 
+For topic 6 word game occurred at probability of 0.03272813923353783
+For topic 6 word bad occurred at probability of 0.01183100433853025
+For topic 6 word like occurred at probability of 0.011354963031431822
+For topic 6 word fun occurred at probability of 0.010334024723708635
+For topic 6 word good occurred at probability of 0.009182507217603008
+For topic 6 word really occurred at probability of 0.008086155736419517
+For topic 6 word one occurred at probability of 0.008018791611411932
+For topic 6 word characters occurred at probability of 0.007917552825590517
+For topic 6 word play occurred at probability of 0.007895385345109121
+For topic 6 word much occurred at probability of 0.006881240031040651
+ 
+ 
+For topic 7 word game occurred at probability of 0.03281624872615477
+For topic 7 word good occurred at probability of 0.015579823156638804
+For topic 7 word get occurred at probability of 0.014087628627189304
+For topic 7 word play occurred at probability of 0.012309165365423782
+For topic 7 word story occurred at probability of 0.011071030709662097
+For topic 7 word bad occurred at probability of 0.00910846506594693
+For topic 7 word one occurred at probability of 0.008072857254479426
+For topic 7 word games occurred at probability of 0.007441427223673585
+For topic 7 word dont occurred at probability of 0.006930187937247376
+For topic 7 word time occurred at probability of 0.0066221742621993965
+ 
+ 
+For topic 8 word game occurred at probability of 0.0461068821865452
+For topic 8 word story occurred at probability of 0.025617904700388248
+For topic 8 word borderlands occurred at probability of 0.019442671385392716
+For topic 8 word get occurred at probability of 0.013632481863325711
+For topic 8 word even occurred at probability of 0.013548780476624635
+For topic 8 word play occurred at probability of 0.01204257112098032
+For topic 8 word one occurred at probability of 0.010505869512362981
+For topic 8 word characters occurred at probability of 0.010340414515062445
+For topic 8 word dont occurred at probability of 0.008370520330895517
+For topic 8 word really occurred at probability of 0.007259296243914811
+ 
+ 
+For topic 9 word story occurred at probability of 0.0209148652106663
+For topic 9 word game occurred at probability of 0.01729806499304306
+For topic 9 word borderlands occurred at probability of 0.014809994998380531
+For topic 9 word play occurred at probability of 0.011143296663237039
+For topic 9 word good occurred at probability of 0.009709917619506675
+For topic 9 word bad occurred at probability of 0.0097017887413936
+For topic 9 word one occurred at probability of 0.009469747669854464
+For topic 9 word characters occurred at probability of 0.009232103180026112
+For topic 9 word gameplay occurred at probability of 0.009181749580616943
+For topic 9 word get occurred at probability of 0.008653452223521938
+ 
+ 
+For topic 10 word game occurred at probability of 0.03251026776867599
+For topic 10 word borderlands occurred at probability of 0.019142847371661914
+For topic 10 word fun occurred at probability of 0.009432271511975893
+For topic 10 word good occurred at probability of 0.009379564862727195
+For topic 10 word play occurred at probability of 0.009300407416229681
+For topic 10 word even occurred at probability of 0.009275552558130474
+For topic 10 word story occurred at probability of 0.008457224175010773
+For topic 10 word dont occurred at probability of 0.008166576782954597
+For topic 10 word gameplay occurred at probability of 0.00797380329514959
+For topic 10 word character occurred at probability of 0.007776894663240512
+ 
+ 

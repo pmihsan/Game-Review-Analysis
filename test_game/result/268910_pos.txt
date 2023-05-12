@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.08832770845852048
+For topic 1 word fun occurred at probability of 0.021783604194317203
+For topic 1 word good occurred at probability of 0.02044693394674502
+For topic 1 word play occurred at probability of 0.016975323733994883
+For topic 1 word great occurred at probability of 0.015194867594485418
+For topic 1 word amazing occurred at probability of 0.01404120888870847
+For topic 1 word like occurred at probability of 0.011386589101939999
+For topic 1 word challenging occurred at probability of 0.011303168745167555
+For topic 1 word boss occurred at probability of 0.011242135821853261
+For topic 1 word art occurred at probability of 0.010258602661078354
+ 
+ 
+For topic 2 word game occurred at probability of 0.09101794744615471
+For topic 2 word fun occurred at probability of 0.01953596558843724
+For topic 2 word like occurred at probability of 0.015471037823658822
+For topic 2 word good occurred at probability of 0.014837008094915506
+For topic 2 word great occurred at probability of 0.012289032683643177
+For topic 2 word play occurred at probability of 0.011790061775210551
+For topic 2 word hard occurred at probability of 0.011109106271082322
+For topic 2 word gameplay occurred at probability of 0.010872180763999666
+For topic 2 word cuphead occurred at probability of 0.01071037968426677
+For topic 2 word time occurred at probability of 0.010218909080883522
+ 
+ 
+For topic 3 word game occurred at probability of 0.0728881172963745
+For topic 3 word great occurred at probability of 0.02241995822404814
+For topic 3 word hard occurred at probability of 0.016390695250310477
+For topic 3 word like occurred at probability of 0.014899018107252936
+For topic 3 word love occurred at probability of 0.014688741304222567
+For topic 3 word boss occurred at probability of 0.011021971229380619
+For topic 3 word good occurred at probability of 0.010682628828929897
+For topic 3 word cuphead occurred at probability of 0.010508316096581025
+For topic 3 word best occurred at probability of 0.009380844445243071
+For topic 3 word really occurred at probability of 0.009363079548692782
+ 
+ 
+For topic 4 word good occurred at probability of 0.016981366678133367
+For topic 4 word style occurred at probability of 0.014510320898462128
+For topic 4 word game occurred at probability of 0.013951700479790574
+For topic 4 word games occurred at probability of 0.01098561467634925
+For topic 4 word gameplay occurred at probability of 0.010783619909713972
+For topic 4 word cuphead occurred at probability of 0.010471736668261997
+For topic 4 word like occurred at probability of 0.010447003739231414
+For topic 4 word one occurred at probability of 0.010381116045439698
+For topic 4 word hard occurred at probability of 0.010156685586719772
+For topic 4 word fun occurred at probability of 0.010122450806430702
+ 
+ 
+For topic 5 word game occurred at probability of 0.04511411202562887
+For topic 5 word fun occurred at probability of 0.018280459096425
+For topic 5 word really occurred at probability of 0.017213868238851515
+For topic 5 word love occurred at probability of 0.015288057247569278
+For topic 5 word art occurred at probability of 0.015010005558432533
+For topic 5 word would occurred at probability of 0.013774307014202871
+For topic 5 word great occurred at probability of 0.013359967592429925
+For topic 5 word style occurred at probability of 0.012956813732457892
+For topic 5 word gameplay occurred at probability of 0.011544679611951695
+For topic 5 word good occurred at probability of 0.011093249303540395
+ 
+ 
+For topic 6 word game occurred at probability of 0.05792554950763821
+For topic 6 word good occurred at probability of 0.0239303707727808
+For topic 6 word fun occurred at probability of 0.018945848166162946
+For topic 6 word hard occurred at probability of 0.013439051795964836
+For topic 6 word one occurred at probability of 0.011784542622572771
+For topic 6 word really occurred at probability of 0.011109323736326037
+For topic 6 word amazing occurred at probability of 0.010687665067129024
+For topic 6 word great occurred at probability of 0.010441512625862261
+For topic 6 word art occurred at probability of 0.009910986359887651
+For topic 6 word like occurred at probability of 0.0098350283480281
+ 
+ 
+For topic 7 word game occurred at probability of 0.08208221156124698
+For topic 7 word games occurred at probability of 0.019741945482705765
+For topic 7 word good occurred at probability of 0.018941245875433915
+For topic 7 word like occurred at probability of 0.018531729060570636
+For topic 7 word hard occurred at probability of 0.014447056697152046
+For topic 7 word music occurred at probability of 0.01212782787665871
+For topic 7 word amazing occurred at probability of 0.011671957683400907
+For topic 7 word challenging occurred at probability of 0.011106642638499182
+For topic 7 word bosses occurred at probability of 0.010326594049471567
+For topic 7 word one occurred at probability of 0.009930339462473617
+ 
+ 
+For topic 8 word game occurred at probability of 0.04907128357383695
+For topic 8 word games occurred at probability of 0.02197387053244276
+For topic 8 word really occurred at probability of 0.017588560090335156
+For topic 8 word like occurred at probability of 0.01664632225736896
+For topic 8 word style occurred at probability of 0.01391988189901791
+For topic 8 word one occurred at probability of 0.010519256650501503
+For topic 8 word fun occurred at probability of 0.010316571926773094
+For topic 8 word art occurred at probability of 0.00916371564530407
+For topic 8 word gameplay occurred at probability of 0.008943463882812265
+For topic 8 word love occurred at probability of 0.00867766718991172
+ 
+ 
+For topic 9 word game occurred at probability of 0.03084822667094149
+For topic 9 word good occurred at probability of 0.022152999601661533
+For topic 9 word like occurred at probability of 0.016993647094601633
+For topic 9 word boss occurred at probability of 0.016022475745204916
+For topic 9 word fun occurred at probability of 0.01453776980015404
+For topic 9 word love occurred at probability of 0.012823877594464328
+For topic 9 word cuphead occurred at probability of 0.012692457676963356
+For topic 9 word amazing occurred at probability of 0.010939518503983265
+For topic 9 word really occurred at probability of 0.010528346559339088
+For topic 9 word best occurred at probability of 0.009633482970694256
+ 
+ 
+For topic 10 word game occurred at probability of 0.03248021706462908
+For topic 10 word really occurred at probability of 0.019662394064194365
+For topic 10 word boss occurred at probability of 0.019174501816769635
+For topic 10 word fun occurred at probability of 0.016195797666038132
+For topic 10 word hard occurred at probability of 0.015742560287177205
+For topic 10 word cuphead occurred at probability of 0.015610595365268445
+For topic 10 word would occurred at probability of 0.015408154131198485
+For topic 10 word great occurred at probability of 0.010798511134062735
+For topic 10 word gameplay occurred at probability of 0.010782651471784546
+For topic 10 word style occurred at probability of 0.010388687671415037
+ 
+ 

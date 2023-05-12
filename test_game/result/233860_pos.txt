@@ -1,0 +1,120 @@
+For topic 1 word inside occurred at probability of 0.002375476348213097
+For topic 1 word robotic occurred at probability of 0.0019989005513756076
+For topic 1 word hooked occurred at probability of 0.0017529439492990153
+For topic 1 word appreciate occurred at probability of 0.0016828388551374072
+For topic 1 word fucking occurred at probability of 0.0016280321509366718
+For topic 1 word towards occurred at probability of 0.0015761664662484298
+For topic 1 word athletics occurred at probability of 0.0015752273608095335
+For topic 1 word stands occurred at probability of 0.0014869620611557832
+For topic 1 word armour occurred at probability of 0.0014576199915797112
+For topic 1 word return occurred at probability of 0.0013367399300805182
+ 
+ 
+For topic 2 word okay occurred at probability of 0.002017849947029523
+For topic 2 word b occurred at probability of 0.0016850917020338353
+For topic 2 word pain occurred at probability of 0.0016661537956921897
+For topic 2 word honest occurred at probability of 0.001585339464997964
+For topic 2 word insanely occurred at probability of 0.001515729043522896
+For topic 2 word consuming occurred at probability of 0.0014965864114193045
+For topic 2 word settle occurred at probability of 0.0014301610805473926
+For topic 2 word saving occurred at probability of 0.0013640066715001425
+For topic 2 word hive occurred at probability of 0.0012822876720970672
+For topic 2 word broke occurred at probability of 0.0012669926121936248
+ 
+ 
+For topic 3 word armour occurred at probability of 0.0022775261629553126
+For topic 3 word b occurred at probability of 0.0019310601600881032
+For topic 3 word star occurred at probability of 0.0017236046506594186
+For topic 3 word impressive occurred at probability of 0.001643110211818767
+For topic 3 word enslave occurred at probability of 0.0015355948741826153
+For topic 3 word infinite occurred at probability of 0.0014825845750063512
+For topic 3 word robotic occurred at probability of 0.0014702338046863929
+For topic 3 word settle occurred at probability of 0.0013388892730403972
+For topic 3 word interactions occurred at probability of 0.0012985471840463254
+For topic 3 word quit occurred at probability of 0.0012343324631177383
+ 
+ 
+For topic 4 word towards occurred at probability of 0.0023881844031718204
+For topic 4 word levels occurred at probability of 0.001854894883960197
+For topic 4 word shek occurred at probability of 0.0018331163083864079
+For topic 4 word honest occurred at probability of 0.0017971383603151841
+For topic 4 word ambitious occurred at probability of 0.0015530687248770212
+For topic 4 word reward occurred at probability of 0.0015465107853193897
+For topic 4 word fuck occurred at probability of 0.0015062791525565905
+For topic 4 word fucking occurred at probability of 0.0014476754732361847
+For topic 4 word dude occurred at probability of 0.0013527128937124689
+For topic 4 word impressive occurred at probability of 0.0013503955183307205
+ 
+ 
+For topic 5 word shek occurred at probability of 0.0021861244583727835
+For topic 5 word okay occurred at probability of 0.002174875696158076
+For topic 5 word b occurred at probability of 0.0019399011841374693
+For topic 5 word pain occurred at probability of 0.0017092274993474046
+For topic 5 word towards occurred at probability of 0.0016321333777734575
+For topic 5 word arts occurred at probability of 0.0015606694276925947
+For topic 5 word graphic occurred at probability of 0.001510061881533271
+For topic 5 word infinite occurred at probability of 0.0014713469861266592
+For topic 5 word honest occurred at probability of 0.0014424543584089912
+For topic 5 word hive occurred at probability of 0.0014263098943969623
+ 
+ 
+For topic 6 word pros occurred at probability of 0.0016217566284828255
+For topic 6 word inside occurred at probability of 0.0014943530585564949
+For topic 6 word feet occurred at probability of 0.001454905920680188
+For topic 6 word particular occurred at probability of 0.0014471749562477054
+For topic 6 word enslave occurred at probability of 0.001438562162658214
+For topic 6 word ambitious occurred at probability of 0.0014321641064266755
+For topic 6 word appreciate occurred at probability of 0.001397798192717933
+For topic 6 word okay occurred at probability of 0.0013559607966444316
+For topic 6 word cut occurred at probability of 0.0013337074289893386
+For topic 6 word return occurred at probability of 0.001252813453796231
+ 
+ 
+For topic 7 word hooked occurred at probability of 0.002183856317257728
+For topic 7 word ends occurred at probability of 0.0019125210775755058
+For topic 7 word fuck occurred at probability of 0.0017154629986346974
+For topic 7 word impressive occurred at probability of 0.0016490712072661682
+For topic 7 word graphic occurred at probability of 0.001618362578174171
+For topic 7 word towards occurred at probability of 0.0015196184796355363
+For topic 7 word robotic occurred at probability of 0.0013798898687404921
+For topic 7 word athletics occurred at probability of 0.001345754094240045
+For topic 7 word location occurred at probability of 0.001305412270265373
+For topic 7 word nations occurred at probability of 0.0013021494800820653
+ 
+ 
+For topic 8 word inside occurred at probability of 0.0020954345606569854
+For topic 8 word shek occurred at probability of 0.0019177126478277184
+For topic 8 word genres occurred at probability of 0.0018963314664753618
+For topic 8 word arts occurred at probability of 0.0018252960203533311
+For topic 8 word appreciate occurred at probability of 0.0018058786872946115
+For topic 8 word cut occurred at probability of 0.0018056941745314664
+For topic 8 word armour occurred at probability of 0.0017801254475529051
+For topic 8 word b occurred at probability of 0.0016291466689414091
+For topic 8 word limitless occurred at probability of 0.001569189864930415
+For topic 8 word fuck occurred at probability of 0.0015518370244300642
+ 
+ 
+For topic 9 word hooked occurred at probability of 0.0025330788152305643
+For topic 9 word genres occurred at probability of 0.0019452287400796408
+For topic 9 word ambitious occurred at probability of 0.0018896259655883697
+For topic 9 word towards occurred at probability of 0.0017102492554518596
+For topic 9 word limit occurred at probability of 0.0016159464153309264
+For topic 9 word honest occurred at probability of 0.0015731231189820116
+For topic 9 word description occurred at probability of 0.0015466562660842603
+For topic 9 word door occurred at probability of 0.0015219973304072668
+For topic 9 word chose occurred at probability of 0.0015032618300273332
+For topic 9 word insanely occurred at probability of 0.0014757234782754247
+ 
+ 
+For topic 10 word shek occurred at probability of 0.002807927701062665
+For topic 10 word towards occurred at probability of 0.002225295229348231
+For topic 10 word robotic occurred at probability of 0.0017224675491795635
+For topic 10 word fuck occurred at probability of 0.00169242386615131
+For topic 10 word fucking occurred at probability of 0.0016420039252984843
+For topic 10 word saving occurred at probability of 0.0015759566608902942
+For topic 10 word stat occurred at probability of 0.0013734188707910067
+For topic 10 word mistake occurred at probability of 0.001316936546042841
+For topic 10 word return occurred at probability of 0.001247815608397515
+For topic 10 word ram occurred at probability of 0.0012464448399030733
+ 
+ 

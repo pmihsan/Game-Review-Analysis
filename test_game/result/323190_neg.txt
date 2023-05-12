@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.06997177274929046
+For topic 1 word city occurred at probability of 0.016520424544504912
+For topic 1 word hard occurred at probability of 0.012576038200477967
+For topic 1 word play occurred at probability of 0.011512628864327495
+For topic 1 word would occurred at probability of 0.010634372608659567
+For topic 1 word get occurred at probability of 0.010000821206421083
+For topic 1 word cold occurred at probability of 0.007187083756774486
+For topic 1 word first occurred at probability of 0.00668010166104973
+For topic 1 word frostpunk occurred at probability of 0.005577410129864694
+For topic 1 word end occurred at probability of 0.005111661749471061
+ 
+ 
+For topic 2 word people occurred at probability of 0.013890437570382582
+For topic 2 word like occurred at probability of 0.012086137916306859
+For topic 2 word would occurred at probability of 0.011540483958240822
+For topic 2 word play occurred at probability of 0.010870218754365498
+For topic 2 word really occurred at probability of 0.010539801012894354
+For topic 2 word one occurred at probability of 0.008591234481607908
+For topic 2 word city occurred at probability of 0.0078064706446228215
+For topic 2 word game occurred at probability of 0.007311735163434635
+For topic 2 word make occurred at probability of 0.006082712137383659
+For topic 2 word work occurred at probability of 0.006082370007993533
+ 
+ 
+For topic 3 word game occurred at probability of 0.036911937160141656
+For topic 3 word people occurred at probability of 0.01464931274003156
+For topic 3 word time occurred at probability of 0.008379949294888223
+For topic 3 word hard occurred at probability of 0.008073704698785938
+For topic 3 word get occurred at probability of 0.007857968035270033
+For topic 3 word one occurred at probability of 0.007604097832523649
+For topic 3 word decisions occurred at probability of 0.006563995742430776
+For topic 3 word make occurred at probability of 0.005882483918671393
+For topic 3 word hours occurred at probability of 0.0056038879009068475
+For topic 3 word new occurred at probability of 0.00558872675660305
+ 
+ 
+For topic 4 word game occurred at probability of 0.042891706211256125
+For topic 4 word people occurred at probability of 0.017649838872558502
+For topic 4 word city occurred at probability of 0.015768003904954767
+For topic 4 word good occurred at probability of 0.009419751698333548
+For topic 4 word get occurred at probability of 0.009089745628506965
+For topic 4 word hours occurred at probability of 0.007504102429011862
+For topic 4 word great occurred at probability of 0.007315721774690001
+For topic 4 word building occurred at probability of 0.0072771963123346465
+For topic 4 word like occurred at probability of 0.0060181149350148275
+For topic 4 word first occurred at probability of 0.0058424509148042
+ 
+ 
+For topic 5 word game occurred at probability of 0.0703479964104661
+For topic 5 word city occurred at probability of 0.012832178522520917
+For topic 5 word hard occurred at probability of 0.012521751161725011
+For topic 5 word people occurred at probability of 0.010635443224706501
+For topic 5 word would occurred at probability of 0.01039632304271621
+For topic 5 word play occurred at probability of 0.010016190519199131
+For topic 5 word get occurred at probability of 0.009618326754683496
+For topic 5 word one occurred at probability of 0.007989561449253328
+For topic 5 word like occurred at probability of 0.007827395236097304
+For topic 5 word great occurred at probability of 0.007486683966706799
+ 
+ 
+For topic 6 word people occurred at probability of 0.01826942048862392
+For topic 6 word game occurred at probability of 0.017908285321379516
+For topic 6 word really occurred at probability of 0.009941523128749971
+For topic 6 word make occurred at probability of 0.009606677699644864
+For topic 6 word even occurred at probability of 0.00884555297267264
+For topic 6 word would occurred at probability of 0.008795109847568755
+For topic 6 word time occurred at probability of 0.008653898298876611
+For topic 6 word play occurred at probability of 0.00832007514983113
+For topic 6 word one occurred at probability of 0.008084711095072056
+For topic 6 word get occurred at probability of 0.006805358651250487
+ 
+ 
+For topic 7 word game occurred at probability of 0.05046994788438946
+For topic 7 word make occurred at probability of 0.013046597297304712
+For topic 7 word people occurred at probability of 0.01130290197210794
+For topic 7 word city occurred at probability of 0.010867371861762891
+For topic 7 word one occurred at probability of 0.008715817677408404
+For topic 7 word hard occurred at probability of 0.008415280606622269
+For topic 7 word hours occurred at probability of 0.008014146802604297
+For topic 7 word would occurred at probability of 0.007522115460092681
+For topic 7 word time occurred at probability of 0.007185261272124025
+For topic 7 word games occurred at probability of 0.006526534938329949
+ 
+ 
+For topic 8 word game occurred at probability of 0.06757841458678064
+For topic 8 word time occurred at probability of 0.010217769378856914
+For topic 8 word one occurred at probability of 0.008683470091372892
+For topic 8 word really occurred at probability of 0.008545227988620703
+For topic 8 word city occurred at probability of 0.007068845166168422
+For topic 8 word like occurred at probability of 0.006874320957887749
+For topic 8 word need occurred at probability of 0.0067417007430915395
+For topic 8 word make occurred at probability of 0.00645389222491647
+For topic 8 word people occurred at probability of 0.0060569847904093435
+For topic 8 word cant occurred at probability of 0.005422260833552232
+ 
+ 
+For topic 9 word make occurred at probability of 0.012763197559848144
+For topic 9 word get occurred at probability of 0.01069700379232911
+For topic 9 word game occurred at probability of 0.009616825348228828
+For topic 9 word play occurred at probability of 0.009251203960984453
+For topic 9 word time occurred at probability of 0.008658938023980146
+For topic 9 word people occurred at probability of 0.007954132217712082
+For topic 9 word good occurred at probability of 0.00786351220473559
+For topic 9 word really occurred at probability of 0.00772784537698192
+For topic 9 word coal occurred at probability of 0.0075502014850382685
+For topic 9 word one occurred at probability of 0.007181530573364234
+ 
+ 
+For topic 10 word game occurred at probability of 0.022086936284374272
+For topic 10 word city occurred at probability of 0.015018356960627397
+For topic 10 word time occurred at probability of 0.009080427476664049
+For topic 10 word even occurred at probability of 0.00832745834556408
+For topic 10 word really occurred at probability of 0.0076370122928915846
+For topic 10 word first occurred at probability of 0.007635990906452586
+For topic 10 word good occurred at probability of 0.007467716624759502
+For topic 10 word survival occurred at probability of 0.006652806170323198
+For topic 10 word cold occurred at probability of 0.006406864894975315
+For topic 10 word hours occurred at probability of 0.005890222369431801
+ 
+ 

@@ -1,0 +1,120 @@
+For topic 1 word parkour occurred at probability of 0.012867634351472564
+For topic 1 word like occurred at probability of 0.01178168799030851
+For topic 1 word zombie occurred at probability of 0.011679352178215502
+For topic 1 word get occurred at probability of 0.01123838110933844
+For topic 1 word dead occurred at probability of 0.010219460053309851
+For topic 1 word fun occurred at probability of 0.010049538969576036
+For topic 1 word really occurred at probability of 0.009597395176718104
+For topic 1 word one occurred at probability of 0.008965836147790722
+For topic 1 word light occurred at probability of 0.007572327043608209
+For topic 1 word kill occurred at probability of 0.0073535071906937815
+ 
+ 
+For topic 2 word zombie occurred at probability of 0.018596789899389485
+For topic 2 word zombies occurred at probability of 0.013828345806686066
+For topic 2 word dead occurred at probability of 0.012196101002039394
+For topic 2 word parkour occurred at probability of 0.011255919170747305
+For topic 2 word time occurred at probability of 0.010912385627224155
+For topic 2 word like occurred at probability of 0.010127081535724974
+For topic 2 word good occurred at probability of 0.009683984897821856
+For topic 2 word story occurred at probability of 0.009679699011032751
+For topic 2 word really occurred at probability of 0.008823841528441543
+For topic 2 word kill occurred at probability of 0.008528758715778817
+ 
+ 
+For topic 3 word play occurred at probability of 0.015152272050941998
+For topic 3 word like occurred at probability of 0.011140261131517075
+For topic 3 word zombies occurred at probability of 0.009480247504767711
+For topic 3 word get occurred at probability of 0.008411743620185926
+For topic 3 word night occurred at probability of 0.008281162996050594
+For topic 3 word island occurred at probability of 0.007106943740409328
+For topic 3 word first occurred at probability of 0.006426883429439877
+For topic 3 word even occurred at probability of 0.006154488437213147
+For topic 3 word cant occurred at probability of 0.005860244050046353
+For topic 3 word bad occurred at probability of 0.0057644090360417
+ 
+ 
+For topic 4 word zombies occurred at probability of 0.017537397113863613
+For topic 4 word parkour occurred at probability of 0.011946694152087847
+For topic 4 word would occurred at probability of 0.010798305591285152
+For topic 4 word really occurred at probability of 0.009008771607794881
+For topic 4 word zombie occurred at probability of 0.008540035402638807
+For topic 4 word night occurred at probability of 0.00803318521291406
+For topic 4 word time occurred at probability of 0.007948531945414101
+For topic 4 word story occurred at probability of 0.007638690175571241
+For topic 4 word good occurred at probability of 0.007526504743004324
+For topic 4 word get occurred at probability of 0.007501556192677478
+ 
+ 
+For topic 5 word zombies occurred at probability of 0.02037742044575819
+For topic 5 word zombie occurred at probability of 0.016969218947842184
+For topic 5 word get occurred at probability of 0.013031874134418493
+For topic 5 word story occurred at probability of 0.011351927873704903
+For topic 5 word even occurred at probability of 0.010688677307424718
+For topic 5 word like occurred at probability of 0.01003601472707263
+For topic 5 word fun occurred at probability of 0.009539179456379826
+For topic 5 word weapons occurred at probability of 0.00743622740649757
+For topic 5 word bad occurred at probability of 0.0069964629038537325
+For topic 5 word would occurred at probability of 0.006425947675119874
+ 
+ 
+For topic 6 word get occurred at probability of 0.013523753313295916
+For topic 6 word zombies occurred at probability of 0.012866653088449741
+For topic 6 word time occurred at probability of 0.01171225347130011
+For topic 6 word good occurred at probability of 0.010356100915987087
+For topic 6 word zombie occurred at probability of 0.01012635175774294
+For topic 6 word dead occurred at probability of 0.00822367389170367
+For topic 6 word one occurred at probability of 0.007658716278805955
+For topic 6 word kill occurred at probability of 0.00756565504925751
+For topic 6 word weapons occurred at probability of 0.007256622504278039
+For topic 6 word like occurred at probability of 0.007203502583383866
+ 
+ 
+For topic 7 word fun occurred at probability of 0.013742701691917436
+For topic 7 word get occurred at probability of 0.012841955761521381
+For topic 7 word dead occurred at probability of 0.011984417997397814
+For topic 7 word time occurred at probability of 0.009643039444694789
+For topic 7 word bad occurred at probability of 0.009448354030282484
+For topic 7 word dying occurred at probability of 0.009386301964793
+For topic 7 word zombie occurred at probability of 0.009192893965494896
+For topic 7 word parkour occurred at probability of 0.009165709354076942
+For topic 7 word good occurred at probability of 0.008857388934412022
+For topic 7 word island occurred at probability of 0.008381926187055612
+ 
+ 
+For topic 8 word zombies occurred at probability of 0.0159029224110071
+For topic 8 word story occurred at probability of 0.012976331148931696
+For topic 8 word get occurred at probability of 0.012028262919219856
+For topic 8 word dead occurred at probability of 0.011637989942402891
+For topic 8 word light occurred at probability of 0.008362032853905008
+For topic 8 word good occurred at probability of 0.007707505822138326
+For topic 8 word zombie occurred at probability of 0.007480154134893102
+For topic 8 word played occurred at probability of 0.006412228429008191
+For topic 8 word fun occurred at probability of 0.005796051983685948
+For topic 8 word great occurred at probability of 0.005764183760592006
+ 
+ 
+For topic 9 word zombie occurred at probability of 0.014399835616500234
+For topic 9 word story occurred at probability of 0.013829326481099443
+For topic 9 word play occurred at probability of 0.012182280455374709
+For topic 9 word one occurred at probability of 0.010388352247053721
+For topic 9 word zombies occurred at probability of 0.009929259768515454
+For topic 9 word like occurred at probability of 0.009733683498989483
+For topic 9 word bad occurred at probability of 0.008088882826051778
+For topic 9 word kill occurred at probability of 0.007820039799182594
+For topic 9 word make occurred at probability of 0.006383940656486988
+For topic 9 word would occurred at probability of 0.006295917021930531
+ 
+ 
+For topic 10 word play occurred at probability of 0.015507952306260002
+For topic 10 word dead occurred at probability of 0.012581161031134772
+For topic 10 word zombies occurred at probability of 0.010016317938046092
+For topic 10 word even occurred at probability of 0.00854646477972449
+For topic 10 word get occurred at probability of 0.007223326368330987
+For topic 10 word story occurred at probability of 0.007133148225761801
+For topic 10 word one occurred at probability of 0.0066678390772629695
+For topic 10 word fun occurred at probability of 0.006408163256824651
+For topic 10 word would occurred at probability of 0.00610792220937829
+For topic 10 word weapons occurred at probability of 0.006101577892450309
+ 
+ 

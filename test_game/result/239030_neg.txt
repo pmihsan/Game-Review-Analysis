@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.026329375890823632
+For topic 1 word get occurred at probability of 0.013513402324286414
+For topic 1 word papers occurred at probability of 0.012605561446740054
+For topic 1 word people occurred at probability of 0.012018570769330984
+For topic 1 word time occurred at probability of 0.011274776613375665
+For topic 1 word family occurred at probability of 0.009446113145471929
+For topic 1 word please occurred at probability of 0.009171112947413395
+For topic 1 word make occurred at probability of 0.00903925609583395
+For topic 1 word one occurred at probability of 0.008503401475561027
+For topic 1 word like occurred at probability of 0.008029833257570625
+ 
+ 
+For topic 2 word get occurred at probability of 0.018934525448735567
+For topic 2 word game occurred at probability of 0.01577806894218159
+For topic 2 word would occurred at probability of 0.010067374538206067
+For topic 2 word border occurred at probability of 0.00988593224709326
+For topic 2 word one occurred at probability of 0.00946463889851342
+For topic 2 word fun occurred at probability of 0.009443784111125333
+For topic 2 word family occurred at probability of 0.00920653145469194
+For topic 2 word make occurred at probability of 0.008760782405177395
+For topic 2 word play occurred at probability of 0.008739892158910498
+For topic 2 word country occurred at probability of 0.008016609126173226
+ 
+ 
+For topic 3 word game occurred at probability of 0.02785793661921021
+For topic 3 word family occurred at probability of 0.016120497975062088
+For topic 3 word people occurred at probability of 0.011929709204115131
+For topic 3 word time occurred at probability of 0.010219832559823982
+For topic 3 word youre occurred at probability of 0.007499589683005847
+For topic 3 word get occurred at probability of 0.00671942820762929
+For topic 3 word one occurred at probability of 0.006331726096608598
+For topic 3 word even occurred at probability of 0.005916659484778305
+For topic 3 word choices occurred at probability of 0.0057005927109320086
+For topic 3 word dont occurred at probability of 0.005634680602567135
+ 
+ 
+For topic 4 word game occurred at probability of 0.02061181607844037
+For topic 4 word people occurred at probability of 0.01807311800502629
+For topic 4 word get occurred at probability of 0.010993591580544554
+For topic 4 word really occurred at probability of 0.008692283782378468
+For topic 4 word please occurred at probability of 0.00852706791212292
+For topic 4 word play occurred at probability of 0.008457764087794856
+For topic 4 word day occurred at probability of 0.007236275824809957
+For topic 4 word arstotzka occurred at probability of 0.006979743485583098
+For topic 4 word every occurred at probability of 0.00629882141814545
+For topic 4 word even occurred at probability of 0.006045428855028327
+ 
+ 
+For topic 5 word game occurred at probability of 0.040327437322033234
+For topic 5 word day occurred at probability of 0.01099022308403217
+For topic 5 word arstotzka occurred at probability of 0.010291572302251088
+For topic 5 word dont occurred at probability of 0.00891936613804835
+For topic 5 word fun occurred at probability of 0.008528657265678733
+For topic 5 word people occurred at probability of 0.008160816244725448
+For topic 5 word play occurred at probability of 0.007955794714000822
+For topic 5 word really occurred at probability of 0.007766998388124192
+For topic 5 word papers occurred at probability of 0.007680199603391692
+For topic 5 word like occurred at probability of 0.007671193467094799
+ 
+ 
+For topic 6 word game occurred at probability of 0.0651796012519657
+For topic 6 word family occurred at probability of 0.01400156563552307
+For topic 6 word people occurred at probability of 0.012541775247822514
+For topic 6 word fun occurred at probability of 0.009600614079279495
+For topic 6 word get occurred at probability of 0.009443378898835668
+For topic 6 word day occurred at probability of 0.008996619332723967
+For topic 6 word please occurred at probability of 0.008668159723286366
+For topic 6 word play occurred at probability of 0.008594369820199088
+For topic 6 word would occurred at probability of 0.007558670713124278
+For topic 6 word even occurred at probability of 0.007039509513162526
+ 
+ 
+For topic 7 word game occurred at probability of 0.04345243067853623
+For topic 7 word get occurred at probability of 0.02042115843280233
+For topic 7 word papers occurred at probability of 0.011804378441500531
+For topic 7 word dont occurred at probability of 0.010735162453742482
+For topic 7 word people occurred at probability of 0.00949227293681698
+For topic 7 word make occurred at probability of 0.008921868609650482
+For topic 7 word would occurred at probability of 0.007769651322579197
+For topic 7 word country occurred at probability of 0.00728452398664402
+For topic 7 word border occurred at probability of 0.006989627943503573
+For topic 7 word work occurred at probability of 0.006958018511360241
+ 
+ 
+For topic 8 word game occurred at probability of 0.056801275504144585
+For topic 8 word family occurred at probability of 0.01478441746743422
+For topic 8 word time occurred at probability of 0.010579415869843343
+For topic 8 word would occurred at probability of 0.010227228450823028
+For topic 8 word papers occurred at probability of 0.009980060612186103
+For topic 8 word arstotzka occurred at probability of 0.008315104346561861
+For topic 8 word play occurred at probability of 0.008306531265161746
+For topic 8 word one occurred at probability of 0.007913741590441482
+For topic 8 word make occurred at probability of 0.006761122467387054
+For topic 8 word games occurred at probability of 0.006743564737266285
+ 
+ 
+For topic 9 word game occurred at probability of 0.02510842718391001
+For topic 9 word really occurred at probability of 0.013241286714677636
+For topic 9 word papers occurred at probability of 0.010599474366854371
+For topic 9 word day occurred at probability of 0.009751374329294732
+For topic 9 word boring occurred at probability of 0.008703111081202657
+For topic 9 word make occurred at probability of 0.007634342758578614
+For topic 9 word good occurred at probability of 0.007225183764118498
+For topic 9 word border occurred at probability of 0.007005864652310826
+For topic 9 word let occurred at probability of 0.006739023623379163
+For topic 9 word play occurred at probability of 0.006481028221796878
+ 
+ 
+For topic 10 word game occurred at probability of 0.06096387784405231
+For topic 10 word get occurred at probability of 0.012946993645811726
+For topic 10 word would occurred at probability of 0.010473134989939141
+For topic 10 word family occurred at probability of 0.010115512562751122
+For topic 10 word time occurred at probability of 0.009746697894090208
+For topic 10 word country occurred at probability of 0.009130305104412052
+For topic 10 word make occurred at probability of 0.009094085437099343
+For topic 10 word please occurred at probability of 0.008444213493516359
+For topic 10 word arstotzka occurred at probability of 0.007573732920067893
+For topic 10 word like occurred at probability of 0.007526809504556563
+ 
+ 

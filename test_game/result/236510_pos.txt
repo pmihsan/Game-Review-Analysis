@@ -1,0 +1,120 @@
+For topic 1 word play occurred at probability of 0.024475945923425182
+For topic 1 word good occurred at probability of 0.01898657589085027
+For topic 1 word one occurred at probability of 0.015410875547562288
+For topic 1 word game occurred at probability of 0.0148792466928199
+For topic 1 word dont occurred at probability of 0.012327637642212907
+For topic 1 word time occurred at probability of 0.01004271655416431
+For topic 1 word get occurred at probability of 0.009949212639846909
+For topic 1 word really occurred at probability of 0.009943030907182468
+For topic 1 word tactical occurred at probability of 0.008838599200002593
+For topic 1 word would occurred at probability of 0.0073423996618118435
+ 
+ 
+For topic 2 word like occurred at probability of 0.02720968845022228
+For topic 2 word play occurred at probability of 0.01996026857443018
+For topic 2 word game occurred at probability of 0.01486873968330044
+For topic 2 word even occurred at probability of 0.013444755705867967
+For topic 2 word friends occurred at probability of 0.012595992896486661
+For topic 2 word buy occurred at probability of 0.010070749437276578
+For topic 2 word get occurred at probability of 0.009727708997463102
+For topic 2 word better occurred at probability of 0.00911008876808693
+For topic 2 word six occurred at probability of 0.0090549294129208
+For topic 2 word dont occurred at probability of 0.008442068835162003
+ 
+ 
+For topic 3 word game occurred at probability of 0.04166991779052617
+For topic 3 word like occurred at probability of 0.026950785999529984
+For topic 3 word fun occurred at probability of 0.01746216610578932
+For topic 3 word good occurred at probability of 0.016193848768113576
+For topic 3 word dont occurred at probability of 0.01323802071522473
+For topic 3 word ai occurred at probability of 0.012385168465355565
+For topic 3 word one occurred at probability of 0.012038873175255146
+For topic 3 word play occurred at probability of 0.009440213514810999
+For topic 3 word really occurred at probability of 0.009139409091553613
+For topic 3 word get occurred at probability of 0.007910310464796481
+ 
+ 
+For topic 4 word game occurred at probability of 0.06297639713805513
+For topic 4 word ai occurred at probability of 0.02529667986404048
+For topic 4 word good occurred at probability of 0.020415213233768405
+For topic 4 word games occurred at probability of 0.017423551552307213
+For topic 4 word play occurred at probability of 0.010613152380782987
+For topic 4 word really occurred at probability of 0.009728775007647033
+For topic 4 word rainbow occurred at probability of 0.009069641871976774
+For topic 4 word would occurred at probability of 0.00825624682592315
+For topic 4 word like occurred at probability of 0.007914308138537517
+For topic 4 word get occurred at probability of 0.007576553157576008
+ 
+ 
+For topic 5 word game occurred at probability of 0.12189874371416816
+For topic 5 word like occurred at probability of 0.018845019077248282
+For topic 5 word one occurred at probability of 0.016147842237238197
+For topic 5 word fun occurred at probability of 0.012764332448969158
+For topic 5 word good occurred at probability of 0.011488142007314808
+For topic 5 word tactical occurred at probability of 0.010024610808027188
+For topic 5 word would occurred at probability of 0.009450189321650234
+For topic 5 word dont occurred at probability of 0.009237858223027248
+For topic 5 word buy occurred at probability of 0.008575125074257027
+For topic 5 word still occurred at probability of 0.008163128187670702
+ 
+ 
+For topic 6 word game occurred at probability of 0.0526924652385826
+For topic 6 word like occurred at probability of 0.03449166207112811
+For topic 6 word good occurred at probability of 0.017632754190560176
+For topic 6 word ai occurred at probability of 0.015559519453712704
+For topic 6 word even occurred at probability of 0.013893948673936016
+For topic 6 word games occurred at probability of 0.013462520905828673
+For topic 6 word friends occurred at probability of 0.01144334799526683
+For topic 6 word rainbow occurred at probability of 0.010860083612309149
+For topic 6 word tactical occurred at probability of 0.010090316201452192
+For topic 6 word buy occurred at probability of 0.009508281821308926
+ 
+ 
+For topic 7 word game occurred at probability of 0.10144392277895875
+For topic 7 word fun occurred at probability of 0.017364801480994813
+For topic 7 word really occurred at probability of 0.013255303216456599
+For topic 7 word good occurred at probability of 0.012876638282289226
+For topic 7 word dont occurred at probability of 0.011645357728755393
+For topic 7 word time occurred at probability of 0.009591283278432313
+For topic 7 word shooter occurred at probability of 0.00933556441644597
+For topic 7 word worth occurred at probability of 0.009234923843975371
+For topic 7 word even occurred at probability of 0.008680691235394849
+For topic 7 word would occurred at probability of 0.007096586641103152
+ 
+ 
+For topic 8 word game occurred at probability of 0.04660670215661633
+For topic 8 word play occurred at probability of 0.022374155891443582
+For topic 8 word really occurred at probability of 0.018157890785515694
+For topic 8 word friends occurred at probability of 0.012062987791078564
+For topic 8 word dont occurred at probability of 0.010844307704833496
+For topic 8 word would occurred at probability of 0.010452111164981626
+For topic 8 word time occurred at probability of 0.009883148985657633
+For topic 8 word ai occurred at probability of 0.009575567595044283
+For topic 8 word played occurred at probability of 0.008626088154953039
+For topic 8 word get occurred at probability of 0.00852385656897049
+ 
+ 
+For topic 9 word game occurred at probability of 0.06548234430064494
+For topic 9 word like occurred at probability of 0.03179514879499991
+For topic 9 word fun occurred at probability of 0.01596322298305426
+For topic 9 word play occurred at probability of 0.012872889292230775
+For topic 9 word even occurred at probability of 0.01147801812909474
+For topic 9 word time occurred at probability of 0.010524611320231336
+For topic 9 word six occurred at probability of 0.009582933332046658
+For topic 9 word ai occurred at probability of 0.008949690990511329
+For topic 9 word dont occurred at probability of 0.008404532138892522
+For topic 9 word would occurred at probability of 0.008101678853488769
+ 
+ 
+For topic 10 word game occurred at probability of 0.05987521761894959
+For topic 10 word tactical occurred at probability of 0.012376374504588755
+For topic 10 word six occurred at probability of 0.010892005034805228
+For topic 10 word like occurred at probability of 0.010393071865395972
+For topic 10 word good occurred at probability of 0.00755376674583587
+For topic 10 word get occurred at probability of 0.007200907990584027
+For topic 10 word dont occurred at probability of 0.006953099855853752
+For topic 10 word buy occurred at probability of 0.006856803068679926
+For topic 10 word shooter occurred at probability of 0.006688122975147867
+For topic 10 word hard occurred at probability of 0.006678493393770819
+ 
+ 

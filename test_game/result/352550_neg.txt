@@ -1,0 +1,120 @@
+For topic 1 word city occurred at probability of 0.03922443222611923
+For topic 1 word make occurred at probability of 0.012194978896093101
+For topic 1 word play occurred at probability of 0.011958321227103857
+For topic 1 word hours occurred at probability of 0.010276288323459613
+For topic 1 word parties occurred at probability of 0.007743526034531829
+For topic 1 word builder occurred at probability of 0.007543586416154018
+For topic 1 word get occurred at probability of 0.007485543056756367
+For topic 1 word boring occurred at probability of 0.0071883813692110625
+For topic 1 word playing occurred at probability of 0.007014693685720243
+For topic 1 word games occurred at probability of 0.006798492759891206
+ 
+ 
+For topic 2 word city occurred at probability of 0.03902391926076072
+For topic 2 word get occurred at probability of 0.018811975124011265
+For topic 2 word play occurred at probability of 0.012609448122716157
+For topic 2 word political occurred at probability of 0.012137293831335315
+For topic 2 word first occurred at probability of 0.010527827700651115
+For topic 2 word council occurred at probability of 0.010284401225255778
+For topic 2 word dont occurred at probability of 0.010267709796135414
+For topic 2 word like occurred at probability of 0.009337279519474592
+For topic 2 word really occurred at probability of 0.008912325111223899
+For topic 2 word im occurred at probability of 0.008744019075156997
+ 
+ 
+For topic 3 word city occurred at probability of 0.025143246628602237
+For topic 3 word get occurred at probability of 0.012099216507953849
+For topic 3 word like occurred at probability of 0.01072537667667904
+For topic 3 word one occurred at probability of 0.009656458695736727
+For topic 3 word hours occurred at probability of 0.009180545175399932
+For topic 3 word boring occurred at probability of 0.008172872287842034
+For topic 3 word districts occurred at probability of 0.007979181857826189
+For topic 3 word really occurred at probability of 0.007811068685020789
+For topic 3 word new occurred at probability of 0.007739394574935762
+For topic 3 word playing occurred at probability of 0.0075432735860241455
+ 
+ 
+For topic 4 word get occurred at probability of 0.01939143140688855
+For topic 4 word make occurred at probability of 0.011576432561382893
+For topic 4 word play occurred at probability of 0.011028882004650043
+For topic 4 word much occurred at probability of 0.00963774837777235
+For topic 4 word little occurred at probability of 0.00839055391314171
+For topic 4 word seems occurred at probability of 0.008319851643457686
+For topic 4 word buy occurred at probability of 0.007872665925757725
+For topic 4 word really occurred at probability of 0.007405158073287457
+For topic 4 word anything occurred at probability of 0.007354059722564926
+For topic 4 word bad occurred at probability of 0.007148969370335566
+ 
+ 
+For topic 5 word city occurred at probability of 0.023935711328803386
+For topic 5 word get occurred at probability of 0.0205729494790933
+For topic 5 word one occurred at probability of 0.013877464847377811
+For topic 5 word much occurred at probability of 0.011075380263334614
+For topic 5 word districts occurred at probability of 0.010679383329021727
+For topic 5 word make occurred at probability of 0.010155201343236301
+For topic 5 word dont occurred at probability of 0.01006972362198226
+For topic 5 word council occurred at probability of 0.009905156521741563
+For topic 5 word bad occurred at probability of 0.009902417507853159
+For topic 5 word political occurred at probability of 0.009705654446435395
+ 
+ 
+For topic 6 word boring occurred at probability of 0.015618437462900212
+For topic 6 word city occurred at probability of 0.012343103734301964
+For topic 6 word political occurred at probability of 0.012002726277650208
+For topic 6 word make occurred at probability of 0.011478314291040155
+For topic 6 word way occurred at probability of 0.010456897424318207
+For topic 6 word like occurred at probability of 0.010438006303206532
+For topic 6 word one occurred at probability of 0.009650478357464326
+For topic 6 word much occurred at probability of 0.008107217718255913
+For topic 6 word play occurred at probability of 0.007936339492531804
+For topic 6 word games occurred at probability of 0.006927757284215203
+ 
+ 
+For topic 7 word city occurred at probability of 0.01851815857575081
+For topic 7 word really occurred at probability of 0.013573179714795523
+For topic 7 word boring occurred at probability of 0.01302685613864748
+For topic 7 word make occurred at probability of 0.012141120427938495
+For topic 7 word little occurred at probability of 0.012061365416650035
+For topic 7 word one occurred at probability of 0.012028017711653086
+For topic 7 word parties occurred at probability of 0.011286124923491656
+For topic 7 word much occurred at probability of 0.010750912558036022
+For topic 7 word new occurred at probability of 0.009501134628822669
+For topic 7 word like occurred at probability of 0.008991061877403731
+ 
+ 
+For topic 8 word city occurred at probability of 0.030375482757717925
+For topic 8 word bad occurred at probability of 0.017382170520626593
+For topic 8 word much occurred at probability of 0.010858490453821415
+For topic 8 word buy occurred at probability of 0.010599013079530713
+For topic 8 word dont occurred at probability of 0.010493134607895055
+For topic 8 word really occurred at probability of 0.010377333557220422
+For topic 8 word would occurred at probability of 0.010319573415467869
+For topic 8 word new occurred at probability of 0.009886995948893293
+For topic 8 word like occurred at probability of 0.009610413372495755
+For topic 8 word first occurred at probability of 0.008364552090830812
+ 
+ 
+For topic 9 word city occurred at probability of 0.01784577524807769
+For topic 9 word really occurred at probability of 0.013928204207193786
+For topic 9 word dont occurred at probability of 0.010852276977109618
+For topic 9 word get occurred at probability of 0.010379519214353778
+For topic 9 word council occurred at probability of 0.009398047741705627
+For topic 9 word little occurred at probability of 0.008974462101128374
+For topic 9 word buy occurred at probability of 0.008539137340555968
+For topic 9 word bad occurred at probability of 0.008255463372378518
+For topic 9 word played occurred at probability of 0.008116281187658302
+For topic 9 word doesnt occurred at probability of 0.007876355506477401
+ 
+ 
+For topic 10 word get occurred at probability of 0.02024212488681734
+For topic 10 word bad occurred at probability of 0.013753744474334233
+For topic 10 word really occurred at probability of 0.013310703194940366
+For topic 10 word little occurred at probability of 0.011487441085477008
+For topic 10 word districts occurred at probability of 0.010440555666874534
+For topic 10 word much occurred at probability of 0.009789601052142433
+For topic 10 word way occurred at probability of 0.00888782215393055
+For topic 10 word boring occurred at probability of 0.008695067647802803
+For topic 10 word first occurred at probability of 0.008451241911298056
+For topic 10 word reviews occurred at probability of 0.008316525714164478
+ 
+ 

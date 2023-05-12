@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.03759282398990901
+For topic 1 word good occurred at probability of 0.03303555710621957
+For topic 1 word fun occurred at probability of 0.02141332617438419
+For topic 1 word like occurred at probability of 0.018273718922530352
+For topic 1 word friends occurred at probability of 0.013798649730146599
+For topic 1 word play occurred at probability of 0.013599054727398517
+For topic 1 word really occurred at probability of 0.010631201417593559
+For topic 1 word one occurred at probability of 0.01010958875008563
+For topic 1 word dlc occurred at probability of 0.008151919068479573
+For topic 1 word buy occurred at probability of 0.007898095901480535
+ 
+ 
+For topic 2 word game occurred at probability of 0.039791945119193595
+For topic 2 word good occurred at probability of 0.02035853762412667
+For topic 2 word like occurred at probability of 0.013633033008271454
+For topic 2 word great occurred at probability of 0.013540806538331777
+For topic 2 word friends occurred at probability of 0.01231929577242776
+For topic 2 word get occurred at probability of 0.011616075355202371
+For topic 2 word even occurred at probability of 0.010730941256238264
+For topic 2 word recommend occurred at probability of 0.009509766388480721
+For topic 2 word play occurred at probability of 0.008647379184601338
+For topic 2 word also occurred at probability of 0.007288187247169067
+ 
+ 
+For topic 3 word game occurred at probability of 0.08286159751049624
+For topic 3 word fun occurred at probability of 0.028098523256325083
+For topic 3 word good occurred at probability of 0.02100305609247123
+For topic 3 word great occurred at probability of 0.015418742123796902
+For topic 3 word friends occurred at probability of 0.012349787217327048
+For topic 3 word get occurred at probability of 0.011908850701517341
+For topic 3 word play occurred at probability of 0.011463238153407348
+For topic 3 word one occurred at probability of 0.010473544382581813
+For topic 3 word dlc occurred at probability of 0.00950261884827799
+For topic 3 word dont occurred at probability of 0.009085244499479492
+ 
+ 
+For topic 4 word game occurred at probability of 0.07273059512355352
+For topic 4 word fun occurred at probability of 0.029855897745060263
+For topic 4 word payday occurred at probability of 0.019342062314592446
+For topic 4 word play occurred at probability of 0.01526143109095704
+For topic 4 word really occurred at probability of 0.01490718522861077
+For topic 4 word like occurred at probability of 0.011498698787629292
+For topic 4 word recommend occurred at probability of 0.00999937504524477
+For topic 4 word dlc occurred at probability of 0.009953550867318688
+For topic 4 word even occurred at probability of 0.009868960501222832
+For topic 4 word one occurred at probability of 0.00969966609705495
+ 
+ 
+For topic 5 word game occurred at probability of 0.02311430699547308
+For topic 5 word get occurred at probability of 0.017481731549420673
+For topic 5 word dlc occurred at probability of 0.01574540998973255
+For topic 5 word play occurred at probability of 0.013385195046073559
+For topic 5 word great occurred at probability of 0.012249470541608114
+For topic 5 word really occurred at probability of 0.010881729400299448
+For topic 5 word dont occurred at probability of 0.009880138404603436
+For topic 5 word one occurred at probability of 0.009638921307803335
+For topic 5 word would occurred at probability of 0.009511082650610712
+For topic 5 word even occurred at probability of 0.009505188718991111
+ 
+ 
+For topic 6 word game occurred at probability of 0.03737203167610722
+For topic 6 word play occurred at probability of 0.017006641822895695
+For topic 6 word friends occurred at probability of 0.014637683847865334
+For topic 6 word really occurred at probability of 0.013877521981693326
+For topic 6 word dlc occurred at probability of 0.012259693049521384
+For topic 6 word dont occurred at probability of 0.010213120262483964
+For topic 6 word best occurred at probability of 0.009244432595490218
+For topic 6 word still occurred at probability of 0.008698235317709517
+For topic 6 word payday occurred at probability of 0.008572034598990285
+For topic 6 word much occurred at probability of 0.00824987667295907
+ 
+ 
+For topic 7 word game occurred at probability of 0.07666784648383065
+For topic 7 word fun occurred at probability of 0.021066906811612055
+For topic 7 word great occurred at probability of 0.014476044176356033
+For topic 7 word play occurred at probability of 0.012913579673752527
+For topic 7 word dlc occurred at probability of 0.009783508305954052
+For topic 7 word good occurred at probability of 0.009331750878190033
+For topic 7 word make occurred at probability of 0.009206910868412186
+For topic 7 word overkill occurred at probability of 0.009034633937359711
+For topic 7 word friends occurred at probability of 0.008944116488325658
+For topic 7 word time occurred at probability of 0.0083942452092436
+ 
+ 
+For topic 8 word game occurred at probability of 0.06286741657394186
+For topic 8 word fun occurred at probability of 0.03612621448070175
+For topic 8 word payday occurred at probability of 0.018302353492311386
+For topic 8 word like occurred at probability of 0.01649890766341138
+For topic 8 word dont occurred at probability of 0.01106552261084222
+For topic 8 word good occurred at probability of 0.010331780879657033
+For topic 8 word friends occurred at probability of 0.009882292856363557
+For topic 8 word get occurred at probability of 0.009493339307680855
+For topic 8 word play occurred at probability of 0.008954902693869395
+For topic 8 word money occurred at probability of 0.008399599974027195
+ 
+ 
+For topic 9 word game occurred at probability of 0.06446641930274688
+For topic 9 word good occurred at probability of 0.023699377666511378
+For topic 9 word play occurred at probability of 0.01739702833834372
+For topic 9 word like occurred at probability of 0.01181577617654069
+For topic 9 word recommend occurred at probability of 0.010109355244193721
+For topic 9 word dlc occurred at probability of 0.009981661528747604
+For topic 9 word best occurred at probability of 0.009954896232086233
+For topic 9 word get occurred at probability of 0.0096528260238692
+For topic 9 word payday occurred at probability of 0.009642871751472482
+For topic 9 word great occurred at probability of 0.006972777811580088
+ 
+ 
+For topic 10 word game occurred at probability of 0.07095223927630973
+For topic 10 word good occurred at probability of 0.031043964328213918
+For topic 10 word like occurred at probability of 0.018638118543931017
+For topic 10 word fun occurred at probability of 0.014105928078623809
+For topic 10 word get occurred at probability of 0.01376788057792501
+For topic 10 word friends occurred at probability of 0.012980125975950545
+For topic 10 word great occurred at probability of 0.012291323360339612
+For topic 10 word dlc occurred at probability of 0.01159578092117006
+For topic 10 word love occurred at probability of 0.010874170803756933
+For topic 10 word play occurred at probability of 0.010386404259469786
+ 
+ 

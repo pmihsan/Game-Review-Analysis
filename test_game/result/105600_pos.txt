@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.06545036611349357
+For topic 1 word good occurred at probability of 0.02068120894726735
+For topic 1 word time occurred at probability of 0.01843455665281581
+For topic 1 word great occurred at probability of 0.017813044777031144
+For topic 1 word like occurred at probability of 0.01733796982946798
+For topic 1 word hours occurred at probability of 0.014600250457884286
+For topic 1 word really occurred at probability of 0.012363917279270697
+For topic 1 word many occurred at probability of 0.011252535979898259
+For topic 1 word played occurred at probability of 0.010877861998697549
+For topic 1 word bosses occurred at probability of 0.010262684536648817
+ 
+ 
+For topic 2 word game occurred at probability of 0.09466020774317686
+For topic 2 word good occurred at probability of 0.032830053766211294
+For topic 2 word like occurred at probability of 0.025864390688491085
+For topic 2 word play occurred at probability of 0.025547552156328444
+For topic 2 word great occurred at probability of 0.018169131841095046
+For topic 2 word games occurred at probability of 0.013873923235876032
+For topic 2 word terraria occurred at probability of 0.012585705063651543
+For topic 2 word friends occurred at probability of 0.011686882186933385
+For topic 2 word cool occurred at probability of 0.008478737245228907
+For topic 2 word played occurred at probability of 0.008392067456661207
+ 
+ 
+For topic 3 word game occurred at probability of 0.04207411077445509
+For topic 3 word fun occurred at probability of 0.032744073797422994
+For topic 3 word like occurred at probability of 0.025847344879687466
+For topic 3 word time occurred at probability of 0.023169349473668315
+For topic 3 word much occurred at probability of 0.018446358634990556
+For topic 3 word minecraft occurred at probability of 0.014592870882828487
+For topic 3 word best occurred at probability of 0.013479401716866958
+For topic 3 word get occurred at probability of 0.01243489879757647
+For topic 3 word played occurred at probability of 0.011631448371701726
+For topic 3 word great occurred at probability of 0.01160794634755289
+ 
+ 
+For topic 4 word game occurred at probability of 0.11712499044942798
+For topic 4 word fun occurred at probability of 0.03803724189580731
+For topic 4 word good occurred at probability of 0.01600718868389322
+For topic 4 word minecraft occurred at probability of 0.015861530468836427
+For topic 4 word great occurred at probability of 0.015204921711912229
+For topic 4 word games occurred at probability of 0.013399128307598178
+For topic 4 word even occurred at probability of 0.010563130128234855
+For topic 4 word hours occurred at probability of 0.010535590717193241
+For topic 4 word get occurred at probability of 0.00993843242011924
+For topic 4 word still occurred at probability of 0.009321839836704952
+ 
+ 
+For topic 5 word game occurred at probability of 0.07375530828273077
+For topic 5 word fun occurred at probability of 0.03539785630763723
+For topic 5 word hours occurred at probability of 0.021291614185889384
+For topic 5 word terraria occurred at probability of 0.017793712989779203
+For topic 5 word good occurred at probability of 0.017604223427712395
+For topic 5 word played occurred at probability of 0.01345961038758559
+For topic 5 word minecraft occurred at probability of 0.010726150980559112
+For topic 5 word ive occurred at probability of 0.010402257271582383
+For topic 5 word love occurred at probability of 0.010035363473827805
+For topic 5 word amazing occurred at probability of 0.009471691971809627
+ 
+ 
+For topic 6 word fun occurred at probability of 0.03072207045363121
+For topic 6 word time occurred at probability of 0.026071668117963687
+For topic 6 word game occurred at probability of 0.02233781363497914
+For topic 6 word one occurred at probability of 0.018266154386480653
+For topic 6 word get occurred at probability of 0.016627243796809615
+For topic 6 word minecraft occurred at probability of 0.016256870035490374
+For topic 6 word great occurred at probability of 0.015984714174847963
+For topic 6 word terraria occurred at probability of 0.015684915840617365
+For topic 6 word much occurred at probability of 0.014626324742329019
+For topic 6 word best occurred at probability of 0.014170734262951436
+ 
+ 
+For topic 7 word game occurred at probability of 0.10432466071696057
+For topic 7 word good occurred at probability of 0.033012234181892815
+For topic 7 word like occurred at probability of 0.025136547362190995
+For topic 7 word play occurred at probability of 0.016044472820534613
+For topic 7 word friends occurred at probability of 0.013203063861846345
+For topic 7 word much occurred at probability of 0.01146058681522846
+For topic 7 word even occurred at probability of 0.011002113850316965
+For topic 7 word played occurred at probability of 0.010204640897720186
+For topic 7 word minecraft occurred at probability of 0.009882854700668173
+For topic 7 word yes occurred at probability of 0.009267282256714663
+ 
+ 
+For topic 8 word game occurred at probability of 0.06237865056099014
+For topic 8 word good occurred at probability of 0.03455612708802136
+For topic 8 word fun occurred at probability of 0.029962012428574422
+For topic 8 word hours occurred at probability of 0.020014107035637618
+For topic 8 word play occurred at probability of 0.018073357939933504
+For topic 8 word great occurred at probability of 0.017688342513188893
+For topic 8 word best occurred at probability of 0.014581574108000275
+For topic 8 word games occurred at probability of 0.014373107946013186
+For topic 8 word friends occurred at probability of 0.012401809124020087
+For topic 8 word yes occurred at probability of 0.012184065103489159
+ 
+ 
+For topic 9 word fun occurred at probability of 0.03941509921755035
+For topic 9 word like occurred at probability of 0.02147896598623405
+For topic 9 word one occurred at probability of 0.01876715198461554
+For topic 9 word much occurred at probability of 0.018133157294054417
+For topic 9 word terraria occurred at probability of 0.01722454799507603
+For topic 9 word minecraft occurred at probability of 0.01648691976844446
+For topic 9 word really occurred at probability of 0.014246699062392227
+For topic 9 word best occurred at probability of 0.012479331000380822
+For topic 9 word friends occurred at probability of 0.01135126778115466
+For topic 9 word even occurred at probability of 0.010876585840652413
+ 
+ 
+For topic 10 word game occurred at probability of 0.11640337958857537
+For topic 10 word play occurred at probability of 0.023988909257083028
+For topic 10 word fun occurred at probability of 0.019915135467877702
+For topic 10 word really occurred at probability of 0.016756899231705577
+For topic 10 word terraria occurred at probability of 0.015139579894919071
+For topic 10 word get occurred at probability of 0.013060707207289536
+For topic 10 word games occurred at probability of 0.011923930857242242
+For topic 10 word good occurred at probability of 0.011143729884633233
+For topic 10 word many occurred at probability of 0.010026180353050718
+For topic 10 word love occurred at probability of 0.008187369682668052
+ 
+ 

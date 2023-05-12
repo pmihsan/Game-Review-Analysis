@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.05369009013655876
+For topic 1 word great occurred at probability of 0.029754701867516567
+For topic 1 word puzzle occurred at probability of 0.01900447126008531
+For topic 1 word free occurred at probability of 0.018848758691011394
+For topic 1 word like occurred at probability of 0.01829476088265761
+For topic 1 word fun occurred at probability of 0.01771544016203765
+For topic 1 word art occurred at probability of 0.014376459535962274
+For topic 1 word best occurred at probability of 0.013823844524834414
+For topic 1 word cute occurred at probability of 0.013119759282156933
+For topic 1 word one occurred at probability of 0.011137037721614711
+ 
+ 
+For topic 2 word game occurred at probability of 0.0721739627954921
+For topic 2 word good occurred at probability of 0.032031332552985174
+For topic 2 word short occurred at probability of 0.020286719115172977
+For topic 2 word fun occurred at probability of 0.020258301771731376
+For topic 2 word cute occurred at probability of 0.016452793403659204
+For topic 2 word art occurred at probability of 0.015324299387426452
+For topic 2 word puzzles occurred at probability of 0.014240827198034088
+For topic 2 word nice occurred at probability of 0.012358223906687088
+For topic 2 word girls occurred at probability of 0.011951197343016992
+For topic 2 word demon occurred at probability of 0.01101299937240146
+ 
+ 
+For topic 3 word game occurred at probability of 0.066825814780726
+For topic 3 word fun occurred at probability of 0.02949069533479694
+For topic 3 word demon occurred at probability of 0.029243911371337954
+For topic 3 word great occurred at probability of 0.01587291358570054
+For topic 3 word really occurred at probability of 0.014347812506272817
+For topic 3 word art occurred at probability of 0.013826767046026188
+For topic 3 word free occurred at probability of 0.013461462585144865
+For topic 3 word best occurred at probability of 0.012553824997979517
+For topic 3 word nice occurred at probability of 0.011975580054103605
+For topic 3 word girls occurred at probability of 0.011475228336422021
+ 
+ 
+For topic 4 word fun occurred at probability of 0.03183670389409986
+For topic 4 word demon occurred at probability of 0.023701123706116326
+For topic 4 word puzzle occurred at probability of 0.020864091827339015
+For topic 4 word girls occurred at probability of 0.020128962065169325
+For topic 4 word cute occurred at probability of 0.018584904710339443
+For topic 4 word short occurred at probability of 0.01627337123667525
+For topic 4 word like occurred at probability of 0.01524892814078101
+For topic 4 word game occurred at probability of 0.011722141032383296
+For topic 4 word little occurred at probability of 0.010816804163304002
+For topic 4 word music occurred at probability of 0.010807997391987127
+ 
+ 
+For topic 5 word game occurred at probability of 0.0634479280223644
+For topic 5 word good occurred at probability of 0.02985383449372208
+For topic 5 word puzzle occurred at probability of 0.022255439056808605
+For topic 5 word demon occurred at probability of 0.02197198095533122
+For topic 5 word short occurred at probability of 0.01678302880139544
+For topic 5 word best occurred at probability of 0.01427169461673434
+For topic 5 word music occurred at probability of 0.013695365772620267
+For topic 5 word love occurred at probability of 0.012157836666379254
+For topic 5 word really occurred at probability of 0.011754064745463515
+For topic 5 word puzzles occurred at probability of 0.010091090657374735
+ 
+ 
+For topic 6 word game occurred at probability of 0.08278480757686622
+For topic 6 word good occurred at probability of 0.03287244031428491
+For topic 6 word demon occurred at probability of 0.025944843837184428
+For topic 6 word free occurred at probability of 0.025929079786354704
+For topic 6 word fun occurred at probability of 0.0247040488055511
+For topic 6 word great occurred at probability of 0.023709804212857906
+For topic 6 word short occurred at probability of 0.016523493551813297
+For topic 6 word puzzles occurred at probability of 0.015504813040618189
+For topic 6 word really occurred at probability of 0.014320531242268258
+For topic 6 word best occurred at probability of 0.01207397260356064
+ 
+ 
+For topic 7 word game occurred at probability of 0.06136392332487006
+For topic 7 word fun occurred at probability of 0.027141648375861763
+For topic 7 word good occurred at probability of 0.025170284390719264
+For topic 7 word short occurred at probability of 0.021643411002907426
+For topic 7 word like occurred at probability of 0.020038348092274838
+For topic 7 word girls occurred at probability of 0.018489874475637786
+For topic 7 word puzzle occurred at probability of 0.016597834484908796
+For topic 7 word great occurred at probability of 0.011265010819909087
+For topic 7 word would occurred at probability of 0.011118980801715559
+For topic 7 word nice occurred at probability of 0.010186105073923965
+ 
+ 
+For topic 8 word game occurred at probability of 0.06437006684963671
+For topic 8 word short occurred at probability of 0.021682244925462953
+For topic 8 word girls occurred at probability of 0.015833747659958593
+For topic 8 word puzzles occurred at probability of 0.015602826627173027
+For topic 8 word really occurred at probability of 0.014223038009078667
+For topic 8 word free occurred at probability of 0.012624846676861045
+For topic 8 word nice occurred at probability of 0.012407769995055974
+For topic 8 word art occurred at probability of 0.011953796126304036
+For topic 8 word great occurred at probability of 0.01194160221876387
+For topic 8 word best occurred at probability of 0.011466160625444075
+ 
+ 
+For topic 9 word fun occurred at probability of 0.027785110911024865
+For topic 9 word good occurred at probability of 0.027424342898127244
+For topic 9 word free occurred at probability of 0.024839956755899954
+For topic 9 word girls occurred at probability of 0.021111281801225353
+For topic 9 word cute occurred at probability of 0.019684861431159998
+For topic 9 word demon occurred at probability of 0.019167854105012594
+For topic 9 word puzzles occurred at probability of 0.018971300176110727
+For topic 9 word short occurred at probability of 0.01811672459440927
+For topic 9 word best occurred at probability of 0.014832456972540478
+For topic 9 word like occurred at probability of 0.014197983173038553
+ 
+ 
+For topic 10 word game occurred at probability of 0.02791692472966863
+For topic 10 word short occurred at probability of 0.022066986131226343
+For topic 10 word free occurred at probability of 0.021321096058896472
+For topic 10 word girls occurred at probability of 0.019209590290514344
+For topic 10 word art occurred at probability of 0.01865552758669191
+For topic 10 word puzzles occurred at probability of 0.017214027245187797
+For topic 10 word puzzle occurred at probability of 0.01601349194151719
+For topic 10 word fun occurred at probability of 0.014972796504765556
+For topic 10 word nice occurred at probability of 0.012390654670121138
+For topic 10 word great occurred at probability of 0.011298873362282979
+ 
+ 

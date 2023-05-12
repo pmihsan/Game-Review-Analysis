@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.03260192939899231
+For topic 1 word wolfenstein occurred at probability of 0.020324311301916982
+For topic 1 word bad occurred at probability of 0.011653911954931559
+For topic 1 word go occurred at probability of 0.007165034037552951
+For topic 1 word coop occurred at probability of 0.0067515438914842844
+For topic 1 word level occurred at probability of 0.0065153048522318055
+For topic 1 word like occurred at probability of 0.00612232687750739
+For topic 1 word story occurred at probability of 0.005889644646491565
+For topic 1 word almost occurred at probability of 0.005587657377052461
+For topic 1 word games occurred at probability of 0.00544526752791594
+ 
+ 
+For topic 2 word game occurred at probability of 0.05854166568294515
+For topic 2 word enemies occurred at probability of 0.01193073369187185
+For topic 2 word bad occurred at probability of 0.011621154968085957
+For topic 2 word get occurred at probability of 0.01159952420812503
+For topic 2 word coop occurred at probability of 0.01035589124650514
+For topic 2 word play occurred at probability of 0.009982542622737862
+For topic 2 word story occurred at probability of 0.009289046142003966
+For topic 2 word one occurred at probability of 0.008543559218514338
+For topic 2 word even occurred at probability of 0.007195651383420254
+For topic 2 word wolfenstein occurred at probability of 0.007003371470322881
+ 
+ 
+For topic 3 word game occurred at probability of 0.05212125897221027
+For topic 3 word games occurred at probability of 0.012351845889208186
+For topic 3 word play occurred at probability of 0.01136535199563096
+For topic 3 word new occurred at probability of 0.010705109046649909
+For topic 3 word even occurred at probability of 0.010379094077455358
+For topic 3 word story occurred at probability of 0.010278372846339517
+For topic 3 word enemies occurred at probability of 0.010253033480225217
+For topic 3 word wolfenstein occurred at probability of 0.00890052546325859
+For topic 3 word time occurred at probability of 0.007346144340209777
+For topic 3 word playing occurred at probability of 0.007030958233926654
+ 
+ 
+For topic 4 word like occurred at probability of 0.026184234668542392
+For topic 4 word wolfenstein occurred at probability of 0.0179867250321209
+For topic 4 word bad occurred at probability of 0.016276547731058227
+For topic 4 word dont occurred at probability of 0.01204809650027632
+For topic 4 word coop occurred at probability of 0.010221628358520612
+For topic 4 word get occurred at probability of 0.009355996451356622
+For topic 4 word one occurred at probability of 0.007373668007127155
+For topic 4 word played occurred at probability of 0.00732681061418736
+For topic 4 word good occurred at probability of 0.007255388009169211
+For topic 4 word hours occurred at probability of 0.007084539400871327
+ 
+ 
+For topic 5 word game occurred at probability of 0.05217806092227577
+For topic 5 word like occurred at probability of 0.012833542498901151
+For topic 5 word games occurred at probability of 0.010723066999054714
+For topic 5 word enemies occurred at probability of 0.009763133748433362
+For topic 5 word play occurred at probability of 0.009639980782251948
+For topic 5 word one occurred at probability of 0.007356915173138567
+For topic 5 word playing occurred at probability of 0.007230817880305658
+For topic 5 word really occurred at probability of 0.006983638507908208
+For topic 5 word story occurred at probability of 0.006896493879114075
+For topic 5 word characters occurred at probability of 0.0064878236955622556
+ 
+ 
+For topic 6 word game occurred at probability of 0.040046957779245634
+For topic 6 word wolfenstein occurred at probability of 0.02090905157347694
+For topic 6 word dont occurred at probability of 0.013989628838600403
+For topic 6 word enemies occurred at probability of 0.013012614302942503
+For topic 6 word even occurred at probability of 0.010851523453477289
+For topic 6 word play occurred at probability of 0.010568444384048806
+For topic 6 word new occurred at probability of 0.010027801759996631
+For topic 6 word get occurred at probability of 0.009929210118445232
+For topic 6 word make occurred at probability of 0.009548718565879417
+For topic 6 word time occurred at probability of 0.008465541394411228
+ 
+ 
+For topic 7 word wolfenstein occurred at probability of 0.014179830413035005
+For topic 7 word play occurred at probability of 0.013520241385376244
+For topic 7 word like occurred at probability of 0.012915866189307427
+For topic 7 word enemies occurred at probability of 0.01291517911197938
+For topic 7 word dont occurred at probability of 0.012193940180104737
+For topic 7 word make occurred at probability of 0.009396815350348177
+For topic 7 word fun occurred at probability of 0.00887979794417166
+For topic 7 word ai occurred at probability of 0.008791821197808691
+For topic 7 word really occurred at probability of 0.008233945013542488
+For topic 7 word way occurred at probability of 0.007729214631038014
+ 
+ 
+For topic 8 word game occurred at probability of 0.0443143566093824
+For topic 8 word wolfenstein occurred at probability of 0.014929542240662223
+For topic 8 word level occurred at probability of 0.012408009643356433
+For topic 8 word like occurred at probability of 0.011895822128679972
+For topic 8 word even occurred at probability of 0.01134810368058776
+For topic 8 word play occurred at probability of 0.009539632158867464
+For topic 8 word games occurred at probability of 0.009291802779646856
+For topic 8 word playing occurred at probability of 0.008862486537405578
+For topic 8 word get occurred at probability of 0.007868171623643045
+For topic 8 word fun occurred at probability of 0.007509339366927381
+ 
+ 
+For topic 9 word one occurred at probability of 0.021712604246183854
+For topic 9 word game occurred at probability of 0.01812396021128769
+For topic 9 word enemies occurred at probability of 0.016457251214368928
+For topic 9 word like occurred at probability of 0.015823926586855237
+For topic 9 word bad occurred at probability of 0.015561514978517323
+For topic 9 word level occurred at probability of 0.0119512464271642
+For topic 9 word get occurred at probability of 0.011712364352202978
+For topic 9 word really occurred at probability of 0.009185398093079378
+For topic 9 word fun occurred at probability of 0.008967165719448545
+For topic 9 word new occurred at probability of 0.00821375920126699
+ 
+ 
+For topic 10 word game occurred at probability of 0.07902299589278589
+For topic 10 word story occurred at probability of 0.012866615866339652
+For topic 10 word level occurred at probability of 0.011806581680405756
+For topic 10 word play occurred at probability of 0.01104249444554272
+For topic 10 word ai occurred at probability of 0.009786591817495957
+For topic 10 word really occurred at probability of 0.009640316632451074
+For topic 10 word dont occurred at probability of 0.008437108289247505
+For topic 10 word even occurred at probability of 0.0075888505476543085
+For topic 10 word coop occurred at probability of 0.0071759103391384575
+For topic 10 word enemies occurred at probability of 0.007113126180924575
+ 
+ 

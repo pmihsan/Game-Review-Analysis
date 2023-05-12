@@ -1,0 +1,120 @@
+For topic 1 word like occurred at probability of 0.023498921630253248
+For topic 1 word campaign occurred at probability of 0.021732325947208503
+For topic 1 word dow occurred at probability of 0.01848569261352884
+For topic 1 word would occurred at probability of 0.010645007307530721
+For topic 1 word really occurred at probability of 0.009367598785859202
+For topic 1 word good occurred at probability of 0.009144812398348145
+For topic 1 word much occurred at probability of 0.007942601912295235
+For topic 1 word game occurred at probability of 0.007516676174953446
+For topic 1 word great occurred at probability of 0.00750342057329334
+For topic 1 word multiplayer occurred at probability of 0.00745009038984419
+ 
+ 
+For topic 2 word game occurred at probability of 0.06419143308563596
+For topic 2 word war occurred at probability of 0.016999879518833916
+For topic 2 word rts occurred at probability of 0.012254970016792587
+For topic 2 word play occurred at probability of 0.011350642472415134
+For topic 2 word dow occurred at probability of 0.007666476698893501
+For topic 2 word dawn occurred at probability of 0.007497077665250121
+For topic 2 word different occurred at probability of 0.007350510744970161
+For topic 2 word get occurred at probability of 0.006771262348349929
+For topic 2 word fun occurred at probability of 0.006583633645039794
+For topic 2 word first occurred at probability of 0.006508692088091369
+ 
+ 
+For topic 3 word game occurred at probability of 0.05457187404105995
+For topic 3 word like occurred at probability of 0.023346148750537487
+For topic 3 word fun occurred at probability of 0.013044025157909433
+For topic 3 word dont occurred at probability of 0.01206943727811281
+For topic 3 word dow occurred at probability of 0.011867164322925065
+For topic 3 word play occurred at probability of 0.011659452493918494
+For topic 3 word played occurred at probability of 0.008589950847605832
+For topic 3 word get occurred at probability of 0.008273034220084404
+For topic 3 word would occurred at probability of 0.008060198404117402
+For topic 3 word great occurred at probability of 0.007395370961202265
+ 
+ 
+For topic 4 word games occurred at probability of 0.019902735317715085
+For topic 4 word dow occurred at probability of 0.016950695173420287
+For topic 4 word campaign occurred at probability of 0.016163669688947335
+For topic 4 word like occurred at probability of 0.01289158142853561
+For topic 4 word really occurred at probability of 0.012747349586151495
+For topic 4 word units occurred at probability of 0.012393788030540883
+For topic 4 word dawn occurred at probability of 0.01024715777164529
+For topic 4 word much occurred at probability of 0.008094691465083457
+For topic 4 word played occurred at probability of 0.007565037820964337
+For topic 4 word even occurred at probability of 0.007180109416222695
+ 
+ 
+For topic 5 word game occurred at probability of 0.059700637729375686
+For topic 5 word war occurred at probability of 0.016127672240474997
+For topic 5 word like occurred at probability of 0.012027606477228529
+For topic 5 word rts occurred at probability of 0.011649287086534503
+For topic 5 word play occurred at probability of 0.010299327420038105
+For topic 5 word good occurred at probability of 0.010116222758909084
+For topic 5 word dow occurred at probability of 0.010061184725347838
+For topic 5 word one occurred at probability of 0.009472523468188325
+For topic 5 word new occurred at probability of 0.008309465737991871
+For topic 5 word even occurred at probability of 0.008194431535871273
+ 
+ 
+For topic 6 word like occurred at probability of 0.0218793573254978
+For topic 6 word campaign occurred at probability of 0.01696021238273767
+For topic 6 word dow occurred at probability of 0.014602292627103594
+For topic 6 word games occurred at probability of 0.012793868711547711
+For topic 6 word play occurred at probability of 0.012616020008441548
+For topic 6 word multiplayer occurred at probability of 0.0076739684874148825
+For topic 6 word good occurred at probability of 0.00754122354575119
+For topic 6 word really occurred at probability of 0.007430404002295802
+For topic 6 word dawn occurred at probability of 0.007376299198760779
+For topic 6 word dont occurred at probability of 0.006609154768223376
+ 
+ 
+For topic 7 word game occurred at probability of 0.053427851670359225
+For topic 7 word like occurred at probability of 0.02660186952974713
+For topic 7 word good occurred at probability of 0.014119322722323862
+For topic 7 word dawn occurred at probability of 0.010858771941215496
+For topic 7 word units occurred at probability of 0.010385851926768074
+For topic 7 word games occurred at probability of 0.008553742600523202
+For topic 7 word dow occurred at probability of 0.007908634702713987
+For topic 7 word would occurred at probability of 0.0077848264924007685
+For topic 7 word fun occurred at probability of 0.006645627881098467
+For topic 7 word previous occurred at probability of 0.006247194370415182
+ 
+ 
+For topic 8 word like occurred at probability of 0.02664592938094132
+For topic 8 word game occurred at probability of 0.021437979426024198
+For topic 8 word dow occurred at probability of 0.020350904219497083
+For topic 8 word campaign occurred at probability of 0.015656994396920674
+For topic 8 word units occurred at probability of 0.011019479948698792
+For topic 8 word play occurred at probability of 0.010616378949774151
+For topic 8 word dawn occurred at probability of 0.009731247999633763
+For topic 8 word multiplayer occurred at probability of 0.009651640496170953
+For topic 8 word war occurred at probability of 0.009422700468559793
+For topic 8 word rts occurred at probability of 0.00934674697896328
+ 
+ 
+For topic 9 word game occurred at probability of 0.04473206814046268
+For topic 9 word units occurred at probability of 0.013062180215720335
+For topic 9 word dawn occurred at probability of 0.012834363383561705
+For topic 9 word good occurred at probability of 0.011599801558630995
+For topic 9 word fun occurred at probability of 0.010300115278155508
+For topic 9 word one occurred at probability of 0.009476164408672312
+For topic 9 word great occurred at probability of 0.008739351762929127
+For topic 9 word get occurred at probability of 0.008098687134821743
+For topic 9 word multiplayer occurred at probability of 0.007666390509079587
+For topic 9 word dow occurred at probability of 0.007495221938218287
+ 
+ 
+For topic 10 word game occurred at probability of 0.04021681932647266
+For topic 10 word like occurred at probability of 0.01896519474821862
+For topic 10 word good occurred at probability of 0.014503815339481271
+For topic 10 word units occurred at probability of 0.013558356480573715
+For topic 10 word games occurred at probability of 0.012867187400281683
+For topic 10 word dawn occurred at probability of 0.012474319010145413
+For topic 10 word rts occurred at probability of 0.01069018288847103
+For topic 10 word dow occurred at probability of 0.010529518783303072
+For topic 10 word dont occurred at probability of 0.010314092302234878
+For topic 10 word really occurred at probability of 0.010286083910621547
+ 
+ 

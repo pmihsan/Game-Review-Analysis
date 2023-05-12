@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.029101809232665025
+For topic 1 word xcom occurred at probability of 0.016435037136966604
+For topic 1 word one occurred at probability of 0.012770353521429934
+For topic 1 word get occurred at probability of 0.012418819540499842
+For topic 1 word missions occurred at probability of 0.00913466388761807
+For topic 1 word first occurred at probability of 0.007717579250241502
+For topic 1 word like occurred at probability of 0.007379229352368828
+For topic 1 word enemy occurred at probability of 0.0068906820870133206
+For topic 1 word playing occurred at probability of 0.006698814500619446
+For topic 1 word mission occurred at probability of 0.00653587343538075
+ 
+ 
+For topic 2 word game occurred at probability of 0.05961504259747968
+For topic 2 word get occurred at probability of 0.012037458543009524
+For topic 2 word one occurred at probability of 0.010278532903223286
+For topic 2 word mission occurred at probability of 0.01011762884280852
+For topic 2 word even occurred at probability of 0.009401840254602452
+For topic 2 word missions occurred at probability of 0.0076001240106760536
+For topic 2 word play occurred at probability of 0.006657003380219271
+For topic 2 word im occurred at probability of 0.0058370792341332104
+For topic 2 word time occurred at probability of 0.005803620537034395
+For topic 2 word turn occurred at probability of 0.00578137788990627
+ 
+ 
+For topic 3 word game occurred at probability of 0.08944405790732145
+For topic 3 word xcom occurred at probability of 0.013578436214082267
+For topic 3 word like occurred at probability of 0.01304318326978154
+For topic 3 word time occurred at probability of 0.011791203054605796
+For topic 3 word missions occurred at probability of 0.008249579198472506
+For topic 3 word enemy occurred at probability of 0.007911547731498846
+For topic 3 word soldiers occurred at probability of 0.007772912492482048
+For topic 3 word dont occurred at probability of 0.0076916031836721434
+For topic 3 word still occurred at probability of 0.007515218334537356
+For topic 3 word aliens occurred at probability of 0.005875677731809717
+ 
+ 
+For topic 4 word game occurred at probability of 0.027372764766407078
+For topic 4 word enemy occurred at probability of 0.013136900127853509
+For topic 4 word one occurred at probability of 0.011847137458656095
+For topic 4 word xcom occurred at probability of 0.011557224254602526
+For topic 4 word even occurred at probability of 0.010556112276872852
+For topic 4 word turn occurred at probability of 0.008198677542685847
+For topic 4 word soldiers occurred at probability of 0.00766962030791913
+For topic 4 word like occurred at probability of 0.007308039536849813
+For topic 4 word get occurred at probability of 0.006610681368832164
+For topic 4 word still occurred at probability of 0.0065518353594017625
+ 
+ 
+For topic 5 word xcom occurred at probability of 0.011630234869316811
+For topic 5 word one occurred at probability of 0.010936909853344409
+For topic 5 word like occurred at probability of 0.010325874005999217
+For topic 5 word game occurred at probability of 0.009957891028609767
+For topic 5 word time occurred at probability of 0.009539150079248082
+For topic 5 word missions occurred at probability of 0.007444171872230517
+For topic 5 word make occurred at probability of 0.00718976860809184
+For topic 5 word first occurred at probability of 0.007091190777590851
+For topic 5 word get occurred at probability of 0.006855415487341805
+For topic 5 word would occurred at probability of 0.00672278988289816
+ 
+ 
+For topic 6 word game occurred at probability of 0.035444696733607305
+For topic 6 word xcom occurred at probability of 0.012925655240017098
+For topic 6 word one occurred at probability of 0.012523105760352895
+For topic 6 word time occurred at probability of 0.012257043580700797
+For topic 6 word new occurred at probability of 0.009538653850275906
+For topic 6 word mission occurred at probability of 0.007729841706434311
+For topic 6 word play occurred at probability of 0.007619350516010566
+For topic 6 word really occurred at probability of 0.0064208890327312855
+For topic 6 word would occurred at probability of 0.0063121638642478625
+For topic 6 word hard occurred at probability of 0.005645082110921222
+ 
+ 
+For topic 7 word game occurred at probability of 0.02140465027708827
+For topic 7 word even occurred at probability of 0.012289094000753622
+For topic 7 word xcom occurred at probability of 0.011485735731719352
+For topic 7 word enemy occurred at probability of 0.010205551436390164
+For topic 7 word soldiers occurred at probability of 0.007547586963498871
+For topic 7 word get occurred at probability of 0.007396922511899434
+For topic 7 word one occurred at probability of 0.007316886648868856
+For topic 7 word first occurred at probability of 0.007314858301732722
+For topic 7 word like occurred at probability of 0.006455927534230287
+For topic 7 word hit occurred at probability of 0.005993933309565707
+ 
+ 
+For topic 8 word game occurred at probability of 0.03307798155556494
+For topic 8 word xcom occurred at probability of 0.013528065093049003
+For topic 8 word mission occurred at probability of 0.010603614139075974
+For topic 8 word play occurred at probability of 0.00834506164072971
+For topic 8 word first occurred at probability of 0.007934909173259345
+For topic 8 word even occurred at probability of 0.007880982508351442
+For topic 8 word time occurred at probability of 0.0076861734730254054
+For topic 8 word also occurred at probability of 0.00768145979621475
+For topic 8 word make occurred at probability of 0.007672978053449625
+For topic 8 word dont occurred at probability of 0.00684268169647974
+ 
+ 
+For topic 9 word game occurred at probability of 0.024201755730684598
+For topic 9 word get occurred at probability of 0.012202534052059894
+For topic 9 word even occurred at probability of 0.009930937523162958
+For topic 9 word play occurred at probability of 0.00855420345127706
+For topic 9 word soldiers occurred at probability of 0.00822652664597218
+For topic 9 word xcom occurred at probability of 0.006972392163911616
+For topic 9 word bad occurred at probability of 0.0064193613525474055
+For topic 9 word bugs occurred at probability of 0.0057867710276405864
+For topic 9 word games occurred at probability of 0.0057372873574765655
+For topic 9 word long occurred at probability of 0.0057034797097429805
+ 
+ 
+For topic 10 word game occurred at probability of 0.029545827620180196
+For topic 10 word xcom occurred at probability of 0.01775787915436679
+For topic 10 word get occurred at probability of 0.009176861583694292
+For topic 10 word love occurred at probability of 0.0066580200485415394
+For topic 10 word bad occurred at probability of 0.006556182939204329
+For topic 10 word play occurred at probability of 0.006217224894845351
+For topic 10 word really occurred at probability of 0.0057916381558604174
+For topic 10 word bugs occurred at probability of 0.005339144732654586
+For topic 10 word played occurred at probability of 0.004962044156914736
+For topic 10 word never occurred at probability of 0.0049011590379061274
+ 
+ 

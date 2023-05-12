@@ -1,0 +1,120 @@
+For topic 1 word wars occurred at probability of 0.03546188001912124
+For topic 1 word star occurred at probability of 0.0302799436718521
+For topic 1 word play occurred at probability of 0.01697855695709635
+For topic 1 word best occurred at probability of 0.015115557047800762
+For topic 1 word modding occurred at probability of 0.01485661788351492
+For topic 1 word good occurred at probability of 0.013870260912893976
+For topic 1 word great occurred at probability of 0.012418122844560472
+For topic 1 word love occurred at probability of 0.01176308555509349
+For topic 1 word time occurred at probability of 0.011721163876484907
+For topic 1 word rts occurred at probability of 0.011662651710535609
+ 
+ 
+For topic 2 word good occurred at probability of 0.025675541442822605
+For topic 2 word like occurred at probability of 0.024745054786434916
+For topic 2 word star occurred at probability of 0.02006760918572074
+For topic 2 word games occurred at probability of 0.017737411883223735
+For topic 2 word rts occurred at probability of 0.016781043342582527
+For topic 2 word fun occurred at probability of 0.016124346789522168
+For topic 2 word space occurred at probability of 0.013656466585749323
+For topic 2 word one occurred at probability of 0.01342361116928437
+For topic 2 word love occurred at probability of 0.012998363236977825
+For topic 2 word wars occurred at probability of 0.011525651172280915
+ 
+ 
+For topic 3 word star occurred at probability of 0.05700117586150121
+For topic 3 word fun occurred at probability of 0.03399059789901263
+For topic 3 word play occurred at probability of 0.017249473878998743
+For topic 3 word like occurred at probability of 0.01559304101164338
+For topic 3 word games occurred at probability of 0.015114174153345792
+For topic 3 word empire occurred at probability of 0.013746206559781479
+For topic 3 word mod occurred at probability of 0.013072193966819837
+For topic 3 word rts occurred at probability of 0.012968771057481841
+For topic 3 word best occurred at probability of 0.011491593230228985
+For topic 3 word still occurred at probability of 0.010745445010286875
+ 
+ 
+For topic 4 word star occurred at probability of 0.03680339212637025
+For topic 4 word great occurred at probability of 0.027977347307100678
+For topic 4 word wars occurred at probability of 0.02730377923483333
+For topic 4 word strategy occurred at probability of 0.01756373592795409
+For topic 4 word good occurred at probability of 0.015688513919905334
+For topic 4 word like occurred at probability of 0.01422740778151306
+For topic 4 word battles occurred at probability of 0.012751148154603516
+For topic 4 word games occurred at probability of 0.01264734603320886
+For topic 4 word one occurred at probability of 0.01228255966166557
+For topic 4 word amazing occurred at probability of 0.011803581079434517
+ 
+ 
+For topic 5 word fun occurred at probability of 0.040001459707499375
+For topic 5 word wars occurred at probability of 0.028416564436804355
+For topic 5 word great occurred at probability of 0.026318506402113962
+For topic 5 word star occurred at probability of 0.019398510211741965
+For topic 5 word best occurred at probability of 0.017203391455090984
+For topic 5 word rts occurred at probability of 0.017055343678555237
+For topic 5 word play occurred at probability of 0.015705478132808558
+For topic 5 word games occurred at probability of 0.012767057700187382
+For topic 5 word good occurred at probability of 0.012531166319853708
+For topic 5 word amazing occurred at probability of 0.01111596133178452
+ 
+ 
+For topic 6 word wars occurred at probability of 0.039498571036853336
+For topic 6 word good occurred at probability of 0.02319556582187287
+For topic 6 word play occurred at probability of 0.020402303556973474
+For topic 6 word great occurred at probability of 0.018284806644283898
+For topic 6 word one occurred at probability of 0.017777730839649248
+For topic 6 word empire occurred at probability of 0.015139032308379083
+For topic 6 word strategy occurred at probability of 0.014276602398749927
+For topic 6 word still occurred at probability of 0.013408658574952645
+For topic 6 word love occurred at probability of 0.011236550879752194
+For topic 6 word time occurred at probability of 0.009482776313017534
+ 
+ 
+For topic 7 word good occurred at probability of 0.01977433454577232
+For topic 7 word star occurred at probability of 0.018907872665271837
+For topic 7 word battles occurred at probability of 0.015227920017663937
+For topic 7 word rts occurred at probability of 0.014218557885007295
+For topic 7 word still occurred at probability of 0.013480885322570505
+For topic 7 word great occurred at probability of 0.01270219842065084
+For topic 7 word games occurred at probability of 0.011051908781268879
+For topic 7 word would occurred at probability of 0.010865170546783884
+For topic 7 word galactic occurred at probability of 0.00960502717054472
+For topic 7 word even occurred at probability of 0.00938471879442506
+ 
+ 
+For topic 8 word wars occurred at probability of 0.034828940892613035
+For topic 8 word good occurred at probability of 0.027245326332395875
+For topic 8 word star occurred at probability of 0.026145014909087244
+For topic 8 word one occurred at probability of 0.01768651259720122
+For topic 8 word like occurred at probability of 0.015073006468033714
+For topic 8 word mod occurred at probability of 0.013255678589289645
+For topic 8 word rts occurred at probability of 0.012972098919874206
+For topic 8 word even occurred at probability of 0.012573235406768194
+For topic 8 word games occurred at probability of 0.012305879240553017
+For topic 8 word still occurred at probability of 0.01211524026273554
+ 
+ 
+For topic 9 word fun occurred at probability of 0.04721137067690421
+For topic 9 word great occurred at probability of 0.02778425895273345
+For topic 9 word best occurred at probability of 0.017855642506612396
+For topic 9 word strategy occurred at probability of 0.016822192532035627
+For topic 9 word like occurred at probability of 0.0153371063700328
+For topic 9 word star occurred at probability of 0.014984792004575174
+For topic 9 word even occurred at probability of 0.011896252977807123
+For topic 9 word mod occurred at probability of 0.011581078912938867
+For topic 9 word war occurred at probability of 0.011357846040299917
+For topic 9 word love occurred at probability of 0.010464571030732629
+ 
+ 
+For topic 10 word wars occurred at probability of 0.03984395342691749
+For topic 10 word star occurred at probability of 0.026564356076804303
+For topic 10 word good occurred at probability of 0.025676903506902014
+For topic 10 word games occurred at probability of 0.02172112314241236
+For topic 10 word like occurred at probability of 0.017532364159008947
+For topic 10 word one occurred at probability of 0.016447050829076947
+For topic 10 word great occurred at probability of 0.01558718023937989
+For topic 10 word space occurred at probability of 0.014883599895052672
+For topic 10 word rts occurred at probability of 0.013069661624396905
+For topic 10 word love occurred at probability of 0.011619084258508714
+ 
+ 

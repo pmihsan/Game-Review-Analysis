@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.042439726732703825
+For topic 1 word one occurred at probability of 0.022096930882397274
+For topic 1 word get occurred at probability of 0.014212168414907824
+For topic 1 word like occurred at probability of 0.010911034305881202
+For topic 1 word dont occurred at probability of 0.010573081985074128
+For topic 1 word play occurred at probability of 0.010398875658879477
+For topic 1 word good occurred at probability of 0.00878051699530593
+For topic 1 word would occurred at probability of 0.008766057652862192
+For topic 1 word music occurred at probability of 0.008620526816896342
+For topic 1 word kill occurred at probability of 0.008452163923673345
+ 
+ 
+For topic 2 word game occurred at probability of 0.054729523057947066
+For topic 2 word play occurred at probability of 0.012544430275979394
+For topic 2 word great occurred at probability of 0.010636522326194704
+For topic 2 word hotline occurred at probability of 0.009584993164639769
+For topic 2 word playing occurred at probability of 0.009150602071368795
+For topic 2 word get occurred at probability of 0.009084244408746405
+For topic 2 word fast occurred at probability of 0.008525628997481537
+For topic 2 word story occurred at probability of 0.008249829160991916
+For topic 2 word time occurred at probability of 0.008205528663477592
+For topic 2 word killing occurred at probability of 0.007961908153949796
+ 
+ 
+For topic 3 word game occurred at probability of 0.07195473829023773
+For topic 3 word kill occurred at probability of 0.016076608963060558
+For topic 3 word miami occurred at probability of 0.01578746462211654
+For topic 3 word die occurred at probability of 0.014660265313058099
+For topic 3 word fun occurred at probability of 0.011420390879483122
+For topic 3 word people occurred at probability of 0.010537521169686464
+For topic 3 word hard occurred at probability of 0.00997224814882601
+For topic 3 word get occurred at probability of 0.006777481001862299
+For topic 3 word soundtrack occurred at probability of 0.006633350225851122
+For topic 3 word gameplay occurred at probability of 0.0061982690083158196
+ 
+ 
+For topic 4 word game occurred at probability of 0.0454319050976553
+For topic 4 word hotline occurred at probability of 0.012761172453793799
+For topic 4 word miami occurred at probability of 0.011693104712980426
+For topic 4 word die occurred at probability of 0.011432581548291972
+For topic 4 word fun occurred at probability of 0.01058624250978733
+For topic 4 word enemies occurred at probability of 0.009209743954598892
+For topic 4 word good occurred at probability of 0.008272586020485471
+For topic 4 word level occurred at probability of 0.008184925968062385
+For topic 4 word games occurred at probability of 0.007372687684308565
+For topic 4 word great occurred at probability of 0.007108681526095292
+ 
+ 
+For topic 5 word game occurred at probability of 0.027701810537088783
+For topic 5 word one occurred at probability of 0.020794041577461536
+For topic 5 word play occurred at probability of 0.013843921664420276
+For topic 5 word kill occurred at probability of 0.013089703562915986
+For topic 5 word hard occurred at probability of 0.009899707940778721
+For topic 5 word story occurred at probability of 0.009187848681823079
+For topic 5 word level occurred at probability of 0.007992900677235574
+For topic 5 word like occurred at probability of 0.007826477373269199
+For topic 5 word fun occurred at probability of 0.007462190911129703
+For topic 5 word get occurred at probability of 0.00713230070505996
+ 
+ 
+For topic 6 word like occurred at probability of 0.01784952810235432
+For topic 6 word game occurred at probability of 0.013185421059523372
+For topic 6 word kill occurred at probability of 0.010812158084249169
+For topic 6 word soundtrack occurred at probability of 0.010793097918244817
+For topic 6 word hotline occurred at probability of 0.009317673527502797
+For topic 6 word hard occurred at probability of 0.00921801881508972
+For topic 6 word gameplay occurred at probability of 0.008897425360639243
+For topic 6 word time occurred at probability of 0.008539889038953164
+For topic 6 word enemies occurred at probability of 0.008436577969161715
+For topic 6 word way occurred at probability of 0.007156471994762249
+ 
+ 
+For topic 7 word game occurred at probability of 0.028039721714162212
+For topic 7 word people occurred at probability of 0.01192543602627252
+For topic 7 word get occurred at probability of 0.011807894832056699
+For topic 7 word one occurred at probability of 0.009934757325049812
+For topic 7 word story occurred at probability of 0.00992821055223509
+For topic 7 word hard occurred at probability of 0.009061915057440665
+For topic 7 word like occurred at probability of 0.008467783826051836
+For topic 7 word great occurred at probability of 0.008465282325354007
+For topic 7 word time occurred at probability of 0.00818494905073444
+For topic 7 word kill occurred at probability of 0.008075204145022106
+ 
+ 
+For topic 8 word game occurred at probability of 0.04904735747752652
+For topic 8 word soundtrack occurred at probability of 0.01367634964052519
+For topic 8 word kill occurred at probability of 0.012937707209964516
+For topic 8 word fun occurred at probability of 0.011360852397839283
+For topic 8 word miami occurred at probability of 0.01035590064771195
+For topic 8 word lot occurred at probability of 0.008827059178878086
+For topic 8 word get occurred at probability of 0.008541976536088257
+For topic 8 word hotline occurred at probability of 0.008485618936536862
+For topic 8 word would occurred at probability of 0.008460450145487181
+For topic 8 word time occurred at probability of 0.008379787032146008
+ 
+ 
+For topic 9 word like occurred at probability of 0.019215458595231653
+For topic 9 word game occurred at probability of 0.013784919591257255
+For topic 9 word play occurred at probability of 0.013012829323612836
+For topic 9 word get occurred at probability of 0.011671488005796524
+For topic 9 word miami occurred at probability of 0.01072575666918424
+For topic 9 word soundtrack occurred at probability of 0.009689496887227575
+For topic 9 word one occurred at probability of 0.008466348998052493
+For topic 9 word enemies occurred at probability of 0.008428920414859601
+For topic 9 word people occurred at probability of 0.007801172169778934
+For topic 9 word would occurred at probability of 0.0077966170737382365
+ 
+ 
+For topic 10 word game occurred at probability of 0.06648498571729199
+For topic 10 word hotline occurred at probability of 0.013233502578911593
+For topic 10 word get occurred at probability of 0.012590256360788869
+For topic 10 word play occurred at probability of 0.011475753815423165
+For topic 10 word story occurred at probability of 0.007928985043768587
+For topic 10 word one occurred at probability of 0.007551656639396243
+For topic 10 word kill occurred at probability of 0.007058419512665881
+For topic 10 word really occurred at probability of 0.006491825540798446
+For topic 10 word die occurred at probability of 0.0063889238604339805
+For topic 10 word dont occurred at probability of 0.006368429513281111
+ 
+ 

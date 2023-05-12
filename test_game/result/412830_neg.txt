@@ -1,0 +1,120 @@
+For topic 1 word failed occurred at probability of 0.06490804215838825
+For topic 1 word game occurred at probability of 0.027990816480451958
+For topic 1 word play occurred at probability of 0.024286068131185654
+For topic 1 word one occurred at probability of 0.021086314052852426
+For topic 1 word anime occurred at probability of 0.017669938166151134
+For topic 1 word even occurred at probability of 0.015467258877675357
+For topic 1 word visual occurred at probability of 0.012226668869295151
+For topic 1 word story occurred at probability of 0.011872367613749322
+For topic 1 word travel occurred at probability of 0.011596002211052722
+For topic 1 word ending occurred at probability of 0.011262420823645137
+ 
+ 
+For topic 2 word failed occurred at probability of 0.16824444547718578
+For topic 2 word play occurred at probability of 0.026780053005394013
+For topic 2 word game occurred at probability of 0.01628623867100001
+For topic 2 word get occurred at probability of 0.015147119376087335
+For topic 2 word dont occurred at probability of 0.011879992558100088
+For topic 2 word one occurred at probability of 0.010414591064934767
+For topic 2 word vn occurred at probability of 0.009583993786207794
+For topic 2 word story occurred at probability of 0.009327642728726302
+For topic 2 word gate occurred at probability of 0.009184557367256646
+For topic 2 word lot occurred at probability of 0.00913539042070877
+ 
+ 
+For topic 3 word failed occurred at probability of 0.056907471973550096
+For topic 3 word game occurred at probability of 0.04686503481824835
+For topic 3 word story occurred at probability of 0.02319448155821152
+For topic 3 word time occurred at probability of 0.019691588634222306
+For topic 3 word anime occurred at probability of 0.019163184409451396
+For topic 3 word mad occurred at probability of 0.015361727268450868
+For topic 3 word steinsgate occurred at probability of 0.015361272082851752
+For topic 3 word even occurred at probability of 0.012902750985232775
+For topic 3 word ever occurred at probability of 0.012520179569905145
+For topic 3 word psy occurred at probability of 0.012054952554163122
+ 
+ 
+For topic 4 word failed occurred at probability of 0.03523419518383854
+For topic 4 word time occurred at probability of 0.03297253514215346
+For topic 4 word story occurred at probability of 0.01983605444544816
+For topic 4 word play occurred at probability of 0.017683817112369368
+For topic 4 word like occurred at probability of 0.016785192270330207
+For topic 4 word get occurred at probability of 0.013898778798484425
+For topic 4 word psy occurred at probability of 0.012634283820163466
+For topic 4 word even occurred at probability of 0.01096944101326214
+For topic 4 word kongroo occurred at probability of 0.010582336049833012
+For topic 4 word characters occurred at probability of 0.009117006872615324
+ 
+ 
+For topic 5 word game occurred at probability of 0.05505014347130417
+For topic 5 word time occurred at probability of 0.023442688936817398
+For topic 5 word failed occurred at probability of 0.02105797595709312
+For topic 5 word story occurred at probability of 0.01996759217679491
+For topic 5 word anime occurred at probability of 0.017041033920974287
+For topic 5 word one occurred at probability of 0.013893030110022705
+For topic 5 word choice occurred at probability of 0.01274213968204304
+For topic 5 word dont occurred at probability of 0.012557631329949531
+For topic 5 word steinsgate occurred at probability of 0.0121291653369211
+For topic 5 word first occurred at probability of 0.01173098034521634
+ 
+ 
+For topic 6 word failed occurred at probability of 0.04631021829781493
+For topic 6 word time occurred at probability of 0.029356571804960648
+For topic 6 word game occurred at probability of 0.020466757273178905
+For topic 6 word anime occurred at probability of 0.018296453231235587
+For topic 6 word even occurred at probability of 0.017606741878341867
+For topic 6 word play occurred at probability of 0.01638027063535139
+For topic 6 word fucking occurred at probability of 0.010437654567423443
+For topic 6 word ever occurred at probability of 0.010168570075344616
+For topic 6 word first occurred at probability of 0.009690856472191228
+For topic 6 word get occurred at probability of 0.009571821038204007
+ 
+ 
+For topic 7 word game occurred at probability of 0.04512517814150816
+For topic 7 word failed occurred at probability of 0.03007454159155092
+For topic 7 word play occurred at probability of 0.023805171439352683
+For topic 7 word scientist occurred at probability of 0.020023619340009038
+For topic 7 word mad occurred at probability of 0.019444516733531883
+For topic 7 word get occurred at probability of 0.016824418665367984
+For topic 7 word story occurred at probability of 0.01442808717576125
+For topic 7 word ever occurred at probability of 0.012735216048207536
+For topic 7 word time occurred at probability of 0.010909474165459974
+For topic 7 word novel occurred at probability of 0.010580164740706015
+ 
+ 
+For topic 8 word game occurred at probability of 0.035089852620009646
+For topic 8 word time occurred at probability of 0.022625970085315666
+For topic 8 word play occurred at probability of 0.02064444002734004
+For topic 8 word one occurred at probability of 0.01905033671877477
+For topic 8 word story occurred at probability of 0.014128964843215078
+For topic 8 word characters occurred at probability of 0.013988802614040898
+For topic 8 word get occurred at probability of 0.013268243467173275
+For topic 8 word best occurred at probability of 0.012165485278618974
+For topic 8 word buy occurred at probability of 0.01183139929364756
+For topic 8 word visual occurred at probability of 0.010879863717526255
+ 
+ 
+For topic 9 word failed occurred at probability of 0.09109038594656539
+For topic 9 word time occurred at probability of 0.02892255803226442
+For topic 9 word ive occurred at probability of 0.016324010229211625
+For topic 9 word visual occurred at probability of 0.01617703921643548
+For topic 9 word story occurred at probability of 0.015834189926591396
+For topic 9 word game occurred at probability of 0.01337554251922472
+For topic 9 word play occurred at probability of 0.012841791740871219
+For topic 9 word like occurred at probability of 0.012089152746688364
+For topic 9 word get occurred at probability of 0.011846471262380861
+For topic 9 word scientist occurred at probability of 0.011474016902878756
+ 
+ 
+For topic 10 word game occurred at probability of 0.04926543448911321
+For topic 10 word time occurred at probability of 0.023950842938382556
+For topic 10 word scientist occurred at probability of 0.021015218041060334
+For topic 10 word one occurred at probability of 0.01855085794031218
+For topic 10 word story occurred at probability of 0.014421845406877068
+For topic 10 word even occurred at probability of 0.014155346363042711
+For topic 10 word visual occurred at probability of 0.014065166604275248
+For topic 10 word dont occurred at probability of 0.012882209169987299
+For topic 10 word every occurred at probability of 0.012754043475161613
+For topic 10 word steinsgate occurred at probability of 0.012130990178319116
+ 
+ 

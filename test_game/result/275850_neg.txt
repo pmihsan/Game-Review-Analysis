@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.06505084867048334
+For topic 1 word like occurred at probability of 0.019971201611957836
+For topic 1 word dont occurred at probability of 0.011275115546567658
+For topic 1 word first occurred at probability of 0.009662499779322157
+For topic 1 word would occurred at probability of 0.008572142041315699
+For topic 1 word get occurred at probability of 0.007942428148323851
+For topic 1 word planet occurred at probability of 0.0071924981443798955
+For topic 1 word games occurred at probability of 0.00656169759545505
+For topic 1 word way occurred at probability of 0.006312075749974531
+For topic 1 word cant occurred at probability of 0.006302566679966766
+ 
+ 
+For topic 2 word game occurred at probability of 0.07773458022604297
+For topic 2 word get occurred at probability of 0.014973797811494159
+For topic 2 word time occurred at probability of 0.00865972506650208
+For topic 2 word still occurred at probability of 0.008237413581711175
+For topic 2 word really occurred at probability of 0.008000343950373695
+For topic 2 word planet occurred at probability of 0.006991153013589585
+For topic 2 word one occurred at probability of 0.006642438689054571
+For topic 2 word even occurred at probability of 0.0066291150934334585
+For topic 2 word play occurred at probability of 0.006302323390673151
+For topic 2 word hours occurred at probability of 0.006165324306050244
+ 
+ 
+For topic 3 word game occurred at probability of 0.0398346463826523
+For topic 3 word get occurred at probability of 0.012219339631255438
+For topic 3 word ship occurred at probability of 0.008585260331506753
+For topic 3 word ever occurred at probability of 0.00824168622468201
+For topic 3 word even occurred at probability of 0.008092192355438368
+For topic 3 word like occurred at probability of 0.007987215541626517
+For topic 3 word play occurred at probability of 0.006926718155064897
+For topic 3 word still occurred at probability of 0.006674582028058522
+For topic 3 word bad occurred at probability of 0.006651185903937839
+For topic 3 word really occurred at probability of 0.006553475045795006
+ 
+ 
+For topic 4 word game occurred at probability of 0.048807070240516455
+For topic 4 word bad occurred at probability of 0.01330308444089884
+For topic 4 word get occurred at probability of 0.012669063690698678
+For topic 4 word dont occurred at probability of 0.012576165344920556
+For topic 4 word still occurred at probability of 0.010035609454549371
+For topic 4 word time occurred at probability of 0.009608529266870343
+For topic 4 word hours occurred at probability of 0.009237346074767958
+For topic 4 word planet occurred at probability of 0.00813891565698848
+For topic 4 word even occurred at probability of 0.007109246652618726
+For topic 4 word im occurred at probability of 0.005827762458057714
+ 
+ 
+For topic 5 word game occurred at probability of 0.0325347533144091
+For topic 5 word bad occurred at probability of 0.013215289134421165
+For topic 5 word dont occurred at probability of 0.010951394219557563
+For topic 5 word games occurred at probability of 0.009461283109617052
+For topic 5 word hours occurred at probability of 0.008440321400529216
+For topic 5 word one occurred at probability of 0.007221877101721088
+For topic 5 word boring occurred at probability of 0.0065801885122595315
+For topic 5 word planet occurred at probability of 0.006565330945331599
+For topic 5 word play occurred at probability of 0.006102283291309055
+For topic 5 word would occurred at probability of 0.005985661594451913
+ 
+ 
+For topic 6 word game occurred at probability of 0.0684862182577243
+For topic 6 word games occurred at probability of 0.012414643149673946
+For topic 6 word ship occurred at probability of 0.00814287777557696
+For topic 6 word hours occurred at probability of 0.007663255922784616
+For topic 6 word much occurred at probability of 0.006756998486070645
+For topic 6 word cant occurred at probability of 0.006537759744335262
+For topic 6 word would occurred at probability of 0.006406889397907241
+For topic 6 word launch occurred at probability of 0.00631990940800888
+For topic 6 word first occurred at probability of 0.0057900127308148416
+For topic 6 word got occurred at probability of 0.005422837688361677
+ 
+ 
+For topic 7 word game occurred at probability of 0.04388420269355845
+For topic 7 word get occurred at probability of 0.014257388511418239
+For topic 7 word even occurred at probability of 0.011058236246310636
+For topic 7 word still occurred at probability of 0.00902202479834184
+For topic 7 word hours occurred at probability of 0.006935874881944348
+For topic 7 word money occurred at probability of 0.0068187724489553615
+For topic 7 word dont occurred at probability of 0.006288554166365514
+For topic 7 word would occurred at probability of 0.00585810265948002
+For topic 7 word play occurred at probability of 0.005470265623468079
+For topic 7 word lot occurred at probability of 0.005208139479059415
+ 
+ 
+For topic 8 word time occurred at probability of 0.009385479794866926
+For topic 8 word boring occurred at probability of 0.007992248011940095
+For topic 8 word would occurred at probability of 0.007900193012036828
+For topic 8 word even occurred at probability of 0.007807930937617614
+For topic 8 word play occurred at probability of 0.00726362452409394
+For topic 8 word money occurred at probability of 0.006863024865686766
+For topic 8 word like occurred at probability of 0.006680973469118701
+For topic 8 word much occurred at probability of 0.006277309180928147
+For topic 8 word mans occurred at probability of 0.006048841964578207
+For topic 8 word little occurred at probability of 0.005958654567971021
+ 
+ 
+For topic 9 word game occurred at probability of 0.06120218790207722
+For topic 9 word would occurred at probability of 0.008658481928410143
+For topic 9 word boring occurred at probability of 0.0068170647645239965
+For topic 9 word really occurred at probability of 0.006607486631478672
+For topic 9 word make occurred at probability of 0.006390899572746449
+For topic 9 word sky occurred at probability of 0.006370208111558784
+For topic 9 word one occurred at probability of 0.00602345552284739
+For topic 9 word cant occurred at probability of 0.005872779136897911
+For topic 9 word get occurred at probability of 0.005833359096534149
+For topic 9 word much occurred at probability of 0.005762260942133973
+ 
+ 
+For topic 10 word game occurred at probability of 0.05138959408398847
+For topic 10 word like occurred at probability of 0.010506800168868275
+For topic 10 word games occurred at probability of 0.010362278493650172
+For topic 10 word hours occurred at probability of 0.009944201648521982
+For topic 10 word time occurred at probability of 0.008573012711584933
+For topic 10 word space occurred at probability of 0.007904058720402484
+For topic 10 word really occurred at probability of 0.007119861842284779
+For topic 10 word boring occurred at probability of 0.006533834179954608
+For topic 10 word content occurred at probability of 0.005812958967128893
+For topic 10 word launch occurred at probability of 0.0057610604163680764
+ 
+ 

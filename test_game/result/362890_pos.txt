@@ -1,0 +1,120 @@
+For topic 1 word modding occurred at probability of 0.002250736437438053
+For topic 1 word controllers occurred at probability of 0.0018621115470317088
+For topic 1 word pros occurred at probability of 0.001783304217750643
+For topic 1 word seemed occurred at probability of 0.0017807112291086306
+For topic 1 word laptop occurred at probability of 0.0017208053513732002
+For topic 1 word passionate occurred at probability of 0.0017106089912341412
+For topic 1 word td occurred at probability of 0.0016791883657787086
+For topic 1 word bored occurred at probability of 0.0015922011811810909
+For topic 1 word headcrab occurred at probability of 0.0015408714894481262
+For topic 1 word match occurred at probability of 0.0015336616634980046
+ 
+ 
+For topic 2 word seemed occurred at probability of 0.0027427041254055222
+For topic 2 word recomend occurred at probability of 0.0022903463136693014
+For topic 2 word zombies occurred at probability of 0.002013925517418003
+For topic 2 word various occurred at probability of 0.0018417258684350233
+For topic 2 word th occurred at probability of 0.0016210322988919538
+For topic 2 word ultimately occurred at probability of 0.0015956018969480808
+For topic 2 word admit occurred at probability of 0.0015067808861158772
+For topic 2 word versions occurred at probability of 0.001426682924986316
+For topic 2 word sweet occurred at probability of 0.0014130147275914287
+For topic 2 word bblack occurred at probability of 0.0013825243426583422
+ 
+ 
+For topic 3 word controllers occurred at probability of 0.002356694788561245
+For topic 3 word modding occurred at probability of 0.0020094819647261345
+For topic 3 word zombies occurred at probability of 0.0017526475065903011
+For topic 3 word focus occurred at probability of 0.0015721682843903614
+For topic 3 word bored occurred at probability of 0.001475405844269346
+For topic 3 word wanna occurred at probability of 0.0014232080239663185
+For topic 3 word recomend occurred at probability of 0.0014022530460431838
+For topic 3 word screens occurred at probability of 0.001363082165529869
+For topic 3 word turning occurred at probability of 0.001333130697704424
+For topic 3 word bullet occurred at probability of 0.0013319912857185127
+ 
+ 
+For topic 4 word pros occurred at probability of 0.002403729751780191
+For topic 4 word seemed occurred at probability of 0.0023259443020605
+For topic 4 word various occurred at probability of 0.002292973974158782
+For topic 4 word admit occurred at probability of 0.0021386773556148347
+For topic 4 word controllers occurred at probability of 0.002046004989432699
+For topic 4 word zombies occurred at probability of 0.0020153488043830547
+For topic 4 word crap occurred at probability of 0.0017046629692511264
+For topic 4 word ultimately occurred at probability of 0.0016709265570202026
+For topic 4 word hadnt occurred at probability of 0.0016199929278801972
+For topic 4 word projects occurred at probability of 0.0015469949118997748
+ 
+ 
+For topic 5 word td occurred at probability of 0.003664800787110032
+For topic 5 word recomend occurred at probability of 0.0024257156663814545
+For topic 5 word menu occurred at probability of 0.0023308911149296538
+For topic 5 word modding occurred at probability of 0.0019379044549941774
+For topic 5 word ton occurred at probability of 0.001787019808971603
+For topic 5 word tr occurred at probability of 0.001768236402046793
+For topic 5 word match occurred at probability of 0.0015951108056000444
+For topic 5 word appreciated occurred at probability of 0.0015543537102502868
+For topic 5 word remaining occurred at probability of 0.0014645877002342578
+For topic 5 word learn occurred at probability of 0.0013321175978879378
+ 
+ 
+For topic 6 word td occurred at probability of 0.0043360741200131675
+For topic 6 word ton occurred at probability of 0.002364467533548242
+For topic 6 word remaining occurred at probability of 0.0021280260802174276
+For topic 6 word th occurred at probability of 0.0018854203682689633
+For topic 6 word crap occurred at probability of 0.0017968830397546768
+For topic 6 word pros occurred at probability of 0.0016261357758806218
+For topic 6 word veterans occurred at probability of 0.0015607603593051807
+For topic 6 word bored occurred at probability of 0.0015414173864971583
+For topic 6 word laptop occurred at probability of 0.0015109586301683257
+For topic 6 word tr occurred at probability of 0.0014350418087285927
+ 
+ 
+For topic 7 word crap occurred at probability of 0.0018229914008241989
+For topic 7 word crossbow occurred at probability of 0.0017857323343675657
+For topic 7 word ultimately occurred at probability of 0.0017233874774132344
+For topic 7 word zombies occurred at probability of 0.0017211601301383452
+For topic 7 word focus occurred at probability of 0.0014781371638653543
+For topic 7 word td occurred at probability of 0.001450580873408789
+For topic 7 word th occurred at probability of 0.0013727482198572876
+For topic 7 word ton occurred at probability of 0.0013439893841389067
+For topic 7 word replayed occurred at probability of 0.0013423149479575023
+For topic 7 word modding occurred at probability of 0.0013296291736132713
+ 
+ 
+For topic 8 word tr occurred at probability of 0.0017463558694796608
+For topic 8 word concept occurred at probability of 0.0016671735057654968
+For topic 8 word recreates occurred at probability of 0.0016568860282839145
+For topic 8 word match occurred at probability of 0.0015740721396013844
+For topic 8 word frustrated occurred at probability of 0.0015549283342876595
+For topic 8 word giant occurred at probability of 0.0015253544372545494
+For topic 8 word altered occurred at probability of 0.001522692546706741
+For topic 8 word admit occurred at probability of 0.0015066098151389163
+For topic 8 word pros occurred at probability of 0.0014680101729375047
+For topic 8 word veterans occurred at probability of 0.001359924545268543
+ 
+ 
+For topic 9 word menu occurred at probability of 0.002261036816005757
+For topic 9 word tr occurred at probability of 0.0018425043754551874
+For topic 9 word focus occurred at probability of 0.0017083335083781888
+For topic 9 word th occurred at probability of 0.001520037426901326
+For topic 9 word crossbow occurred at probability of 0.001497673935779955
+For topic 9 word td occurred at probability of 0.0014857294390523217
+For topic 9 word projects occurred at probability of 0.0014371606702166379
+For topic 9 word soldier occurred at probability of 0.0014283896139024098
+For topic 9 word veterans occurred at probability of 0.0013987918756230826
+For topic 9 word concept occurred at probability of 0.0013910101112012466
+ 
+ 
+For topic 10 word ton occurred at probability of 0.0018943118026063853
+For topic 10 word menu occurred at probability of 0.00174098381539298
+For topic 10 word achieve occurred at probability of 0.0015687601123786647
+For topic 10 word pros occurred at probability of 0.00155099167189944
+For topic 10 word seemed occurred at probability of 0.0015124231929228666
+For topic 10 word laptop occurred at probability of 0.0014631521368211118
+For topic 10 word giant occurred at probability of 0.001454902632788617
+For topic 10 word replayed occurred at probability of 0.0013897587776600915
+For topic 10 word limitations occurred at probability of 0.001385791516368017
+For topic 10 word model occurred at probability of 0.0013849313266917984
+ 
+ 

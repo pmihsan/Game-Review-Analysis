@@ -1,0 +1,120 @@
+For topic 1 word also occurred at probability of 0.011379225800413301
+For topic 1 word well occurred at probability of 0.010486616151722802
+For topic 1 word buy occurred at probability of 0.009081070018556578
+For topic 1 word go occurred at probability of 0.008181929447813367
+For topic 1 word enemies occurred at probability of 0.008150434879193423
+For topic 1 word style occurred at probability of 0.007964480653708151
+For topic 1 word youre occurred at probability of 0.00748098708237877
+For topic 1 word make occurred at probability of 0.007372180796085066
+For topic 1 word final occurred at probability of 0.007369681740606829
+For topic 1 word im occurred at probability of 0.007348993656037149
+ 
+ 
+For topic 2 word fun occurred at probability of 0.014545508860395344
+For topic 2 word enemies occurred at probability of 0.01322991781105971
+For topic 2 word time occurred at probability of 0.010810676640544139
+For topic 2 word metroidvania occurred at probability of 0.010434099872376376
+For topic 2 word bad occurred at probability of 0.009170312021102078
+For topic 2 word would occurred at probability of 0.008556570181688808
+For topic 2 word mexican occurred at probability of 0.008452696266475017
+For topic 2 word combat occurred at probability of 0.00821861330137387
+For topic 2 word art occurred at probability of 0.00780601500420175
+For topic 2 word way occurred at probability of 0.007787534483527531
+ 
+ 
+For topic 3 word games occurred at probability of 0.01579955048381556
+For topic 3 word combat occurred at probability of 0.012937093157596473
+For topic 3 word beat occurred at probability of 0.01035391716653709
+For topic 3 word enemies occurred at probability of 0.010165244704372819
+For topic 3 word got occurred at probability of 0.01001322943615036
+For topic 3 word well occurred at probability of 0.00956767226050708
+For topic 3 word damage occurred at probability of 0.009316723993027921
+For topic 3 word much occurred at probability of 0.00858931478453072
+For topic 3 word also occurred at probability of 0.008544368843687021
+For topic 3 word boss occurred at probability of 0.008087306835638885
+ 
+ 
+For topic 4 word new occurred at probability of 0.015315572446452756
+For topic 4 word fun occurred at probability of 0.014481788798522827
+For topic 4 word much occurred at probability of 0.014261275676736235
+For topic 4 word dont occurred at probability of 0.01414302042497732
+For topic 4 word would occurred at probability of 0.01161137484223443
+For topic 4 word well occurred at probability of 0.009884387671776391
+For topic 4 word enemies occurred at probability of 0.00953117049492187
+For topic 4 word style occurred at probability of 0.008440798427624383
+For topic 4 word gold occurred at probability of 0.007466429223460669
+For topic 4 word metroidvania occurred at probability of 0.007326755497906586
+ 
+ 
+For topic 5 word also occurred at probability of 0.013564613281315967
+For topic 5 word fun occurred at probability of 0.013327534924959682
+For topic 5 word combat occurred at probability of 0.012202132570121791
+For topic 5 word much occurred at probability of 0.011254729395199217
+For topic 5 word new occurred at probability of 0.009959606779425008
+For topic 5 word many occurred at probability of 0.009508233423763203
+For topic 5 word games occurred at probability of 0.00878644506311257
+For topic 5 word didnt occurred at probability of 0.008547042733694577
+For topic 5 word got occurred at probability of 0.008544557439410527
+For topic 5 word damage occurred at probability of 0.008232633018850672
+ 
+ 
+For topic 6 word enemies occurred at probability of 0.014609267404797694
+For topic 6 word time occurred at probability of 0.013435964585597177
+For topic 6 word also occurred at probability of 0.01102682667680476
+For topic 6 word would occurred at probability of 0.010180895417799044
+For topic 6 word bad occurred at probability of 0.009767760750046001
+For topic 6 word still occurred at probability of 0.008649536188354248
+For topic 6 word without occurred at probability of 0.008271825462153612
+For topic 6 word way occurred at probability of 0.007954049098084452
+For topic 6 word got occurred at probability of 0.007706056978548416
+For topic 6 word style occurred at probability of 0.006883551505481959
+ 
+ 
+For topic 7 word got occurred at probability of 0.01606838044678606
+For topic 7 word games occurred at probability of 0.014354049789704101
+For topic 7 word new occurred at probability of 0.01230832305443148
+For topic 7 word much occurred at probability of 0.011620989335661287
+For topic 7 word also occurred at probability of 0.011145022269686368
+For topic 7 word would occurred at probability of 0.008777635313443713
+For topic 7 word didnt occurred at probability of 0.008389758576620242
+For topic 7 word enemies occurred at probability of 0.008069048068555476
+For topic 7 word im occurred at probability of 0.007963291186550859
+For topic 7 word style occurred at probability of 0.007856074625926603
+ 
+ 
+For topic 8 word dont occurred at probability of 0.013149360380917446
+For topic 8 word fun occurred at probability of 0.012762537567176581
+For topic 8 word got occurred at probability of 0.010126458094262861
+For topic 8 word bad occurred at probability of 0.009762658853329803
+For topic 8 word combat occurred at probability of 0.009461996834948087
+For topic 8 word didnt occurred at probability of 0.00943095164534126
+For topic 8 word metroidvania occurred at probability of 0.00919474047511757
+For topic 8 word mexican occurred at probability of 0.00884026388963248
+For topic 8 word enemies occurred at probability of 0.008810941548482476
+For topic 8 word also occurred at probability of 0.008280902594005922
+ 
+ 
+For topic 9 word style occurred at probability of 0.007949509309227413
+For topic 9 word metroidvania occurred at probability of 0.007936734851129805
+For topic 9 word enemies occurred at probability of 0.00787726140858327
+For topic 9 word fun occurred at probability of 0.007839429189520906
+For topic 9 word mode occurred at probability of 0.0078028845371104485
+For topic 9 word played occurred at probability of 0.007223196739879377
+For topic 9 word also occurred at probability of 0.0071156619846162745
+For topic 9 word fighting occurred at probability of 0.007106987226553252
+For topic 9 word make occurred at probability of 0.00645270492569328
+For topic 9 word moves occurred at probability of 0.006399987980555957
+ 
+ 
+For topic 10 word fun occurred at probability of 0.01820728875890829
+For topic 10 word dont occurred at probability of 0.012739723545356926
+For topic 10 word games occurred at probability of 0.012096661006886425
+For topic 10 word many occurred at probability of 0.009212792107409528
+For topic 10 word actually occurred at probability of 0.00850822472622619
+For topic 10 word story occurred at probability of 0.007568194544628108
+For topic 10 word combat occurred at probability of 0.007405757190197473
+For topic 10 word controller occurred at probability of 0.007077428885457553
+For topic 10 word thing occurred at probability of 0.006978321541992521
+For topic 10 word new occurred at probability of 0.006882603354241244
+ 
+ 

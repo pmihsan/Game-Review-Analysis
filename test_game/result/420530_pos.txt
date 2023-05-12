@@ -1,0 +1,120 @@
+For topic 1 word b occurred at probability of 0.004093511945723605
+For topic 1 word penny occurred at probability of 0.002862043891430281
+For topic 1 word cheap occurred at probability of 0.0025335070543428197
+For topic 1 word watched occurred at probability of 0.0024166900928250527
+For topic 1 word u occurred at probability of 0.002332260933341298
+For topic 1 word holy occurred at probability of 0.0020432913169848156
+For topic 1 word anymore occurred at probability of 0.0019778712929780693
+For topic 1 word realize occurred at probability of 0.001959360223843605
+For topic 1 word stick occurred at probability of 0.0019157918678763706
+For topic 1 word ok occurred at probability of 0.0019007774824221786
+ 
+ 
+For topic 2 word high occurred at probability of 0.003864731204371006
+For topic 2 word innovative occurred at probability of 0.0030738102608588555
+For topic 2 word holy occurred at probability of 0.0027647137052010965
+For topic 2 word fits occurred at probability of 0.002563766578283176
+For topic 2 word wallpaper occurred at probability of 0.002560587051562881
+For topic 2 word changes occurred at probability of 0.00231473692192597
+For topic 2 word sit occurred at probability of 0.0022062647247847113
+For topic 2 word tower occurred at probability of 0.002171444908578574
+For topic 2 word fourthwall occurred at probability of 0.0021682139101046275
+For topic 2 word store occurred at probability of 0.001923193913138261
+ 
+ 
+For topic 3 word innovative occurred at probability of 0.003047128840509381
+For topic 3 word requires occurred at probability of 0.0026077439341408186
+For topic 3 word watched occurred at probability of 0.0023902320681887285
+For topic 3 word funny occurred at probability of 0.0022819643729688004
+For topic 3 word meet occurred at probability of 0.0022800648500104293
+For topic 3 word goodbye occurred at probability of 0.0021357910493675918
+For topic 3 word recomend occurred at probability of 0.002121409085994237
+For topic 3 word ok occurred at probability of 0.002058697450945647
+For topic 3 word obvious occurred at probability of 0.0020048805691568
+For topic 3 word decided occurred at probability of 0.002000461337907993
+ 
+ 
+For topic 4 word funny occurred at probability of 0.004217161409643919
+For topic 4 word meet occurred at probability of 0.0029364694917964345
+For topic 4 word leaves occurred at probability of 0.00285011756939349
+For topic 4 word atmospheric occurred at probability of 0.0026481052777008866
+For topic 4 word list occurred at probability of 0.0025449804039361004
+For topic 4 word ok occurred at probability of 0.002352814822155275
+For topic 4 word created occurred at probability of 0.0021687561845079592
+For topic 4 word horror occurred at probability of 0.00216532912499769
+For topic 4 word recomend occurred at probability of 0.002079666225342726
+For topic 4 word changes occurred at probability of 0.002079154932798475
+ 
+ 
+For topic 5 word b occurred at probability of 0.002971043082847861
+For topic 5 word meet occurred at probability of 0.002718431037980529
+For topic 5 word begin occurred at probability of 0.002542667649976085
+For topic 5 word adore occurred at probability of 0.0023410574263306393
+For topic 5 word oneshots occurred at probability of 0.0023251833167113756
+For topic 5 word recomend occurred at probability of 0.002285877996865661
+For topic 5 word videos occurred at probability of 0.002102600296916838
+For topic 5 word mood occurred at probability of 0.0020112879034609506
+For topic 5 word action occurred at probability of 0.0019869288220587607
+For topic 5 word third occurred at probability of 0.0018587365793006068
+ 
+ 
+For topic 6 word b occurred at probability of 0.004792721007624179
+For topic 6 word us occurred at probability of 0.004648108192332611
+For topic 6 word funny occurred at probability of 0.00428835286577744
+For topic 6 word meet occurred at probability of 0.0026552309358607103
+For topic 6 word mood occurred at probability of 0.002552104515831305
+For topic 6 word emotion occurred at probability of 0.002511313252947054
+For topic 6 word holy occurred at probability of 0.0024976612462350002
+For topic 6 word penny occurred at probability of 0.0024728298245010154
+For topic 6 word high occurred at probability of 0.0022872700990001107
+For topic 6 word named occurred at probability of 0.0021997293986588326
+ 
+ 
+For topic 7 word mood occurred at probability of 0.0030130180932751503
+For topic 7 word atmospheric occurred at probability of 0.0028943618135424194
+For topic 7 word b occurred at probability of 0.0026103376924420116
+For topic 7 word horror occurred at probability of 0.0024736138290110373
+For topic 7 word fits occurred at probability of 0.002282276154438939
+For topic 7 word combine occurred at probability of 0.002278127204541877
+For topic 7 word messiah occurred at probability of 0.0022243611502010003
+For topic 7 word aside occurred at probability of 0.002174226849832712
+For topic 7 word meet occurred at probability of 0.002106239919805718
+For topic 7 word wanna occurred at probability of 0.0020695918995343844
+ 
+ 
+For topic 8 word b occurred at probability of 0.0045603404565572325
+For topic 8 word atmospheric occurred at probability of 0.003165424887563398
+For topic 8 word requires occurred at probability of 0.0030892905989916195
+For topic 8 word us occurred at probability of 0.0028165509352800883
+For topic 8 word innovative occurred at probability of 0.0027859666541753822
+For topic 8 word leaves occurred at probability of 0.002690274439133569
+For topic 8 word rating occurred at probability of 0.0025528997285009913
+For topic 8 word artstyle occurred at probability of 0.002389544476015272
+For topic 8 word u occurred at probability of 0.002386832275773285
+For topic 8 word wallpaper occurred at probability of 0.0023198085290947437
+ 
+ 
+For topic 9 word high occurred at probability of 0.004113583612084311
+For topic 9 word mood occurred at probability of 0.0033018432225724423
+For topic 9 word atmospheric occurred at probability of 0.0032053988770224806
+For topic 9 word penny occurred at probability of 0.0031370752651595562
+For topic 9 word recomend occurred at probability of 0.0028343393518133362
+For topic 9 word fits occurred at probability of 0.002308493102259426
+For topic 9 word watching occurred at probability of 0.002218999384142893
+For topic 9 word us occurred at probability of 0.0022026753439892454
+For topic 9 word funny occurred at probability of 0.0021761532689112545
+For topic 9 word emotion occurred at probability of 0.0021326258440012395
+ 
+ 
+For topic 10 word atmospheric occurred at probability of 0.003665796242295774
+For topic 10 word adore occurred at probability of 0.0027261911211171976
+For topic 10 word cheap occurred at probability of 0.0023466589897390877
+For topic 10 word innovative occurred at probability of 0.002264662685748036
+For topic 10 word emotion occurred at probability of 0.002208986071163465
+For topic 10 word fourthwall occurred at probability of 0.002192559823035215
+For topic 10 word turn occurred at probability of 0.002163459234927505
+For topic 10 word wanna occurred at probability of 0.0021484979698968474
+For topic 10 word artstyle occurred at probability of 0.0020721855527410047
+For topic 10 word begin occurred at probability of 0.0019422046016933988
+ 
+ 

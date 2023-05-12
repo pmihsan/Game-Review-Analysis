@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.0837579548345324
+For topic 1 word park occurred at probability of 0.025305596051348397
+For topic 1 word get occurred at probability of 0.013178858500823483
+For topic 1 word would occurred at probability of 0.01292244188093211
+For topic 1 word one occurred at probability of 0.009920561087290128
+For topic 1 word south occurred at probability of 0.009838337269766649
+For topic 1 word got occurred at probability of 0.009406917832662252
+For topic 1 word story occurred at probability of 0.008364548507758437
+For topic 1 word fucking occurred at probability of 0.007874960909976945
+For topic 1 word time occurred at probability of 0.007664952426507728
+ 
+ 
+For topic 2 word game occurred at probability of 0.04179543997834892
+For topic 2 word south occurred at probability of 0.029436457830264773
+For topic 2 word park occurred at probability of 0.02598481522468394
+For topic 2 word combat occurred at probability of 0.016554785692225137
+For topic 2 word like occurred at probability of 0.016425197030829772
+For topic 2 word one occurred at probability of 0.009545570081454922
+For topic 2 word got occurred at probability of 0.0094936034534882
+For topic 2 word shit occurred at probability of 0.00821274846259563
+For topic 2 word ive occurred at probability of 0.007815257915191637
+For topic 2 word story occurred at probability of 0.007247255985489206
+ 
+ 
+For topic 3 word game occurred at probability of 0.09107856079516319
+For topic 3 word like occurred at probability of 0.012335481496986718
+For topic 3 word park occurred at probability of 0.01056351072800195
+For topic 3 word shit occurred at probability of 0.010157684710556827
+For topic 3 word south occurred at probability of 0.008521782430684846
+For topic 3 word play occurred at probability of 0.008408985009810582
+For topic 3 word fucking occurred at probability of 0.006781188653016161
+For topic 3 word get occurred at probability of 0.006697063896879948
+For topic 3 word even occurred at probability of 0.006694582273385012
+For topic 3 word bad occurred at probability of 0.006690858290153022
+ 
+ 
+For topic 4 word south occurred at probability of 0.037236285335384346
+For topic 4 word would occurred at probability of 0.014685442568670812
+For topic 4 word ever occurred at probability of 0.009060239745785391
+For topic 4 word game occurred at probability of 0.009015402894045432
+For topic 4 word really occurred at probability of 0.00894842373167907
+For topic 4 word park occurred at probability of 0.008587041273798073
+For topic 4 word like occurred at probability of 0.008488101844473184
+For topic 4 word fucking occurred at probability of 0.007642184439977959
+For topic 4 word cant occurred at probability of 0.007124018506805397
+For topic 4 word playing occurred at probability of 0.007116113511800412
+ 
+ 
+For topic 5 word game occurred at probability of 0.027857035504829614
+For topic 5 word south occurred at probability of 0.0163670372894582
+For topic 5 word get occurred at probability of 0.011896722040331351
+For topic 5 word one occurred at probability of 0.011266930991894127
+For topic 5 word would occurred at probability of 0.010713904128457198
+For topic 5 word bad occurred at probability of 0.009454098521034576
+For topic 5 word fun occurred at probability of 0.008779464659988726
+For topic 5 word fucking occurred at probability of 0.007785946453948884
+For topic 5 word like occurred at probability of 0.007116785479281111
+For topic 5 word combat occurred at probability of 0.0068542789537239255
+ 
+ 
+For topic 6 word game occurred at probability of 0.03468275693347514
+For topic 6 word park occurred at probability of 0.031537469978330734
+For topic 6 word south occurred at probability of 0.01865267354781283
+For topic 6 word really occurred at probability of 0.012194705719035772
+For topic 6 word fucking occurred at probability of 0.010676867636489723
+For topic 6 word good occurred at probability of 0.009391384002404359
+For topic 6 word fun occurred at probability of 0.008496802468066812
+For topic 6 word nazi occurred at probability of 0.008475832605055418
+For topic 6 word bad occurred at probability of 0.008371876539350412
+For topic 6 word story occurred at probability of 0.007809364822031582
+ 
+ 
+For topic 7 word south occurred at probability of 0.03783899112042083
+For topic 7 word park occurred at probability of 0.024060229091505386
+For topic 7 word get occurred at probability of 0.014961860331338572
+For topic 7 word play occurred at probability of 0.013036284349219381
+For topic 7 word combat occurred at probability of 0.01239563369499449
+For topic 7 word shit occurred at probability of 0.011545652738730115
+For topic 7 word one occurred at probability of 0.009795839190808172
+For topic 7 word game occurred at probability of 0.009165799666769366
+For topic 7 word fun occurred at probability of 0.009098620114659407
+For topic 7 word much occurred at probability of 0.008776467144395535
+ 
+ 
+For topic 8 word game occurred at probability of 0.0952792537433037
+For topic 8 word park occurred at probability of 0.014770690912411507
+For topic 8 word good occurred at probability of 0.008375528559294241
+For topic 8 word get occurred at probability of 0.007719268128653343
+For topic 8 word story occurred at probability of 0.007635461759308989
+For topic 8 word ever occurred at probability of 0.007611671251639251
+For topic 8 word bad occurred at probability of 0.0070202618142704435
+For topic 8 word even occurred at probability of 0.006936819653371051
+For topic 8 word much occurred at probability of 0.006877347748273961
+For topic 8 word playing occurred at probability of 0.0063801903651763865
+ 
+ 
+For topic 9 word game occurred at probability of 0.07527010023063971
+For topic 9 word park occurred at probability of 0.014570720352437996
+For topic 9 word play occurred at probability of 0.013474053186836825
+For topic 9 word one occurred at probability of 0.012456454282352083
+For topic 9 word get occurred at probability of 0.010997607371396864
+For topic 9 word good occurred at probability of 0.00934294667048758
+For topic 9 word combat occurred at probability of 0.007943246886897673
+For topic 9 word rpg occurred at probability of 0.0075579369219605326
+For topic 9 word nazi occurred at probability of 0.007437139840878062
+For topic 9 word would occurred at probability of 0.007313232848946656
+ 
+ 
+For topic 10 word game occurred at probability of 0.06968102497016912
+For topic 10 word south occurred at probability of 0.016670112975883066
+For topic 10 word would occurred at probability of 0.014657899501984845
+For topic 10 word get occurred at probability of 0.014642412914486341
+For topic 10 word play occurred at probability of 0.012804599515946376
+For topic 10 word like occurred at probability of 0.012577036413456488
+For topic 10 word really occurred at probability of 0.009765442035640063
+For topic 10 word good occurred at probability of 0.007241200671808644
+For topic 10 word fucking occurred at probability of 0.006972460666778262
+For topic 10 word rpg occurred at probability of 0.006499669457432508
+ 
+ 

@@ -1,0 +1,120 @@
+For topic 1 word lovely occurred at probability of 0.002274198451204876
+For topic 1 word compared occurred at probability of 0.0022155403888900124
+For topic 1 word starting occurred at probability of 0.0019798502500636647
+For topic 1 word cared occurred at probability of 0.0018679343341115263
+For topic 1 word shouldnt occurred at probability of 0.001834557895629571
+For topic 1 word absolute occurred at probability of 0.0018249383841171213
+For topic 1 word willing occurred at probability of 0.0017378862314455356
+For topic 1 word handle occurred at probability of 0.0017021017320130952
+For topic 1 word deeply occurred at probability of 0.001666900455609982
+For topic 1 word background occurred at probability of 0.0016381655305441353
+ 
+ 
+For topic 2 word beat occurred at probability of 0.0031374402340909424
+For topic 2 word average occurred at probability of 0.0029422523083073647
+For topic 2 word clear occurred at probability of 0.0024649197057862947
+For topic 2 word absolute occurred at probability of 0.002121201780903848
+For topic 2 word conversations occurred at probability of 0.0017734662343464034
+For topic 2 word saved occurred at probability of 0.0016498069109402143
+For topic 2 word date occurred at probability of 0.0015793235293337451
+For topic 2 word notice occurred at probability of 0.0015746779406977756
+For topic 2 word deserved occurred at probability of 0.0015483048228133126
+For topic 2 word compared occurred at probability of 0.0015184180787212785
+ 
+ 
+For topic 3 word beat occurred at probability of 0.0029391585546702033
+For topic 3 word consequence occurred at probability of 0.002499719377250848
+For topic 3 word achievements occurred at probability of 0.002194760907404472
+For topic 3 word file occurred at probability of 0.0021335251155812267
+For topic 3 word thoroughly occurred at probability of 0.0019742129331319176
+For topic 3 word earlier occurred at probability of 0.001868475600039198
+For topic 3 word significant occurred at probability of 0.0017010848172969422
+For topic 3 word late occurred at probability of 0.0016933108434562798
+For topic 3 word ask occurred at probability of 0.0016661159072585779
+For topic 3 word background occurred at probability of 0.0016223831199499818
+ 
+ 
+For topic 4 word date occurred at probability of 0.0030192356025159407
+For topic 4 word average occurred at probability of 0.0027739994512998634
+For topic 4 word ask occurred at probability of 0.0022253825743836276
+For topic 4 word alter occurred at probability of 0.002202926587445766
+For topic 4 word absolute occurred at probability of 0.0020653737402473926
+For topic 4 word conversations occurred at probability of 0.0019738208720362816
+For topic 4 word clear occurred at probability of 0.001864262552503629
+For topic 4 word reality occurred at probability of 0.0018604795170234863
+For topic 4 word biggest occurred at probability of 0.0018094606504906459
+For topic 4 word achievements occurred at probability of 0.0017592209243603397
+ 
+ 
+For topic 5 word average occurred at probability of 0.0029985186291666688
+For topic 5 word biggest occurred at probability of 0.0029136421572319346
+For topic 5 word beat occurred at probability of 0.0025693622671318908
+For topic 5 word saved occurred at probability of 0.0019760984852801727
+For topic 5 word basic occurred at probability of 0.0019072942140160771
+For topic 5 word willing occurred at probability of 0.0017610438425279522
+For topic 5 word shouldnt occurred at probability of 0.0017351245645369714
+For topic 5 word deeply occurred at probability of 0.0016430146036424806
+For topic 5 word ben occurred at probability of 0.001621537058055154
+For topic 5 word recommendation occurred at probability of 0.0016027004997044064
+ 
+ 
+For topic 6 word average occurred at probability of 0.0046551655890795605
+For topic 6 word beat occurred at probability of 0.003015832880561118
+For topic 6 word ask occurred at probability of 0.002273294896592747
+For topic 6 word lovely occurred at probability of 0.002190838523640317
+For topic 6 word features occurred at probability of 0.0021869413018027286
+For topic 6 word truely occurred at probability of 0.0020431093477842792
+For topic 6 word absolute occurred at probability of 0.0018255491626462874
+For topic 6 word late occurred at probability of 0.0017554310773792924
+For topic 6 word biggest occurred at probability of 0.0016878397412598291
+For topic 6 word draw occurred at probability of 0.0016194924164223043
+ 
+ 
+For topic 7 word average occurred at probability of 0.004084596197921793
+For topic 7 word date occurred at probability of 0.002946871495799188
+For topic 7 word file occurred at probability of 0.0019767800774360238
+For topic 7 word features occurred at probability of 0.001958314304151704
+For topic 7 word starting occurred at probability of 0.001905386147277626
+For topic 7 word achievements occurred at probability of 0.0018747395617616477
+For topic 7 word clear occurred at probability of 0.0016202464447741636
+For topic 7 word earlier occurred at probability of 0.001618013159499483
+For topic 7 word ben occurred at probability of 0.001606699205082197
+For topic 7 word wife occurred at probability of 0.0015755037047876913
+ 
+ 
+For topic 8 word saved occurred at probability of 0.0022812189542716407
+For topic 8 word prepared occurred at probability of 0.001976012002681138
+For topic 8 word achievements occurred at probability of 0.0019017999303522477
+For topic 8 word cared occurred at probability of 0.001876707029823175
+For topic 8 word clear occurred at probability of 0.00168392869890338
+For topic 8 word features occurred at probability of 0.001637883759387129
+For topic 8 word cheap occurred at probability of 0.0016119210866826735
+For topic 8 word manage occurred at probability of 0.0015819379919196899
+For topic 8 word background occurred at probability of 0.001555365431685106
+For topic 8 word length occurred at probability of 0.0015405828506365677
+ 
+ 
+For topic 9 word compared occurred at probability of 0.002259319000652856
+For topic 9 word late occurred at probability of 0.001696072617396139
+For topic 9 word basic occurred at probability of 0.0016504539754791053
+For topic 9 word prepared occurred at probability of 0.001647589383344789
+For topic 9 word building occurred at probability of 0.0016100768437336036
+For topic 9 word notice occurred at probability of 0.001604623681295066
+For topic 9 word features occurred at probability of 0.0015453842340328533
+For topic 9 word starting occurred at probability of 0.0015167081633999779
+For topic 9 word delivers occurred at probability of 0.0015124276368244903
+For topic 9 word copy occurred at probability of 0.0014769679261408782
+ 
+ 
+For topic 10 word shouldnt occurred at probability of 0.002663841483227978
+For topic 10 word reality occurred at probability of 0.0024779187734683353
+For topic 10 word saved occurred at probability of 0.002197899833294944
+For topic 10 word biggest occurred at probability of 0.002098819991078038
+For topic 10 word prepared occurred at probability of 0.0018608639330618445
+For topic 10 word conversations occurred at probability of 0.0018192079512762667
+For topic 10 word basic occurred at probability of 0.0016469731261004317
+For topic 10 word humans occurred at probability of 0.0016289339925635706
+For topic 10 word theyve occurred at probability of 0.0016261036133870645
+For topic 10 word deserved occurred at probability of 0.001624325017836798
+ 
+ 

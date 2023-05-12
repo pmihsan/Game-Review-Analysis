@@ -1,0 +1,120 @@
+For topic 1 word performance occurred at probability of 0.004645680548544229
+For topic 1 word wish occurred at probability of 0.0044994439621828695
+For topic 1 word menu occurred at probability of 0.003926133665671704
+For topic 1 word either occurred at probability of 0.003794924917152118
+For topic 1 word based occurred at probability of 0.003585009796555251
+For topic 1 word guys occurred at probability of 0.0035514042938855498
+For topic 1 word sometimes occurred at probability of 0.0035505150460181626
+For topic 1 word trees occurred at probability of 0.00336561238252019
+For topic 1 word ground occurred at probability of 0.0033389165554173657
+For topic 1 word memory occurred at probability of 0.003095005807425878
+ 
+ 
+For topic 2 word control occurred at probability of 0.0037772210183583156
+For topic 2 word ill occurred at probability of 0.0037552672151665452
+For topic 2 word either occurred at probability of 0.0037411262719379114
+For topic 2 word spend occurred at probability of 0.0035375680285710575
+For topic 2 word grid occurred at probability of 0.0033132133737030383
+For topic 2 word second occurred at probability of 0.0030617395976400897
+For topic 2 word poor occurred at probability of 0.0030536265310466683
+For topic 2 word engine occurred at probability of 0.0030178743153284706
+For topic 2 word wish occurred at probability of 0.002947097952915695
+For topic 2 word thumbs occurred at probability of 0.002934798657687922
+ 
+ 
+For topic 3 word grid occurred at probability of 0.004278817453323137
+For topic 3 word ill occurred at probability of 0.00385076087590738
+For topic 3 word felt occurred at probability of 0.0037660908372387065
+For topic 3 word wish occurred at probability of 0.003440540166393497
+For topic 3 word sometimes occurred at probability of 0.003349216179441971
+For topic 3 word excited occurred at probability of 0.003348845861519507
+For topic 3 word perfect occurred at probability of 0.003162692241178024
+For topic 3 word believe occurred at probability of 0.0030397598419022055
+For topic 3 word level occurred at probability of 0.003035222374323158
+For topic 3 word arent occurred at probability of 0.0029664518619432634
+ 
+ 
+For topic 4 word ill occurred at probability of 0.0046457157001920085
+For topic 4 word believe occurred at probability of 0.0044056066719067605
+For topic 4 word sometimes occurred at probability of 0.004294467108298278
+For topic 4 word grid occurred at probability of 0.00378748085533495
+For topic 4 word menu occurred at probability of 0.0036893849568262363
+For topic 4 word control occurred at probability of 0.0036254337998454594
+For topic 4 word found occurred at probability of 0.003553414358637327
+For topic 4 word sadly occurred at probability of 0.0032592984483094684
+For topic 4 word enjoyable occurred at probability of 0.003130992973231474
+For topic 4 word trees occurred at probability of 0.002994710412798924
+ 
+ 
+For topic 5 word ready occurred at probability of 0.0054366747576775525
+For topic 5 word wish occurred at probability of 0.004692932582357495
+For topic 5 word bug occurred at probability of 0.004419008157720929
+For topic 5 word guys occurred at probability of 0.0041340194538210095
+For topic 5 word feedback occurred at probability of 0.004112716306231877
+For topic 5 word paid occurred at probability of 0.0039154721440426855
+For topic 5 word laggy occurred at probability of 0.0034430805243522464
+For topic 5 word changed occurred at probability of 0.003384069225115851
+For topic 5 word ill occurred at probability of 0.0032963948330148626
+For topic 5 word job occurred at probability of 0.0032779118181902956
+ 
+ 
+For topic 6 word performance occurred at probability of 0.005908568275487187
+For topic 6 word excited occurred at probability of 0.004240670738621815
+For topic 6 word bug occurred at probability of 0.004142454260841468
+For topic 6 word ready occurred at probability of 0.003838043958356195
+For topic 6 word believe occurred at probability of 0.0036113067647216977
+For topic 6 word paid occurred at probability of 0.003199641279299689
+For topic 6 word smooth occurred at probability of 0.003197917402717134
+For topic 6 word limited occurred at probability of 0.0031831011104237338
+For topic 6 word wish occurred at probability of 0.002925204164628906
+For topic 6 word quality occurred at probability of 0.0029113130221381143
+ 
+ 
+For topic 7 word wish occurred at probability of 0.005438540020103692
+For topic 7 word excited occurred at probability of 0.004392866408775041
+For topic 7 word simple occurred at probability of 0.00410067107199679
+For topic 7 word either occurred at probability of 0.0038981354356123128
+For topic 7 word based occurred at probability of 0.003874710491598232
+For topic 7 word believe occurred at probability of 0.0038725450657388283
+For topic 7 word paid occurred at probability of 0.0036844970370940476
+For topic 7 word unplayable occurred at probability of 0.0036641221612253904
+For topic 7 word ready occurred at probability of 0.0036413466393622612
+For topic 7 word guys occurred at probability of 0.0034881965651857166
+ 
+ 
+For topic 8 word ready occurred at probability of 0.005063493403162085
+For topic 8 word ill occurred at probability of 0.004582993502450213
+For topic 8 word shit occurred at probability of 0.004337386595644078
+For topic 8 word unplayable occurred at probability of 0.0038185413859204674
+For topic 8 word idea occurred at probability of 0.0034730732380320716
+For topic 8 word biggest occurred at probability of 0.003392259181966138
+For topic 8 word based occurred at probability of 0.0032750690276105656
+For topic 8 word gtx occurred at probability of 0.0032276623093632374
+For topic 8 word changed occurred at probability of 0.003222955838870978
+For topic 8 word enjoyable occurred at probability of 0.003017120978616535
+ 
+ 
+For topic 9 word performance occurred at probability of 0.0047746584880632185
+For topic 9 word bug occurred at probability of 0.003756455326855496
+For topic 9 word rtc occurred at probability of 0.00346108653838737
+For topic 9 word feedback occurred at probability of 0.0032451687656772374
+For topic 9 word design occurred at probability of 0.003202396899068374
+For topic 9 word sometimes occurred at probability of 0.0031641714402994257
+For topic 9 word smooth occurred at probability of 0.003099003246391343
+For topic 9 word others occurred at probability of 0.0030480848175256712
+For topic 9 word level occurred at probability of 0.0030310833406835226
+For topic 9 word wish occurred at probability of 0.0029873338950542976
+ 
+ 
+For topic 10 word unplayable occurred at probability of 0.0043786376283284556
+For topic 10 word ill occurred at probability of 0.004371428947897867
+For topic 10 word trees occurred at probability of 0.003813833922847969
+For topic 10 word fixes occurred at probability of 0.0034600395231740803
+For topic 10 word menu occurred at probability of 0.003393295826631441
+For topic 10 word idea occurred at probability of 0.0033510639073869703
+For topic 10 word sometimes occurred at probability of 0.0032482809107419065
+For topic 10 word gtx occurred at probability of 0.0032266200211824897
+For topic 10 word become occurred at probability of 0.003084896356971219
+For topic 10 word crashed occurred at probability of 0.0030598375818181394
+ 
+ 

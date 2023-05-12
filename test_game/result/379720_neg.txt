@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.0326255192148969
+For topic 1 word like occurred at probability of 0.017482271441123094
+For topic 1 word demons occurred at probability of 0.013144107964016149
+For topic 1 word get occurred at probability of 0.012525152784582529
+For topic 1 word really occurred at probability of 0.010057990903235225
+For topic 1 word great occurred at probability of 0.008100293588558748
+For topic 1 word play occurred at probability of 0.007146555220962752
+For topic 1 word hell occurred at probability of 0.006772703159908264
+For topic 1 word back occurred at probability of 0.006595043731733885
+For topic 1 word multiplayer occurred at probability of 0.005742200940608155
+ 
+ 
+For topic 2 word doom occurred at probability of 0.022963596406287028
+For topic 2 word game occurred at probability of 0.019833069662716054
+For topic 2 word one occurred at probability of 0.011517994405987499
+For topic 2 word story occurred at probability of 0.01145499099529445
+For topic 2 word games occurred at probability of 0.010563237179914057
+For topic 2 word demons occurred at probability of 0.010450048674713431
+For topic 2 word play occurred at probability of 0.007980921885783969
+For topic 2 word fps occurred at probability of 0.007828355091627355
+For topic 2 word much occurred at probability of 0.0066956212367001436
+For topic 2 word enemies occurred at probability of 0.006249610394357586
+ 
+ 
+For topic 3 word game occurred at probability of 0.0394923747272359
+For topic 3 word get occurred at probability of 0.009676185597603632
+For topic 3 word hell occurred at probability of 0.008853462973164377
+For topic 3 word great occurred at probability of 0.008665169049974287
+For topic 3 word demons occurred at probability of 0.007966459082799028
+For topic 3 word fun occurred at probability of 0.007274851606350026
+For topic 3 word doom occurred at probability of 0.0069208366935646255
+For topic 3 word play occurred at probability of 0.006450719578654143
+For topic 3 word dont occurred at probability of 0.0062502618166550205
+For topic 3 word games occurred at probability of 0.005897888704634329
+ 
+ 
+For topic 4 word game occurred at probability of 0.04538455311488979
+For topic 4 word kill occurred at probability of 0.011149563951681232
+For topic 4 word hell occurred at probability of 0.009997331303198433
+For topic 4 word multiplayer occurred at probability of 0.00888983192265952
+For topic 4 word great occurred at probability of 0.0070146173901870995
+For topic 4 word campaign occurred at probability of 0.0065798438868148994
+For topic 4 word fucking occurred at probability of 0.00656509273623018
+For topic 4 word one occurred at probability of 0.00619188124877722
+For topic 4 word fast occurred at probability of 0.006190538925998551
+For topic 4 word played occurred at probability of 0.006111174288517901
+ 
+ 
+For topic 5 word game occurred at probability of 0.02028400938499312
+For topic 5 word demons occurred at probability of 0.01942105444610436
+For topic 5 word time occurred at probability of 0.015993319246793654
+For topic 5 word doom occurred at probability of 0.015937123162425397
+For topic 5 word fun occurred at probability of 0.007575284828595273
+For topic 5 word kill occurred at probability of 0.007098952397614656
+For topic 5 word like occurred at probability of 0.007086021258533972
+For topic 5 word games occurred at probability of 0.007010610478388742
+For topic 5 word play occurred at probability of 0.006941906022930769
+For topic 5 word bad occurred at probability of 0.006457467942770017
+ 
+ 
+For topic 6 word game occurred at probability of 0.03617923816912936
+For topic 6 word doom occurred at probability of 0.03488330408361509
+For topic 6 word like occurred at probability of 0.01452937655186816
+For topic 6 word demons occurred at probability of 0.012687592774549191
+For topic 6 word get occurred at probability of 0.008735930940158032
+For topic 6 word fun occurred at probability of 0.0085440451026493
+For topic 6 word kill occurred at probability of 0.006908843910269015
+For topic 6 word fucking occurred at probability of 0.00660697012064218
+For topic 6 word hell occurred at probability of 0.006465478412144847
+For topic 6 word really occurred at probability of 0.0062014530136788575
+ 
+ 
+For topic 7 word game occurred at probability of 0.04823396613191451
+For topic 7 word doom occurred at probability of 0.03484554318325174
+For topic 7 word kill occurred at probability of 0.018732031121976515
+For topic 7 word demons occurred at probability of 0.012098858306665633
+For topic 7 word hell occurred at probability of 0.011791343672968425
+For topic 7 word one occurred at probability of 0.010528857570910108
+For topic 7 word get occurred at probability of 0.008663362429854703
+For topic 7 word would occurred at probability of 0.008165262646382909
+For topic 7 word dont occurred at probability of 0.00752917915218256
+For topic 7 word play occurred at probability of 0.007179738857808487
+ 
+ 
+For topic 8 word doom occurred at probability of 0.03855792505808888
+For topic 8 word game occurred at probability of 0.03692833347367358
+For topic 8 word play occurred at probability of 0.013193994440781924
+For topic 8 word kill occurred at probability of 0.011046084147261345
+For topic 8 word time occurred at probability of 0.009095685255149507
+For topic 8 word even occurred at probability of 0.007813074710723747
+For topic 8 word much occurred at probability of 0.006847474602344512
+For topic 8 word feel occurred at probability of 0.006710313466031314
+For topic 8 word get occurred at probability of 0.0063867368556770375
+For topic 8 word gameplay occurred at probability of 0.006349140646609417
+ 
+ 
+For topic 9 word demons occurred at probability of 0.017002360223070723
+For topic 9 word get occurred at probability of 0.011294512380658307
+For topic 9 word play occurred at probability of 0.011179778477525926
+For topic 9 word like occurred at probability of 0.010680262353892458
+For topic 9 word doom occurred at probability of 0.010586265958855052
+For topic 9 word game occurred at probability of 0.010059091353110228
+For topic 9 word fun occurred at probability of 0.0078542550626332
+For topic 9 word hell occurred at probability of 0.007357539134278514
+For topic 9 word games occurred at probability of 0.006650227801269228
+For topic 9 word great occurred at probability of 0.006514242787292795
+ 
+ 
+For topic 10 word game occurred at probability of 0.04784243129695582
+For topic 10 word doom occurred at probability of 0.03888164546354311
+For topic 10 word one occurred at probability of 0.012071096507439672
+For topic 10 word hell occurred at probability of 0.009937898202501058
+For topic 10 word kill occurred at probability of 0.009818874402245261
+For topic 10 word multiplayer occurred at probability of 0.00764109541497277
+For topic 10 word even occurred at probability of 0.007573948657950891
+For topic 10 word fps occurred at probability of 0.0072088617778343625
+For topic 10 word fast occurred at probability of 0.006711748495031561
+For topic 10 word like occurred at probability of 0.006525004153960267
+ 
+ 

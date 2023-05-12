@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.08252840497479186
+For topic 1 word bosses occurred at probability of 0.024741532160251437
+For topic 1 word one occurred at probability of 0.018609221603400884
+For topic 1 word boss occurred at probability of 0.013571201922356812
+For topic 1 word first occurred at probability of 0.011432180891755744
+For topic 1 word kill occurred at probability of 0.010189700322670976
+For topic 1 word much occurred at probability of 0.009652153670644136
+For topic 1 word get occurred at probability of 0.00805470112524951
+For topic 1 word time occurred at probability of 0.008007704613041884
+For topic 1 word hard occurred at probability of 0.007577170528120174
+ 
+ 
+For topic 2 word boss occurred at probability of 0.04092298048534493
+For topic 2 word game occurred at probability of 0.020820483866376333
+For topic 2 word one occurred at probability of 0.016566122970645546
+For topic 2 word bosses occurred at probability of 0.014965481326874228
+For topic 2 word really occurred at probability of 0.012057101401677737
+For topic 2 word souls occurred at probability of 0.0117867838852308
+For topic 2 word get occurred at probability of 0.00978823429930006
+For topic 2 word every occurred at probability of 0.009739693822078533
+For topic 2 word kill occurred at probability of 0.008796202822049745
+For topic 2 word beat occurred at probability of 0.008282530061066943
+ 
+ 
+For topic 3 word game occurred at probability of 0.06919119854700018
+For topic 3 word boss occurred at probability of 0.022711551913089476
+For topic 3 word one occurred at probability of 0.020927582048203823
+For topic 3 word arrow occurred at probability of 0.013860562702958316
+For topic 3 word fight occurred at probability of 0.012776435465205505
+For topic 3 word back occurred at probability of 0.012194130161696843
+For topic 3 word hard occurred at probability of 0.012024267499797993
+For topic 3 word titan occurred at probability of 0.01160409769120213
+For topic 3 word also occurred at probability of 0.011213763718162194
+For topic 3 word time occurred at probability of 0.0088391162106282
+ 
+ 
+For topic 4 word game occurred at probability of 0.025545372252880928
+For topic 4 word boss occurred at probability of 0.022539831269918077
+For topic 4 word time occurred at probability of 0.01810237140184268
+For topic 4 word bosses occurred at probability of 0.015393282726038977
+For topic 4 word really occurred at probability of 0.012507059836348821
+For topic 4 word hard occurred at probability of 0.01048680680503465
+For topic 4 word every occurred at probability of 0.008929891083686916
+For topic 4 word hit occurred at probability of 0.008913721233219169
+For topic 4 word kill occurred at probability of 0.00821525829514866
+For topic 4 word first occurred at probability of 0.007886116889093395
+ 
+ 
+For topic 5 word boss occurred at probability of 0.0472279407955591
+For topic 5 word bosses occurred at probability of 0.02196567341833011
+For topic 5 word one occurred at probability of 0.021833237583768175
+For topic 5 word arrow occurred at probability of 0.01243794755918609
+For topic 5 word get occurred at probability of 0.011842384260140138
+For topic 5 word first occurred at probability of 0.010986492713865858
+For topic 5 word really occurred at probability of 0.010309596168047457
+For topic 5 word time occurred at probability of 0.008345725713106936
+For topic 5 word difficult occurred at probability of 0.007584191187922632
+For topic 5 word hard occurred at probability of 0.007451190668392481
+ 
+ 
+For topic 6 word game occurred at probability of 0.03268206733946385
+For topic 6 word boss occurred at probability of 0.027511456373052464
+For topic 6 word one occurred at probability of 0.023991346982725148
+For topic 6 word bosses occurred at probability of 0.017496051162633437
+For topic 6 word back occurred at probability of 0.01667810517226748
+For topic 6 word arrow occurred at probability of 0.015393692796083635
+For topic 6 word get occurred at probability of 0.014658431798859157
+For topic 6 word hard occurred at probability of 0.01133729662042481
+For topic 6 word kill occurred at probability of 0.011207117299935707
+For topic 6 word souls occurred at probability of 0.010595894606299738
+ 
+ 
+For topic 7 word game occurred at probability of 0.01733028881398954
+For topic 7 word bosses occurred at probability of 0.015461591204263962
+For topic 7 word back occurred at probability of 0.01462796061576665
+For topic 7 word hit occurred at probability of 0.013519253808251535
+For topic 7 word time occurred at probability of 0.013040113561526184
+For topic 7 word boss occurred at probability of 0.012917111481220983
+For topic 7 word hard occurred at probability of 0.01076452511043828
+For topic 7 word titan occurred at probability of 0.009749161623754584
+For topic 7 word first occurred at probability of 0.009209371159936664
+For topic 7 word one occurred at probability of 0.008902432593944073
+ 
+ 
+For topic 8 word boss occurred at probability of 0.047414323613545445
+For topic 8 word game occurred at probability of 0.02931071204070168
+For topic 8 word bosses occurred at probability of 0.023534535964082424
+For topic 8 word one occurred at probability of 0.015808257759978357
+For topic 8 word get occurred at probability of 0.013093599970235351
+For topic 8 word time occurred at probability of 0.011941548393125369
+For topic 8 word hit occurred at probability of 0.011409361999155798
+For topic 8 word fight occurred at probability of 0.011262642061929643
+For topic 8 word titan occurred at probability of 0.010189058618222255
+For topic 8 word back occurred at probability of 0.009353654032413148
+ 
+ 
+For topic 9 word game occurred at probability of 0.02303709366881168
+For topic 9 word hit occurred at probability of 0.016452779365576584
+For topic 9 word arrow occurred at probability of 0.015629821417065863
+For topic 9 word bosses occurred at probability of 0.011066148906945975
+For topic 9 word back occurred at probability of 0.010323721612233073
+For topic 9 word difficult occurred at probability of 0.009553500279074133
+For topic 9 word really occurred at probability of 0.00937335026404423
+For topic 9 word kill occurred at probability of 0.009306321198800167
+For topic 9 word every occurred at probability of 0.009056740368081321
+For topic 9 word fight occurred at probability of 0.008853024860884188
+ 
+ 
+For topic 10 word game occurred at probability of 0.09070130365190918
+For topic 10 word time occurred at probability of 0.020037095357351653
+For topic 10 word back occurred at probability of 0.012166745796493163
+For topic 10 word kill occurred at probability of 0.011308698995924247
+For topic 10 word dont occurred at probability of 0.010776239513134894
+For topic 10 word get occurred at probability of 0.010595296695030445
+For topic 10 word hit occurred at probability of 0.009687287152840646
+For topic 10 word really occurred at probability of 0.008240821570408728
+For topic 10 word souls occurred at probability of 0.007176914700686356
+For topic 10 word even occurred at probability of 0.006911927177269037
+ 
+ 

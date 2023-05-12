@@ -1,0 +1,120 @@
+For topic 1 word pew occurred at probability of 0.005882459931646625
+For topic 1 word notno occurred at probability of 0.0021720376321768364
+For topic 1 word niggas occurred at probability of 0.0016845381100024114
+For topic 1 word important occurred at probability of 0.001672266124794987
+For topic 1 word breaching occurred at probability of 0.0014220572966559515
+For topic 1 word rape occurred at probability of 0.0013890160752518038
+For topic 1 word genre occurred at probability of 0.0013576979114257146
+For topic 1 word plats occurred at probability of 0.0012769061266777683
+For topic 1 word republic occurred at probability of 0.001249212697113706
+For topic 1 word test occurred at probability of 0.0012407041921260224
+ 
+ 
+For topic 2 word pew occurred at probability of 0.005013384154678066
+For topic 2 word notno occurred at probability of 0.003770269751157394
+For topic 2 word republic occurred at probability of 0.0021066704532644014
+For topic 2 word breaching occurred at probability of 0.0019365120612962067
+For topic 2 word yo occurred at probability of 0.0015900747085535669
+For topic 2 word begin occurred at probability of 0.0015241335642995999
+For topic 2 word fighting occurred at probability of 0.0014933961755982592
+For topic 2 word tencent occurred at probability of 0.0014112553988841182
+For topic 2 word singleplayer occurred at probability of 0.0013796809943094144
+For topic 2 word pathetic occurred at probability of 0.0012970681062005782
+ 
+ 
+For topic 3 word pew occurred at probability of 0.004993985309470159
+For topic 3 word republic occurred at probability of 0.004615110619912704
+For topic 3 word apparently occurred at probability of 0.002176585802926576
+For topic 3 word prevent occurred at probability of 0.0015675074465383843
+For topic 3 word reverse occurred at probability of 0.0015303765472892965
+For topic 3 word genre occurred at probability of 0.0014181641152981388
+For topic 3 word location occurred at probability of 0.0012440948570977353
+For topic 3 word test occurred at probability of 0.0012272964074857686
+For topic 3 word occasional occurred at probability of 0.0011398232882790867
+For topic 3 word value occurred at probability of 0.0011323603740945108
+ 
+ 
+For topic 4 word pew occurred at probability of 0.0033833062078360006
+For topic 4 word republic occurred at probability of 0.0021374736361879703
+For topic 4 word und occurred at probability of 0.0015211170995156878
+For topic 4 word somewhat occurred at probability of 0.0015180824680198143
+For topic 4 word apparently occurred at probability of 0.001361774727329403
+For topic 4 word pathetic occurred at probability of 0.0012930338954786035
+For topic 4 word es occurred at probability of 0.0012797783828502436
+For topic 4 word important occurred at probability of 0.0012682467865853823
+For topic 4 word gamei occurred at probability of 0.0012457636974551355
+For topic 4 word post occurred at probability of 0.0012447566247340608
+ 
+ 
+For topic 5 word notno occurred at probability of 0.002593108229728873
+For topic 5 word breaching occurred at probability of 0.0022494588708331796
+For topic 5 word republic occurred at probability of 0.0020094027365486046
+For topic 5 word niggas occurred at probability of 0.0018021985065031511
+For topic 5 word yo occurred at probability of 0.0016637435617843975
+For topic 5 word tencent occurred at probability of 0.0014940387347955146
+For topic 5 word pew occurred at probability of 0.0012611934723769339
+For topic 5 word somewhat occurred at probability of 0.0012541213804973153
+For topic 5 word cosmetic occurred at probability of 0.00124374283130446
+For topic 5 word location occurred at probability of 0.0011665536038034502
+ 
+ 
+For topic 6 word republic occurred at probability of 0.0035244619562937473
+For topic 6 word rarely occurred at probability of 0.0017675528743823481
+For topic 6 word pew occurred at probability of 0.001703969812494352
+For topic 6 word breaching occurred at probability of 0.0014457835942203294
+For topic 6 word worrying occurred at probability of 0.0013436184390808248
+For topic 6 word test occurred at probability of 0.0012547803466597125
+For topic 6 word gamei occurred at probability of 0.0012453401172493794
+For topic 6 word majority occurred at probability of 0.0012301080284501213
+For topic 6 word important occurred at probability of 0.0012100583923554432
+For topic 6 word nigga occurred at probability of 0.0012005326719503305
+ 
+ 
+For topic 7 word republic occurred at probability of 0.0019409474586013233
+For topic 7 word notno occurred at probability of 0.0018374888051442284
+For topic 7 word mentioned occurred at probability of 0.0016702090140622897
+For topic 7 word knew occurred at probability of 0.0015087889251395403
+For topic 7 word somewhat occurred at probability of 0.00148858507064797
+For topic 7 word important occurred at probability of 0.0012782252175343402
+For topic 7 word g occurred at probability of 0.0012641162227846592
+For topic 7 word cosmetic occurred at probability of 0.0012534788430499644
+For topic 7 word rarely occurred at probability of 0.0012151325346327361
+For topic 7 word es occurred at probability of 0.0012124254434921998
+ 
+ 
+For topic 8 word pew occurred at probability of 0.0056120613765325315
+For topic 8 word begin occurred at probability of 0.002304979410234813
+For topic 8 word important occurred at probability of 0.0017388508328602327
+For topic 8 word notno occurred at probability of 0.0015222398478500503
+For topic 8 word knew occurred at probability of 0.0014720006113141673
+For topic 8 word region occurred at probability of 0.001328256173765532
+For topic 8 word genre occurred at probability of 0.0013011595462636056
+For topic 8 word la occurred at probability of 0.0012944356285072589
+For topic 8 word prevent occurred at probability of 0.001256186748634711
+For topic 8 word destructible occurred at probability of 0.0011988446665896148
+ 
+ 
+For topic 9 word knew occurred at probability of 0.0016240623720660777
+For topic 9 word somewhat occurred at probability of 0.0014272454485158253
+For topic 9 word pew occurred at probability of 0.001384832289019172
+For topic 9 word excellent occurred at probability of 0.0013537965066109544
+For topic 9 word prevent occurred at probability of 0.0013399807498879785
+For topic 9 word es occurred at probability of 0.001308252791010859
+For topic 9 word la occurred at probability of 0.001290474453012758
+For topic 9 word gamei occurred at probability of 0.0012785271975890426
+For topic 9 word g occurred at probability of 0.001227602125893611
+For topic 9 word destructible occurred at probability of 0.001195701426955733
+ 
+ 
+For topic 10 word republic occurred at probability of 0.004797724980644202
+For topic 10 word pew occurred at probability of 0.002614211779821477
+For topic 10 word rarely occurred at probability of 0.0013738257976143367
+For topic 10 word performance occurred at probability of 0.0013371027852134628
+For topic 10 word cluster occurred at probability of 0.0012840513399671651
+For topic 10 word lock occurred at probability of 0.001184890248437
+For topic 10 word faster occurred at probability of 0.0011268088746681439
+For topic 10 word region occurred at probability of 0.0011102289046939495
+For topic 10 word unlocking occurred at probability of 0.0010997854630728477
+For topic 10 word nigga occurred at probability of 0.0010698000707343185
+ 
+ 

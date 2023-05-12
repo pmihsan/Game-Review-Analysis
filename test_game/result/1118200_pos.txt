@@ -1,0 +1,120 @@
+For topic 1 word yes occurred at probability of 0.028312113637976043
+For topic 1 word like occurred at probability of 0.0203023569335618
+For topic 1 word great occurred at probability of 0.018105690877127437
+For topic 1 word would occurred at probability of 0.017298669347113008
+For topic 1 word recommend occurred at probability of 0.01723369518432114
+For topic 1 word get occurred at probability of 0.01377320974038002
+For topic 1 word want occurred at probability of 0.013463471661712332
+For topic 1 word kill occurred at probability of 0.012687853789736256
+For topic 1 word think occurred at probability of 0.012554564704177982
+For topic 1 word worth occurred at probability of 0.010452136197723092
+ 
+ 
+For topic 2 word fun occurred at probability of 0.10907149505046698
+For topic 2 word love occurred at probability of 0.023049685786020808
+For topic 2 word really occurred at probability of 0.01942526104043543
+For topic 2 word good occurred at probability of 0.01684515005885216
+For topic 2 word play occurred at probability of 0.01518213243404705
+For topic 2 word get occurred at probability of 0.013290582848169639
+For topic 2 word cool occurred at probability of 0.013007294456519002
+For topic 2 word mods occurred at probability of 0.012747678755884034
+For topic 2 word best occurred at probability of 0.012742779455269708
+For topic 2 word people occurred at probability of 0.012578191750819794
+ 
+ 
+For topic 3 word fun occurred at probability of 0.0574465984143685
+For topic 3 word yes occurred at probability of 0.04384127811300717
+For topic 3 word good occurred at probability of 0.04228376094215036
+For topic 3 word great occurred at probability of 0.028243359869661398
+For topic 3 word people occurred at probability of 0.026788008341569875
+For topic 3 word would occurred at probability of 0.018159897797414358
+For topic 3 word best occurred at probability of 0.015256654635603084
+For topic 3 word nice occurred at probability of 0.01125095587893967
+For topic 3 word want occurred at probability of 0.009776292816738766
+For topic 3 word better occurred at probability of 0.009259613069537318
+ 
+ 
+For topic 4 word good occurred at probability of 0.06393738012348736
+For topic 4 word yes occurred at probability of 0.045606746672782424
+For topic 4 word like occurred at probability of 0.03696292951908867
+For topic 4 word love occurred at probability of 0.023808867445611902
+For topic 4 word sandbox occurred at probability of 0.02203781881268319
+For topic 4 word recommend occurred at probability of 0.015045379543198092
+For topic 4 word play occurred at probability of 0.014762013241892677
+For topic 4 word great occurred at probability of 0.011994089826266773
+For topic 4 word kill occurred at probability of 0.010069201784804018
+For topic 4 word cool occurred at probability of 0.009462611633440851
+ 
+ 
+For topic 5 word fun occurred at probability of 0.07851528504964589
+For topic 5 word good occurred at probability of 0.03945157442922591
+For topic 5 word people occurred at probability of 0.03049548284092117
+For topic 5 word great occurred at probability of 0.018735199449995577
+For topic 5 word sandbox occurred at probability of 0.01476002569129877
+For topic 5 word play occurred at probability of 0.01080490462585908
+For topic 5 word time occurred at probability of 0.009529896627345599
+For topic 5 word would occurred at probability of 0.009410532307873573
+For topic 5 word like occurred at probability of 0.009164011101437221
+For topic 5 word around occurred at probability of 0.008834866388574442
+ 
+ 
+For topic 6 word like occurred at probability of 0.042268356233775575
+For topic 6 word good occurred at probability of 0.03912674992316693
+For topic 6 word love occurred at probability of 0.02932147634976527
+For topic 6 word fun occurred at probability of 0.027637782228243996
+For topic 6 word great occurred at probability of 0.018684976895918425
+For topic 6 word would occurred at probability of 0.018271612647154822
+For topic 6 word people occurred at probability of 0.013120412528140503
+For topic 6 word things occurred at probability of 0.012423791561331285
+For topic 6 word kill occurred at probability of 0.010692978476322267
+For topic 6 word amazing occurred at probability of 0.010195368295718455
+ 
+ 
+For topic 7 word fun occurred at probability of 0.08231105869639485
+For topic 7 word good occurred at probability of 0.07370570288407953
+For topic 7 word yes occurred at probability of 0.039069416300579876
+For topic 7 word like occurred at probability of 0.028600216753879856
+For topic 7 word amazing occurred at probability of 0.01629376370803577
+For topic 7 word cool occurred at probability of 0.014439189679123193
+For topic 7 word play occurred at probability of 0.013955886806276716
+For topic 7 word really occurred at probability of 0.01394271013807885
+For topic 7 word best occurred at probability of 0.013514882496046945
+For topic 7 word people occurred at probability of 0.01032260829603739
+ 
+ 
+For topic 8 word love occurred at probability of 0.038167973273274446
+For topic 8 word like occurred at probability of 0.03558235357006666
+For topic 8 word great occurred at probability of 0.02992844671407165
+For topic 8 word fun occurred at probability of 0.028232024764731693
+For topic 8 word sandbox occurred at probability of 0.019252052658683304
+For topic 8 word really occurred at probability of 0.018347410155762304
+For topic 8 word recommend occurred at probability of 0.0182111284262211
+For topic 8 word play occurred at probability of 0.014999122173115085
+For topic 8 word get occurred at probability of 0.013968059934075534
+For topic 8 word mods occurred at probability of 0.012459820805222116
+ 
+ 
+For topic 9 word good occurred at probability of 0.06840068707645351
+For topic 9 word fun occurred at probability of 0.05897211772148716
+For topic 9 word like occurred at probability of 0.031039170729224557
+For topic 9 word yes occurred at probability of 0.0294825250705029
+For topic 9 word people occurred at probability of 0.02798065187126284
+For topic 9 word great occurred at probability of 0.02087765336463383
+For topic 9 word really occurred at probability of 0.02019168548996349
+For topic 9 word mods occurred at probability of 0.013503279152273241
+For topic 9 word want occurred at probability of 0.012026729582706598
+For topic 9 word kill occurred at probability of 0.011969769572028941
+ 
+ 
+For topic 10 word fun occurred at probability of 0.059675580487696216
+For topic 10 word good occurred at probability of 0.040125950432333864
+For topic 10 word like occurred at probability of 0.03080947137131168
+For topic 10 word really occurred at probability of 0.019173938995247955
+For topic 10 word great occurred at probability of 0.016396350078579272
+For topic 10 word get occurred at probability of 0.013426048027857043
+For topic 10 word mods occurred at probability of 0.01219562589143817
+For topic 10 word play occurred at probability of 0.01182644044149244
+For topic 10 word love occurred at probability of 0.011567426015961182
+For topic 10 word yes occurred at probability of 0.010710377730251394
+ 
+ 

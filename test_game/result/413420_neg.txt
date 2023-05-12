@@ -1,0 +1,120 @@
+For topic 1 word going occurred at probability of 0.012794177931312316
+For topic 1 word minigames occurred at probability of 0.008111437857447468
+For topic 1 word lot occurred at probability of 0.006700967159003406
+For topic 1 word nagito occurred at probability of 0.006138943050177908
+For topic 1 word mystery occurred at probability of 0.006051526047864726
+For topic 1 word gonna occurred at probability of 0.005807836568660908
+For topic 1 word watch occurred at probability of 0.005334579092610488
+For topic 1 word hope occurred at probability of 0.005326292519283309
+For topic 1 word hours occurred at probability of 0.0052641486582633915
+For topic 1 word end occurred at probability of 0.005212263195403413
+ 
+ 
+For topic 2 word gonna occurred at probability of 0.011851129496845428
+For topic 2 word nagito occurred at probability of 0.00994921076696175
+For topic 2 word sequel occurred at probability of 0.008193916387391592
+For topic 2 word fuck occurred at probability of 0.007544475054821997
+For topic 2 word series occurred at probability of 0.00634972388747088
+For topic 2 word mystery occurred at probability of 0.006205620477245878
+For topic 2 word however occurred at probability of 0.006124711308351575
+For topic 2 word hope occurred at probability of 0.005398209866029767
+For topic 2 word truth occurred at probability of 0.0053230565246115465
+For topic 2 word thought occurred at probability of 0.005208557059120217
+ 
+ 
+For topic 3 word die occurred at probability of 0.010334413942168268
+For topic 3 word gonna occurred at probability of 0.009262121670830657
+For topic 3 word series occurred at probability of 0.007646944641425643
+For topic 3 word minigames occurred at probability of 0.007096936032092424
+For topic 3 word spoiler occurred at probability of 0.006885993319829556
+For topic 3 word life occurred at probability of 0.006653600579707872
+For topic 3 word way occurred at probability of 0.006486129085673295
+For topic 3 word god occurred at probability of 0.006132883922839059
+For topic 3 word end occurred at probability of 0.005950906321072115
+For topic 3 word komaeda occurred at probability of 0.005643513638584857
+ 
+ 
+For topic 4 word fuck occurred at probability of 0.012157309595535605
+For topic 4 word know occurred at probability of 0.008099633044218915
+For topic 4 word hate occurred at probability of 0.006433172062451605
+For topic 4 word minigames occurred at probability of 0.0064138737299889136
+For topic 4 word killing occurred at probability of 0.005980166656437942
+For topic 4 word new occurred at probability of 0.00596079187399782
+For topic 4 word hope occurred at probability of 0.005705518798683141
+For topic 4 word youll occurred at probability of 0.005395635601172986
+For topic 4 word god occurred at probability of 0.005386800361956835
+For topic 4 word die occurred at probability of 0.005379478397957117
+ 
+ 
+For topic 5 word gonna occurred at probability of 0.010899511964614453
+For topic 5 word nagito occurred at probability of 0.008454735397096184
+For topic 5 word around occurred at probability of 0.008414091830341154
+For topic 5 word spoiler occurred at probability of 0.007522847072335045
+For topic 5 word minigames occurred at probability of 0.0073546022829285825
+For topic 5 word know occurred at probability of 0.007125429222492432
+For topic 5 word end occurred at probability of 0.006196494775512491
+For topic 5 word way occurred at probability of 0.006000012182865888
+For topic 5 word lot occurred at probability of 0.005715575331190208
+For topic 5 word new occurred at probability of 0.005688650118220994
+ 
+ 
+For topic 6 word die occurred at probability of 0.009056299021620685
+For topic 6 word way occurred at probability of 0.007929381915769869
+For topic 6 word fuck occurred at probability of 0.007621427420333445
+For topic 6 word know occurred at probability of 0.007584227000453169
+For topic 6 word kill occurred at probability of 0.007198870220322032
+For topic 6 word spoiler occurred at probability of 0.006674068139857406
+For topic 6 word minigames occurred at probability of 0.005848140938672817
+For topic 6 word ive occurred at probability of 0.00574988288875287
+For topic 6 word life occurred at probability of 0.005451586558700973
+For topic 6 word end occurred at probability of 0.005416662021680902
+ 
+ 
+For topic 7 word fuck occurred at probability of 0.008609945692924373
+For topic 7 word spoiler occurred at probability of 0.008010855227892095
+For topic 7 word die occurred at probability of 0.007708107586389236
+For topic 7 word gonna occurred at probability of 0.006661647082440783
+For topic 7 word kill occurred at probability of 0.006560449175642648
+For topic 7 word ive occurred at probability of 0.006339894309549232
+For topic 7 word end occurred at probability of 0.0061848664995565305
+For topic 7 word theres occurred at probability of 0.0061465826109916395
+For topic 7 word nagito occurred at probability of 0.005642764757628618
+For topic 7 word new occurred at probability of 0.005295444266534017
+ 
+ 
+For topic 8 word however occurred at probability of 0.006738456027018947
+For topic 8 word lot occurred at probability of 0.006277992870243451
+For topic 8 word new occurred at probability of 0.006249799715483824
+For topic 8 word find occurred at probability of 0.006139748346821621
+For topic 8 word series occurred at probability of 0.006105290694787418
+For topic 8 word thing occurred at probability of 0.005997679161385507
+For topic 8 word around occurred at probability of 0.005972706989616979
+For topic 8 word hours occurred at probability of 0.005650248990856165
+For topic 8 word gonna occurred at probability of 0.005634263217861518
+For topic 8 word truth occurred at probability of 0.005563384973784776
+ 
+ 
+For topic 9 word great occurred at probability of 0.009337342947448302
+For topic 9 word nagito occurred at probability of 0.008288009500766755
+For topic 9 word series occurred at probability of 0.006366222162632209
+For topic 9 word hate occurred at probability of 0.00636118104095501
+For topic 9 word die occurred at probability of 0.005975334545758606
+For topic 9 word kill occurred at probability of 0.005898696387498403
+For topic 9 word end occurred at probability of 0.005831864572246279
+For topic 9 word another occurred at probability of 0.005647880086523314
+For topic 9 word ill occurred at probability of 0.005422041154532345
+For topic 9 word many occurred at probability of 0.00495830078189746
+ 
+ 
+For topic 10 word fuck occurred at probability of 0.00966833440518073
+For topic 10 word nagito occurred at probability of 0.008999372847088521
+For topic 10 word great occurred at probability of 0.007804218433687215
+For topic 10 word buy occurred at probability of 0.006729449793764521
+For topic 10 word hate occurred at probability of 0.006555018306044377
+For topic 10 word many occurred at probability of 0.0065510222181446864
+For topic 10 word god occurred at probability of 0.006367523709011456
+For topic 10 word died occurred at probability of 0.006360421937108141
+For topic 10 word die occurred at probability of 0.006352388412515689
+For topic 10 word going occurred at probability of 0.0060134166201180495
+ 
+ 

@@ -1,0 +1,120 @@
+For topic 1 word surely occurred at probability of 0.0014701807359050693
+For topic 1 word town occurred at probability of 0.0014552086955376886
+For topic 1 word knighti occurred at probability of 0.0014067351160552228
+For topic 1 word ihollow occurred at probability of 0.0012669679524879827
+For topic 1 word flawlessly occurred at probability of 0.0011703639740158068
+For topic 1 word empty occurred at probability of 0.00112911149008801
+For topic 1 word immersion occurred at probability of 0.0010387825000875094
+For topic 1 word largely occurred at probability of 0.0010353109146609147
+For topic 1 word glory occurred at probability of 0.001011893295788358
+For topic 1 word castle occurred at probability of 9.996136757743487E-4
+ 
+ 
+For topic 2 word e occurred at probability of 0.0020513551422021506
+For topic 2 word knighti occurred at probability of 0.0015011173473895173
+For topic 2 word ground occurred at probability of 0.0014271526195994205
+For topic 2 word glory occurred at probability of 0.001420682621428667
+For topic 2 word town occurred at probability of 0.0013500507776035718
+For topic 2 word process occurred at probability of 0.0011952950954217268
+For topic 2 word continues occurred at probability of 0.0011834738748901904
+For topic 2 word emotions occurred at probability of 0.0011606598140277576
+For topic 2 word minimum occurred at probability of 0.0011558652061527204
+For topic 2 word region occurred at probability of 0.0011480493236414476
+ 
+ 
+For topic 3 word e occurred at probability of 0.002538607066117281
+For topic 3 word decisions occurred at probability of 0.0015494195795699084
+For topic 3 word ground occurred at probability of 0.001431124464862313
+For topic 3 word thumbs occurred at probability of 0.00142944424499395
+For topic 3 word immersion occurred at probability of 0.0013994018619951174
+For topic 3 word emotions occurred at probability of 0.0012947757661985998
+For topic 3 word glory occurred at probability of 0.0012917203358248212
+For topic 3 word haha occurred at probability of 0.001269234313339272
+For topic 3 word town occurred at probability of 0.0011830122846375989
+For topic 3 word lies occurred at probability of 0.0011409570317318719
+ 
+ 
+For topic 4 word ground occurred at probability of 0.0016093826396395717
+For topic 4 word downright occurred at probability of 0.001603468741400219
+For topic 4 word e occurred at probability of 0.0015743112061522633
+For topic 4 word unbelievable occurred at probability of 0.0015729473428365095
+For topic 4 word engaged occurred at probability of 0.0014246358828497664
+For topic 4 word share occurred at probability of 0.0012952151364794078
+For topic 4 word colorful occurred at probability of 0.0012822474677044538
+For topic 4 word locked occurred at probability of 0.0012616884367115924
+For topic 4 word haha occurred at probability of 0.0012035076597518215
+For topic 4 word dangerous occurred at probability of 0.0011983067677325526
+ 
+ 
+For topic 5 word thrown occurred at probability of 0.0017372838885643543
+For topic 5 word events occurred at probability of 0.0013671521079112535
+For topic 5 word empty occurred at probability of 0.001236870049541567
+For topic 5 word immersion occurred at probability of 0.0011395993918915065
+For topic 5 word respect occurred at probability of 0.0011352527716294017
+For topic 5 word unbelievable occurred at probability of 0.0011006183423412734
+For topic 5 word emotions occurred at probability of 0.0010917404912508806
+For topic 5 word ihollow occurred at probability of 0.0010722471352519985
+For topic 5 word downright occurred at probability of 0.0010718818696248762
+For topic 5 word increases occurred at probability of 0.001064815222844929
+ 
+ 
+For topic 6 word metroidvaniastyle occurred at probability of 0.0016310061363873306
+For topic 6 word wallet occurred at probability of 0.0014824880175696485
+For topic 6 word dirtmouth occurred at probability of 0.0013745654987741295
+For topic 6 word expand occurred at probability of 0.001207903011295976
+For topic 6 word emotions occurred at probability of 0.0012076116620429944
+For topic 6 word desire occurred at probability of 0.0011507535692746183
+For topic 6 word role occurred at probability of 0.001144482827239633
+For topic 6 word haha occurred at probability of 0.0011089780281456406
+For topic 6 word usage occurred at probability of 0.0010891484318534728
+For topic 6 word contains occurred at probability of 0.00108788876191265
+ 
+ 
+For topic 7 word dirtmouth occurred at probability of 0.0013924351788761372
+For topic 7 word region occurred at probability of 0.0013489560566590124
+For topic 7 word locked occurred at probability of 0.0013345328136506478
+For topic 7 word immersion occurred at probability of 0.0013230781789871481
+For topic 7 word share occurred at probability of 0.001262900563553213
+For topic 7 word iti occurred at probability of 0.0011885867873398506
+For topic 7 word seconds occurred at probability of 0.0011839108612501303
+For topic 7 word contains occurred at probability of 0.0011511809327712443
+For topic 7 word thrown occurred at probability of 0.0011468560368831772
+For topic 7 word e occurred at probability of 0.0011448164056105715
+ 
+ 
+For topic 8 word metroidvaniastyle occurred at probability of 0.001950401860804803
+For topic 8 word decisions occurred at probability of 0.0019488739053788908
+For topic 8 word thumbs occurred at probability of 0.0013560432258645804
+For topic 8 word haha occurred at probability of 0.0013068107941949017
+For topic 8 word knighti occurred at probability of 0.0012716131479152378
+For topic 8 word engaged occurred at probability of 0.0012598158147963687
+For topic 8 word ihollow occurred at probability of 0.0012413050464453953
+For topic 8 word veryvery occurred at probability of 0.001186693244089028
+For topic 8 word region occurred at probability of 0.001174849952332461
+For topic 8 word de occurred at probability of 0.0011522186578596832
+ 
+ 
+For topic 9 word e occurred at probability of 0.00237113691425716
+For topic 9 word knighti occurred at probability of 0.0016004643096372523
+For topic 9 word respect occurred at probability of 0.001314368528797299
+For topic 9 word locked occurred at probability of 0.0012725652906999739
+For topic 9 word dirtmouth occurred at probability of 0.0012618203951619267
+For topic 9 word forgot occurred at probability of 0.0012156475568071386
+For topic 9 word precision occurred at probability of 0.0012040064191767123
+For topic 9 word iti occurred at probability of 0.0011832746322076265
+For topic 9 word question occurred at probability of 0.0011670655737584198
+For topic 9 word useless occurred at probability of 0.0011007747826308049
+ 
+ 
+For topic 10 word metroidvaniastyle occurred at probability of 0.0024299586435153173
+For topic 10 word ground occurred at probability of 0.0014706842712019661
+For topic 10 word respect occurred at probability of 0.0014184790143381121
+For topic 10 word thrown occurred at probability of 0.0012944875177754928
+For topic 10 word de occurred at probability of 0.001268865730970488
+For topic 10 word role occurred at probability of 0.001117838900605175
+For topic 10 word dangerous occurred at probability of 0.001116078243052527
+For topic 10 word empty occurred at probability of 0.00111510945707211
+For topic 10 word weight occurred at probability of 0.0011082905745334385
+For topic 10 word via occurred at probability of 0.001067952786078188
+ 
+ 

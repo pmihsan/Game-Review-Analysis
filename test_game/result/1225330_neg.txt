@@ -1,0 +1,120 @@
+For topic 1 word play occurred at probability of 0.025217181177858154
+For topic 1 word even occurred at probability of 0.014366462823375914
+For topic 1 word buy occurred at probability of 0.01316341618440766
+For topic 1 word gen occurred at probability of 0.011735457451213394
+For topic 1 word year occurred at probability of 0.011354431223543135
+For topic 1 word nba occurred at probability of 0.011254075123512002
+For topic 1 word player occurred at probability of 0.010962014344848423
+For topic 1 word next occurred at probability of 0.009986968339375289
+For topic 1 word shot occurred at probability of 0.009101835428500807
+For topic 1 word get occurred at probability of 0.008595964908443865
+ 
+ 
+For topic 2 word pc occurred at probability of 0.018095619330581875
+For topic 2 word dont occurred at probability of 0.016578180082418327
+For topic 2 word nba occurred at probability of 0.01639595031450445
+For topic 2 word play occurred at probability of 0.015340582652532696
+For topic 2 word games occurred at probability of 0.012362412872900538
+For topic 2 word even occurred at probability of 0.011736677266112461
+For topic 2 word like occurred at probability of 0.011115825293909632
+For topic 2 word next occurred at probability of 0.010393039044889656
+For topic 2 word year occurred at probability of 0.009373798473886318
+For topic 2 word shooting occurred at probability of 0.009341473947791109
+ 
+ 
+For topic 3 word get occurred at probability of 0.015690433334105195
+For topic 3 word shit occurred at probability of 0.014156493912256717
+For topic 3 word money occurred at probability of 0.013265033784709284
+For topic 3 word play occurred at probability of 0.012251850082012532
+For topic 3 word games occurred at probability of 0.012239527228870324
+For topic 3 word even occurred at probability of 0.012103869907617427
+For topic 3 word buy occurred at probability of 0.011029974228789841
+For topic 3 word pc occurred at probability of 0.010150357842474152
+For topic 3 word every occurred at probability of 0.009757570816943116
+For topic 3 word shot occurred at probability of 0.00964379053002891
+ 
+ 
+For topic 4 word dont occurred at probability of 0.02018846756887598
+For topic 4 word even occurred at probability of 0.016329180938336105
+For topic 4 word play occurred at probability of 0.014431278946628736
+For topic 4 word nba occurred at probability of 0.013437262136934495
+For topic 4 word pc occurred at probability of 0.012594171419927667
+For topic 4 word gen occurred at probability of 0.010757643389626127
+For topic 4 word crashes occurred at probability of 0.008315215095412677
+For topic 4 word mycareer occurred at probability of 0.008275345844177108
+For topic 4 word shit occurred at probability of 0.008132193190667969
+For topic 4 word shooting occurred at probability of 0.008055256182087207
+ 
+ 
+For topic 5 word buy occurred at probability of 0.023888892289936275
+For topic 5 word shit occurred at probability of 0.01395687555204812
+For topic 5 word even occurred at probability of 0.01163004008689908
+For topic 5 word playing occurred at probability of 0.010970213631678565
+For topic 5 word worse occurred at probability of 0.010330548737839515
+For topic 5 word cant occurred at probability of 0.010201580732696062
+For topic 5 word gen occurred at probability of 0.010018609943294732
+For topic 5 word every occurred at probability of 0.009018825786734058
+For topic 5 word get occurred at probability of 0.008681746206266331
+For topic 5 word year occurred at probability of 0.007655585152483415
+ 
+ 
+For topic 6 word dont occurred at probability of 0.01798110891550729
+For topic 6 word cant occurred at probability of 0.01387999499757688
+For topic 6 word every occurred at probability of 0.013508791493670354
+For topic 6 word time occurred at probability of 0.012718150387370439
+For topic 6 word pc occurred at probability of 0.011560961263700122
+For topic 6 word get occurred at probability of 0.01152425730577548
+For topic 6 word buy occurred at probability of 0.011435990492139838
+For topic 6 word money occurred at probability of 0.009400503629017072
+For topic 6 word mycareer occurred at probability of 0.009331325431851568
+For topic 6 word like occurred at probability of 0.008989865387035407
+ 
+ 
+For topic 7 word pc occurred at probability of 0.016409903956979995
+For topic 7 word money occurred at probability of 0.014940250814089192
+For topic 7 word games occurred at probability of 0.014362243279790176
+For topic 7 word get occurred at probability of 0.014325603339785982
+For topic 7 word dont occurred at probability of 0.014213508041659152
+For topic 7 word cant occurred at probability of 0.012475777424054792
+For topic 7 word like occurred at probability of 0.01214014002434482
+For topic 7 word player occurred at probability of 0.010483265862488662
+For topic 7 word gen occurred at probability of 0.009528623843827366
+For topic 7 word ever occurred at probability of 0.008362855967747194
+ 
+ 
+For topic 8 word play occurred at probability of 0.027148232336571806
+For topic 8 word pc occurred at probability of 0.016848037892969278
+For topic 8 word even occurred at probability of 0.01668790508486806
+For topic 8 word shit occurred at probability of 0.014042416697629933
+For topic 8 word worse occurred at probability of 0.013811862049325035
+For topic 8 word cant occurred at probability of 0.013119708382134216
+For topic 8 word get occurred at probability of 0.012633791574524942
+For topic 8 word trash occurred at probability of 0.011541585117452338
+For topic 8 word buy occurred at probability of 0.010496828683344664
+For topic 8 word dont occurred at probability of 0.010013471098500627
+ 
+ 
+For topic 9 word get occurred at probability of 0.016343155129591606
+For topic 9 word dont occurred at probability of 0.015835818363077916
+For topic 9 word nba occurred at probability of 0.013033234203726088
+For topic 9 word shit occurred at probability of 0.012539902878852208
+For topic 9 word money occurred at probability of 0.008896504147065186
+For topic 9 word next occurred at probability of 0.007726955945760583
+For topic 9 word really occurred at probability of 0.007595574850900743
+For topic 9 word year occurred at probability of 0.007578942952484833
+For topic 9 word like occurred at probability of 0.007415595308053374
+For topic 9 word shooting occurred at probability of 0.007218886223043562
+ 
+ 
+For topic 10 word buy occurred at probability of 0.0228026671803019
+For topic 10 word play occurred at probability of 0.01960168224491009
+For topic 10 word dont occurred at probability of 0.01891054582764064
+For topic 10 word shit occurred at probability of 0.0173914755994402
+For topic 10 word cant occurred at probability of 0.014552500720049133
+For topic 10 word every occurred at probability of 0.012084536434357914
+For topic 10 word like occurred at probability of 0.0113426082551216
+For topic 10 word trash occurred at probability of 0.01053991610879954
+For topic 10 word ever occurred at probability of 0.010445453847679054
+For topic 10 word money occurred at probability of 0.010405149126691795
+ 
+ 

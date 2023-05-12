@@ -1,0 +1,120 @@
+For topic 1 word menu occurred at probability of 0.002426497612341119
+For topic 1 word rest occurred at probability of 0.0020684876438986123
+For topic 1 word slowly occurred at probability of 0.0020358928391096677
+For topic 1 word core occurred at probability of 0.0019697707742240794
+For topic 1 word atmospheric occurred at probability of 0.0018954533893579112
+For topic 1 word brilliant occurred at probability of 0.0018776171570672722
+For topic 1 word various occurred at probability of 0.0018185807220727403
+For topic 1 word laptop occurred at probability of 0.0017819323835546912
+For topic 1 word number occurred at probability of 0.0017616430853086905
+For topic 1 word holy occurred at probability of 0.0016460283425398
+ 
+ 
+For topic 2 word average occurred at probability of 0.003657024557178588
+For topic 2 word atmospheric occurred at probability of 0.0023682297496380425
+For topic 2 word menu occurred at probability of 0.0023328823363424345
+For topic 2 word slowly occurred at probability of 0.0017266926993088683
+For topic 2 word everytime occurred at probability of 0.00167212885696395
+For topic 2 word wonderful occurred at probability of 0.0016611023044264307
+For topic 2 word noises occurred at probability of 0.001606749293183754
+For topic 2 word spoil occurred at probability of 0.001594871222593253
+For topic 2 word graphical occurred at probability of 0.0015377242253594313
+For topic 2 word quick occurred at probability of 0.0015070719064366567
+ 
+ 
+For topic 3 word instantly occurred at probability of 0.002770704863798237
+For topic 3 word yeah occurred at probability of 0.0027562748616708262
+For topic 3 word gathering occurred at probability of 0.002494389953293619
+For topic 3 word challenging occurred at probability of 0.0023050728462115557
+For topic 3 word ea occurred at probability of 0.002206642356810585
+For topic 3 word rest occurred at probability of 0.002113483501335152
+For topic 3 word grab occurred at probability of 0.0020979530107538592
+For topic 3 word nope occurred at probability of 0.0020516051646500425
+For topic 3 word trouble occurred at probability of 0.0020377308874211467
+For topic 3 word average occurred at probability of 0.002016873455545647
+ 
+ 
+For topic 4 word average occurred at probability of 0.0030899272407145253
+For topic 4 word holy occurred at probability of 0.0028342086049366185
+For topic 4 word current occurred at probability of 0.002454327022656484
+For topic 4 word yeah occurred at probability of 0.002333866225517461
+For topic 4 word managed occurred at probability of 0.0021298882160885033
+For topic 4 word lava occurred at probability of 0.0021080497956811155
+For topic 4 word occasional occurred at probability of 0.0020386546737246594
+For topic 4 word tech occurred at probability of 0.0020297500211128795
+For topic 4 word break occurred at probability of 0.0019193838648376457
+For topic 4 word community occurred at probability of 0.0017049622576214456
+ 
+ 
+For topic 5 word tech occurred at probability of 0.002122108414489142
+For topic 5 word gathering occurred at probability of 0.002105593830820859
+For topic 5 word island occurred at probability of 0.002004630532524023
+For topic 5 word became occurred at probability of 0.0019022284141839237
+For topic 5 word given occurred at probability of 0.0018773941199545833
+For topic 5 word ui occurred at probability of 0.0017866613198359385
+For topic 5 word brilliant occurred at probability of 0.0017816498712321935
+For topic 5 word sorry occurred at probability of 0.001709297986009227
+For topic 5 word piss occurred at probability of 0.0016904544652152284
+For topic 5 word middle occurred at probability of 0.0016799230612106948
+ 
+ 
+For topic 6 word tons occurred at probability of 0.002349234014427559
+For topic 6 word suck occurred at probability of 0.0022020690904095384
+For topic 6 word wonderful occurred at probability of 0.0019707737676404173
+For topic 6 word crafted occurred at probability of 0.0019627609295057398
+For topic 6 word lava occurred at probability of 0.001921718342872847
+For topic 6 word alright occurred at probability of 0.0018824400048418944
+For topic 6 word roar occurred at probability of 0.0018700204687267647
+For topic 6 word friend occurred at probability of 0.001721173702045715
+For topic 6 word piss occurred at probability of 0.0017208064499123598
+For topic 6 word dislike occurred at probability of 0.0017050094464336333
+ 
+ 
+For topic 7 word gathering occurred at probability of 0.0022261417122523665
+For topic 7 word tech occurred at probability of 0.0019366486423244473
+For topic 7 word casual occurred at probability of 0.0018500928000660013
+For topic 7 word angry occurred at probability of 0.0017339407648743383
+For topic 7 word wonderful occurred at probability of 0.0016791732707112919
+For topic 7 word various occurred at probability of 0.0016769172497599371
+For topic 7 word patch occurred at probability of 0.0016530130456631406
+For topic 7 word break occurred at probability of 0.0016437937557939165
+For topic 7 word laptop occurred at probability of 0.0016358193439370648
+For topic 7 word sky occurred at probability of 0.0016313802003198547
+ 
+ 
+For topic 8 word sky occurred at probability of 0.0022679089423320795
+For topic 8 word middle occurred at probability of 0.0021012681304081633
+For topic 8 word given occurred at probability of 0.0020018877464001196
+For topic 8 word atmospheric occurred at probability of 0.0019185196349203709
+For topic 8 word dislike occurred at probability of 0.0018597936615049246
+For topic 8 word simulator occurred at probability of 0.0018435205957729474
+For topic 8 word crafted occurred at probability of 0.0017963611822151217
+For topic 8 word rewarding occurred at probability of 0.001677405624817761
+For topic 8 word favourite occurred at probability of 0.0016486483926682661
+For topic 8 word saving occurred at probability of 0.0015739311437661947
+ 
+ 
+For topic 9 word average occurred at probability of 0.002502568785582981
+For topic 9 word instantly occurred at probability of 0.002217326942253779
+For topic 9 word complaint occurred at probability of 0.00203018689205269
+For topic 9 word crafted occurred at probability of 0.001886700747649317
+For topic 9 word given occurred at probability of 0.001793001116751697
+For topic 9 word trouble occurred at probability of 0.0017641215627891313
+For topic 9 word angry occurred at probability of 0.0017318724812309945
+For topic 9 word island occurred at probability of 0.001719972189064291
+For topic 9 word nope occurred at probability of 0.001685518587903469
+For topic 9 word everytime occurred at probability of 0.0016381244373025352
+ 
+ 
+For topic 10 word wonderful occurred at probability of 0.002559106838933404
+For topic 10 word challenging occurred at probability of 0.002412751286235109
+For topic 10 word gathering occurred at probability of 0.0022879214444210677
+For topic 10 word tons occurred at probability of 0.0022363429411589794
+For topic 10 word managed occurred at probability of 0.002216721646837365
+For topic 10 word friend occurred at probability of 0.002033384450775663
+For topic 10 word holy occurred at probability of 0.001978702720670672
+For topic 10 word alright occurred at probability of 0.0019288648048889085
+For topic 10 word average occurred at probability of 0.001881714885515772
+For topic 10 word current occurred at probability of 0.0018254195619257976
+ 
+ 

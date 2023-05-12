@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.022605615911102172
+For topic 1 word like occurred at probability of 0.016258366967136884
+For topic 1 word get occurred at probability of 0.014569758845237993
+For topic 1 word level occurred at probability of 0.012842803967337857
+For topic 1 word megaman occurred at probability of 0.011705838651396723
+For topic 1 word x occurred at probability of 0.01130367810994913
+For topic 1 word games occurred at probability of 0.011124696882069478
+For topic 1 word dont occurred at probability of 0.010938550396303412
+For topic 1 word levels occurred at probability of 0.010637167766562872
+For topic 1 word bosses occurred at probability of 0.010571125975623288
+ 
+ 
+For topic 2 word game occurred at probability of 0.07134224032250595
+For topic 2 word get occurred at probability of 0.013284583172935441
+For topic 2 word dont occurred at probability of 0.013154145670839645
+For topic 2 word one occurred at probability of 0.012385504720401334
+For topic 2 word level occurred at probability of 0.011867494255612898
+For topic 2 word really occurred at probability of 0.011410837536558792
+For topic 2 word megaman occurred at probability of 0.011174608157551143
+For topic 2 word x occurred at probability of 0.011087981833278429
+For topic 2 word boss occurred at probability of 0.01091085563673604
+For topic 2 word time occurred at probability of 0.010007254131643545
+ 
+ 
+For topic 3 word game occurred at probability of 0.06314628644518913
+For topic 3 word megaman occurred at probability of 0.020346775144186417
+For topic 3 word like occurred at probability of 0.015010069224979142
+For topic 3 word get occurred at probability of 0.014392145326980141
+For topic 3 word level occurred at probability of 0.012353968016849352
+For topic 3 word play occurred at probability of 0.011712119925998127
+For topic 3 word still occurred at probability of 0.010091872120092158
+For topic 3 word im occurred at probability of 0.009633783825379555
+For topic 3 word even occurred at probability of 0.008959005832109663
+For topic 3 word boss occurred at probability of 0.008512799145108928
+ 
+ 
+For topic 4 word megaman occurred at probability of 0.023965683755172412
+For topic 4 word game occurred at probability of 0.01691937183052155
+For topic 4 word get occurred at probability of 0.016213736370673942
+For topic 4 word boss occurred at probability of 0.013463536932984606
+For topic 4 word play occurred at probability of 0.013118943656074779
+For topic 4 word x occurred at probability of 0.011139626739988374
+For topic 4 word levels occurred at probability of 0.010306333662727318
+For topic 4 word mighty occurred at probability of 0.009708461925642337
+For topic 4 word fun occurred at probability of 0.008925193535162954
+For topic 4 word also occurred at probability of 0.008248972344631946
+ 
+ 
+For topic 5 word megaman occurred at probability of 0.022821461743686277
+For topic 5 word play occurred at probability of 0.012449536919244598
+For topic 5 word x occurred at probability of 0.012158082300142179
+For topic 5 word fun occurred at probability of 0.011077940204252672
+For topic 5 word bosses occurred at probability of 0.011012528013111542
+For topic 5 word bad occurred at probability of 0.010597263605861754
+For topic 5 word much occurred at probability of 0.010337779592822992
+For topic 5 word even occurred at probability of 0.00936856216165543
+For topic 5 word every occurred at probability of 0.008696258574268964
+For topic 5 word dont occurred at probability of 0.008642338386694912
+ 
+ 
+For topic 6 word game occurred at probability of 0.026821193487045238
+For topic 6 word megaman occurred at probability of 0.02116020533802637
+For topic 6 word get occurred at probability of 0.012601577381658086
+For topic 6 word x occurred at probability of 0.011069329566536357
+For topic 6 word much occurred at probability of 0.010501290917764304
+For topic 6 word levels occurred at probability of 0.009230333457177877
+For topic 6 word still occurred at probability of 0.009140660829920128
+For topic 6 word fun occurred at probability of 0.008822241777009495
+For topic 6 word make occurred at probability of 0.008760196543368848
+For topic 6 word bad occurred at probability of 0.007815498433540489
+ 
+ 
+For topic 7 word game occurred at probability of 0.05406385092086586
+For topic 7 word like occurred at probability of 0.015965104074220814
+For topic 7 word level occurred at probability of 0.015143286363703165
+For topic 7 word im occurred at probability of 0.011058020533828197
+For topic 7 word time occurred at probability of 0.009505735161780889
+For topic 7 word get occurred at probability of 0.009426213372679676
+For topic 7 word every occurred at probability of 0.00853152994170717
+For topic 7 word controls occurred at probability of 0.008419098531315346
+For topic 7 word really occurred at probability of 0.008219553137976834
+For topic 7 word final occurred at probability of 0.007834824852222474
+ 
+ 
+For topic 8 word megaman occurred at probability of 0.023123443813119725
+For topic 8 word like occurred at probability of 0.011078165457038385
+For topic 8 word boss occurred at probability of 0.010787295335547498
+For topic 8 word level occurred at probability of 0.010526174547273278
+For topic 8 word one occurred at probability of 0.01012400991055962
+For topic 8 word bad occurred at probability of 0.009615802156459548
+For topic 8 word fun occurred at probability of 0.009165548412129071
+For topic 8 word die occurred at probability of 0.008555471208737182
+For topic 8 word youre occurred at probability of 0.008146480720311964
+For topic 8 word enjoy occurred at probability of 0.007844667261281895
+ 
+ 
+For topic 9 word game occurred at probability of 0.06354184867592773
+For topic 9 word like occurred at probability of 0.015879273221572857
+For topic 9 word dont occurred at probability of 0.012714095030657973
+For topic 9 word time occurred at probability of 0.01213961683318248
+For topic 9 word enemies occurred at probability of 0.010850697052985329
+For topic 9 word really occurred at probability of 0.01058935420406935
+For topic 9 word megaman occurred at probability of 0.009657865748946495
+For topic 9 word every occurred at probability of 0.009592387584977885
+For topic 9 word boss occurred at probability of 0.008694409021410898
+For topic 9 word x occurred at probability of 0.008294619461731425
+ 
+ 
+For topic 10 word game occurred at probability of 0.05382894891653727
+For topic 10 word megaman occurred at probability of 0.023170917671589734
+For topic 10 word one occurred at probability of 0.01568612942029038
+For topic 10 word like occurred at probability of 0.013196482400405812
+For topic 10 word youre occurred at probability of 0.012415038367032057
+For topic 10 word games occurred at probability of 0.010301922930693791
+For topic 10 word play occurred at probability of 0.009971762699676078
+For topic 10 word x occurred at probability of 0.009897579480368499
+For topic 10 word also occurred at probability of 0.009476832115523422
+For topic 10 word bosses occurred at probability of 0.009472519722554579
+ 
+ 

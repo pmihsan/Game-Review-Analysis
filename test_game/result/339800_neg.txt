@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.08232662832033198
+For topic 1 word playing occurred at probability of 0.016463417772679536
+For topic 1 word fucking occurred at probability of 0.01235488367188159
+For topic 1 word fuck occurred at probability of 0.012088606074922606
+For topic 1 word would occurred at probability of 0.01143743615699136
+For topic 1 word candy occurred at probability of 0.010914328011890113
+For topic 1 word play occurred at probability of 0.01016399983466122
+For topic 1 word im occurred at probability of 0.009437980813832072
+For topic 1 word one occurred at probability of 0.009042514981945556
+For topic 1 word girls occurred at probability of 0.008613265441089538
+ 
+ 
+For topic 2 word game occurred at probability of 0.06989723289463469
+For topic 2 word get occurred at probability of 0.011164395904407097
+For topic 2 word crush occurred at probability of 0.010822790922657307
+For topic 2 word girls occurred at probability of 0.00970866849951295
+For topic 2 word would occurred at probability of 0.00948410435854345
+For topic 2 word fuck occurred at probability of 0.00928848533980587
+For topic 2 word play occurred at probability of 0.008764179289579559
+For topic 2 word hours occurred at probability of 0.008456879341618468
+For topic 2 word one occurred at probability of 0.008016578426213682
+For topic 2 word huniepop occurred at probability of 0.00670146880502738
+ 
+ 
+For topic 3 word game occurred at probability of 0.05344126621641366
+For topic 3 word play occurred at probability of 0.019295243049452047
+For topic 3 word get occurred at probability of 0.015724554690467872
+For topic 3 word im occurred at probability of 0.013327510291174974
+For topic 3 word anime occurred at probability of 0.010017171577258701
+For topic 3 word hard occurred at probability of 0.009742691923214593
+For topic 3 word one occurred at probability of 0.009268487084845877
+For topic 3 word girls occurred at probability of 0.008805500430564023
+For topic 3 word fuck occurred at probability of 0.008615995299505484
+For topic 3 word hours occurred at probability of 0.008427823366044187
+ 
+ 
+For topic 4 word game occurred at probability of 0.03694910844975753
+For topic 4 word playing occurred at probability of 0.016055313596821726
+For topic 4 word would occurred at probability of 0.014613465543843504
+For topic 4 word fuck occurred at probability of 0.010128045595153687
+For topic 4 word even occurred at probability of 0.008185295501040591
+For topic 4 word dont occurred at probability of 0.008138474520436756
+For topic 4 word puzzles occurred at probability of 0.007555650391484528
+For topic 4 word hard occurred at probability of 0.007444180307215571
+For topic 4 word fucking occurred at probability of 0.0070609931222992695
+For topic 4 word get occurred at probability of 0.006582972167353011
+ 
+ 
+For topic 5 word game occurred at probability of 0.045977335779224124
+For topic 5 word im occurred at probability of 0.014711725807970689
+For topic 5 word get occurred at probability of 0.012449152113048994
+For topic 5 word dont occurred at probability of 0.010649467818499745
+For topic 5 word would occurred at probability of 0.010273181856308449
+For topic 5 word puzzle occurred at probability of 0.008799285919407936
+For topic 5 word really occurred at probability of 0.008291200362006835
+For topic 5 word time occurred at probability of 0.008228776113941304
+For topic 5 word playing occurred at probability of 0.008138589568425055
+For topic 5 word girls occurred at probability of 0.00802250102235827
+ 
+ 
+For topic 6 word would occurred at probability of 0.018608435990760352
+For topic 6 word get occurred at probability of 0.01669004591594863
+For topic 6 word fuck occurred at probability of 0.01432013270723897
+For topic 6 word life occurred at probability of 0.01426856722491991
+For topic 6 word got occurred at probability of 0.012856191991895805
+For topic 6 word dont occurred at probability of 0.012051991999176547
+For topic 6 word crush occurred at probability of 0.011590052163684165
+For topic 6 word girls occurred at probability of 0.010923717910225672
+For topic 6 word tities occurred at probability of 0.008081270785286695
+For topic 6 word anime occurred at probability of 0.007762818061828152
+ 
+ 
+For topic 7 word game occurred at probability of 0.051486139039764026
+For topic 7 word would occurred at probability of 0.017598473124305344
+For topic 7 word get occurred at probability of 0.01568331965525874
+For topic 7 word life occurred at probability of 0.011641041714100644
+For topic 7 word play occurred at probability of 0.010944036725286387
+For topic 7 word hard occurred at probability of 0.010373329780255678
+For topic 7 word girls occurred at probability of 0.009959056937344604
+For topic 7 word dont occurred at probability of 0.008896903313431431
+For topic 7 word anime occurred at probability of 0.008807851109023806
+For topic 7 word time occurred at probability of 0.008039312837608663
+ 
+ 
+For topic 8 word game occurred at probability of 0.027852886874872106
+For topic 8 word fucking occurred at probability of 0.014839291735644834
+For topic 8 word im occurred at probability of 0.014802197119749012
+For topic 8 word get occurred at probability of 0.012980081522178312
+For topic 8 word hard occurred at probability of 0.012055256640887437
+For topic 8 word fuck occurred at probability of 0.011714344836927133
+For topic 8 word like occurred at probability of 0.01030422322957827
+For topic 8 word play occurred at probability of 0.009133061401753241
+For topic 8 word life occurred at probability of 0.0091173748473649
+For topic 8 word real occurred at probability of 0.009055473377615877
+ 
+ 
+For topic 9 word game occurred at probability of 0.07637512361498909
+For topic 9 word play occurred at probability of 0.019611068702263548
+For topic 9 word get occurred at probability of 0.01371614543378269
+For topic 9 word dont occurred at probability of 0.009860973484220095
+For topic 9 word really occurred at probability of 0.009739671743862519
+For topic 9 word like occurred at probability of 0.009211117236333688
+For topic 9 word crush occurred at probability of 0.008746752637804731
+For topic 9 word hours occurred at probability of 0.008628617827544602
+For topic 9 word puzzles occurred at probability of 0.008520629229449999
+For topic 9 word steam occurred at probability of 0.007408362327902316
+ 
+ 
+For topic 10 word play occurred at probability of 0.016976108614698976
+For topic 10 word fucking occurred at probability of 0.01440093526283854
+For topic 10 word life occurred at probability of 0.014265949279263255
+For topic 10 word im occurred at probability of 0.0136714660299897
+For topic 10 word candy occurred at probability of 0.011182651767299935
+For topic 10 word playing occurred at probability of 0.010771698010608085
+For topic 10 word time occurred at probability of 0.010509691511192486
+For topic 10 word girls occurred at probability of 0.010411484769642298
+For topic 10 word dont occurred at probability of 0.009302955091656854
+For topic 10 word get occurred at probability of 0.008408564353883055
+ 
+ 

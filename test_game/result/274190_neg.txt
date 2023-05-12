@@ -1,0 +1,120 @@
+For topic 1 word fuck occurred at probability of 0.004521387328642379
+For topic 1 word real occurred at probability of 0.0041189335442889
+For topic 1 word man occurred at probability of 0.0034125691051648194
+For topic 1 word bit occurred at probability of 0.003384357883654428
+For topic 1 word price occurred at probability of 0.0033748007672702784
+For topic 1 word liberty occurred at probability of 0.003369125858915028
+For topic 1 word work occurred at probability of 0.0033346102962362296
+For topic 1 word contra occurred at probability of 0.0032364922533337026
+For topic 1 word ddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddd occurred at probability of 0.0031533341270504577
+For topic 1 word arcade occurred at probability of 0.0031055518399089586
+ 
+ 
+For topic 2 word fuck occurred at probability of 0.006668400517610087
+For topic 2 word another occurred at probability of 0.006635628555630445
+For topic 2 word campaign occurred at probability of 0.004209961983778868
+For topic 2 word work occurred at probability of 0.0037600107438036613
+For topic 2 word grave occurred at probability of 0.003363082507485645
+For topic 2 word guns occurred at probability of 0.0032980510084230042
+For topic 2 word things occurred at probability of 0.0032120592472333616
+For topic 2 word bugs occurred at probability of 0.0031438487365588632
+For topic 2 word able occurred at probability of 0.0028823939341438717
+For topic 2 word single occurred at probability of 0.0028823791825401453
+ 
+ 
+For topic 3 word fuck occurred at probability of 0.014292988692743232
+For topic 3 word things occurred at probability of 0.004078961409147324
+For topic 3 word guns occurred at probability of 0.004011020147653012
+For topic 3 word u occurred at probability of 0.0039577321094280875
+For topic 3 word something occurred at probability of 0.003685751109356883
+For topic 3 word next occurred at probability of 0.0035789486562787776
+For topic 3 word work occurred at probability of 0.003467158843511349
+For topic 3 word bugs occurred at probability of 0.003188771520011903
+For topic 3 word liberty occurred at probability of 0.0030801630603025823
+For topic 3 word campaign occurred at probability of 0.003017948452561225
+ 
+ 
+For topic 4 word another occurred at probability of 0.006085797033940911
+For topic 4 word fuck occurred at probability of 0.005442216194448875
+For topic 4 word campaign occurred at probability of 0.004939128873576522
+For topic 4 word real occurred at probability of 0.0040346398029624565
+For topic 4 word easy occurred at probability of 0.0038798290326281524
+For topic 4 word destruction occurred at probability of 0.003847118477020728
+For topic 4 word hit occurred at probability of 0.0034086801413687074
+For topic 4 word bit occurred at probability of 0.002782604312644192
+For topic 4 word enjoyable occurred at probability of 0.002714321973958321
+For topic 4 word destructible occurred at probability of 0.00269658339556829
+ 
+ 
+For topic 5 word destruction occurred at probability of 0.004759769636269789
+For topic 5 word fuck occurred at probability of 0.004477654262608105
+For topic 5 word another occurred at probability of 0.0042594770368979944
+For topic 5 word grave occurred at probability of 0.00373321800781504
+For topic 5 word find occurred at probability of 0.003406615232044448
+For topic 5 word single occurred at probability of 0.003321247895662203
+For topic 5 word bit occurred at probability of 0.003100393565144532
+For topic 5 word contra occurred at probability of 0.0030130987073014428
+For topic 5 word arcade occurred at probability of 0.002870272938697431
+For topic 5 word everyone occurred at probability of 0.0028074475969361327
+ 
+ 
+For topic 6 word fuck occurred at probability of 0.023867923360929216
+For topic 6 word another occurred at probability of 0.008116876855396965
+For topic 6 word price occurred at probability of 0.004426561095582755
+For topic 6 word bit occurred at probability of 0.004238349741114842
+For topic 6 word things occurred at probability of 0.0038404354317150458
+For topic 6 word everyone occurred at probability of 0.0034998926226679173
+For topic 6 word wrong occurred at probability of 0.0032716594918364987
+For topic 6 word guns occurred at probability of 0.0031495141579945076
+For topic 6 word isnt occurred at probability of 0.003025529160788371
+For topic 6 word big occurred at probability of 0.0030153397572882518
+ 
+ 
+For topic 7 word fuck occurred at probability of 0.010675861438775924
+For topic 7 word another occurred at probability of 0.007556620016173674
+For topic 7 word liberty occurred at probability of 0.0036414074041671
+For topic 7 word things occurred at probability of 0.003419483092953434
+For topic 7 word merica occurred at probability of 0.003376653375888086
+For topic 7 word something occurred at probability of 0.003259274982024284
+For topic 7 word campaign occurred at probability of 0.0031567566853805164
+For topic 7 word hilarious occurred at probability of 0.0031405876754177927
+For topic 7 word actually occurred at probability of 0.003035514598903464
+For topic 7 word isnt occurred at probability of 0.0030207613119152925
+ 
+ 
+For topic 8 word fuck occurred at probability of 0.007445889255584214
+For topic 8 word story occurred at probability of 0.004552752787661132
+For topic 8 word bit occurred at probability of 0.004103778352653121
+For topic 8 word something occurred at probability of 0.00408637521092015
+For topic 8 word single occurred at probability of 0.004036266520507885
+For topic 8 word easy occurred at probability of 0.0037303999071105305
+For topic 8 word hit occurred at probability of 0.003593686363110512
+For topic 8 word wrong occurred at probability of 0.0032174992187201414
+For topic 8 word actually occurred at probability of 0.0031668400329187326
+For topic 8 word definitely occurred at probability of 0.0031025533330614028
+ 
+ 
+For topic 9 word things occurred at probability of 0.005453370984541033
+For topic 9 word bit occurred at probability of 0.004045267054816667
+For topic 9 word story occurred at probability of 0.0036070430231696653
+For topic 9 word helicopter occurred at probability of 0.003304501741582018
+For topic 9 word actually occurred at probability of 0.0032955503178277896
+For topic 9 word local occurred at probability of 0.00304677282217104
+For topic 9 word minutes occurred at probability of 0.0029630651931573247
+For topic 9 word real occurred at probability of 0.002903990073009198
+For topic 9 word tons occurred at probability of 0.0028463761898669835
+For topic 9 word merica occurred at probability of 0.0028391769090540388
+ 
+ 
+For topic 10 word fuck occurred at probability of 0.01359213356243426
+For topic 10 word campaign occurred at probability of 0.0054572351001902384
+For topic 10 word actually occurred at probability of 0.0047469430860115625
+For topic 10 word destruction occurred at probability of 0.0041619913029673095
+For topic 10 word guns occurred at probability of 0.0037462258177449613
+For topic 10 word wrong occurred at probability of 0.0036052741909467995
+For topic 10 word liberty occurred at probability of 0.003565014318226261
+For topic 10 word especially occurred at probability of 0.0032780020640146286
+For topic 10 word hilarious occurred at probability of 0.003226045406947536
+For topic 10 word man occurred at probability of 0.0031431763882501817
+ 
+ 

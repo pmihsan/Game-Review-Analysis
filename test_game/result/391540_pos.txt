@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.06862298711070074
+For topic 1 word undertale occurred at probability of 0.01610471074450013
+For topic 1 word story occurred at probability of 0.016042359078466177
+For topic 1 word play occurred at probability of 0.013874247754606547
+For topic 1 word soundtrack occurred at probability of 0.012257633190439418
+For topic 1 word best occurred at probability of 0.010770236235377166
+For topic 1 word played occurred at probability of 0.010299132717751848
+For topic 1 word great occurred at probability of 0.01005792399340864
+For topic 1 word music occurred at probability of 0.009934455355420405
+For topic 1 word love occurred at probability of 0.009612290998959744
+ 
+ 
+For topic 2 word good occurred at probability of 0.02819312277852329
+For topic 2 word play occurred at probability of 0.019109839828950776
+For topic 2 word characters occurred at probability of 0.01792865862225945
+For topic 2 word dont occurred at probability of 0.014063475451566616
+For topic 2 word played occurred at probability of 0.013404904669377002
+For topic 2 word story occurred at probability of 0.013035065530609779
+For topic 2 word time occurred at probability of 0.01036954321958567
+For topic 2 word game occurred at probability of 0.009243669790691307
+For topic 2 word get occurred at probability of 0.008997197668414315
+For topic 2 word really occurred at probability of 0.008889145674459134
+ 
+ 
+For topic 3 word game occurred at probability of 0.03779898524319001
+For topic 3 word like occurred at probability of 0.020161461092080866
+For topic 3 word characters occurred at probability of 0.016543104974069734
+For topic 3 word amazing occurred at probability of 0.015790030483051023
+For topic 3 word play occurred at probability of 0.01570078465431393
+For topic 3 word undertale occurred at probability of 0.014849976289014674
+For topic 3 word really occurred at probability of 0.013575272223730256
+For topic 3 word story occurred at probability of 0.012287137697393697
+For topic 3 word best occurred at probability of 0.012220602184860267
+For topic 3 word good occurred at probability of 0.011028102444930606
+ 
+ 
+For topic 4 word game occurred at probability of 0.06950258228770971
+For topic 4 word characters occurred at probability of 0.018788800749720433
+For topic 4 word great occurred at probability of 0.015336729119986755
+For topic 4 word like occurred at probability of 0.014744786213861258
+For topic 4 word best occurred at probability of 0.014263660041900878
+For topic 4 word undertale occurred at probability of 0.010980140300631701
+For topic 4 word love occurred at probability of 0.008810684256680601
+For topic 4 word time occurred at probability of 0.008750706965464938
+For topic 4 word even occurred at probability of 0.00862005407876828
+For topic 4 word story occurred at probability of 0.008509938149345362
+ 
+ 
+For topic 5 word good occurred at probability of 0.02616796082439972
+For topic 5 word game occurred at probability of 0.01737625319221217
+For topic 5 word undertale occurred at probability of 0.015771968700612655
+For topic 5 word play occurred at probability of 0.014944367713922324
+For topic 5 word love occurred at probability of 0.012726489079375852
+For topic 5 word time occurred at probability of 0.012582434429879857
+For topic 5 word story occurred at probability of 0.012335852638121297
+For topic 5 word great occurred at probability of 0.012235532333210722
+For topic 5 word would occurred at probability of 0.010326638060213032
+For topic 5 word dont occurred at probability of 0.010112705581688353
+ 
+ 
+For topic 6 word game occurred at probability of 0.10965438395435188
+For topic 6 word story occurred at probability of 0.014383849122373487
+For topic 6 word amazing occurred at probability of 0.014296543160510258
+For topic 6 word great occurred at probability of 0.014041095259639837
+For topic 6 word like occurred at probability of 0.011587489121158274
+For topic 6 word play occurred at probability of 0.011307240040705156
+For topic 6 word good occurred at probability of 0.011201340422519253
+For topic 6 word best occurred at probability of 0.009393690977164767
+For topic 6 word fun occurred at probability of 0.00932338655773817
+For topic 6 word love occurred at probability of 0.009225753785654123
+ 
+ 
+For topic 7 word game occurred at probability of 0.06399644486808856
+For topic 7 word played occurred at probability of 0.01338831325901567
+For topic 7 word good occurred at probability of 0.011516116238692553
+For topic 7 word get occurred at probability of 0.01078911311354703
+For topic 7 word best occurred at probability of 0.010185938129694818
+For topic 7 word really occurred at probability of 0.010042704458082629
+For topic 7 word would occurred at probability of 0.007971679113389503
+For topic 7 word make occurred at probability of 0.007804983431282694
+For topic 7 word ive occurred at probability of 0.007164709468096375
+For topic 7 word great occurred at probability of 0.007135158312083818
+ 
+ 
+For topic 8 word game occurred at probability of 0.08030715568178397
+For topic 8 word play occurred at probability of 0.017411643015760012
+For topic 8 word really occurred at probability of 0.013813028901338415
+For topic 8 word characters occurred at probability of 0.01345473688972427
+For topic 8 word best occurred at probability of 0.012203731113130174
+For topic 8 word played occurred at probability of 0.010136601715625687
+For topic 8 word ive occurred at probability of 0.00833648383988699
+For topic 8 word amazing occurred at probability of 0.008155089617537931
+For topic 8 word ever occurred at probability of 0.008130937224398511
+For topic 8 word dont occurred at probability of 0.007876423488522893
+ 
+ 
+For topic 9 word game occurred at probability of 0.08096721725006756
+For topic 9 word good occurred at probability of 0.01938690334236326
+For topic 9 word story occurred at probability of 0.016424040244227937
+For topic 9 word like occurred at probability of 0.014042142661111718
+For topic 9 word best occurred at probability of 0.012220103934527056
+For topic 9 word played occurred at probability of 0.01145692553159867
+For topic 9 word fun occurred at probability of 0.011405464581674796
+For topic 9 word undertale occurred at probability of 0.011345584503675727
+For topic 9 word great occurred at probability of 0.011043132946901792
+For topic 9 word characters occurred at probability of 0.01102086796538342
+ 
+ 
+For topic 10 word game occurred at probability of 0.0479751941313615
+For topic 10 word like occurred at probability of 0.017825001636552616
+For topic 10 word good occurred at probability of 0.015482615563276056
+For topic 10 word characters occurred at probability of 0.015003441117249472
+For topic 10 word dont occurred at probability of 0.013083219887673074
+For topic 10 word story occurred at probability of 0.012527003173425175
+For topic 10 word love occurred at probability of 0.011454216967218331
+For topic 10 word soundtrack occurred at probability of 0.011293839696560939
+For topic 10 word amazing occurred at probability of 0.010175293013109763
+For topic 10 word time occurred at probability of 0.008968046313456546
+ 
+ 

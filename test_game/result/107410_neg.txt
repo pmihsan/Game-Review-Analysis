@@ -1,0 +1,120 @@
+For topic 1 word sick occurred at probability of 0.040372607310224885
+For topic 1 word shit occurred at probability of 0.031778742829175054
+For topic 1 word play occurred at probability of 0.022197846263657225
+For topic 1 word dont occurred at probability of 0.01458047724520898
+For topic 1 word bad occurred at probability of 0.013441233096534508
+For topic 1 word dlc occurred at probability of 0.009990406303905944
+For topic 1 word hours occurred at probability of 0.00890902330379993
+For topic 1 word one occurred at probability of 0.008804133860422465
+For topic 1 word get occurred at probability of 0.00877053911562281
+For topic 1 word like occurred at probability of 0.008587392474058608
+ 
+ 
+For topic 2 word game occurred at probability of 0.012048772359386522
+For topic 2 word like occurred at probability of 0.011574038226230682
+For topic 2 word sick occurred at probability of 0.01026451232318553
+For topic 2 word shit occurred at probability of 0.00770098804399058
+For topic 2 word dlc occurred at probability of 0.007113059678009953
+For topic 2 word many occurred at probability of 0.006875769461507306
+For topic 2 word playing occurred at probability of 0.0064907927549482545
+For topic 2 word military occurred at probability of 0.006325855874316291
+For topic 2 word arma occurred at probability of 0.006086076986352842
+For topic 2 word ai occurred at probability of 0.006043100243197705
+ 
+ 
+For topic 3 word game occurred at probability of 0.07261142750355767
+For topic 3 word get occurred at probability of 0.017975955415839646
+For topic 3 word like occurred at probability of 0.012840637232313643
+For topic 3 word dont occurred at probability of 0.009003933082908047
+For topic 3 word sick occurred at probability of 0.008942446733062864
+For topic 3 word hours occurred at probability of 0.008274949768191259
+For topic 3 word good occurred at probability of 0.007382612813899753
+For topic 3 word even occurred at probability of 0.0070787625324094374
+For topic 3 word fucking occurred at probability of 0.006617388920447465
+For topic 3 word play occurred at probability of 0.006121870621493194
+ 
+ 
+For topic 4 word play occurred at probability of 0.019360272229129803
+For topic 4 word sick occurred at probability of 0.017065285732392493
+For topic 4 word get occurred at probability of 0.012214954148292444
+For topic 4 word would occurred at probability of 0.009720545913145445
+For topic 4 word shit occurred at probability of 0.009666531642982316
+For topic 4 word bad occurred at probability of 0.008381766484870242
+For topic 4 word war occurred at probability of 0.008332645719259237
+For topic 4 word good occurred at probability of 0.00803523369910894
+For topic 4 word want occurred at probability of 0.007453265325662254
+For topic 4 word buy occurred at probability of 0.0070480337981164995
+ 
+ 
+For topic 5 word game occurred at probability of 0.05302474807837371
+For topic 5 word arma occurred at probability of 0.018884175830231827
+For topic 5 word get occurred at probability of 0.014548523694526812
+For topic 5 word even occurred at probability of 0.0093208709431053
+For topic 5 word shit occurred at probability of 0.00879453145862608
+For topic 5 word one occurred at probability of 0.008269910162119852
+For topic 5 word fun occurred at probability of 0.007013073828370313
+For topic 5 word good occurred at probability of 0.0068913090943809535
+For topic 5 word war occurred at probability of 0.006843211424921831
+For topic 5 word dont occurred at probability of 0.006351225065129421
+ 
+ 
+For topic 6 word game occurred at probability of 0.06366388727328538
+For topic 6 word shit occurred at probability of 0.016759889971555128
+For topic 6 word arma occurred at probability of 0.01362460776558625
+For topic 6 word get occurred at probability of 0.011730425032205415
+For topic 6 word dont occurred at probability of 0.011297230169270653
+For topic 6 word would occurred at probability of 0.010899555833895238
+For topic 6 word buy occurred at probability of 0.00747541907837587
+For topic 6 word much occurred at probability of 0.007118701959880116
+For topic 6 word life occurred at probability of 0.006915965747173243
+For topic 6 word ever occurred at probability of 0.006723641729375259
+ 
+ 
+For topic 7 word game occurred at probability of 0.06277175127148343
+For topic 7 word get occurred at probability of 0.018019930861036346
+For topic 7 word arma occurred at probability of 0.015605812905912782
+For topic 7 word bad occurred at probability of 0.011219750225879397
+For topic 7 word one occurred at probability of 0.009955607702890808
+For topic 7 word sick occurred at probability of 0.00834050775597856
+For topic 7 word mods occurred at probability of 0.006824133253168244
+For topic 7 word time occurred at probability of 0.006326872095056399
+For topic 7 word played occurred at probability of 0.006295211494847208
+For topic 7 word enemy occurred at probability of 0.006230512034455494
+ 
+ 
+For topic 8 word game occurred at probability of 0.04418067257932271
+For topic 8 word play occurred at probability of 0.01498064056552219
+For topic 8 word shit occurred at probability of 0.012466363456780944
+For topic 8 word arma occurred at probability of 0.011177008663828241
+For topic 8 word would occurred at probability of 0.009732793511392949
+For topic 8 word good occurred at probability of 0.00947205379043163
+For topic 8 word hours occurred at probability of 0.009004366313231506
+For topic 8 word ever occurred at probability of 0.0073309302936372025
+For topic 8 word dlc occurred at probability of 0.007219516470959938
+For topic 8 word ai occurred at probability of 0.006604399994672853
+ 
+ 
+For topic 9 word game occurred at probability of 0.034229308068899275
+For topic 9 word play occurred at probability of 0.016914120153217138
+For topic 9 word arma occurred at probability of 0.014042054953661294
+For topic 9 word like occurred at probability of 0.013903495202515196
+For topic 9 word shit occurred at probability of 0.01227433219117644
+For topic 9 word even occurred at probability of 0.010069334857257953
+For topic 9 word mods occurred at probability of 0.009058073739618085
+For topic 9 word one occurred at probability of 0.007841917262269694
+For topic 9 word fps occurred at probability of 0.007429123083290761
+For topic 9 word would occurred at probability of 0.007272508745218949
+ 
+ 
+For topic 10 word game occurred at probability of 0.05427644374889153
+For topic 10 word get occurred at probability of 0.014152065297800595
+For topic 10 word even occurred at probability of 0.012374003931623093
+For topic 10 word would occurred at probability of 0.01046564192297846
+For topic 10 word good occurred at probability of 0.0078722501535044
+For topic 10 word arma occurred at probability of 0.007161763501531929
+For topic 10 word dlc occurred at probability of 0.006853819125815506
+For topic 10 word play occurred at probability of 0.006842980763154228
+For topic 10 word one occurred at probability of 0.006607756560146842
+For topic 10 word shit occurred at probability of 0.0061823946434101315
+ 
+ 

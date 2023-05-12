@@ -1,0 +1,120 @@
+For topic 1 word story occurred at probability of 0.01966868208857411
+For topic 1 word game occurred at probability of 0.01954941613214407
+For topic 1 word great occurred at probability of 0.01610794517049186
+For topic 1 word like occurred at probability of 0.015510430995906193
+For topic 1 word visual occurred at probability of 0.014756835675822021
+For topic 1 word well occurred at probability of 0.011975391715787423
+For topic 1 word characters occurred at probability of 0.010514489161697815
+For topic 1 word yuzusoft occurred at probability of 0.01029677681779252
+For topic 1 word really occurred at probability of 0.009652129562638825
+For topic 1 word best occurred at probability of 0.009451751847119983
+ 
+ 
+For topic 2 word story occurred at probability of 0.02839803059681491
+For topic 2 word good occurred at probability of 0.02271020631432079
+For topic 2 word route occurred at probability of 0.020393411036519375
+For topic 2 word really occurred at probability of 0.01688724009995573
+For topic 2 word characters occurred at probability of 0.01534672549582097
+For topic 2 word routes occurred at probability of 0.013786620615697678
+For topic 2 word game occurred at probability of 0.012963982832566438
+For topic 2 word one occurred at probability of 0.010813909858181096
+For topic 2 word great occurred at probability of 0.010468408766474348
+For topic 2 word visual occurred at probability of 0.010118045395362853
+ 
+ 
+For topic 3 word story occurred at probability of 0.01779268202931755
+For topic 3 word game occurred at probability of 0.01737948132614442
+For topic 3 word route occurred at probability of 0.016316570067668706
+For topic 3 word vn occurred at probability of 0.01371525668750207
+For topic 3 word best occurred at probability of 0.011358207321062146
+For topic 3 word also occurred at probability of 0.01126965813530055
+For topic 3 word like occurred at probability of 0.009387432917321126
+For topic 3 word really occurred at probability of 0.009318408037028587
+For topic 3 word one occurred at probability of 0.009295057320808445
+For topic 3 word first occurred at probability of 0.008995978463755343
+ 
+ 
+For topic 4 word story occurred at probability of 0.029053247489104296
+For topic 4 word routes occurred at probability of 0.028508905827932602
+For topic 4 word good occurred at probability of 0.02551087731355428
+For topic 4 word vn occurred at probability of 0.019130213548592078
+For topic 4 word route occurred at probability of 0.015114878836588507
+For topic 4 word characters occurred at probability of 0.013743235515168978
+For topic 4 word best occurred at probability of 0.013534639446153839
+For topic 4 word game occurred at probability of 0.012381126055678019
+For topic 4 word really occurred at probability of 0.011815777337177504
+For topic 4 word get occurred at probability of 0.011420625673564506
+ 
+ 
+For topic 5 word story occurred at probability of 0.025609477435270388
+For topic 5 word characters occurred at probability of 0.01848082772466298
+For topic 5 word yuzusoft occurred at probability of 0.017351137421355217
+For topic 5 word good occurred at probability of 0.01413175116007117
+For topic 5 word vn occurred at probability of 0.013647390764889352
+For topic 5 word routes occurred at probability of 0.0111784406419979
+For topic 5 word like occurred at probability of 0.010775025998434147
+For topic 5 word art occurred at probability of 0.01004270835970537
+For topic 5 word best occurred at probability of 0.009352345618718677
+For topic 5 word game occurred at probability of 0.009244705925394883
+ 
+ 
+For topic 6 word routes occurred at probability of 0.03403618867298957
+For topic 6 word like occurred at probability of 0.015314141342395417
+For topic 6 word good occurred at probability of 0.014036245529504898
+For topic 6 word route occurred at probability of 0.013520937286285893
+For topic 6 word great occurred at probability of 0.013285784879765112
+For topic 6 word main occurred at probability of 0.011552421614738694
+For topic 6 word well occurred at probability of 0.008999060222078404
+For topic 6 word also occurred at probability of 0.00873239799304938
+For topic 6 word characters occurred at probability of 0.008319108879353445
+For topic 6 word art occurred at probability of 0.008014386032774897
+ 
+ 
+For topic 7 word story occurred at probability of 0.02176679468138929
+For topic 7 word vn occurred at probability of 0.020423745833178075
+For topic 7 word also occurred at probability of 0.012357511863518371
+For topic 7 word route occurred at probability of 0.012245099149696728
+For topic 7 word best occurred at probability of 0.011960686917217198
+For topic 7 word really occurred at probability of 0.011299949934068815
+For topic 7 word main occurred at probability of 0.010423546752856875
+For topic 7 word visual occurred at probability of 0.009876983561572853
+For topic 7 word good occurred at probability of 0.009298889213199518
+For topic 7 word get occurred at probability of 0.00928804117072565
+ 
+ 
+For topic 8 word yuzusoft occurred at probability of 0.015862025976474625
+For topic 8 word characters occurred at probability of 0.01477552953903612
+For topic 8 word well occurred at probability of 0.012534202836421022
+For topic 8 word lot occurred at probability of 0.012485901620781288
+For topic 8 word also occurred at probability of 0.012460413465668623
+For topic 8 word really occurred at probability of 0.011925294453474525
+For topic 8 word game occurred at probability of 0.01071954337378097
+For topic 8 word even occurred at probability of 0.01061492900459102
+For topic 8 word great occurred at probability of 0.009672172515937641
+For topic 8 word vn occurred at probability of 0.009034915919626192
+ 
+ 
+For topic 9 word game occurred at probability of 0.028559446046732568
+For topic 9 word route occurred at probability of 0.019355582469555054
+For topic 9 word like occurred at probability of 0.019218518883461298
+For topic 9 word one occurred at probability of 0.01638475562995095
+For topic 9 word characters occurred at probability of 0.014763125898323999
+For topic 9 word yuzusoft occurred at probability of 0.014246774729744099
+For topic 9 word character occurred at probability of 0.012539222504508627
+For topic 9 word vn occurred at probability of 0.012320913879160277
+For topic 9 word well occurred at probability of 0.012276138206653051
+For topic 9 word visual occurred at probability of 0.011867444520724864
+ 
+ 
+For topic 10 word game occurred at probability of 0.023775037089292277
+For topic 10 word story occurred at probability of 0.020672110963400835
+For topic 10 word routes occurred at probability of 0.017459887212866426
+For topic 10 word vn occurred at probability of 0.014460517678731978
+For topic 10 word route occurred at probability of 0.01423767249663666
+For topic 10 word great occurred at probability of 0.01264786182675658
+For topic 10 word really occurred at probability of 0.012585321986323327
+For topic 10 word yuzusoft occurred at probability of 0.012317345533280255
+For topic 10 word well occurred at probability of 0.011436806040339675
+For topic 10 word one occurred at probability of 0.01115957132743342
+ 
+ 

@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.020356650799106923
+For topic 1 word one occurred at probability of 0.016494078395297516
+For topic 1 word ending occurred at probability of 0.01553573332228573
+For topic 1 word fuck occurred at probability of 0.011231916805720577
+For topic 1 word games occurred at probability of 0.010088791688399506
+For topic 1 word years occurred at probability of 0.009928761134854221
+For topic 1 word end occurred at probability of 0.00974285983414069
+For topic 1 word good occurred at probability of 0.009359615838536535
+For topic 1 word fucking occurred at probability of 0.009177974720936517
+For topic 1 word dont occurred at probability of 0.008816868534001336
+ 
+ 
+For topic 2 word game occurred at probability of 0.04014647412493368
+For topic 2 word episode occurred at probability of 0.02337724639252074
+For topic 2 word one occurred at probability of 0.01856457584853245
+For topic 2 word make occurred at probability of 0.013893923960978105
+For topic 2 word dont occurred at probability of 0.011826326987642148
+For topic 2 word ending occurred at probability of 0.010919938575638766
+For topic 2 word great occurred at probability of 0.010202012145700613
+For topic 2 word years occurred at probability of 0.009490021505613223
+For topic 2 word fucking occurred at probability of 0.008546358864502284
+For topic 2 word im occurred at probability of 0.008158766235937155
+ 
+ 
+For topic 3 word game occurred at probability of 0.02924500285702248
+For topic 3 word episode occurred at probability of 0.02715097576045148
+For topic 3 word ending occurred at probability of 0.01611031418275908
+For topic 3 word play occurred at probability of 0.01197990971168171
+For topic 3 word fuck occurred at probability of 0.011696801242292599
+For topic 3 word halflife occurred at probability of 0.009470485640541544
+For topic 3 word bad occurred at probability of 0.00941735454878567
+For topic 3 word cliffhanger occurred at probability of 0.009028104740754606
+For topic 3 word dont occurred at probability of 0.008079888738619891
+For topic 3 word story occurred at probability of 0.008054214726560293
+ 
+ 
+For topic 4 word halflife occurred at probability of 0.04191777891807197
+For topic 4 word game occurred at probability of 0.017685017576212266
+For topic 4 word episode occurred at probability of 0.013055506469596514
+For topic 4 word story occurred at probability of 0.010388852160751577
+For topic 4 word ending occurred at probability of 0.009989806044421512
+For topic 4 word end occurred at probability of 0.009950053902746446
+For topic 4 word play occurred at probability of 0.008813014350445425
+For topic 4 word im occurred at probability of 0.007564273697610075
+For topic 4 word gnome occurred at probability of 0.007442358182968196
+For topic 4 word still occurred at probability of 0.007398828466740935
+ 
+ 
+For topic 5 word game occurred at probability of 0.037278109843911264
+For topic 5 word halflife occurred at probability of 0.01719396152092414
+For topic 5 word episode occurred at probability of 0.01698763378656242
+For topic 5 word get occurred at probability of 0.014979691475765384
+For topic 5 word one occurred at probability of 0.01373425215933041
+For topic 5 word dont occurred at probability of 0.01102367669104536
+For topic 5 word story occurred at probability of 0.00966245019790791
+For topic 5 word great occurred at probability of 0.009412498938370414
+For topic 5 word still occurred at probability of 0.00904611275637489
+For topic 5 word games occurred at probability of 0.00873342448067853
+ 
+ 
+For topic 6 word game occurred at probability of 0.02735100592727913
+For topic 6 word episode occurred at probability of 0.019153167832625974
+For topic 6 word one occurred at probability of 0.018934420359396808
+For topic 6 word play occurred at probability of 0.012368473202756523
+For topic 6 word games occurred at probability of 0.010342113159792027
+For topic 6 word still occurred at probability of 0.010035501847449753
+For topic 6 word time occurred at probability of 0.009841403651893016
+For topic 6 word fucking occurred at probability of 0.009751093824660481
+For topic 6 word shit occurred at probability of 0.008218606138807687
+For topic 6 word gnome occurred at probability of 0.007461791081483368
+ 
+ 
+For topic 7 word halflife occurred at probability of 0.05836436489767507
+For topic 7 word game occurred at probability of 0.04041542476730001
+For topic 7 word episode occurred at probability of 0.015475201536081616
+For topic 7 word get occurred at probability of 0.012005407975212715
+For topic 7 word bad occurred at probability of 0.011576497515524994
+For topic 7 word one occurred at probability of 0.01008972248572858
+For topic 7 word im occurred at probability of 0.009232148212328232
+For topic 7 word cliffhanger occurred at probability of 0.008797879783329814
+For topic 7 word series occurred at probability of 0.008728048294228507
+For topic 7 word time occurred at probability of 0.008611248625102704
+ 
+ 
+For topic 8 word game occurred at probability of 0.04850774130476493
+For topic 8 word one occurred at probability of 0.025465545546683697
+For topic 8 word ending occurred at probability of 0.016115902837793208
+For topic 8 word episode occurred at probability of 0.015251095048473419
+For topic 8 word dont occurred at probability of 0.014345296144003978
+For topic 8 word really occurred at probability of 0.012115152470621511
+For topic 8 word still occurred at probability of 0.010658386206120524
+For topic 8 word series occurred at probability of 0.009372807400734682
+For topic 8 word good occurred at probability of 0.009034951462166875
+For topic 8 word end occurred at probability of 0.008541390448850465
+ 
+ 
+For topic 9 word halflife occurred at probability of 0.04290159610895798
+For topic 9 word episode occurred at probability of 0.025867774938553408
+For topic 9 word ending occurred at probability of 0.01290460600416642
+For topic 9 word made occurred at probability of 0.011720590469415884
+For topic 9 word fuck occurred at probability of 0.011700022433116918
+For topic 9 word make occurred at probability of 0.011354607532142768
+For topic 9 word really occurred at probability of 0.01105871659169647
+For topic 9 word fucking occurred at probability of 0.010235720357052483
+For topic 9 word get occurred at probability of 0.007871456694045428
+For topic 9 word part occurred at probability of 0.007575021442586054
+ 
+ 
+For topic 10 word game occurred at probability of 0.055632973036593106
+For topic 10 word halflife occurred at probability of 0.054981592030356324
+For topic 10 word episode occurred at probability of 0.021763313786440697
+For topic 10 word story occurred at probability of 0.010696223190904068
+For topic 10 word still occurred at probability of 0.010538178278133237
+For topic 10 word end occurred at probability of 0.008554927899553486
+For topic 10 word years occurred at probability of 0.007615268193210072
+For topic 10 word new occurred at probability of 0.007406251387392511
+For topic 10 word alyx occurred at probability of 0.007377982905355795
+For topic 10 word really occurred at probability of 0.007253024172321947
+ 
+ 

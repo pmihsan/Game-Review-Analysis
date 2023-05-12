@@ -1,0 +1,120 @@
+For topic 1 word game occurred at probability of 0.03989873851467788
+For topic 1 word play occurred at probability of 0.014649490713701684
+For topic 1 word story occurred at probability of 0.01301316761980755
+For topic 1 word good occurred at probability of 0.011275715974265375
+For topic 1 word vita occurred at probability of 0.00825716623983304
+For topic 1 word atlus occurred at probability of 0.008032723136896952
+For topic 1 word golden occurred at probability of 0.007585209445277713
+For topic 1 word cant occurred at probability of 0.006862671608745171
+For topic 1 word buy occurred at probability of 0.006816242241976023
+For topic 1 word first occurred at probability of 0.00662620455385735
+ 
+ 
+For topic 2 word game occurred at probability of 0.06309767429926538
+For topic 2 word persona occurred at probability of 0.035961599107604623
+For topic 2 word get occurred at probability of 0.017880930402368336
+For topic 2 word story occurred at probability of 0.013241725674644702
+For topic 2 word pc occurred at probability of 0.011047378375299087
+For topic 2 word played occurred at probability of 0.009110876629424862
+For topic 2 word even occurred at probability of 0.008878747100362053
+For topic 2 word one occurred at probability of 0.008293344044769951
+For topic 2 word play occurred at probability of 0.006557481360455315
+For topic 2 word port occurred at probability of 0.006361775608418833
+ 
+ 
+For topic 3 word game occurred at probability of 0.07424703641880273
+For topic 3 word im occurred at probability of 0.0114106547484856
+For topic 3 word play occurred at probability of 0.01006506670955762
+For topic 3 word bad occurred at probability of 0.01001006802909369
+For topic 3 word fucking occurred at probability of 0.009255032110609308
+For topic 3 word atlus occurred at probability of 0.009101839463638744
+For topic 3 word dont occurred at probability of 0.008962613661043992
+For topic 3 word good occurred at probability of 0.008439344688994444
+For topic 3 word great occurred at probability of 0.0074393628192743625
+For topic 3 word like occurred at probability of 0.00689366842934137
+ 
+ 
+For topic 4 word game occurred at probability of 0.025144871556682147
+For topic 4 word persona occurred at probability of 0.02041941346768582
+For topic 4 word good occurred at probability of 0.010997534735179549
+For topic 4 word vita occurred at probability of 0.009739270890958534
+For topic 4 word like occurred at probability of 0.008831903410315051
+For topic 4 word great occurred at probability of 0.00852621822600497
+For topic 4 word even occurred at probability of 0.007355232971155483
+For topic 4 word still occurred at probability of 0.006544371659447265
+For topic 4 word cant occurred at probability of 0.006522681421191113
+For topic 4 word ive occurred at probability of 0.006446426190679352
+ 
+ 
+For topic 5 word persona occurred at probability of 0.03926987648135021
+For topic 5 word game occurred at probability of 0.021626245628905146
+For topic 5 word good occurred at probability of 0.010297235850859168
+For topic 5 word story occurred at probability of 0.009721803462650506
+For topic 5 word pc occurred at probability of 0.008918039216143541
+For topic 5 word port occurred at probability of 0.008844450441520409
+For topic 5 word bad occurred at probability of 0.008685037923893904
+For topic 5 word play occurred at probability of 0.008233694264834635
+For topic 5 word really occurred at probability of 0.008164994965677174
+For topic 5 word one occurred at probability of 0.007563149350423255
+ 
+ 
+For topic 6 word game occurred at probability of 0.06229712921150076
+For topic 6 word persona occurred at probability of 0.02253335029461946
+For topic 6 word play occurred at probability of 0.012520935524388844
+For topic 6 word would occurred at probability of 0.011610457997110725
+For topic 6 word still occurred at probability of 0.00972263387176187
+For topic 6 word like occurred at probability of 0.007974910441368875
+For topic 6 word im occurred at probability of 0.007787473040535864
+For topic 6 word games occurred at probability of 0.007743918409856172
+For topic 6 word even occurred at probability of 0.007325564087730741
+For topic 6 word also occurred at probability of 0.006815708053859659
+ 
+ 
+For topic 7 word game occurred at probability of 0.04166917109431674
+For topic 7 word play occurred at probability of 0.013917392866940758
+For topic 7 word good occurred at probability of 0.01170151165306069
+For topic 7 word would occurred at probability of 0.010721071121019894
+For topic 7 word fucking occurred at probability of 0.009503624914954049
+For topic 7 word dont occurred at probability of 0.009403170506926108
+For topic 7 word pc occurred at probability of 0.009353901987573347
+For topic 7 word one occurred at probability of 0.009297572610059519
+For topic 7 word every occurred at probability of 0.00756529398676004
+For topic 7 word buy occurred at probability of 0.007538663526764834
+ 
+ 
+For topic 8 word game occurred at probability of 0.041052783946430166
+For topic 8 word played occurred at probability of 0.014293377052299256
+For topic 8 word play occurred at probability of 0.01404384649502925
+For topic 8 word hours occurred at probability of 0.012514405372905378
+For topic 8 word pc occurred at probability of 0.01182808430192666
+For topic 8 word even occurred at probability of 0.010358831226495658
+For topic 8 word story occurred at probability of 0.009941493149809497
+For topic 8 word still occurred at probability of 0.009756033183690662
+For topic 8 word like occurred at probability of 0.009428976009208705
+For topic 8 word playing occurred at probability of 0.009048849662340694
+ 
+ 
+For topic 9 word game occurred at probability of 0.05328675428250455
+For topic 9 word persona occurred at probability of 0.02550175462202588
+For topic 9 word port occurred at probability of 0.009642662762746055
+For topic 9 word pc occurred at probability of 0.009475874665478709
+For topic 9 word dont occurred at probability of 0.00847876206161264
+For topic 9 word really occurred at probability of 0.00831221479028185
+For topic 9 word vita occurred at probability of 0.008163091076534906
+For topic 9 word games occurred at probability of 0.0075238618039433465
+For topic 9 word play occurred at probability of 0.0074082550931715094
+For topic 9 word bad occurred at probability of 0.007292085394443063
+ 
+ 
+For topic 10 word persona occurred at probability of 0.029058216541578245
+For topic 10 word game occurred at probability of 0.027918783627065718
+For topic 10 word get occurred at probability of 0.01405174738937198
+For topic 10 word played occurred at probability of 0.012865802625804806
+For topic 10 word games occurred at probability of 0.009478973901173391
+For topic 10 word port occurred at probability of 0.009172756384273093
+For topic 10 word play occurred at probability of 0.008783338012773749
+For topic 10 word fucking occurred at probability of 0.008092553234107387
+For topic 10 word dont occurred at probability of 0.008030229537249354
+For topic 10 word playing occurred at probability of 0.0076390019671891685
+ 
+ 

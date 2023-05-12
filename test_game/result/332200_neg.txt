@@ -1,0 +1,120 @@
+For topic 1 word metroid occurred at probability of 0.020866203156490813
+For topic 1 word like occurred at probability of 0.017626814635247796
+For topic 1 word one occurred at probability of 0.015369361064644609
+For topic 1 word boss occurred at probability of 0.015146921441614648
+For topic 1 word really occurred at probability of 0.014620433534449017
+For topic 1 word good occurred at probability of 0.011410243569027962
+For topic 1 word get occurred at probability of 0.011176673444920267
+For topic 1 word bosses occurred at probability of 0.010135786173430477
+For topic 1 word bad occurred at probability of 0.009484940352924675
+For topic 1 word design occurred at probability of 0.008162617844912583
+ 
+ 
+For topic 2 word metroid occurred at probability of 0.027270650014167168
+For topic 2 word really occurred at probability of 0.01908912342914951
+For topic 2 word game occurred at probability of 0.014121833467715415
+For topic 2 word enemies occurred at probability of 0.013344866369976281
+For topic 2 word get occurred at probability of 0.012464729362543015
+For topic 2 word axiom occurred at probability of 0.0107952681668523
+For topic 2 word way occurred at probability of 0.010019934534021465
+For topic 2 word weapons occurred at probability of 0.009273463343680259
+For topic 2 word design occurred at probability of 0.009207138334833925
+For topic 2 word story occurred at probability of 0.008748478987854044
+ 
+ 
+For topic 3 word game occurred at probability of 0.023012636548334863
+For topic 3 word one occurred at probability of 0.015435752758663381
+For topic 3 word axiom occurred at probability of 0.013515380459449378
+For topic 3 word metroid occurred at probability of 0.013359463626375552
+For topic 3 word enemies occurred at probability of 0.013254144146957835
+For topic 3 word metroidvania occurred at probability of 0.011855538726726761
+For topic 3 word bad occurred at probability of 0.0113328471974593
+For topic 3 word verge occurred at probability of 0.01093594324957013
+For topic 3 word story occurred at probability of 0.009726182317782573
+For topic 3 word cant occurred at probability of 0.009036738598259682
+ 
+ 
+For topic 4 word game occurred at probability of 0.09204006061732099
+For topic 4 word metroid occurred at probability of 0.020808259890503188
+For topic 4 word bad occurred at probability of 0.013494007925773547
+For topic 4 word metroidvania occurred at probability of 0.012658563179752136
+For topic 4 word get occurred at probability of 0.011998892421091506
+For topic 4 word enemies occurred at probability of 0.011270870850030302
+For topic 4 word good occurred at probability of 0.010056796836782463
+For topic 4 word hard occurred at probability of 0.00938473735013084
+For topic 4 word much occurred at probability of 0.009360977751513736
+For topic 4 word verge occurred at probability of 0.008762161966446197
+ 
+ 
+For topic 5 word game occurred at probability of 0.058427287754750055
+For topic 5 word really occurred at probability of 0.01821225830433475
+For topic 5 word weapons occurred at probability of 0.015528748711664236
+For topic 5 word metroidvania occurred at probability of 0.014774288788242195
+For topic 5 word music occurred at probability of 0.011782795907551123
+For topic 5 word games occurred at probability of 0.009720839279431352
+For topic 5 word metroid occurred at probability of 0.00938829245920311
+For topic 5 word good occurred at probability of 0.008551102146161576
+For topic 5 word way occurred at probability of 0.00833156189034881
+For topic 5 word story occurred at probability of 0.008290709495678679
+ 
+ 
+For topic 6 word metroid occurred at probability of 0.020258837572792093
+For topic 6 word game occurred at probability of 0.01896458221904596
+For topic 6 word one occurred at probability of 0.01562206265679251
+For topic 6 word verge occurred at probability of 0.013771746768563527
+For topic 6 word axiom occurred at probability of 0.010360124059534502
+For topic 6 word get occurred at probability of 0.010254239609347912
+For topic 6 word enemies occurred at probability of 0.0098060147926449
+For topic 6 word bosses occurred at probability of 0.009690266208124954
+For topic 6 word like occurred at probability of 0.009457102504266244
+For topic 6 word time occurred at probability of 0.00817645179355008
+ 
+ 
+For topic 7 word weapons occurred at probability of 0.016847856292224794
+For topic 7 word metroid occurred at probability of 0.014837005222898424
+For topic 7 word metroidvania occurred at probability of 0.01417198117627731
+For topic 7 word like occurred at probability of 0.013844039227436069
+For topic 7 word story occurred at probability of 0.012188372655045087
+For topic 7 word much occurred at probability of 0.010499812627020402
+For topic 7 word go occurred at probability of 0.009544625400940148
+For topic 7 word good occurred at probability of 0.00950094878511274
+For topic 7 word great occurred at probability of 0.008741417111519585
+For topic 7 word new occurred at probability of 0.007954695279730752
+ 
+ 
+For topic 8 word design occurred at probability of 0.015592141259752744
+For topic 8 word game occurred at probability of 0.01529263585997095
+For topic 8 word axiom occurred at probability of 0.015209677258057655
+For topic 8 word metroid occurred at probability of 0.011422915241809821
+For topic 8 word music occurred at probability of 0.010072761397655786
+For topic 8 word way occurred at probability of 0.00976117199597891
+For topic 8 word boss occurred at probability of 0.009666928042441094
+For topic 8 word even occurred at probability of 0.009410851813899734
+For topic 8 word much occurred at probability of 0.008303470249861682
+For topic 8 word one occurred at probability of 0.007644343330122492
+ 
+ 
+For topic 9 word get occurred at probability of 0.01700160053578738
+For topic 9 word really occurred at probability of 0.016862089127527874
+For topic 9 word metroid occurred at probability of 0.014128065366490755
+For topic 9 word game occurred at probability of 0.01403002006636008
+For topic 9 word weapons occurred at probability of 0.011384374496823944
+For topic 9 word story occurred at probability of 0.011341535884293041
+For topic 9 word much occurred at probability of 0.0087349348145914
+For topic 9 word gameplay occurred at probability of 0.008679785294568159
+For topic 9 word bad occurred at probability of 0.008457583334024472
+For topic 9 word one occurred at probability of 0.008452943855541767
+ 
+ 
+For topic 10 word game occurred at probability of 0.0780822466231869
+For topic 10 word like occurred at probability of 0.019502220416946006
+For topic 10 word boss occurred at probability of 0.0147658809686273
+For topic 10 word design occurred at probability of 0.012273846141248436
+For topic 10 word enemies occurred at probability of 0.012148211786933528
+For topic 10 word music occurred at probability of 0.011400732840619163
+For topic 10 word really occurred at probability of 0.00982219948478849
+For topic 10 word bosses occurred at probability of 0.009718360922345924
+For topic 10 word great occurred at probability of 0.00943903585125417
+For topic 10 word gameplay occurred at probability of 0.008167969483145921
+ 
+ 
